@@ -25,8 +25,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 8/25(土) 23:00-
-- [rbtnn](https://github.com/rbtnn) さん
+- 日時: 09/01(土) 23:00-
+- [ujihisa](https://github.com/ujihisa) さん
 
 ### 過去の開催
 | ナンバー                  | 日時           | vimrc | ログ
@@ -38,6 +38,7 @@ title: vimrc読書会
 | [第5回](archive/005.html) | 2012/08/04(土) 23:00- | [osyo-manga](https://github.com/osyo-manga/vimrc/blob/9ef0ca9757abcdaa11c76024aa551f0b473624bf/vimrcs/default/vimrc) さん | [リンク](http://lingr.com/room/vim/archives/2012/08/04#message-11191304)
 | [第6回](archive/006.html) | 2012/08/11(土) 23:00- | [rhysd](https://github.com/rhysd/dotfiles/blob/8228ebaeab0e022ee7161d0eb9fc633876b0be41/vimrc) さん | [リンク](http://lingr.com/room/vim/archives/2012/08/11#message-11349514)
 | [第7回](archive/007.html) | 2012/08/18(土) 23:00- | [ebc-2in2crc](https://github.com/ebc-2in2crc/vimrc/blob/f1ed88bf0d3668ebf8d702def40625d435f545cd/_vimrc) さん | [リンク](http://lingr.com/room/vim/archives/2012/08/18#message-11492279)
+| [第8回](archive/008.html) | 2012/08/25(土) 23:00- | [rbtnn](https://github.com/rbtnn/reading-vimrc/blob/a92dae61200f50bd771f3a30c4f5fa06738c9aac/.vimrc) さん | [リンク](http://lingr.com/room/vim/archives/2012/08/25#message-11620456)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
