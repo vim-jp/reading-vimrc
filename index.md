@@ -31,10 +31,11 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 09/09(日) 00:00-
+- 日時: 09/15(土) 23:00-
 - [thinca](https://github.com/thinca) さん
-  - いつもと開始時間が違うので注意してください。
-  - vimrc が長いため、次回は前後編に分けて行う予定です。今回1時間、その次2時間で分けて行います。
+  - 次回は thinca さんの vimrc の後半戦になります。
+  - 前回と違い、時間は2時間ほどを予定しています。
+  - 読む vimrc は前半戦と同じなので前半戦に参加されてない方は予め読んでおくといいかも知れません。
 
 ### 過去の開催
 | ナンバー                  | 日時                  | vimrc                                                                                                                     | ログ
@@ -48,6 +49,7 @@ title: vimrc読書会
 | [第7回](archive/007.html) | 2012/08/18(土) 23:00- | [ebc-2in2crc](https://github.com/ebc-2in2crc/vimrc/blob/f1ed88bf0d3668ebf8d702def40625d435f545cd/_vimrc) さん             | [リンク](http://lingr.com/room/vim/archives/2012/08/18#message-11492279)
 | [第8回](archive/008.html) | 2012/08/25(土) 23:00- | [rbtnn](https://github.com/rbtnn/reading-vimrc/blob/a92dae61200f50bd771f3a30c4f5fa06738c9aac/.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/08/25#message-11620456)
 | [第9回](archive/009.html) | 2012/09/01(土) 23:00- | [ujihisa](https://github.com/ujihisa/config/blob/8c513ac93429e27ce27e6020a7d48e728b809169/_vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/09/01#message-11718033)
+| [第10回](archive/009.html) | 2012/09/09(日) 00:00- | [thinca](https://gist.github.com/3666285) さん（前半戦）                    | [リンク](http://lingr.com/room/vim/archives/2012/09/08#message-11827882)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
