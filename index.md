@@ -35,19 +35,19 @@ title: vimrc読書会
 - [LeafCage](https://github.com/LeafCage) さん
 
 ### 過去の開催
-| ナンバー                  | 日時                  | vimrc                                                                                                                     | ログ
-| ------------------------- | --------------        | -----                                                                                                                     | ----
-| [第1回](archive/001.html) | 2012/07/10(火) 23:00- | [alwei](https://github.com/alwei/dotfiles/blob/3760650625663f3b08f24bc75762ec843ca7e112/.vimrc) さん                      | [リンク](http://lingr.com/room/vim/archives/2012/07/10#message-10607857)
-| [第2回](archive/002.html) | 2012/07/14(土) 23:00- | [anekos](https://github.com/anekos/my-config/blob/0afcd78455743a4d3fad31674136428052dc6ebe/.vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2012/07/14#message-10685723)
-| [第3回](archive/003.html) | 2012/07/21(土) 24:00- | [sigwyg](https://github.com/sigwyg/dotfiles/blob/8c70c4032ebad90a8d92b76b1c5d732f28559e40/.vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/07/21#message-10858279)
-| [第4回](archive/004.html) | 2012/07/28(土) 23:00- | [basyura](https://github.com/basyura/vimfiles/blob/ee086f25b8c58b8ea6bf025d26ebc11ae50e6ca1/rc/vimrc) さん                | [リンク](http://lingr.com/room/vim/archives/2012/07/28#message-11029511)
-| [第5回](archive/005.html) | 2012/08/04(土) 23:00- | [osyo-manga](https://github.com/osyo-manga/vimrc/blob/9ef0ca9757abcdaa11c76024aa551f0b473624bf/vimrcs/default/vimrc) さん | [リンク](http://lingr.com/room/vim/archives/2012/08/04#message-11191304)
-| [第6回](archive/006.html) | 2012/08/11(土) 23:00- | [rhysd](https://github.com/rhysd/dotfiles/blob/8228ebaeab0e022ee7161d0eb9fc633876b0be41/vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2012/08/11#message-11349514)
-| [第7回](archive/007.html) | 2012/08/18(土) 23:00- | [ebc-2in2crc](https://github.com/ebc-2in2crc/vimrc/blob/f1ed88bf0d3668ebf8d702def40625d435f545cd/_vimrc) さん             | [リンク](http://lingr.com/room/vim/archives/2012/08/18#message-11492279)
-| [第8回](archive/008.html) | 2012/08/25(土) 23:00- | [rbtnn](https://github.com/rbtnn/reading-vimrc/blob/a92dae61200f50bd771f3a30c4f5fa06738c9aac/.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/08/25#message-11620456)
-| [第9回](archive/009.html) | 2012/09/01(土) 23:00- | [ujihisa](https://github.com/ujihisa/config/blob/8c513ac93429e27ce27e6020a7d48e728b809169/_vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/09/01#message-11718033)
-| [第10回](archive/010.html) | 2012/09/09(日) 00:00- | [thinca](https://gist.github.com/3666285) さん（前半戦）                    | [リンク](http://lingr.com/room/vim/archives/2012/09/08#message-11827882)
-| [第11回](archive/011.html) | 2012/09/15(土) 23:00- | [thinca](https://gist.github.com/3666285) さん（後半戦）                    | [リンク](http://lingr.com/room/vim/archives/2012/09/15#message-11945510)
+| ナンバー                   | 日時                  | vimrc                                                                                                                     | ログ
+| -------------------------- | --------------------- | -----                                                                                                                     | ----
+| [第1回](archive/001.html)  | 2012/07/10(火) 23:00- | [alwei](https://github.com/alwei/dotfiles/blob/3760650625663f3b08f24bc75762ec843ca7e112/.vimrc) さん                      | [リンク](http://lingr.com/room/vim/archives/2012/07/10#message-10607857)
+| [第2回](archive/002.html)  | 2012/07/14(土) 23:00- | [anekos](https://github.com/anekos/my-config/blob/0afcd78455743a4d3fad31674136428052dc6ebe/.vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2012/07/14#message-10685723)
+| [第3回](archive/003.html)  | 2012/07/21(土) 24:00- | [sigwyg](https://github.com/sigwyg/dotfiles/blob/8c70c4032ebad90a8d92b76b1c5d732f28559e40/.vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/07/21#message-10858279)
+| [第4回](archive/004.html)  | 2012/07/28(土) 23:00- | [basyura](https://github.com/basyura/vimfiles/blob/ee086f25b8c58b8ea6bf025d26ebc11ae50e6ca1/rc/vimrc) さん                | [リンク](http://lingr.com/room/vim/archives/2012/07/28#message-11029511)
+| [第5回](archive/005.html)  | 2012/08/04(土) 23:00- | [osyo-manga](https://github.com/osyo-manga/vimrc/blob/9ef0ca9757abcdaa11c76024aa551f0b473624bf/vimrcs/default/vimrc) さん | [リンク](http://lingr.com/room/vim/archives/2012/08/04#message-11191304)
+| [第6回](archive/006.html)  | 2012/08/11(土) 23:00- | [rhysd](https://github.com/rhysd/dotfiles/blob/8228ebaeab0e022ee7161d0eb9fc633876b0be41/vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2012/08/11#message-11349514)
+| [第7回](archive/007.html)  | 2012/08/18(土) 23:00- | [ebc-2in2crc](https://github.com/ebc-2in2crc/vimrc/blob/f1ed88bf0d3668ebf8d702def40625d435f545cd/_vimrc) さん             | [リンク](http://lingr.com/room/vim/archives/2012/08/18#message-11492279)
+| [第8回](archive/008.html)  | 2012/08/25(土) 23:00- | [rbtnn](https://github.com/rbtnn/reading-vimrc/blob/a92dae61200f50bd771f3a30c4f5fa06738c9aac/.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/08/25#message-11620456)
+| [第9回](archive/009.html)  | 2012/09/01(土) 23:00- | [ujihisa](https://github.com/ujihisa/config/blob/8c513ac93429e27ce27e6020a7d48e728b809169/_vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/09/01#message-11718033)
+| [第10回](archive/010.html) | 2012/09/09(日) 00:00- | [thinca](https://gist.github.com/3666285) さん（前半戦）                                                                  | [リンク](http://lingr.com/room/vim/archives/2012/09/08#message-11827882)
+| [第11回](archive/011.html) | 2012/09/15(土) 23:00- | [thinca](https://gist.github.com/3666285) さん（後半戦）                                                                  | [リンク](http://lingr.com/room/vim/archives/2012/09/15#message-11945510)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
