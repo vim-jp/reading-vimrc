@@ -50,6 +50,7 @@ title: vimrc読書会
 | [第8回](archive/008.html) | 2012/08/25(土) 23:00- | [rbtnn](https://github.com/rbtnn/reading-vimrc/blob/a92dae61200f50bd771f3a30c4f5fa06738c9aac/.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/08/25#message-11620456)
 | [第9回](archive/009.html) | 2012/09/01(土) 23:00- | [ujihisa](https://github.com/ujihisa/config/blob/8c513ac93429e27ce27e6020a7d48e728b809169/_vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/09/01#message-11718033)
 | [第10回](archive/010.html) | 2012/09/09(日) 00:00- | [thinca](https://gist.github.com/3666285) さん（前半戦）                    | [リンク](http://lingr.com/room/vim/archives/2012/09/08#message-11827882)
+| [第11回](archive/011.html) | 2012/09/15(土) 23:00- | [thinca](https://gist.github.com/3666285) さん（後半戦）                    | [リンク](http://lingr.com/room/vim/archives/2012/09/15#message-11945510)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
