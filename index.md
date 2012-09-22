@@ -54,6 +54,7 @@ title: vimrc読書会
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
 
 - [thinca](https://github.com/thinca) (Twitter: [@thinca](https://twitter.com/thinca))
+- [LeafCage](https://github.com/LeafCage) (Twitter: [@LeafCage](https://twitter.com/LeafCage))
 - [osyo-manga](https://github.com/osyo-manga) (Twitter: [@manga_osyo](https://twitter.com/manga_osyo))
 
 運営者はいつでも募集中です。お気軽に声をかけてください！
