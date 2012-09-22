@@ -31,8 +31,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 09/22(土) 23:00-
-- [LeafCage](https://github.com/LeafCage) さん
+- 日時: 09/29(土) 23:00-
+- [sorah](https://github.com/sorah) さん
 
 ### 過去の開催
 | ナンバー                   | 日時                  | vimrc                                                                                                                     | ログ
@@ -48,6 +48,7 @@ title: vimrc読書会
 | [第9回](archive/009.html)  | 2012/09/01(土) 23:00- | [ujihisa](https://github.com/ujihisa/config/blob/8c513ac93429e27ce27e6020a7d48e728b809169/_vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/09/01#message-11718033)
 | [第10回](archive/010.html) | 2012/09/09(日) 00:00- | [thinca](https://gist.github.com/3666285) さん（前半戦）                                                                  | [リンク](http://lingr.com/room/vim/archives/2012/09/08#message-11827882)
 | [第11回](archive/011.html) | 2012/09/15(土) 23:00- | [thinca](https://gist.github.com/3666285) さん（後半戦）                                                                  | [リンク](http://lingr.com/room/vim/archives/2012/09/15#message-11945510)
+| [第12回](archive/012.html) | 2012/09/22(土) 23:00- | [LeafCage](https://github.com/LeafCage) さん                                                                               | [リンク](http://lingr.com/room/vim/archives/2012/09/22#message-12081555)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
