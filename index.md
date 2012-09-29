@@ -32,7 +32,7 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 日時: 10/06(土) 23:00-
-- [tyru](https://github.com/tyru/dotfiles/blob/master/dotfiles/.vim/init.vim) さん
+- [tyru](https://github.com/tyru) さん
 
 ### 過去の開催
 | ナンバー                   | 日時                  | vimrc                                                                                                                     | ログ
