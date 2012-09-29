@@ -31,8 +31,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 09/29(土) 23:00-
-- [sorah](https://github.com/sorah) さん
+- 日時: 10/06(土) 23:00-
+- [tyru](https://github.com/tyru/dotfiles/blob/master/dotfiles/.vim/init.vim) さん
 
 ### 過去の開催
 | ナンバー                   | 日時                  | vimrc                                                                                                                     | ログ
@@ -49,13 +49,14 @@ title: vimrc読書会
 | [第10回](archive/010.html) | 2012/09/09(日) 00:00- | [thinca](https://gist.github.com/3666285) さん（前半戦）                                                                  | [リンク](http://lingr.com/room/vim/archives/2012/09/08#message-11827882)
 | [第11回](archive/011.html) | 2012/09/15(土) 23:00- | [thinca](https://gist.github.com/3666285) さん（後半戦）                                                                  | [リンク](http://lingr.com/room/vim/archives/2012/09/15#message-11945510)
 | [第12回](archive/012.html) | 2012/09/22(土) 23:00- | [LeafCage](https://github.com/LeafCage/dotfiles/blob/fa632dee5afaadf7e61ad2cc180f765f2e3a3c01/.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/09/22#message-12081555)
+| [第13回](archive/013.html) | 2012/09/29(土) 23:00- | [sorah](https://github.com/sorah/config/blob/f8f7d565668f35e8e4a70858a649caa6b1307b15/vim/dot.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/09/29#message-12207282)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
 
 - [thinca](https://github.com/thinca) (Twitter: [@thinca](https://twitter.com/thinca))
-- [LeafCage](https://github.com/LeafCage) (Twitter: [@LeafCage](https://twitter.com/LeafCage))
 - [osyo-manga](https://github.com/osyo-manga) (Twitter: [@manga_osyo](https://twitter.com/manga_osyo))
+- [LeafCage](https://github.com/LeafCage) (Twitter: [@LeafCage](https://twitter.com/LeafCage))
 
 運営者はいつでも募集中です。お気軽に声をかけてください！
 
