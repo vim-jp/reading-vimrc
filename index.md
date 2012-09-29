@@ -50,7 +50,7 @@ title: vimrc読書会
 | [第10回](archive/010.html) | 2012/09/09(日) 00:00- | [thinca](https://gist.github.com/3666285) さん（前半戦）                                                                  | [リンク](http://lingr.com/room/vim/archives/2012/09/08#message-11827882)
 | [第11回](archive/011.html) | 2012/09/15(土) 23:00- | [thinca](https://gist.github.com/3666285) さん（後半戦）                                                                  | [リンク](http://lingr.com/room/vim/archives/2012/09/15#message-11945510)
 | [第12回](archive/012.html) | 2012/09/22(土) 23:00- | [LeafCage](https://github.com/LeafCage/dotfiles/blob/fa632dee5afaadf7e61ad2cc180f765f2e3a3c01/.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/09/22#message-12081555)
-| [第13回](archive/013.html) | 2012/09/29(土) 23:00- | [sorah](https://github.com/sorah/config/blob/f8f7d565668f35e8e4a70858a649caa6b1307b15/vim/dot.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/09/29#message-12207282)
+| [第13回](archive/013.html) | 2012/09/29(土) 23:00- | [sorah](https://github.com/sorah/config/blob/c6d78ced9342b5ae72d2a5d86bfd609184a0fa8a/vim/dot.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/09/29#message-12207282)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
