@@ -32,10 +32,7 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 日時: 10/20(土) 23:00-
-
 - [shim0mura](https://github.com/shim0mura) さん
-
-
 
 ### 過去の開催
 | ナンバー                   | 日時                  | vimrc                                                                                                                     | ログ
@@ -54,7 +51,7 @@ title: vimrc読書会
 | [第12回](archive/012.html) | 2012/09/22(土) 23:00- | [LeafCage](https://github.com/LeafCage/dotfiles/blob/fa632dee5afaadf7e61ad2cc180f765f2e3a3c01/.vimrc) さん                | [リンク](http://lingr.com/room/vim/archives/2012/09/22#message-12081555)
 | [第13回](archive/013.html) | 2012/09/29(土) 23:00- | [sorah](https://github.com/sorah/config/blob/c6d78ced9342b5ae72d2a5d86bfd609184a0fa8a/vim/dot.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/09/29#message-12207282)
 | [第14回](archive/014.html) | 2012/10/06(土) 23:00- | [tyru](https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim) さん（前半戦）       | [リンク](http://lingr.com/room/vim/archives/2012/10/06#message-12325135)
-| [第15回](archive/015.html) | 2012/10/13(土) 23:00- | [tyru](https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim) さん（後半戦）        | [リンク](http://lingr.com/room/vim/archives/2012/10/13#message-12441046)
+| [第15回](archive/015.html) | 2012/10/13(土) 23:00- | [tyru](https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim) さん（後半戦）       | [リンク](http://lingr.com/room/vim/archives/2012/10/13#message-12441046)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
