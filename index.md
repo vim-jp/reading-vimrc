@@ -31,8 +31,9 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 10/27(土) 23:00-
-- [glidenote](https://github.com/glidenote) さん
+- 日時: 11/3(土) 時刻未定
+- 内容未定
+- [ujihisa.vim#3](http://atnd.org/event/vim3) の開催日であるため、その枠内で行う可能性があります。そうでない場合はいつも通り23時から行う予定です。詳細は決定次第更新します。
 
 ### 過去の開催
 | ナンバー                   | 日時                  | vimrc                                                                                                                     | ログ
@@ -53,6 +54,7 @@ title: vimrc読書会
 | [第14回](archive/014.html) | 2012/10/06(土) 23:00- | [tyru](https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim) さん（前半戦）       | [リンク](http://lingr.com/room/vim/archives/2012/10/06#message-12325135)
 | [第15回](archive/015.html) | 2012/10/13(土) 23:00- | [tyru](https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim) さん（後半戦）       | [リンク](http://lingr.com/room/vim/archives/2012/10/13#message-12441046)
 | [第16回](archive/016.html) | 2012/10/20(土) 23:00- | [shim0mura](https://github.com/shim0mura/dotfiles/blob/0a1e64b7614b9b95a861de9451043d05c189fb24/.vimrc) さん       | [リンク](http://lingr.com/room/vim/archives/2012/10/20#message-12556118)
+| [第17回](archive/017.html) | 2012/10/27(土) 23:00- | [glidenote](https://github.com/glidenote/dotfiles/blob/c91f460edf84b3d3fa1a4a7ecb27d8d6e46bd562/.vimrc) さん       | [リンク](http://lingr.com/room/vim/archives/2012/10/27#message-12673537)
 
 
 ### 運営
