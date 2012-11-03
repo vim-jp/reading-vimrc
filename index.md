@@ -35,10 +35,15 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 11/3(土) 午後
-- [yomi322](https://github.com/yomi322) さん
-- 次回は特別版として、 [ujihisa.vim#3](http://atnd.org/event/vim3) の会場から[生中継](http://www.ustream.tv/channel/uji)でお送りいたします。
-  開始時間は当日決定します。
+- <del>日時: 11/3(土) 午後</del>
+- <del>[yomi322](https://github.com/yomi322) さん</del>
+- <del>次回は特別版として、 [ujihisa.vim#3](http://atnd.org/event/vim3) の会場から[生中継](http://www.ustream.tv/channel/uji)でお送りいたします。</del>
+  <del>開始時間は当日決定します。</del>
+
+- 時間的に枠が取れなかったため、急遽変更になりました。申し分けありません。
+- いつも通り23時からLingr上で行います。↓
+- 日時: 11/3(土) 23時
+- [cpfaff](https://github.com/cpfaff) さん
 
 ### 過去の開催
 | ナンバー                   | 日時                  | vimrc                                                                                                                     | ログ
