@@ -36,7 +36,7 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 日時: 11/10(土) 23時
-- [yomi322](https://github.com/yomi322) さん
+- [kazuph](https://github.com/kazuph) さん
 
 
 ### 過去の開催
