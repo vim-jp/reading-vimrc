@@ -69,6 +69,7 @@ title: vimrc読書会
 - [thinca](https://github.com/thinca) (Twitter: [@thinca](https://twitter.com/thinca))
 - [osyo-manga](https://github.com/osyo-manga) (Twitter: [@manga_osyo](https://twitter.com/manga_osyo))
 - [LeafCage](https://github.com/LeafCage) (Twitter: [@LeafCage](https://twitter.com/LeafCage))
+- [rbtnn](https://github.com/rbtnn) (Twitter: [@rbtnn](https://twitter.com/rbtnn))
 
 運営者はいつでも募集中です。お気軽に声をかけてください！
 
