@@ -35,8 +35,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 11/10(土) 23時
-- [kazuph](https://github.com/kazuph) さん
+- 日時: 11/17(土) 23時
+- [yomi322](https://github.com/yomi322) さん
 
 
 ### 過去の開催
@@ -60,6 +60,7 @@ title: vimrc読書会
 | [第16回](archive/016.html) | 2012/10/20(土) 23:00- | [shim0mura](https://github.com/shim0mura/dotfiles/blob/0a1e64b7614b9b95a861de9451043d05c189fb24/.vimrc) さん       | [リンク](http://lingr.com/room/vim/archives/2012/10/20#message-12556118)
 | [第17回](archive/017.html) | 2012/10/27(土) 23:00- | [glidenote](https://github.com/glidenote/dotfiles/blob/c91f460edf84b3d3fa1a4a7ecb27d8d6e46bd562/.vimrc) さん       | [リンク](http://lingr.com/room/vim/archives/2012/10/27#message-12673537)
 | [第18回](archive/018.html) | 2012/11/03(土) 23:00- | [cpfaff](https://github.com/cpfaff/vim-my-setup/blob/4fc6b9134ea4b5ac54b248887c9076bf44e66d92/vimrc) さん       | [リンク](http://lingr.com/room/vim/archives/2012/11/03#message-12785348)
+| [第19回](archive/019.html) | 2012/11/10(土) 23:00- | [kazuph](https://github.com/kazuph/dotfiles/blob/3a6454943c8142a67a58be27eb9885a7a48f9871/_vimrc) さん       | [リンク](http://lingr.com/room/vim/archives/2012/11/10#message-12888729)
 
 
 ### 運営
