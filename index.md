@@ -35,8 +35,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 11/24(土) 23時
-- [tsukkee](https://github.com/tsukkee) さん
+- 日時: 12/01(土) 23時
+- [wiredool](https://github.com/wiredool) さん
 
 
 ### 過去の開催
@@ -62,6 +62,7 @@ title: vimrc読書会
 | [第18回](archive/018.html) | 2012/11/03(土) 23:00- | [cpfaff](https://github.com/cpfaff/vim-my-setup/blob/4fc6b9134ea4b5ac54b248887c9076bf44e66d92/vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/11/03#message-12785348)
 | [第19回](archive/019.html) | 2012/11/10(土) 23:00- | [kazuph](https://github.com/kazuph/dotfiles/blob/3a6454943c8142a67a58be27eb9885a7a48f9871/_vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2012/11/10#message-12888729)
 | [第20回](archive/020.html) | 2012/11/17(土) 23:00- | [yomi322](https://github.com/yomi322/config/blob/7a98be17babe150dc36b7018d1978403cd6be865/dot.vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/11/17#message-12946192)
+| [第21回](archive/021.html) | 2012/11/24(土) 23:00- | [tsukkee](https://github.com/tsukkee/config/blob/02c58fccf330abcbbbe8c25072487f315971bc27/vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/11/24#message-13012131)
 
 
 ### 運営
