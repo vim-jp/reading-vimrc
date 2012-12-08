@@ -35,8 +35,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 12/08(土) 23時
-- [daisuzu](https://github.com/daisuzu) さん
+- 日時: 12/15(土) 23時
+- [magicdrive](https://github.com/magicdrive) さん
 
 
 ### 過去の開催
@@ -64,6 +64,7 @@ title: vimrc読書会
 | [第20回](archive/020.html) | 2012/11/17(土) 23:00- | [yomi322](https://github.com/yomi322/config/blob/7a98be17babe150dc36b7018d1978403cd6be865/dot.vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2012/11/17#message-12946192)
 | [第21回](archive/021.html) | 2012/11/24(土) 23:00- | [tsukkee](https://github.com/tsukkee/config/blob/02c58fccf330abcbbbe8c25072487f315971bc27/vimrc) さん                        | [リンク](http://lingr.com/room/vim/archives/2012/11/24#message-13012131)
 | [第22回](archive/022.html) | 2012/12/01(土) 23:00- | [wiredool](https://github.com/wiredool/dotfiles/blob/806bb5b1225b5202aa7ee85f1e4e1350dfc64486/.vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2012/12/01#message-13085824)
+| [第23回](archive/023.html) | 2012/12/08(土) 23:00- | [daisuzu](https://github.com/daisuzu/dotvim/blob/4e50bc5ec2b4a77f78f97f3c0cada8b08dff1031/.vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2012/12/08#message-13176343)
 
 
 ### 運営
