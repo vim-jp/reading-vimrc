@@ -35,8 +35,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 12/22(土) 23時
-- [Lokaltog](https://github.com/Lokaltog) さん
+- 日時: 12/29(土) 23時
+- [hrsh7th](https://github.com/hrsh7th) さん
 
 
 ### 過去の開催
@@ -66,6 +66,7 @@ title: vimrc読書会
 | [第22回](archive/022.html) | 2012/12/01(土) 23:00- | [wiredool](https://github.com/wiredool/dotfiles/blob/806bb5b1225b5202aa7ee85f1e4e1350dfc64486/.vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2012/12/01#message-13085824)
 | [第23回](archive/023.html) | 2012/12/08(土) 23:00- | [daisuzu](https://github.com/daisuzu/dotvim/blob/4e50bc5ec2b4a77f78f97f3c0cada8b08dff1031/.vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2012/12/08#message-13176343)
 | [第24回](archive/024.html) | 2012/12/15(土) 23:00- | [magicdrive](https://github.com/magicdrive/vimfiles/blob/1921a3d724d157d0dd6cdadd6ae358bf64eaf286/vimrc) さん                | [リンク](http://lingr.com/room/vim/archives/2012/12/15#message-13266634)
+| [第25回](archive/025.html) | 2012/12/22(土) 23:00- | [Lokaltog](https://github.com/Lokaltog/vimfiles/tree/05d332c4acf559b2fa00df58aafe67f39f2d2d28) さん                          | [リンク](http://lingr.com/room/vim/archives/2012/12/22#message-13335428)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
