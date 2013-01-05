@@ -35,8 +35,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 1/5(土) 23時
-- [com/hecomi](https://github.com/hecomi) さん
+- 日時: 1/12(土) 23時
+- [itchyny](https://github.com/itchyny) さん
 
 
 ### 過去の開催
@@ -68,6 +68,7 @@ title: vimrc読書会
 | [第24回](archive/024.html) | 2012/12/15(土) 23:00- | [magicdrive](https://github.com/magicdrive/vimfiles/blob/1921a3d724d157d0dd6cdadd6ae358bf64eaf286/vimrc) さん                | [リンク](http://lingr.com/room/vim/archives/2012/12/15#message-13266634)
 | [第25回](archive/025.html) | 2012/12/22(土) 23:00- | [Lokaltog](https://github.com/Lokaltog/vimfiles/tree/05d332c4acf559b2fa00df58aafe67f39f2d2d28) さん                          | [リンク](http://lingr.com/room/vim/archives/2012/12/22#message-13335428)
 | [第26回](archive/026.html) | 2012/12/29(土) 23:00- | [hrsh7th](https://github.com/hrsh7th/dotfiles/blob/2f730fc91cd84761ad2f22e5b7e26711dcc5ebe4/vim/.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2012/12/29#message-13400888)
+| [第27回](archive/027.html) | 2013/01/05(土) 23:00- | [hecomi](https://github.com/hecomi/dotfiles/blob/cb97269c96cc311b1f74771ea6b0ca7193d6e89b/.vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2013/01/05#message-13453756)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
