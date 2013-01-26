@@ -35,10 +35,10 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 1/26(土) 23時
-- [Shuogo](https://github.com/Shougo) さん
+- 日時: 02/02(土) 23時
+- [Shuogo](https://github.com/Shougo) さん（後半戦）
 
-※Shougo さんの vimrc は量が多いので2回に分割して読む予定です。次回は2時間 vimrcを読んで、読みきれなかった部分を次々回の vimrc読書会で読みます。
+※Shougo さんの vimrc は量が多いので2回に分割して読みます。次回は前回の続きから読む予定です。
 
 
 ### 過去の開催
@@ -73,6 +73,7 @@ title: vimrc読書会
 | [第27回](archive/027.html) | 2013/01/05(土) 23:00- | [hecomi](https://github.com/hecomi/dotfiles/blob/cb97269c96cc311b1f74771ea6b0ca7193d6e89b/.vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2013/01/05#message-13453756)
 | [第28回](archive/028.html) | 2013/01/12(土) 23:00- | [itchyny](https://github.com/itchyny/dotfiles/blob/eba53c32ce05d410a46b00119f7a25341bd6cb37/.vimrc) さん                     | [リンク](http://lingr.com/room/vim/archives/2013/01/12#message-13522483)
 | [第29回](archive/029.html) | 2013/01/19(土) 23:00- | [cohama](https://github.com/cohama/.vim/blob/284b2c2a4af9372aea257fd2465cc1eb8d52e584/.vimrc) さん                           | [リンク](http://lingr.com/room/vim/archives/2013/01/19#message-13587673)
+| [第30回](archive/030.html) | 2013/01/26(土) 23:00- | [Shougo](https://github.com/Shougo/shougo-s-github/blob/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc) さん（前半戦）  | [リンク](http://lingr.com/room/vim/archives/2013/01/26#message-13704754)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
