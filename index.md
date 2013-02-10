@@ -36,7 +36,9 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 日時: 02/16(土) 23時
-- [kannokanno](https://github.com/kannokanno) さん
+- [soh335](https://github.com/soh335) さん
+
+※来週は kannokanno さんの都合が悪いということで別の機会になりました。
 
 
 ### 過去の開催
