@@ -29,10 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 02/16(土) 23時
-- [tpope](https://github.com/tpope) さん
-
-※kannokanno さんの都合が悪いということで来週読む予定だった kannokanno さんの vimrc は別の機会になりました。
+- 日時: 02/23(土) 23時
+- vimrc：未定。読みたい vimrc があればお知らせ下さい。
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
@@ -90,6 +88,7 @@ title: vimrc読書会
 | [第30回](archive/030.html) | 2013/01/26(土) 23:00- | [Shougo](https://github.com/Shougo/shougo-s-github/blob/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc) さん（前半戦）  | [リンク](http://lingr.com/room/vim/archives/2013/01/26#message-13704754)
 | [第31回](archive/031.html) | 2013/02/02(土) 23:00- | [Shougo](https://github.com/Shougo/shougo-s-github/blob/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc) さん（後半戦）  | [リンク](http://lingr.com/room/vim/archives/2013/02/02#message-13852359)
 | [第32回](archive/032.html) | 2013/02/09(土) 23:00- | [guyon](https://github.com/guyon/configs/blob/d595529409e33e7a3523a65f355eeee6e5741d0c/.vimrc) さん                          | [リンク](http://lingr.com/room/vim/archives/2013/02/09#message-13950501)
+| [第33回](archive/033.html) | 2013/02/16(土) 23:00- | [tpope](https://github.com/tpope/tpope/blob/4cc1f16c85414e91c1ea6e05ea516a88c00b4d08/.vimrc) さん                            | [リンク](http://lingr.com/room/vim/archives/2013/02/16#message-14048433)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
