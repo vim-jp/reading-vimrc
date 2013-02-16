@@ -30,7 +30,9 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 日時: 02/23(土) 23時
-- vimrc：未定。読みたい vimrc があればお知らせ下さい。
+- vimrc: [hibiki](https://github.com/hibiki) さん
+
+※kannokanno さんの都合が悪いということで来週読む予定だった kannokanno さんの vimrc は別の機会になりました。
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
