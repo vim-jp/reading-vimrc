@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 03/02(土) 23時
-- vimrc: [boolfool](https://github.com/boolfool) さん
+- 日時: 03/09(土) 23時
+- vimrc: [jakalada](https://github.com/jakalada) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
@@ -90,6 +90,7 @@ title: vimrc読書会
 | [第32回](archive/032.html) | 2013/02/09(土) 23:00- | [guyon](https://github.com/guyon/configs/blob/d595529409e33e7a3523a65f355eeee6e5741d0c/.vimrc) さん                          | [リンク](http://lingr.com/room/vim/archives/2013/02/09#message-13950501)
 | [第33回](archive/033.html) | 2013/02/16(土) 23:00- | [tpope](https://github.com/tpope/tpope/blob/4cc1f16c85414e91c1ea6e05ea516a88c00b4d08/.vimrc) さん                            | [リンク](http://lingr.com/room/vim/archives/2013/02/16#message-14048433)
 | [第34回](archive/034.html) | 2013/02/23(土) 23:00- | [hibiki](https://github.com/hibiki/dotfiles/blob/1569874d97c98a5ccfc502b1a2e85818845be1e8/.gvimrc) さん                      | [リンク](http://lingr.com/room/vim/archives/2013/02/23#message-14114695)
+| [第35回](archive/035.html) | 2013/03/02(土) 23:00- | [boolfool](https://github.com/boolfool/dotfiles/blob/26b4852ba738d747d85d8c2ecfbf0a1b2c64ea1c/.vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2013/03/02#message-14179525)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
