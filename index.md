@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 03/23(土) 23時
-- vimrc: [kannokanno](https://github.com/kannokanno) さん
+- 日時: 03/30(土) 23時
+- vimrc: [mopp](https://github.com/mopp) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
@@ -93,6 +93,7 @@ title: vimrc読書会
 | [第35回](archive/035.html) | 2013/03/02(土) 23:00- | [boolfool](https://github.com/boolfool/dotfiles/blob/26b4852ba738d747d85d8c2ecfbf0a1b2c64ea1c/.vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2013/03/02#message-14179525)
 | [第36回](archive/036.html) | 2013/03/09(土) 23:00- | [jakalada](https://github.com/jakalada/vim-dotfiles/blob/fd30969c1b52175a112add9fd8308bc502df907f/_vimrc) さん               | [リンク](http://lingr.com/room/vim/archives/2013/03/09#message-14242610)
 | [第37回](archive/037.html) | 2013/03/16(土) 23:00- | [akineko](https://github.com/akineko/dotfiles/blob/8a05b76600178c4bc220d9f88c70720890aa0c69/.vimrc) さん                     | [リンク](http://lingr.com/room/vim/archives/2013/03/16#message-14323412)
+| [第38回](archive/038.html) | 2013/03/23(土) 23:00- | [kannokanno](https://github.com/kannokanno/dotfiles/blob/c1818803788bb4af6dd3cd3aec1d4b3205c035cc/.vimrc) さん               | [リンク](http://lingr.com/room/vim/archives/2013/03/23#message-14449036)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
