@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 04/27(土) 23時
-- vimrc: [yuratomo](https://github.com/yuratomo) さん
+- 日時: 05/04(土) 23時
+- vimrc: [deris](https://github.com/deris) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
@@ -98,6 +98,7 @@ title: vimrc読書会
 | [第40回](archive/040.html) | 2013/04/06(土) 23:00- | [tekkoc](https://github.com/tekkoc/dotfiles/blob/5c60e73b0b2f7d165123362cba387c1bd56cc3c4/.vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2013/04/06#message-14621353)
 | [第41回](archive/041.html) | 2013/04/13(土) 23:00- | [chenkaie](https://github.com/chenkaie/DotFiles/blob/f3436500e8b542b5438b2fb7ee33e693e3589ce3/.vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2013/04/13#message-14707324)
 | [第42回](archive/042.html) | 2013/04/20(土) 23:00- | [vol2223](https://github.com/vol2223/config/blob/bb20681ca60c7315afe8ed8471a965925f722178/dotfile/.vimrc) さん               | [リンク](http://lingr.com/room/vim/archives/2013/04/20#message-14855062)
+| [第43回](archive/043.html) | 2013/04/27(土) 23:00- | [yuratomo](https://github.com/yuratomo/dotfiles/blob/f81028f9c72393e8a9e41e50eef721509c6129ac/_vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2013/04/27#message-15036122)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
