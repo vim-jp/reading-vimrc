@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 05/18(土) 23時
-- vimrc: [kana](https://github.com/kana) さん
+- 日時: 05/25(土) 23時
+- vimrc: [kana](https://github.com/kana) さん（中編）
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
@@ -101,6 +101,7 @@ title: vimrc読書会
 | [第43回](archive/043.html) | 2013/04/27(土) 23:00- | [yuratomo](https://github.com/yuratomo/dotfiles/blob/f81028f9c72393e8a9e41e50eef721509c6129ac/_vimrc) さん                   | [リンク](http://lingr.com/room/vim/archives/2013/04/27#message-15036122)
 | [第44回](archive/044.html) | 2013/05/04(土) 23:00- | [deris](https://github.com/deris/Config/blob/c1767e551c736c9f584a9958a0cb42e7e9ee8728/.vimrc) さん（前半戦）                 | [リンク](http://lingr.com/room/vim/archives/2013/05/04#message-15150672)
 | [第45回](archive/045.html) | 2013/05/11(土) 23:00- | [deris](https://github.com/deris/Config/blob/c1767e551c736c9f584a9958a0cb42e7e9ee8728/.vimrc) さん（後半戦）                 | [リンク](http://lingr.com/room/vim/archives/2013/05/11#message-15240128)
+| [第46回](archive/046.html) | 2013/05/18(土) 23:00- | [kana](https://github.com/kana/config/blob/cc6216eddbf9abc68526d90335f2d42cd43978ed/vim/personal/dot.vimrc) さん（前半戦）   | [リンク](http://lingr.com/room/vim/archives/2013/05/18#message-15319362)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
