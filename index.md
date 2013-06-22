@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 06/22(土) 23時
-- vimrc: [bling](https://github.com/bling) さん
+- 日時: 06/29(土) 23時
+- vimrc: [hamaco](https://github.com/hamaco) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
@@ -106,6 +106,7 @@ title: vimrc読書会
 | [第48回](archive/048.html) | 2013/06/01(土) 23:00- | [kana](https://github.com/kana/config/blob/cc6216eddbf9abc68526d90335f2d42cd43978ed/vim/personal/dot.vimrc) さん（後編）   | [リンク](http://lingr.com/room/vim/archives/2013/06/01#message-15465616)
 | [第49回](archive/049.html) | 2013/06/08(土) 23:00- | [kzy52](https://github.com/kzy52/dotfiles/blob/39b442989fad1a86cee429c0b1781f49ec58da6c/.vimrc) さん                       | [リンク](http://lingr.com/room/vim/archives/2013/06/08#message-15543134)
 | [第50回](archive/050.html) | 2013/06/15(土) 23:00- | [Valloric](https://github.com/Valloric/dotfiles/blob/f25d262d0d3893342ee60abef611044ef9733f79/vim/vimrc.vim) さん          | [リンク](http://lingr.com/room/vim/archives/2013/06/15#message-15629174)
+| [第51回](archive/051.html) | 2013/06/22(土) 23:00- | [bling](https://github.com/bling/dotvim/blob/92def9fdc2dd3060362360320450a24a89159c5e/vimrc) さん                          | [リンク](http://lingr.com/room/vim/archives/2013/06/22#message-15705834)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
