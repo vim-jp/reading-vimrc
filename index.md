@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 07/06(土) 23時
-- vimrc: [sgur](https://github.com/sgur) さん（前編）
+- 日時: 07/13(土) 23時
+- vimrc: [sgur](https://github.com/sgur) さん (後編)
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
@@ -108,6 +108,7 @@ title: vimrc読書会
 | [第50回](archive/050.html) | 2013/06/15(土) 23:00- | [Valloric](https://github.com/Valloric/dotfiles/blob/f25d262d0d3893342ee60abef611044ef9733f79/vim/vimrc.vim) さん          | [リンク](http://lingr.com/room/vim/archives/2013/06/15#message-15629174)
 | [第51回](archive/051.html) | 2013/06/22(土) 23:00- | [bling](https://github.com/bling/dotvim/blob/92def9fdc2dd3060362360320450a24a89159c5e/vimrc) さん                          | [リンク](http://lingr.com/room/vim/archives/2013/06/22#message-15705834)
 | [第52回](archive/052.html) | 2013/06/29(土) 23:00- | [hamaco](https://github.com/hamaco/dotfiles/blob/b245f0f95619a8d5d8e18df39592da548fc27fad/vim/vimrc) さん                  | [リンク](http://lingr.com/room/vim/archives/2013/06/29#message-15774558)
+| [第53回](archive/053.html) | 2013/07/06(土) 23:00- | [sgur](https://github.com/sgur/vimrc/blob/2d8a2b3134692b3a65e42504479e46a5fafc7e67/vimrc) さん (前編)                      | [リンク](http://lingr.com/room/vim/archives/2013/07/06#message-15839575)
 
 ### 運営
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
