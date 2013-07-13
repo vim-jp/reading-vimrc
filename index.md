@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 07/13(土) 23時
-- vimrc: [sgur](https://github.com/sgur) さん (後編)
+- 日時: 07/20(土) 23時
+- vimrc: [terryma](https://github.com/terryma) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)

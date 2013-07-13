@@ -58,5 +58,6 @@ title: 過去の開催 - vimrc読書会
 | [第51回](051.html) | 2013/06/22(土) 23:00- | [bling](https://github.com/bling/dotvim/blob/92def9fdc2dd3060362360320450a24a89159c5e/vimrc) さん                         | [リンク](http://lingr.com/room/vim/archives/2013/06/22#message-15705834)
 | [第52回](052.html) | 2013/06/29(土) 23:00- | [hamaco](https://github.com/hamaco/dotfiles/blob/b245f0f95619a8d5d8e18df39592da548fc27fad/vim/vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2013/06/29#message-15774558)
 | [第53回](053.html) | 2013/07/06(土) 23:00- | [sgur](https://github.com/sgur/vimrc/blob/2d8a2b3134692b3a65e42504479e46a5fafc7e67/vimrc) さん (前編)                     | [リンク](http://lingr.com/room/vim/archives/2013/07/06#message-15839575)
+| [第54回](054.html) | 2013/07/13(土) 23:00- | [sgur](https://github.com/sgur/vimrc/blob/2d8a2b3134692b3a65e42504479e46a5fafc7e67/vimrc) さん (後編)                     | [リンク](http://lingr.com/room/vim/archives/2013/07/13#message-15894589)
 
 [トップに戻る]({{ site.base-url }})
