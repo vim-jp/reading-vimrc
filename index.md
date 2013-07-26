@@ -63,6 +63,7 @@ title: vimrc読書会
 - [osyo-manga](https://github.com/osyo-manga) (Twitter: [@manga_osyo](https://twitter.com/manga_osyo))
 - [LeafCage](https://github.com/LeafCage) (Twitter: [@LeafCage](https://twitter.com/LeafCage))
 - [rbtnn](https://github.com/rbtnn) (Twitter: [@rbtnn](https://twitter.com/rbtnn))
+- [deris](https://github.com/deris) (Twitter: [@deris0126](https://twitter.com/deris0126))
 
 運営者はいつでも募集中です。お気軽に声をかけてください！
 
