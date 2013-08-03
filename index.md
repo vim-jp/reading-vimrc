@@ -30,7 +30,7 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 日時: 08/10(土) 23時
-- vimrc: [aereal](https://github.com/aereal) さん
+- vimrc: [nishigori](https://github.com/nishigori) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
