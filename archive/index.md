@@ -63,5 +63,6 @@ title: 過去の開催 - vimrc読書会
 | [第56回](056.html) | 2013/07/27(土) 23:00- | [Kocha](https://github.com/Kocha/dotfiles/blob/7cacf9390c5d1025909ec0109e7f264670368596/.vimrc) さん                      | [リンク](http://lingr.com/room/vim/archives/2013/07/27#message-16017813)
 | [第57回](057.html) | 2013/08/03(土) 23:00- | [spf13](https://github.com/spf13/spf13-vim/blob/0e4a4ab22d7c61ae53468153a5cb6a810065844b/.vimrc) さん                     | [リンク](http://lingr.com/room/vim/archives/2013/08/03#message-16085863)
 | [第58回](058.html) | 2013/08/10(土) 23:00- | [nishigori](https://github.com/nishigori/dotfiles/blob/390d8934f44a58d52655a2db7cde40e33d55bd68/.vimrc) さん              | [リンク](http://lingr.com/room/vim/archives/2013/08/10/#message-16164706)
+| [第59回](059.html) | 2013/08/10(土) 23:00- | [aereal](https://github.com/aereal/dotfiles/blob/0e6ca0ff5eedacf5dae105df4b3143cdbb38c74c/.vimrc) さん                    | [リンク](http://lingr.com/room/vim/archives/2013/08/17/#message-16247969)
 
 [トップに戻る]({{ site.base-url }})
