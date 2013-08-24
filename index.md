@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 08/24(土) 23時
-- vimrc: [sjl](https://bitbucket.org/sjl) さん
+- 日時: 08/31(土) 23時
+- vimrc: [kmizu](https://github.com/kmizu) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
