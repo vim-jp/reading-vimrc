@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 09/21(土) 23時
-- vimrc: [bootleq](https://github.com/bootleq) さん(後編)
+- 日時: 09/28(土) 23時
+- vimrc: [saihoooooooo](https://github.com/saihoooooooo) さん(前編)
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
