@@ -30,7 +30,7 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 日時: 10/12(土) 23時
-- vimrc: [saihoooooooo](https://github.com/saihoooooooo) さん
+- vimrc: [iyuuya](https://github.com/iyuuya) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
