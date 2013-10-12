@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 10/12(土) 23時
-- vimrc: [iyuuya](https://github.com/iyuuya) さん
+- 日時: 10/19(土) 23時
+- vimrc: [alpaca-tc](https://github.com/alpaca-tc) さん(前編)
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
