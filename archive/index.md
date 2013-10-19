@@ -72,5 +72,6 @@ title: 過去の開催 - vimrc読書会
 | [第65回](065.html) | 2013/09/28(土) 23:00- | [saihoooooooo](https://github.com/saihoooooooo/dotfiles/blob/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc) さん (前編) | [リンク](http://lingr.com/room/vim/archives/2013/09/28/#message-16851940)
 | [第66回](066.html) | 2013/10/05(土) 23:00- | [saihoooooooo](https://github.com/saihoooooooo/dotfiles/blob/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc) さん (後編) | [リンク](http://lingr.com/room/vim/archives/2013/10/05/#message-16938477)
 | [第67回](067.html) | 2013/10/12(土) 23:00- | [iyuuya](https://github.com/iyuuya/bksd/blob/bf4d369acd00f086f5edfcbf007beecb08519039/vim/dot.vimrc) さん                 | [リンク](http://lingr.com/room/vim/archives/2013/10/12/#message-17037339)
+| [第68回](068.html) | 2013/10/19(土) 23:00- | [alpaca-tc](https://github.com/alpaca-tc/dotfiles/blob/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc) さん (前編)   | [リンク](http://lingr.com/room/vim/archives/2013/10/19/#message-17110090)
 
 [トップに戻る]({{ site.base-url }})
