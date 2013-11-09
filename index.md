@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 11/9(土) 23時
-- vimrc: [justinmk](https://github.com/justinmk) さん
+- 日時: 11/16(土) 23時
+- vimrc: [kunihirotanaka](http://tanaka.sakura.ad.jp/vimrc) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
