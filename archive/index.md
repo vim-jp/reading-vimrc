@@ -76,5 +76,6 @@ title: 過去の開催 - vimrc読書会
 | [第69回](069.html) | 2013/10/26(土) 23:00- | [alpaca-tc](https://github.com/alpaca-tc/dotfiles/blob/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc) さん (後編)   | [リンク](http://lingr.com/room/vim/archives/2013/10/26/#message-17189944)
 | [第70回](070.html) | 2013/11/02(土) 23:00- | [Rykka](https://github.com/Rykka/dotfiles/blob/b7507cfc46895d38b5965a0cc17f62ebaae45f73/.vimrc) さん                      | [リンク](http://lingr.com/room/vim/archives/2013/11/02/#message-17255799)
 | [第71回](071.html) | 2013/11/09(土) 23:00- | [justinmk](https://github.com/justinmk/config/blob/773eef9a3b94d1936d3b9db2bc712f97510f770c/.vimrc) さん                  | [リンク](http://lingr.com/room/vim/archives/2013/11/09/#message-17324829)
+| [第72回](072.html) | 2013/11/16(土) 23:00- | [田中邦裕](http://tanaka.sakura.ad.jp/vimrc) さん                                                                         | [リンク](http://lingr.com/room/vim/archives/2013/11/16/#message-17390661)
 
 [トップに戻る]({{ site.base-url }})
