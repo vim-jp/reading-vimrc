@@ -29,8 +29,8 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 11/23(土) 23時
-- vimrc: [portown](https://github.com/portown) さん
+- 日時: 11/30(土) 23時
+- vimrc: [creasty](https://github.com/creasty) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
