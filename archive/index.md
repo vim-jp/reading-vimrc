@@ -78,5 +78,6 @@ title: 過去の開催 - vimrc読書会
 | [第71回](071.html) | 2013/11/09(土) 23:00- | [justinmk](https://github.com/justinmk/config/blob/773eef9a3b94d1936d3b9db2bc712f97510f770c/.vimrc) さん                  | [リンク](http://lingr.com/room/vim/archives/2013/11/09/#message-17324829)
 | [第72回](072.html) | 2013/11/16(土) 23:00- | [田中邦裕](http://tanaka.sakura.ad.jp/vimrc) さん                                                                         | [リンク](http://lingr.com/room/vim/archives/2013/11/16/#message-17390661)
 | [第73回](073.html) | 2013/11/23(土) 23:00- | [portown](https://github.com/portown/dotfiles/blob/530a516596a49272d3bfaf082a69bae5baa0bced/.vimrc) さん                  | [リンク](http://lingr.com/room/vim/archives/2013/11/23/#message-17465568)
+| [第74回](074.html) | 2013/11/30(土) 23:00- | [creasty](https://github.com/creasty/dotfiles/blob/bbd8b60af659133909096ba5197d4812f4589257/_vimrc) さん                  | [リンク](http://lingr.com/room/vim/archives/2013/11/30/#message-17696493)
 
 [トップに戻る]({{ site.base-url }})
