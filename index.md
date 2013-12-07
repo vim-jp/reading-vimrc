@@ -29,8 +29,9 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 日時: 12/7(土) 23時
-- vimrc: [kepbod](https://github.com/kepbod) さん
+- 第76回
+- 日時: 12/14(土) 23時
+- vimrc: [shiracha](https://github.com/shiracha) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
