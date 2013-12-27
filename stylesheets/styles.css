@@ -698,7 +698,7 @@ dt {
   z-index: 100;
   left: 0;
   top: 0px;
-  height: 60px;
+  /* height: 60px; */
   width: 100%;
   position: fixed;
   background: url(../images/nav-bg.gif) #353535;
@@ -836,16 +836,8 @@ section #title .credits.right {
   }
 }
 @media print, screen and (max-width: 480px) {
-  #header {
-    margin-top: -20px;
-  }
-
   section {
     margin-top: 40px;
-  }
-
-  nav {
-    display: none;
   }
 }
 
@@ -853,6 +845,7 @@ section #title .credits.right {
  * Reading vimrc
  */
 
+/* Navigation Design */
 #header {
 	height: 40px;
     padding-top: 3px;
@@ -901,13 +894,108 @@ body {
 	margin-top: 45px;
 }
 
-@media print, screen and (max-width: 480px) {
-  #header {
+/* Navigation Header */
+.nav-head {
+    float: left;
+    padding: 8px 5px 8px;
+}
+
+/* Toggle Button */
+.nav-toggle {
+  position: relative;
+  float: right;
+  padding: 9px 10px;
+  margin-top: 3px;
+  margin-right: 15px;
+  margin-bottom: 3px;
+  background-color: transparent;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.nav-toggle .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  border-radius: 1px;
+}
+
+.nav-toggle .icon-bar + .icon-bar {
+  margin-top: 4px;
+}
+
+/* Toggle Button Design */
+.nav-toggle {
+  border-color: #dddddd;
+}
+
+.nav-toggle:hover,
+.nav-toggle:focus {
+  background-color: #dddddd;
+}
+
+.nav-toggle .icon-bar {
+  background-color: #cccccc;
+}
+
+/* Responsible Navigation */
+@media print, screen and (max-width: 767px) {
+    #header nav {
+        padding: 0;
+    }
+    #header nav ul {
+        padding-left: 0;
+    }
+    .nav-list {
+        clear: both;
+        padding: 2px 0 0;
+        margin: 0;
+    }
+    .nav-list li {
+        display: block !important;
+        width: 100%;
+        background-color: #252525;
+    }
+    .nav-list li a {
+        width: 100%;
+        border-bottom: none;
+    }
+}
+
+@media (min-width: 768px) {
+  .nav-toggle {
     display: none;
   }
-
-  body {
-      margin-top: 0;
+  .navbar-collapse {
+    width: auto;
+    border-top: 0;
+    box-shadow: none;
   }
-
+  .navbar-collapse {
+    display: block !important;
+    height: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+  }
+  .navbar-collapse.in {
+    overflow-y: visible;
+  }
 }
+
+.collapse {
+  display: none;
+}
+
+.collapse.in {
+  display: block;
+}
+
+.collapsing {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  -webkit-transition: height 0.35s ease;
+          transition: height 0.35s ease;
+}
+
