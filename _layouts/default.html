@@ -14,11 +14,14 @@
     <!--[if lt IE 8]>
     <link rel="stylesheet" href="{{ site.base-url }}stylesheets/ie.css">
     <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
   </head>
   <body>
     <div class="wrapper">
+        <div id="header">
+            {% include navigation.html %}
+        </div>
 
       <section>
         <div id="title">
@@ -30,5 +33,7 @@
       </section>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    <script src="{{ site.base-url }}javascripts/navigation.js"></script>
   </body>
 </html>
