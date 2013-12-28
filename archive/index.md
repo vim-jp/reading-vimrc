@@ -82,5 +82,6 @@ title: 過去の開催 - vimrc読書会
 | [第75回](075.html) | 2013/12/07(土) 23:00- | [kepbod](https://github.com/kepbod/ivim/blob/1b0fc9054774123a520743f77ed359894da9061b/vimrc) さん                         | [リンク](http://lingr.com/room/vim/archives/2013/12/07/#message-17758011)
 | [第76回](076.html) | 2013/12/14(土) 23:00- | [shiracha](https://github.com/shiracha/settings/blob/b88d5e36326a0725cfb027ccf4635069fdc216c3/.vimrc) さん                | [リンク](http://lingr.com/room/vim/archives/2013/12/14#message-17824347)
 | [第77回](077.html) | 2013/12/21(土) 23:00- | [edom18](https://github.com/edom18/vim/blob/60e8f18b409ea48333f370af49f7a218e0b203c0/_vimrc) さん                         | [リンク](http://lingr.com/room/vim/archives/2013/12/21#message-17885221)
+| [第78回](078.html) | 2013/12/28(土) 23:00- | [emorikawa](https://github.com/emorikawa/dotfiles/blob/da23f6025ce309fdfd0f2857bae8a8f7870e4f1e/vim/vimrc) さん           | [リンク](http://lingr.com/room/vim/archives/2013/12/28#message-17932272)
 
 [トップに戻る]({{ site.base-url }})

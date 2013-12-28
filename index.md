@@ -30,8 +30,8 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 第78回
-- 日時: 12/28(土) 23時
-- vimrc: [emorikawa](https://github.com/emorikawa) さん
+- 日時: 1/4(土) 23時
+- vimrc: [eccyan](https://github.com/eccyan) さん
 
 ### リクエスト
 - [読みたいvimrcリクエスト](https://github.com/vim-jp/reading-vimrc/wiki/Request)
