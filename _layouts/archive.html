@@ -25,7 +25,7 @@
 
       <section>
         <div id="title">
-          <a href="{{ site.base-url }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+          <a href="{{ site.base-url }}{{ page.url | remove_first:'/' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
           <p></p>
           <hr>
         </div>

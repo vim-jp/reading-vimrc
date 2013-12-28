@@ -25,7 +25,11 @@
 
       <section>
         <div id="title">
-          <a href="{{ site.base-url }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+          {% if page.url == '/index.html' %}
+              <a href="{{ site.base-url }}{{ page.url | remove_first:'/' | replace:'index.html','' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+          {% else %}
+              <a href="{{ site.base-url }}{{ page.url | remove_first:'/' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+          {% endif %}
           <p></p>
           <hr>
         </div>
