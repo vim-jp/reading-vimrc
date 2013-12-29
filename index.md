@@ -6,7 +6,7 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 第78回
+- 第79回
 - 日時: 1/4(土) 23時
 - vimrc: [eccyan](https://github.com/eccyan) さん
 
