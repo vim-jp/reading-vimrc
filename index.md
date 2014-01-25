@@ -6,7 +6,7 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 第82回
+- 第83回
 - 日時: 2/1(土) 23時
 - vimrc: [supermomonga](https://github.com/supermomonga) さん
 
