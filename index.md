@@ -6,9 +6,9 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 第83回
-- 日時: 2/1(土) 23時
-- vimrc: [supermomonga](https://github.com/supermomonga) さん
+- 第84回
+- 日時: 2/8(土) 23時
+- vimrc: [cocopon](https://github.com/cocopon) さん
 
 ### vimrc読書会とは
 オンラインで集まり、毎回みんなで特定の誰かの vimrc を読んで、気になるところやわからないところ、感心するところなどを好き勝手に言いあう集まりです。

@@ -87,5 +87,6 @@ title: 過去の開催 - vimrc読書会
 | [第80回](080.html) | 2013/01/11(土) 23:00- | [udadada](https://github.com/udadada/dotfiles/blob/0e7949ab14f95334a57d8589a17ba45ace1b4584/vim/.vimrc) さん              | [リンク](http://lingr.com/room/vim/archives/2014/01/11#message-18046571)
 | [第81回](081.html) | 2013/01/18(土) 23:00- | [raa0121](https://github.com/raa0121/dotfiles/blob/662261e9f241144792dd7e7c7618be75e8903082/.vimrc) さん                  | [リンク](http://lingr.com/room/vim/archives/2014/01/18#message-18117473)
 | [第82回](082.html) | 2013/01/25(土) 23:00- | [5t111111](https://github.com/5t111111/dotfiles/blob/1c1d913daaf50361c818a6d530e8d93b8efdd819/.vimrc) さん                | [リンク](http://lingr.com/room/vim/archives/2014/01/25#message-18179513)
+| [第83回](083.html) | 2013/02/01(土) 23:00- | [supermomonga](https://github.com/supermomonga/dotfiles/blob/9193b237080c1aada25277021993d9fe1072ce1f/.vimrc) さん        | [リンク](http://lingr.com/room/vim/archives/2014/02/01#message-18243233)
 
 [トップに戻る]({{ site.base-url }})
