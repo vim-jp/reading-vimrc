@@ -7,8 +7,8 @@ title: vimrc読書会
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
 - 第84回
-- 日時: 2/8(土) 23時
-- vimrc: [cocopon](https://github.com/cocopon) さん
+- 日時: 2/15(土) 23時
+- vimrc: [haya14busa](https://github.com/haya14busa) さん (前編)
 
 ### vimrc読書会とは
 オンラインで集まり、毎回みんなで特定の誰かの vimrc を読んで、気になるところやわからないところ、感心するところなどを好き勝手に言いあう集まりです。
