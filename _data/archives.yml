@@ -24,10 +24,13 @@
     - rbtnn
     - thinca
   log: http://lingr.com/room/vim/archives/2014/02/15#message-18358061
-  other: その他何か特記事項があればここに書く
+  links:
+    - http://chopapp.com/#ebxfqbi
+  other: 何か特記事項があればここに書ける。<br>
+         ただ直接XXX.mdを編集したほうがよさげか
 
 - id: 87
-  date: 2014-02-29 23:00
+  date: 2014-03-01 23:00
   author:
     name: decochan
     url: https://github.com/haya14busa
@@ -38,4 +41,4 @@
   members:
     - haya14busa
   log: http://lingr.com/room/vim/archives/2014/02/15#message-18358061
-  other: その他何か特記事項があればここに書く
+  other:
