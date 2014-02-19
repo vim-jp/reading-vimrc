@@ -26,10 +26,9 @@
 #=============================================================================
 
 import os
+import sys
 import urllib
 import yaml
-
-VIMPLUGIN_YML_URL = 'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimplugin/yml'
 
 
 def readFile(filename):
@@ -62,9 +61,7 @@ def readURL(url):
 
 
 def getRootPath():
-    '''
-    ROOT_PATH/scripts/__file__
-    '''
+    ''' ROOT_PATH/scripts/__file__ '''
     return os.path.dirname(os.path.dirname(__file__))
 
 
@@ -72,32 +69,56 @@ def text2yaml(text):
     return yaml.load(text)
 
 
+class VimrcArchive(object):
+    def __init__(self):
+        # Global Config
+        self.ROOT_PATH = getRootPath()
+        self.YAML_URL = 'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimplugin/yml'
+
+        self.setYamlInfo()
+        self.setMDInfo()
+
+    def setYamlInfo(self):
+        # _data/archives.yml
+        self.yml_path = os.path.join(self.ROOT_PATH, '_data', 'archives.yml')
+        self.yml_txt = self.fetchYamlURL()
+        self.yml = self.convertText2Yaml(self.yml_txt)
+        self._id = self.yml[0]['id']
+
+    def setMDInfo(self):
+        if not self._id:
+            self.setYamlInfo()
+
+        # archive/xxx.md
+        self.template_path = os.path.join(self.ROOT_PATH, 'scripts',
+                                          'TEMPLATE_XXX_MD.md')
+        self.template_text = readFile(self.template_path)
+
+        self.archive_md = self.template_text.format(id=str(self._id))
+        self.archive_path = os.path.join(self.ROOT_PATH, 'archive',
+                                         str(self._id).rjust(3, '0') + '.md')
+
+    def fetchYamlURL(self):
+        return readURL(self.YAML_URL)
+
+    def convertText2Yaml(self, text):
+        return text2yaml(text)
+
+    def appendYaml(self):
+        writeFileAppend(self.yml_path, self.yml_txt)
+
+    def addArchive(self):
+        writeFile(self.archive_path, self.archive_md)
+
+
 def main():
-    # Get root path
-    ROOT_PATH = getRootPath()
+    archive = VimrcArchive()
+    if not archive._id > 0:
+        print 'It seems heroku doesn\'t work correctly'
+        # sys.exit()
 
-    # Get template text for next archives/\d\d\d.md
-    template_file_path = os.path.join(
-        ROOT_PATH, 'scripts', 'TEMPLATE_XXX_MD.md')
-    TEMPLATE_XXX_MD = readFile(template_file_path)
-
-    # Fetch yaml text of archive
-    archive_txt = readURL(VIMPLUGIN_YML_URL)
-
-    # Append archive info to _data/archives.yml
-    archives_yml_path = os.path.join(ROOT_PATH, '_data', 'archives.yml')
-    writeFileAppend(archives_yml_path, archive_txt)
-
-    # Generate markdown text
-    # Convert text to yaml and get archive_id
-    archive_yml = text2yaml(archive_txt)
-    archive_id = archive_yml[0]['id']
-    archive_md = TEMPLATE_XXX_MD.format(id=str(archive_id))
-
-    archive_md_path = os.path.join(ROOT_PATH, 'archive',
-                                   str(archive_id).rjust(3, '0') + '.md')
-
-    writeFile(archive_md_path, archive_md)
+    archive.appendYaml()
+    archive.addArchive()
 
 
 if __name__ == '__main__':
