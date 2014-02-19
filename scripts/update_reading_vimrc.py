@@ -32,6 +32,9 @@ import urllib.request
 # import yaml
 import re
 
+YAML_URL = \
+    'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimplugin/yml'
+
 TEMPLATE_TEXT = '''\
 ---
 layout: archive
@@ -52,7 +55,6 @@ END_MESSEAGE = '''\
 5. Wikiから今日読んだvimrcを削除
 6. お疲れ様でした:)
 ============='''
-
 
 
 def readFile(filename):
@@ -86,7 +88,7 @@ def readURL(url):
 
 def getRootPath():
     ''' ROOT_PATH/scripts/__file__ '''
-    return os.path.dirname(os.path.dirname(__file__))
+    return os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 
 # def text2yaml(text):
@@ -97,7 +99,7 @@ class VimrcArchive(object):
     def __init__(self):
         # Global Config
         self.ROOT_PATH = getRootPath()
-        self.YAML_URL = 'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimplugin/yml'
+        self.YAML_URL = YAML_URL
         self.template_text = TEMPLATE_TEXT
 
     def setYamlInfo(self):
@@ -106,7 +108,8 @@ class VimrcArchive(object):
         self.yml_txt = readURL(self.YAML_URL)
         # self.yml = self.convertText2Yaml(self.yml_txt)
         # self.id_ = self.yml[0]['id']
-        self.id_ = int(re.search(r'(?<!^- id:)\d+(?<!$)', self.yml_txt).group(0))
+        self.id_ = int(re.search(r'(?<!^- id:)\d+(?<!$)',
+                                 self.yml_txt).group(0))
 
     def setMDInfo(self):
         # archive/xxx.md
