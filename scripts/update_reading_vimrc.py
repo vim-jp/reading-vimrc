@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # FILE: /home/haya14busa/.vim_junk/2014/02/2014-02-19-134305.py
 # AUTHOR: haya14busa
@@ -27,7 +27,8 @@
 
 import os
 # import sys
-import urllib
+# import urllib
+import urllib.request
 # import yaml
 import re
 
@@ -79,8 +80,8 @@ def writeFileAppend(filename, content):
 
 
 def readURL(url):
-    f = urllib.urlopen(url)
-    return f.read()
+    f = urllib.request.urlopen(url)
+    return f.read().decode("utf-8")
 
 
 def getRootPath():
@@ -88,8 +89,8 @@ def getRootPath():
     return os.path.dirname(os.path.dirname(__file__))
 
 
-def text2yaml(text):
-    return yaml.load(text)
+# def text2yaml(text):
+    # return yaml.load(text)
 
 
 class VimrcArchive(object):
@@ -102,7 +103,7 @@ class VimrcArchive(object):
     def setYamlInfo(self):
         # _data/archives.yml
         self.yml_path = os.path.join(self.ROOT_PATH, '_data', 'archives.yml')
-        self.yml_txt = self.fetchYamlURL()
+        self.yml_txt = readURL(self.YAML_URL)
         # self.yml = self.convertText2Yaml(self.yml_txt)
         # self.id_ = self.yml[0]['id']
         self.id_ = int(re.search(r'(?<!^- id:)\d+(?<!$)', self.yml_txt).group(0))
@@ -113,11 +114,8 @@ class VimrcArchive(object):
         self.archive_path = os.path.join(self.ROOT_PATH, 'archive',
                                          str(self.id_).rjust(3, '0') + '.md')
 
-    def fetchYamlURL(self):
-        return readURL(self.YAML_URL)
-
-    def convertText2Yaml(self, text):
-        return text2yaml(text)
+    # def convertText2Yaml(self, text):
+        # return text2yaml(text)
 
     def appendYaml(self):
         writeFileAppend(self.yml_path, self.yml_txt)
