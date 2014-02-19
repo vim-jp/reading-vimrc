@@ -42,3 +42,18 @@
     - haya14busa
   log: http://lingr.com/room/vim/archives/2014/02/15#message-18358061
   other:
+
+- id: 87
+  date: 2014-03-01 23:00
+  author:
+    name: decochan
+    url: https://github.com/haya14busa
+  vimrcs:
+    - name: gvimrc
+      url: https://github.com/haya14busa/dotfiles/blob/be8937e097af4666a4057090b79792acc137fca1/.gvimrc
+  part:
+  members:
+    - haya14busa
+  log: http://lingr.com/room/vim/archives/2014/02/15#message-18358061
+  links:
+  other:
