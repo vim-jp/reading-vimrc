@@ -26,9 +26,32 @@
 #=============================================================================
 
 import os
-import sys
+# import sys
 import urllib
-import yaml
+# import yaml
+import re
+
+TEMPLATE_TEXT = '''\
+---
+layout: archive
+title: 第{id_}回 vimrc読書会
+id: {id_}
+category: archive
+---
+{{% include archive.md %}}
+'''
+
+END_MESSEAGE = '''\
+=============
+この後の手順
+1. _data/next.yml を編集
+2. jekyll serve -w -b /reading-vimrc/
+3. http://localhost:4000/reading-vimrc/ を確認
+4. git diff, git commit -vなどで確認した上で、commit & push
+5. Wikiから今日読んだvimrcを削除
+6. お疲れ様でした:)
+============='''
+
 
 
 def readFile(filename):
@@ -74,29 +97,21 @@ class VimrcArchive(object):
         # Global Config
         self.ROOT_PATH = getRootPath()
         self.YAML_URL = 'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimplugin/yml'
-
-        self.setYamlInfo()
-        self.setMDInfo()
+        self.template_text = TEMPLATE_TEXT
 
     def setYamlInfo(self):
         # _data/archives.yml
         self.yml_path = os.path.join(self.ROOT_PATH, '_data', 'archives.yml')
         self.yml_txt = self.fetchYamlURL()
-        self.yml = self.convertText2Yaml(self.yml_txt)
-        self._id = self.yml[0]['id']
+        # self.yml = self.convertText2Yaml(self.yml_txt)
+        # self.id_ = self.yml[0]['id']
+        self.id_ = int(re.search(r'(?<!^- id:)\d+(?<!$)', self.yml_txt).group(0))
 
     def setMDInfo(self):
-        if not self._id:
-            self.setYamlInfo()
-
         # archive/xxx.md
-        self.template_path = os.path.join(self.ROOT_PATH, 'scripts',
-                                          'TEMPLATE_XXX_MD.md')
-        self.template_text = readFile(self.template_path)
-
-        self.archive_md = self.template_text.format(id=str(self._id))
+        self.archive_md = self.template_text.format(id_=str(self.id_))
         self.archive_path = os.path.join(self.ROOT_PATH, 'archive',
-                                         str(self._id).rjust(3, '0') + '.md')
+                                         str(self.id_).rjust(3, '0') + '.md')
 
     def fetchYamlURL(self):
         return readURL(self.YAML_URL)
@@ -113,12 +128,20 @@ class VimrcArchive(object):
 
 def main():
     archive = VimrcArchive()
-    if not archive._id > 0:
-        print 'It seems heroku doesn\'t work correctly'
-        # sys.exit()
+    archive.setYamlInfo()
+    if archive.id_ > 0:
+        archive.appendYaml()
+        print('_data/archives.ymlをアップデートしました')
+    else:
+        print('herokuが動いていない、またはyamlの情報が正しくないようです')
+        archive.id_ = input('開催回数を入力してください: ')
+        print('**_data/archives.ymlを手動で更新してください**')
 
-    archive.appendYaml()
+    archive.setMDInfo()
     archive.addArchive()
+    print('archive/{id_}.mdを生成しました'.format(
+        id_=str(archive.id_).rjust(3, '0')))
+    print(END_MESSEAGE)
 
 
 if __name__ == '__main__':
