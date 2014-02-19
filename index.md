@@ -6,7 +6,7 @@ title: vimrc読書会
 ### 次回予告
 ※更新が遅れる場合、過去のものが掲載されている可能性があります。
 
-- 第84回
+- 第86回
 - 日時: 2/22(土) 23時
 - vimrc: [haya14busa](https://github.com/haya14busa) さん (後編)
 
