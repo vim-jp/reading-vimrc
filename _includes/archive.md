@@ -1,0 +1,45 @@
+{% for i in site.data.archives %}
+  {% if i.id == page.id %}
+    {% assign archive = i %}
+  {% endif %}
+{% endfor %}
+
+### 日時
+{{ archive.date | date: "%Y/%m/%d %a" }}
+
+### vimrc
+[{{ archive.author.name }}]({{ archive.author.url }}) さんの vimrc を読みました
+
+<ul>
+{% for vimrc in archive.vimrcs %}
+  <li><a href="{{ vimrc.url }}">{{ vimrc.name }}</a>
+      {% if vimrc.url contains 'github' %}
+      (<a href="{{ vimrc.url | remove_first:'blob/' | replace:'https://github.com','https://raw.github.com' }}">ダウンロード
+      </a>)
+      {% endif %}
+  </li>
+{% endfor %}
+</ul>
+
+### 参加者リスト
+
+{{ archive.members.size }} 名。
+
+<ul>
+{% for member in archive.members %}
+  <li>{{ member }}</li>
+{% endfor %}
+</ul>
+
+### ログ
+<{{ archive.log }}>
+
+### 関連リンク
+{% for link in archive.links %}
+  - <{{ link }}>
+{% endfor %}
+
+{% if archive.other %}
+### その他
+{{ archive.other }}
+{% endif %}
