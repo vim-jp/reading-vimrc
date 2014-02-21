@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # FILE: /home/haya14busa/.vim_junk/2014/02/2014-02-19-134305.py
 # AUTHOR: haya14busa
@@ -28,15 +28,14 @@
 import os
 # import sys
 # import urllib
-import urllib2, urllib
+import urllib.request
 # import yaml
 import re
-from io import open
 
 YAML_URL = \
-    u'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimrc/yml'
+    'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimrc/yml'
 
-TEMPLATE_TEXT = u'''\
+TEMPLATE_TEXT = '''\
 ---
 layout: archive
 title: 第{id_}回 vimrc読書会
@@ -46,7 +45,7 @@ category: archive
 {{% include archive.md %}}
 '''
 
-END_MESSEAGE = u'''\
+END_MESSEAGE = '''\
 =============
 この後の手順
 1. _data/next.yml を編集
@@ -59,7 +58,7 @@ END_MESSEAGE = u'''\
 
 
 def readFile(filename):
-    f = open(filename, u'r')
+    f = open(filename, 'r')
     try:
         return f.read()
     finally:
@@ -67,7 +66,7 @@ def readFile(filename):
 
 
 def writeFile(filename, content):
-    f = open(filename, u'w')
+    f = open(filename, 'w')
     try:
         f.write(content)
     finally:
@@ -75,7 +74,7 @@ def writeFile(filename, content):
 
 
 def writeFileAppend(filename, content):
-    f = open(filename, u'a')
+    f = open(filename, 'a')
     try:
         f.write(content)
     finally:
@@ -83,13 +82,13 @@ def writeFileAppend(filename, content):
 
 
 def readURL(url):
-    f = urllib2.urlopen(url)
-    return f.read().decode(u"utf-8")
+    f = urllib.request.urlopen(url)
+    return f.read().decode("utf-8")
 
 
 def getRootPath():
-    u''' ROOT_PATH/scripts/__file__ '''
-    return os.path.abspath(os.path.join(os.path.dirname(__file__), u'..'))
+    ''' ROOT_PATH/scripts/__file__ '''
+    return os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 
 # def text2yaml(text):
@@ -105,18 +104,18 @@ class VimrcArchive(object):
 
     def setYamlInfo(self):
         # _data/archives.yml
-        self.yml_path = os.path.join(self.ROOT_PATH, u'_data', u'archives.yml')
+        self.yml_path = os.path.join(self.ROOT_PATH, '_data', 'archives.yml')
         self.yml_txt = readURL(self.YAML_URL)
         # self.yml = self.convertText2Yaml(self.yml_txt)
         # self.id_ = self.yml[0]['id']
-        self.id_ = int(re.search(ur'(?<!^- id:)\d+(?<!$)',
+        self.id_ = int(re.search(r'(?<!^- id:)\d+(?<!$)',
                                  self.yml_txt).group(0))
 
     def setMDInfo(self):
         # archive/xxx.md
-        self.archive_md = self.template_text.format(id_=unicode(self.id_))
-        self.archive_path = os.path.join(self.ROOT_PATH, u'archive',
-                                         unicode(self.id_).rjust(3, u'0') + u'.md')
+        self.archive_md = self.template_text.format(id_=str(self.id_))
+        self.archive_path = os.path.join(self.ROOT_PATH, 'archive',
+                                         str(self.id_).rjust(3, '0') + '.md')
 
     # def convertText2Yaml(self, text):
         # return text2yaml(text)
@@ -133,18 +132,18 @@ def main():
     archive.setYamlInfo()
     if archive.id_ > 0:
         archive.appendYaml()
-        print u'_data/archives.ymlをアップデートしました'
+        print('_data/archives.ymlをアップデートしました')
     else:
-        print u'herokuが動いていない、またはyamlの情報が正しくないようです'
-        archive.id_ = raw_input(u'開催回数を入力してください: ')
-        print u'**_data/archives.ymlを手動で更新してください**'
+        print('herokuが動いていない、またはyamlの情報が正しくないようです')
+        archive.id_ = input('開催回数を入力してください: ')
+        print('**_data/archives.ymlを手動で更新してください**')
 
     archive.setMDInfo()
     archive.addArchive()
-    print u'archive/{id_}.mdを生成しました'.format(
-        id_=unicode(archive.id_).rjust(3, u'0'))
-    print END_MESSEAGE
+    print('archive/{id_}.mdを生成しました'.format(
+        id_=str(archive.id_).rjust(3, '0')))
+    print(END_MESSEAGE)
 
 
-if __name__ == u'__main__':
+if __name__ == '__main__':
     main()
