@@ -1,5 +1,5 @@
+# vim: expandtab softtabstop=2 shiftwidth=2
 # _data/next.yml
-
 - id: 86
   date: 2014-02-22 23:00
   author:
@@ -9,26 +9,16 @@
     - name: vimrc
       url: https://github.com/haya14busa/dotfiles/blob/master/.vimrc
       hash: be8937e097af4666a4057090b79792acc137fca1
-    - name: gvimrc # 分割vimrcも対応
-      url: https://github.com/haya14busa/dotfiles/blob/master/.gvimrc
-      hash: # 省略可
-  part: 後編 # 省略可
-  other: その他何か特記事項があればここにかける
-
-# さらにそれ移行のものも書いておける
+  part: 後編
+  other:
 - id: 87
   date: 2014-03-01 23:00
   author:
-    name: decochan
-    url: https://github.com/haya14busa
+    name:
+    url:
   vimrcs:
     - name: vimrc
-      url: https://github.com/haya14busa/dotfiles/blob/master/.vimrc
-      hash: be8937e097af4666a4057090b79792acc137fca1
-    - name: gvimrc # 分割vimrcも対応
-      url: https://github.com/haya14busa/dotfiles/blob/master/.gvimrc
-      hash:
-  part:
-  other:
-
-# vim: expandtab softtabstop=2 shiftwidth=2
+      url:
+      hash: #省略可
+  part: #省略可
+  other: #省略可
