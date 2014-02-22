@@ -1,2 +1,26 @@
 # vim: expandtab softtabstop=2 shiftwidth=2
 # archive.yml
+- id: 85
+  date: 2014-02-15 23:00
+  author:
+    name: haya14busa
+    url: https://github.com/haya14busa
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/haya14busa/dotfiles/blob/be8937e097af4666a4057090b79792acc137fca1/.vimrc
+  part: 前編
+  other:
+  members:
+    - Lindan
+    - deris0126
+    - haya14busa
+    - hotoolong
+    - lisia
+    - manga_osyo
+    - mattn
+    - raa0121
+    - rbtnn
+    - thinca
+  log: http://lingr.com/room/vim/archives/2014/02/15#message-18358061
+  links:
+    - http://chopapp.com/#ebxfqbi

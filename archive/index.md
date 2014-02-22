@@ -517,12 +517,6 @@ title: 過去の開催 - vimrc読書会
 <td> <a href="https://github.com/cocopon/dotfiles/blob/978df1c7b9f239937d3670482c37b16f2d301e06/.vimrc">cocopon</a> さん                  </td>
 <td> <a href="http://lingr.com/room/vim/archives/2014/02/08#message-18301703">ログ</a></td>
 </tr>
-<tr>
-<td> <a href="085.html">第85回</a> </td>
-<td> 2013/02/15 (土) 23:00- </td>
-<td> <a href="https://github.com/haya14busa/dotfiles/blob/be8937e097af4666a4057090b79792acc137fca1/.vimrc">haya14busa</a> さん (前編)     </td>
-<td> <a href="http://lingr.com/room/vim/archives/2014/02/15#message-18358061">ログ</a></td>
-</tr>
 {% for archive in site.data.archives %}
   {% if archive.id < 10 %}
     {% assign htmlname = archive.id | prepend: '00'  %}
