@@ -3,12 +3,43 @@ layout: default
 title: vimrc読書会
 ---
 
-### 次回予告
-※更新が遅れる場合、過去のものが掲載されている可能性があります。
+<div class='next-vimrc'>
+  {% assign next = site.data.next[0] %}
+  <h3>次回予告</h3>
+  <ul>
+    <li>第{{ next.id }}回</li>
+    {% assign d = next.date | date: "%a" %}
+    <li>日時: <span class='date'>
+                {{ next.date | date: "%Y/%m/%d " }}
+                {% case d %}
+                  {% when "Mon" %}(月)
+                  {% when "Tue" %}(火)
+                  {% when "Wed" %}(水)
+                  {% when "Thu" %}(木)
+                  {% when "Fri" %}(金)
+                  {% when "Sat" %}(土)
+                  {% when "San" %}(日)
+                  {% else %}{{ d }}
+                  {% endcase %}
+                {{ next.date | date: " %H:%M" }}
+              </span>
+    </li>
+    <li>場所: <a href="http://lingr.com/room/vim">LingrのVim部屋</a></li>
+    <li>vimrc: <a href="{{ next.author.url }}"> {{ next.author.name }}</a> さん
+        {% if next.part %} ({{ next.part }}) {% endif %}
+    </li>
+      <ul>
+        {% for vimrc in next.vimrcs %}
+           <li><a href="{{ vimrc.url }}">{{ vimrc.name }}</a></li>
+        {% endfor %}
+      </ul>
+  </ul>
+  {% if next.other %}
+    <p>{{ next.other }}</p>
+  {% endif %}
 
-- 第86回
-- 日時: 2/22(土) 23時
-- vimrc: [haya14busa](https://github.com/haya14busa) さん (後編)
+  <p>※更新が遅れる場合、過去のものが掲載されている可能性があります。</p>
+</div>
 
 ### vimrc読書会とは
 オンラインで集まり、毎回みんなで特定の誰かの vimrc を読んで、気になるところやわからないところ、感心するところなどを好き勝手に言いあう集まりです。

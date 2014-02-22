@@ -1,2 +1,5 @@
 markdown: rdiscount
 base-url: /reading-vimrc/
+encoding: utf-8
+exclude:
+  - 'scripts'
