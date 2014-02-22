@@ -8,7 +8,22 @@ title: vimrc読書会
   <h3>次回予告</h3>
   <ul>
     <li>第{{ next.id }}回</li>
-    <li>日時: <span class='date'>{{ next.date | date: "%Y/%m/%d %a %H:%M" }}</span></li>
+    {% assign d = next.date | date: "%a" %}
+    <li>日時: <span class='date'>
+                {{ next.date | date: "%Y/%m/%d " }}
+                {% case d %}
+                  {% when "Mon" %}(月)
+                  {% when "Tue" %}(火)
+                  {% when "Wed" %}(水)
+                  {% when "Thu" %}(木)
+                  {% when "Fri" %}(金)
+                  {% when "Sat" %}(土)
+                  {% when "San" %}(日)
+                  {% else %}{{ d }}
+                  {% endcase %}
+                {{ next.date | date: " %H:%M" }}
+              </span>
+    </li>
     <li>場所: <a href="http://lingr.com/room/vim">LingrのVim部屋</a></li>
     <li>vimrc: <a href="{{ next.author.url }}"> {{ next.author.name }}</a> さん
         {% if next.part %} ({{ next.part }}) {% endif %}

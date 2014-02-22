@@ -5,7 +5,19 @@
 {% endfor %}
 
 ### 日時
-{{ archive.date | date: "%Y/%m/%d %a" }}
+{% assign d = archive.date | date: "%a" %}
+{{ archive.date | date: "%Y/%m/%d" }}
+{% case d %}
+  {% when "Mon" %}(月)
+  {% when "Tue" %}(火)
+  {% when "Wed" %}(水)
+  {% when "Thu" %}(木)
+  {% when "Fri" %}(金)
+  {% when "Sat" %}(土)
+  {% when "San" %}(日)
+  {% else %}{{ d }}
+  {% endcase %} {{ archive.date | date: "%H:%M" }}-
+
 
 ### vimrc
 [{{ archive.author.name }}]({{ archive.author.url }}) さんの vimrc を読みました
