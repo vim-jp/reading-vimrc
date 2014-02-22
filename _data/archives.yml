@@ -24,3 +24,23 @@
   log: http://lingr.com/room/vim/archives/2014/02/15#message-18358061
   links:
     - http://chopapp.com/#ebxfqbi
+- id: 86
+  date: 2014-02-22 23:00
+  author:
+    name: haya14busa
+    url: https://github.com/haya14busa
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/haya14busa/dotfiles/blob/be8937e097af4666a4057090b79792acc137fca1/.vimrc
+  part: 後編
+  other: 
+  members:
+  - haya14busa
+  - hokorobi
+  - hotoolong
+  - manga_osyo
+  - supermomonga
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/02/22#message-18419881
+  links:
+  - http://chopapp.com/#fp3emn2p
