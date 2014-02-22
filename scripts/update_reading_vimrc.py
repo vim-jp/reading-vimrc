@@ -50,7 +50,7 @@ END_MESSEAGE = u'''\
 =============
 この後の手順
 1. _data/next.yml を編集
-2. jekyll serve -w -b /reading-vimrc/
+2. ./scripts/jekyll_serve.sh
 3. http://localhost:4000/reading-vimrc/ を確認
 4. git diff, git commit -vなどで確認した上で、commit & push
 5. Wikiから今日読んだvimrcを削除
