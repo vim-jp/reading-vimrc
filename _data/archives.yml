@@ -44,3 +44,21 @@
   log: http://lingr.com/room/vim/archives/2014/02/22#message-18419881
   links:
   - http://chopapp.com/#fp3emn2p
+- id: 87
+  date: 2014-03-01 23:00
+  author:
+    name: toupeira
+    url: https://github.com/toupeira
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/toupeira/dotfiles/blob/4accee8bd72021c7e44f4e27d7acfe0be2ffeb7e/vim/vimrc
+  other: 
+  members:
+  - Lindan
+  - manga_osyo
+  - mattn
+  - msmhrt
+  - supermomonga
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/03/01#message-18475364
+  links: 

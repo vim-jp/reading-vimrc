@@ -1,22 +1,13 @@
 # vim: expandtab softtabstop=2 shiftwidth=2
 # _data/next.yml
-- id: 87
-  date: 2014-03-01 23:00
-  author:
-    name: toupeira
-    url: https://github.com/toupeira
-  vimrcs:
-    - name: vimrc
-      url: https://github.com/toupeira/dotfiles/blob/master/vim/vimrc
-  other:
 - id: 88
   date: 2014-03-08 23:00
   author:
-    name:
-    url:
+    name: januswel
+    url: https://github.com/januswel
   vimrcs:
     - name: vimrc
-      url:
+      url: https://github.com/januswel/dotfiles/blob/master/.vimrc
       hash: #省略可
   part: #省略可
   other: #省略可
