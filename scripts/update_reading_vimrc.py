@@ -32,6 +32,8 @@ import urllib2, urllib
 # import yaml
 import re
 from io import open
+import codecs
+
 
 YAML_URL = \
     u'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimrc/yml'
@@ -59,7 +61,7 @@ END_MESSEAGE = u'''\
 
 
 def readFile(filename):
-    f = open(filename, u'r')
+    f = codecs.open(filename, u'r', 'utf-8')
     try:
         return f.read()
     finally:
@@ -67,7 +69,7 @@ def readFile(filename):
 
 
 def writeFile(filename, content):
-    f = open(filename, u'w')
+    f = codecs.open(filename, u'w', 'utf-8')
     try:
         f.write(content)
     finally:
@@ -75,7 +77,7 @@ def writeFile(filename, content):
 
 
 def writeFileAppend(filename, content):
-    f = open(filename, u'a')
+    f = codecs.open(filename, u'a', 'utf-8')
     try:
         f.write(content)
     finally:
