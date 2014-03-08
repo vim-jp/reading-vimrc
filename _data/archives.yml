@@ -62,3 +62,23 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/03/01#message-18475364
   links: 
+- id: 88
+  date: 2014-03-08 23:00
+  author:
+    name: januswel
+    url: https://github.com/januswel
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/januswel/dotfiles/blob/752d2f1cee57c0221a894259cee76ef3dc0b1563/.vimrc
+  part: 
+  other: 
+  members:
+  - anekos
+  - crazymaster
+  - hotoolong
+  - lisia
+  - manga_osyo
+  - supermomonga
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/03/08#message-18533769
+  links: 
