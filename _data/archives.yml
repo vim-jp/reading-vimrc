@@ -82,3 +82,25 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/03/08#message-18533769
   links: 
+- id: 89
+  date: 2014-03-15 23:00
+  author:
+    name: dsummersl
+    url: https://github.com/dsummersl
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/dsummersl/dotvim/blob/1226f2ef26cd5e4145bcb5372c946c86c964dfc6/_vimrc
+  part: 
+  other: 
+  members:
+  - daisuzu
+  - haya14busa
+  - lisia
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - rusk
+  - supermomonga
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/03/15#message-18588139
+  links: 
