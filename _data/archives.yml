@@ -104,3 +104,26 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/03/15#message-18588139
   links: 
+- id: 90
+  date: 2014-03-22 23:00
+  author:
+    name: Layzie
+    url: https://github.com/Layzie
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/Layzie/dotfiles/blob/7a771a73f39fe64a5623e0b8e47d176a38a99410/.vimrc
+  part: 
+  other: 
+  members:
+  - deris0126
+  - haya14busa
+  - kmdsbng
+  - manga_osyo
+  - mattn
+  - msmhrt
+  - raa0121
+  - rusk
+  - tatt61880
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/03/22#message-18633072
+  links: 
