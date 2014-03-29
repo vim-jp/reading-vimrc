@@ -127,3 +127,29 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/03/22#message-18633072
   links: 
+- id: 91
+  date: 2014-03-29 23:00
+  author:
+    name: faceleg
+    url: https://github.com/faceleg
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/faceleg/dotfiles/blob/ced582ac01f789d04dfe43cf543578841056438d/configuration/vimrc
+  part: 
+  other: 
+  members:
+  - aomoririnqo
+  - deris0126
+  - haya14busa
+  - hotoolong
+  - kanno
+  - lisia
+  - manga_osyo
+  - mattn
+  - msmhrt
+  - rusk
+  - s_of_p
+  - tek_koc
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/03/29#message-18683041
+  links: 

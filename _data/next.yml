@@ -1,13 +1,13 @@
 # vim: expandtab softtabstop=2 shiftwidth=2
 # _data/next.yml
-- id: 91
-  date: 2014-03-29 23:00
+- id: 92
+  date: 2014-04-06 23:00
   author:
-    name: faceleg
-    url: https://github.com/faceleg
+    name: reedes
+    url: https://github.com/reedes
   vimrcs:
     - name: vimrc
-      url: https://github.com/faceleg/dotfiles/blob/master/configuration/vimrc
+      url: https://github.com/reedes/vim-config/blob/master/vimrc
       hash: #省略可
   part: #省略可
   other: #省略可
