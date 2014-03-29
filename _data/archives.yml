@@ -1,155 +1,2292 @@
 # vim: expandtab softtabstop=2 shiftwidth=2
 # archive.yml
-- id: 85
-  date: 2014-02-15 23:00
+- id: 1
+  date: 2012-07-10 23:00
   author:
-    name: haya14busa
-    url: https://github.com/haya14busa
+    name: alwei
+    url: 
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/alwei/dotfiles/blob/3760650625663f3b08f24bc75762ec843ca7e112/.vimrc
+  part: 
+  other: 
+  members:
+    - LeafCage
+    - Lindan
+    - anekos
+    - bgnori
+    - d6rkaiz
+    - daisuzu
+    - ka
+    - manga_osyo
+    - rbtnn
+    - thinca
+    - ujihisa
+  log: http://lingr.com/room/vim/archives/2012/07/10#message-10607857
+  links:
+    - http://d.hatena.ne.jp/thinca/20120713/1342116499
+- id: 2
+  date: 2012-07-14 23:00
+  author:
+    name: anekos
+    url: 
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/anekos/my-config/blob/0afcd78455743a4d3fad31674136428052dc6ebe/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - KMNK
+    - Lindan
+    - NPoi
+    - Shaula
+    - Shougo
+    - anekos
+    - basyura
+    - bgnori
+    - bouzuya
+    - daisuzu
+    - deris0126
+    - guyon
+    - hamaco
+    - heavenshell
+    - kozo2
+    - manga_osyo
+    - phyllite
+    - raiden325
+    - rbtnn
+    - shim0mura
+    - shiracha
+    - symmet
+    - thinca
+    - wiredool
+    - yomi322
+    - yyatsuo
+  log: http://lingr.com/room/vim/archives/2012/07/14#message-10685723
+  links:
+    - http://d.hatena.ne.jp/thinca/20120715/1342292425
+    - http://d.hatena.ne.jp/osyo-manga/20120716/1342444817
+    - http://d.hatena.ne.jp/kanno_kanno/20120714/1342286212
+- id: 3
+  date: 2012-07-22 00:00
+  author:
+    name: sigwyg
+    url: 
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/sigwyg/dotfiles/blob/8c70c4032ebad90a8d92b76b1c5d732f28559e40/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - LeafCage
+    - Lindan
+    - anekos
+    - basyura
+    - bgnori
+    - kanno_kanno
+    - manga_osyo
+    - mattn
+    - raiden325
+    - rbtnn
+    - shim0mura
+    - symmet
+    - thinca
+    - umey111
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/07/21#message-10858279
+  links:
+    - http://d.hatena.ne.jp/thinca/20120722/1342898788
+    - http://d.hatena.ne.jp/osyo-manga/20120722/1342962261
+    - http://d.hatena.ne.jp/kanno_kanno/20120721/1342895699
+- id: 4
+  date: 2012-07-28 23:00
+  author:
+    name: basyura
+    url: 
   vimrcs:
   - name: vimrc
-    url: https://github.com/haya14busa/dotfiles/blob/be8937e097af4666a4057090b79792acc137fca1/.vimrc
-  part: 前編
-  other:
+    url: https://github.com/basyura/vimfiles/blob/ee086f25b8c58b8ea6bf025d26ebc11ae50e6ca1/rc/vimrc
+  part: 
+  other: 
   members:
+    - Jagua
     - Lindan
+    - Shaula
+    - Shougo
+    - anekos
+    - basyura
+    - bouzuya
+    - daisuzu
+    - kanno_kanno
+    - manga_osyo
+    - rbtnn
+    - shiracha
+    - thinca
+    - umeyee
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/07/28#message-11029511
+  links:
+    - http://d.hatena.ne.jp/thinca/20120729/1343570370
+    - http://d.hatena.ne.jp/osyo-manga/20120729/1343493297
+    - http://d.hatena.ne.jp/kanno_kanno/20120728/1343495908
+- id: 5
+  date: 2012-08-04 23:00
+  author:
+    name: osyo-manga
+    url: 
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/osyo-manga/vimrc/blob/9ef0ca9757abcdaa11c76024aa551f0b473624bf/vimrcs/default/vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Jagua
+    - LeafCage
+    - Lindan
+    - Shaula
+    - Shougo
+    - TKinugasa
+    - _nishigori
+    - basyura
+    - bouzuya
+    - daisuzu
     - deris0126
-    - haya14busa
-    - hotoolong
-    - lisia
+    - hamaco
+    - kanno_kanno
+    - manga_osyo
+    - mattn
+    - raiden325
+    - rbtnn
+    - sgur
+    - thinca
+    - umeyee
+    - wiredool
+    - yomi322
+  log: http://lingr.com/room/vim/archives/2012/08/04#message-11191304
+  links:
+    - http://d.hatena.ne.jp/thinca/20120805/1344111915
+    - http://d.hatena.ne.jp/osyo-manga/20120805/1344157921
+    - http://d.hatena.ne.jp/kanno_kanno/20120805/1344115812
+- id: 6
+  date: 2012-08-11 23:00
+  author:
+    name: rhysd
+    url: https://github.com/rhysd
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/rhysd/dotfiles/blob/8228ebaeab0e022ee7161d0eb9fc633876b0be41/vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - Lindan
+    - Shougo
+    - wiredool
+    - deris0126
+    - rbtnn
+    - ryutorion
+    - mattn
+    - manga_osyo
+    - thinca
+    - shiracha
+  log: http://lingr.com/room/vim/archives/2012/08/11#message-11349514
+  links:
+    - http://d.hatena.ne.jp/osyo-manga/20120812/1344702200
+- id: 7
+  date: 2012-08-18 23:00
+  author:
+    name: ebc-2in2crc
+    url: https://github.com/ebc-2in2crc
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/ebc-2in2crc/vimrc/blob/f1ed88bf0d3668ebf8d702def40625d435f545cd/_vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Asaka
+    - Lindan
+    - Shougo
+    - anekos
+    - basyura
+    - cointoss1973
+    - daisuzu
+    - deris0126
+    - ebc_2in2crc
+    - manga_osyo
+    - raiden325
+    - rbtnn
+    - sgur
+    - tek_koc
+    - thinca
+    - wiredool
+    - y_sumida
+    - yomi322
+  log: http://lingr.com/room/vim/archives/2012/08/18#message-11492279
+  links:
+    - http://d.hatena.ne.jp/osyo-manga/20120819/1345340766
+    - http://d.hatena.ne.jp/ebc_2in2crc/20120819/1345380039
+- id: 8
+  date: 2012-08-25 23:00
+  author:
+    name: rbtnn
+    url: https://github.com/rbtnn
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/rbtnn/reading-vimrc/blob/a92dae61200f50bd771f3a30c4f5fa06738c9aac/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - LeafCage
+    - Lindan
+    - Shougo
+    - daisuzu
+    - deris0126
+    - ebc_2in2crc
+    - grauwoelfchen
+    - kocha2012
+    - manga_osyo
+    - raa0121
+    - rbtnn
+    - tek_koc
+    - thinca
+    - ujihisa
+    - umeyee
+    - wiredool
+    - y_sumida
+    - yomi322
+    - yyatsuo
+  log: http://lingr.com/room/vim/archives/2012/08/25#message-11620456
+  links:
+- id: 9
+  date: 2012-09-01 23:00
+  author:
+    name: ujihisa
+    url: https://github.com/ujihisa
+  vimrcs:
+  - name: _vimrc
+    url: https://github.com/ujihisa/config/blob/8c513ac93429e27ce27e6020a7d48e728b809169/_vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - LeafCage
+    - Shaula
+    - Shougo
+    - anekos
+    - daisuzu
+    - deris0126
+    - ebc_2in2crc
+    - grauwoelfchen
     - manga_osyo
     - mattn
     - raa0121
     - rbtnn
     - thinca
-  log: http://lingr.com/room/vim/archives/2014/02/15#message-18358061
+    - ujihisa
+    - umeyee
+    - wiredool
+    - yomi322
+  log: http://lingr.com/room/vim/archives/2012/09/01#message-11718033
   links:
-    - http://chopapp.com/#ebxfqbi
+- id: 10
+  date: 2012-09-09 00:00
+  author:
+    name: thinca
+    url: https://github.com/thinca
+  vimrcs:
+  - name: vimrc
+    url: https://gist.github.com/3666285
+  - name: bundle.vim
+    url: https://gist.github.com/3675965
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Jagua
+    - LeafCage
+    - Lindan
+    - Shaula
+    - Shougo
+    - d6rkaiz
+    - daisuzu
+    - grauwoelfchen
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - sgur
+    - thinca
+    - ujihisa
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/09/08#message-11827882
+  links:
+- id: 11
+  date: 2012-09-15 23:00
+  author:
+    name: thinca
+    url: https://github.com/thinca
+  vimrcs:
+  - name: vimrc
+    url: https://gist.github.com/3666285
+  - name: bundle.vim
+    url: https://gist.github.com/3675965
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Lindan
+    - bgnori
+    - deris0126
+    - ebc_2in2crc
+    - grauwoelfchen
+    - manga_osyo
+    - rbtnn
+    - thinca
+    - ujihisa
+    - umeyee
+    - wiredool
+    - y_sumida
+  log: http://lingr.com/room/vim/archives/2012/09/15#message-11945510
+  links:
+    - http://d.hatena.ne.jp/leafcage/20120916/1347733917
+- id: 12
+  date: 2012-09-22 23:00
+  author:
+    name: LeafCage
+    url: https://github.com/LeafCage
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/LeafCage/dotfiles/blob/fa632dee5afaadf7e61ad2cc180f765f2e3a3c01/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - LeafCage
+    - Lindan
+    - bgnori
+    - d6rkaiz
+    - deris0126
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - thinca
+    - ujihisa
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/09/22#message-12081555
+  links:
+    - http://d.hatena.ne.jp/leafcage/20120923/1348403652
+- id: 13
+  date: 2012-09-29 23:00
+  author:
+    name: sorah
+    url: https://github.com/sorah/
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/sorah/config/blob/c6d78ced9342b5ae72d2a5d86bfd609184a0fa8a/vim/dot.vimrc
+  part: 
+  other: 
+  members:
+    - bgnori
+    - d6rkaiz
+    - daisuzu
+    - deris0126
+    - grauwoelfchen
+    - hecomi
+    - manga_osyo
+    - LeafCage
+    - Lindan
+    - raa0121
+    - rbtnn
+    - shim0mura
+    - thinca
+    - umeyee
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/09/29#message-12207282
+  links:
+- id: 14
+  date: 2012-10-06 23:00
+  author:
+    name: tyru
+    url: https://github.com/tyru
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vimrc
+  - name: init.vim
+    url: https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim
+  part: 
+  other: 
+  members:
+    - Lindan
+    - d6rkaiz
+    - daisuzu
+    - deris0126
+    - kanno_kanno
+    - manga_osyo
+    - raa0121
+    - rbtnn
+    - saihoooooooo
+    - shim0mura
+    - thinca
+    - tyru
+    - umeyee
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/10/06#message-12325135
+  links:
+- id: 15
+  date: 2012-10-13 23:00
+  author:
+    name: tyru
+    url: https://github.com/tyru
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vimrc
+  - name: init.vim
+    url: https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - LeafCage
+    - Shaula
+    - bgnori
+    - deris0126
+    - kanno_kanno
+    - manga_osyo
+    - mattn
+    - raa0121
+    - rbtnn
+    - thinca
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/10/13#message-12441046
+  links:
+- id: 16
+  date: 2012-10-20 23:00
+  author:
+    name: shim0mura
+    url: https://github.com/shim0mura
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/shim0mura/dotfiles/blob/0a1e64b7614b9b95a861de9451043d05c189fb24/.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Jagua
+    - Shaula
+    - bgnori
+    - daisuzu
+    - deris0126
+    - manga_osyo
+    - raa0121
+    - rbtnn
+    - saki7
+    - shim0mura
+    - tek_koc
+    - thinca
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/10/20#message-12556118
+  links:
+- id: 17
+  date: 2012-10-27 23:00
+  author:
+    name: glidenote
+    url: https://github.com/glidenote
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/glidenote/dotfiles/blob/c91f460edf84b3d3fa1a4a7ecb27d8d6e46bd562/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - KoRoN
+    - Lindan
+    - Shougo
+    - daisuzu
+    - deris0126
+    - grauwoelfchen
+    - hecomi
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - syngan
+    - thinca
+  log: http://lingr.com/room/vim/archives/2012/10/27#message-12673537
+  links:
+- id: 18
+  date: 2012-11-03 23:00
+  author:
+    name: cpfaff
+    url: https://github.com/cpfaff
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/cpfaff/vim-my-setup/blob/4fc6b9134ea4b5ac54b248887c9076bf44e66d92/vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - L271
+    - Vim
+    - bgnori
+    - daisuzu
+    - deris0126
+    - manga_osyo
+    - mattn
+    - raiden325
+    - rbtnn
+    - sachi_volta
+    - string
+    - thinca
+    - tyru
+    - ujihisa
+    - wiredool
+    - yuya_presto
+  log: http://lingr.com/room/vim/archives/2012/11/03#message-12785348
+  links:
+- id: 19
+  date: 2012-11-10 23:00
+  author:
+    name: kazuph
+    url: https://github.com/kazuph
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kazuph/dotfiles/blob/3a6454943c8142a67a58be27eb9885a7a48f9871/_vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - LeafCage
+    - Shougo
+    - deris0126
+    - kazuph
+    - rbtnn
+    - saki7
+    - thinca
+    - ujihisa
+    - wiredool
+    - yuya_presto
+  log: http://lingr.com/room/vim/archives/2012/11/10#message-12888729
+  links:
+- id: 20
+  date: 2012-11-17 23:00
+  author:
+    name: yomi322
+    url: https://github.com/yomi322
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/yomi322/config/blob/7a98be17babe150dc36b7018d1978403cd6be865/dot.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - Lindan
+    - Shaula
+    - deris0126
+    - mattn
+    - mopp
+    - raa0121
+    - rbtnn
+    - thinca
+    - ujihisa
+    - wiredool
+    - yomi322
+  log: http://lingr.com/room/vim/archives/2012/11/17#message-12946192
+  links:
+- id: 21
+  date: 2012-11-24 23:00
+  author:
+    name: tsukkee
+    url: https://github.com/tsukkee
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/tsukkee/config/blob/02c58fccf330abcbbbe8c25072487f315971bc27/vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Jagua
+    - LeafCage
+    - Lindan
+    - bgnori
+    - daisuzu
+    - deris0126
+    - manga_osyo
+    - raa0121
+    - raiden325
+    - rbtnn
+    - tek_koc
+    - thinca
+    - tsukkee
+    - ujihisa
+    - wiredool
+    - yuya_presto
+  log: http://lingr.com/room/vim/archives/2012/11/24#message-13012131
+  links:
+- id: 22
+  date: 2012-12-01 23:00
+  author:
+    name: wiredool
+    url: https://github.com/wiredool
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/wiredool/dotfiles/blob/806bb5b1225b5202aa7ee85f1e4e1350dfc64486/.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Lindan
+    - Shougo
+    - daisuzu
+    - deris0126
+    - rbtnn
+    - tek_koc
+    - thinca
+    - tsukkee
+    - ujihisa
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2012/12/01#message-13085824
+  links:
+- id: 23
+  date: 2012-12-08 23:00
+  author:
+    name: daisuzu
+    url: https://github.com/daisuzu
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/daisuzu/dotvim/blob/4e50bc5ec2b4a77f78f97f3c0cada8b08dff1031/.vimrc
+  part: 
+  other: 
+  members:
+    - deris0126
+    - Lindan
+    - manga_osyo
+    - daisuzu
+    - rbtnn
+    - wiredool
+    - thinca
+  log: http://lingr.com/room/vim/archives/2012/12/08#message-13176343
+  links:
+    - http://d.hatena.ne.jp/leafcage/20121218/1355804737
+- id: 24
+  date: 2012-12-15 23:00
+  author:
+    name: magicdrive
+    url: https://github.com/magicdrive
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/magicdrive/vimfiles/blob/1921a3d724d157d0dd6cdadd6ae358bf64eaf286/vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - Lindan
+    - wiredool
+    - bool_fool
+    - yomi322
+    - TKinugasa
+    - basyura
+    - jakalada
+    - magicdrive
+    - ujihisa
+    - manga_osyo
+    - yuya_presto
+    - thinca
+  log: http://lingr.com/room/vim/archives/2012/12/15#message-13266634
+  links:
+    - http://d.hatena.ne.jp/leafcage/20121218/1355804737
+- id: 25
+  date: 2012-12-22 23:00
+  author:
+    name: Lokaltog
+    url: https://github.com/Lokaltog
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/Lokaltog/vimfiles/blob/05d332c4acf559b2fa00df58aafe67f39f2d2d28/vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - Lindan
+    - bgnori
+    - bool_fool
+    - d6rkaiz
+    - kamichidu
+    - magicdrive
+    - manga_osyo
+    - raiden325
+    - rbtnn
+    - thinca
+    - yomi322
+  log: http://lingr.com/room/vim/archives/2012/12/22#message-13335428
+  links:
+- id: 26
+  date: 2012-12-29 23:00
+  author:
+    name: hrsh7th
+    url: https://github.com/hrsh7th
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/hrsh7th/dotfiles/blob/2f730fc91cd84761ad2f22e5b7e26711dcc5ebe4/vim/.vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - bool_fool
+    - deris0126
+    - hrsh7th
+    - manga_osyo
+    - rbtnn
+    - thinca
+    - yomi322
+  log: http://lingr.com/room/vim/archives/2012/12/29#message-13400888
+  links:
+- id: 27
+  date: 2013-01-05 23:00
+  author:
+    name: hecomi
+    url: https://github.com/hecomi
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/hecomi/dotfiles/blob/cb97269c96cc311b1f74771ea6b0ca7193d6e89b/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - bool_fool
+    - chikatoike
+    - hecomi
+    - hrsh7th
+    - itchyny
+    - raiden325
+    - thinca
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/01/05#message-13453756
+  links:
+- id: 28
+  date: 2013-01-12 23:00
+  author:
+    name: itchyny
+    url: https://github.com/itchyny
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/itchyny/dotfiles/blob/eba53c32ce05d410a46b00119f7a25341bd6cb37/.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Shougo
+    - anekos
+    - aoisensi
+    - bool_fool
+    - daisuzu
+    - deris0126
+    - grauwoelfchen
+    - hecomi
+    - itchyny
+    - jakalada
+    - manga_osyo
+    - raa0121
+    - rbtnn
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/01/12#message-13522483
+  links:
+- id: 29
+  date: 2013-01-19 23:00
+  author:
+    name: cohama
+    url: https://github.com/cohama
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/cohama/.vim/blob/284b2c2a4af9372aea257fd2465cc1eb8d52e584/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - KoRoN
+    - LeafCage
+    - Mi_Sawa
+    - Shougo
+    - aoisensi
+    - bool_fool
+    - chikatoike
+    - cohama
+    - endings
+    - jakalada
+    - manga_osyo
+    - mattn
+    - raiden325
+    - rbtnn
+    - thinca
+    - tyru
+    - yuya_presto
+  log: http://lingr.com/room/vim/archives/2013/01/19#message-13587673
+  links:
+    - http://d.hatena.ne.jp/leafcage/20130120/1358608137
+- id: 30
+  date: 2013-01-26 23:00
+  author:
+    name: Shougo
+    url: https://github.com/Shougo
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/Shougo/shougo-s-github/blob/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - cohama
+    - Lindan
+    - Shougo
+    - wiredool
+    - deris0126
+    - bool_fool
+    - rbtnn
+    - BOXP
+    - daisuzu
+    - syngan
+    - aoisensi
+    - sonots
+    - Shaula
+    - manga_osyo
+    - yuya_presto
+    - raiden325
+    - LeafCage
+    - Shimesaba
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/01/26#message-13704754
+  links:
+- id: 31
+  date: 2013-02-02 23:00
+  author:
+    name: Shougo
+    url: https://github.com/Shougo
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/Shougo/shougo-s-github/blob/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Jagua
+    - Shougo
+    - bool_fool
+    - cohama
+    - daisuzu
+    - deris0126
+    - kanno_kanno
+    - momonga
+    - thinca
+    - ujihisa
+    - wiredool
+    - yuya_presto
+  log: http://lingr.com/room/vim/archives/2013/02/02#message-13852359
+  links:
+- id: 32
+  date: 2013-02-09 23:00
+  author:
+    name: guyon
+    url: https://github.com/guyon
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/guyon/configs/blob/d595529409e33e7a3523a65f355eeee6e5741d0c/.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - LeafCage
+    - cohama
+    - deris0126
+    - guyon
+    - jakalada
+    - kanno_kanno
+    - manga_osyo
+    - raiden325
+    - thinca
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/02/09#message-13950501
+  links:
+- id: 33
+  date: 2013-02-16 23:00
+  author:
+    name: tpope
+    url: https://github.com/tpope
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/tpope/tpope/blob/4cc1f16c85414e91c1ea6e05ea516a88c00b4d08/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - Shougo
+    - bgnori
+    - cohama
+    - daisuzu
+    - guyon
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - syngan
+    - thinca
+    - tonimaru
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/02/16#message-14048433
+  links:
+- id: 34
+  date: 2013-02-23 23:00
+  author:
+    name: 
+    url: 
+  vimrcs:
+  - name: gvimrc
+    url: https://github.com/hibiki/dotfiles/blob/1569874d97c98a5ccfc502b1a2e85818845be1e8/.gvimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - mopp
+    - AmaiSaeta
+    - manga_osyo
+    - basyura
+    - rbtnn
+    - hecomi
+    - aoisensi
+    - boolfool
+    - wiredool
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/02/23#message-14114695
+  links:
+- id: 35
+  date: 2013-03-02 23:00
+  author:
+    name: boolfool
+    url: https://github.com/boolfool
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/boolfool/dotfiles/blob/26b4852ba738d747d85d8c2ecfbf0a1b2c64ea1c/.vimrc
+  part: 
+  other: 
+  members:
+  log: http://lingr.com/room/vim/archives/2013/03/02#message-14179525
+  links:
+- id: 36
+  date: 2013-03-09 23:00
+  author:
+    name: jakalada
+    url: https://github.com/jakalada
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/jakalada/vim-dotfiles/blob/fd30969c1b52175a112add9fd8308bc502df907f/_vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - Lindan
+    - aoisensi
+    - clojure
+    - cohama
+    - deris0126
+    - jakalada
+    - mattn
+    - mopp
+    - rbtnn
+    - supermomonga
+    - thinca
+    - tonimaru
+    - ujihisa
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/03/09#message-14242610
+  links:
+- id: 37
+  date: 2013-03-16 23:00
+  author:
+    name: akineko
+    url: https://github.com/akineko
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/akineko/dotfiles/blob/8a05b76600178c4bc220d9f88c70720890aa0c69/.vimrc
+  part: 
+  other: 
+  members:
+    - alpaca_taichou
+    - hecomi
+    - jakalada
+    - kanno_kanno
+    - magicdrive
+    - mattn
+    - mopp
+    - raa0121
+    - supermomonga
+    - thinca
+    - tsukkee
+    - ujihisa
+  log: http://lingr.com/room/vim/archives/2013/03/16#message-14323412
+  links:
+- id: 38
+  date: 2013-03-23 23:00
+  author:
+    name: kannokanno
+    url: https://github.com/kannokanno
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kannokanno/dotfiles/blob/c1818803788bb4af6dd3cd3aec1d4b3205c035cc/.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - bouzuya
+    - cohama
+    - deris0126
+    - itchyny
+    - kanno_kanno
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - thinca
+    - wiredool
+    - yuya_presto
+  log: http://lingr.com/room/vim/archives/2013/03/23#message-14449036
+  links:
+    - http://d.hatena.ne.jp/kanno_kanno/20130330/1364619154
+- id: 39
+  date: 2013-03-30 23:00
+  author:
+    name: mopp
+    url: https://github.com/mopp
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/mopp/vimrc/blob/72de78ce87e71e68b8b880b783ca9673ea72712f/.vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - bgnori
+    - cohama
+    - crazymaster
+    - deris0126
+    - kanno_kanno
+    - manga_osyo
+    - mopp
+    - raa0121
+    - thinca
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/03/30#message-14537427
+  links:
+- id: 40
+  date: 2013-04-06 23:00
+  author:
+    name: tekkoc
+    url: https://github.com/tekkoc
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/tekkoc/dotfiles/blob/5c60e73b0b2f7d165123362cba387c1bd56cc3c4/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - cohama
+    - Lindan
+    - wiredool
+    - mopp
+    - supermomonga
+    - daisuzu
+    - mattn
+    - raa0121
+    - jakalada
+    - manga_osyo
+    - tek_koc
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/04/06#message-14621353
+  links:
+- id: 41
+  date: 2013-04-13 23:00
+  author:
+    name: chenkaie
+    url: https://github.com/chenkaie
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/chenkaie/DotFiles/blob/f3436500e8b542b5438b2fb7ee33e693e3589ce3/.vimrc
+  part: 
+  other: 
+  members:
+    - cohama
+    - wiredool
+    - alpaca_taichou
+    - mopp
+    - rbtnn
+    - supermomonga
+    - tyru
+    - mattn
+    - deris0126
+    - msmhrt
+    - ujihisa
+    - manga_osyo
+    - raiden325
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/04/13#message-14707324
+  links:
+- id: 42
+  date: 2013-04-20 23:00
+  author:
+    name: vol2223
+    url: https://github.com/vol2223
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/vol2223/config/blob/bb20681ca60c7315afe8ed8471a965925f722178/dotfile/.vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - Shougo
+    - cohama
+    - crazymaster
+    - d6rkaiz
+    - deris0126
+    - manga_osyo
+    - mattn
+    - raiden325
+    - rbtnn
+    - thinca
+    - ujihisa
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/04/20#message-14855062
+  links:
+- id: 43
+  date: 2013-04-27 23:00
+  author:
+    name: yuratomo
+    url: https://github.com/yuratomo
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/yuratomo/dotfiles/blob/f81028f9c72393e8a9e41e50eef721509c6129ac/_vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - cohama
+    - deris0126
+    - hecomi
+    - jakalada
+    - supermomonga
+    - thinca
+    - ujihisa
+  log: http://lingr.com/room/vim/archives/2013/04/27#message-15036122
+  links:
+- id: 44
+  date: 2013-05-04 23:00
+  author:
+    name: deris
+    url: https://github.com/deris
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/deris/Config/blob/c1767e551c736c9f584a9958a0cb42e7e9ee8728/.vimrc
+  part: 
+  other: 
+  members:
+    - alpaca_taichou
+    - deris0126
+    - s_of_p
+    - rbtnn
+    - hecomi
+    - daisuzu
+    - mattn
+    - mopp
+    - basyura
+    - jakalada
+    - ujihisa
+    - manga_osyo
+    - kanno_kanno
+    - thinca
+    - supermomonga
+  log: http://lingr.com/room/vim/archives/2013/05/04#message-15150672
+  links:
+- id: 45
+  date: 2013-05-11 23:00
+  author:
+    name: deris
+    url: https://github.com/deris
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/deris/Config/blob/c1767e551c736c9f584a9958a0cb42e7e9ee8728/.vimrc
+  part: 
+  other: 
+  members:
+    - cohama
+    - Shougo
+    - Lindan
+    - deris0126
+    - s_of_p
+    - mattn
+    - DeaR
+    - sgur
+    - ujihisa
+    - manga_osyo
+    - kanno_kanno
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/05/11#message-15240128
+  links:
+- id: 46
+  date: 2013-05-18 23:00
+  author:
+    name: kana
+    url: https://github.com/kana
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kana/config/blob/cc6216eddbf9abc68526d90335f2d42cd43978ed/vim/personal/dot.vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - Jagua
+    - Lindan
+    - cohama
+    - deris0126
+    - jakalada
+    - kamichidu
+    - manga_osyo
+    - naoty
+    - rbtnn
+    - s_of_p
+    - thinca
+    - while
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/05/18#message-15319362
+  links:
+- id: 47
+  date: 2013-05-25 23:00
+  author:
+    name: kana
+    url: https://github.com/kana
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kana/config/blob/cc6216eddbf9abc68526d90335f2d42cd43978ed/vim/personal/dot.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - DeaR
+    - Jagua
+    - Lindan
+    - TAKAyukiatkwsk
+    - basyura
+    - boolfool
+    - cohama
+    - deris0126
+    - manga_osyo
+    - mattn
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - supermomonga
+    - thinca
+    - tombo
+    - ujihisa
+  log: http://lingr.com/room/vim/archives/2013/05/25#message-15400040
+  links:
+- id: 48
+  date: 2013-06-01 23:00
+  author:
+    name: kana
+    url: https://github.com/kana
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kana/config/blob/cc6216eddbf9abc68526d90335f2d42cd43978ed/vim/personal/dot.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - ArcCosine
+    - Jagua
+    - Lindan
+    - basyura
+    - cohama
+    - deris0126
+    - hecomi
+    - manga_osyo
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - thinca
+    - ujihisa
+  log: http://lingr.com/room/vim/archives/2013/06/01#message-15465616
+  links:
+- id: 49
+  date: 2013-06-08 23:00
+  author:
+    name: kzy52
+    url: https://github.com/kzy52
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kzy52/dotfiles/blob/39b442989fad1a86cee429c0b1781f49ec58da6c/.vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - Lindan
+    - Shougo
+    - cohama
+    - deris0126
+    - hecomi
+    - jakalada
+    - manga_osyo
+    - rbtnn
+    - s_of_p
+    - supermomonga
+    - syngan
+    - thinca
+    - ujihisa
+  log: http://lingr.com/room/vim/archives/2013/06/08#message-15543134
+  links:
+- id: 50
+  date: 2013-06-15 23:00
+  author:
+    name: Valloric
+    url: https://github.com/Valloric
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/Valloric/dotfiles/blob/f25d262d0d3893342ee60abef611044ef9733f79/vim/vimrc.vim
+  part: 
+  other: 
+  members:
+    - bgnori
+    - cohama
+    - deris0126
+    - kamichidu
+    - manga_osyo
+    - mattn
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/06/15#message-15629174
+  links:
+- id: 51
+  date: 2013-06-22 23:00
+  author:
+    name: bling
+    url: https://github.com/bling
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/bling/dotvim/blob/92def9fdc2dd3060362360320450a24a89159c5e/vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - Shougo
+    - TAKAyukiatkwsk
+    - bgnori
+    - cohama
+    - crazymaster
+    - deris0126
+    - kanno_kanno
+    - manga_osyo
+    - rbtnn
+    - s_of_p
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/06/22#message-15705834
+  links:
+- id: 52
+  date: 2013-06-29 23:00
+  author:
+    name: hamaco
+    url: https://github.com/hamaco
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/hamaco/dotfiles/blob/b245f0f95619a8d5d8e18df39592da548fc27fad/vim/vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - Shougo
+    - cohama
+    - deris0126
+    - hamaco
+    - kanno_kanno
+    - manga_osyo
+    - mopp
+    - rbtnn
+    - thinca
+    - unmoremaster
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/06/29#message-15774558
+  links:
+- id: 53
+  date: 2013-07-06 23:00
+  author:
+    name: sgur
+    url: https://github.com/sgur
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/sgur/vimrc/blob/2d8a2b3134692b3a65e42504479e46a5fafc7e67/vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - Shougo
+    - UnclBill
+    - cohama
+    - deris0126
+    - hamaco
+    - mopp
+    - rbtnn
+    - s_of_p
+    - sgur
+    - thinca
+    - ujihisa
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/07/06#message-15839575
+  links:
+- id: 54
+  date: 2013-07-13 23:00
+  author:
+    name: sgur
+    url: https://github.com/sgur
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/sgur/vimrc/blob/2d8a2b3134692b3a65e42504479e46a5fafc7e67/vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - cohama
+    - daisuzu
+    - deris0126
+    - manga_osyo
+    - rbtnn
+    - s_of_p
+    - sgur
+    - thinca
+    - ujihisa
+  log: http://lingr.com/room/vim/archives/2013/07/13#message-15894589
+  links:
+- id: 55
+  date: 2013-07-20 23:00
+  author:
+    name: terryma
+    url: https://github.com/terryma
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/terryma/dotfiles/blob/0724f8ce9efaed7fd7d2b3524ff7282b684942a8/.vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - cohama
+    - deris0126
+    - kocha2012
+    - mattn
+    - rbtnn
+    - s_of_p
+    - sgur
+    - syngan
+    - thinca
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/07/20#message-15952109
+  links:
+- id: 56
+  date: 2013-07-27 23:00
+  author:
+    name: Kocha
+    url: https://github.com/Kocha
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/Kocha/dotfiles/blob/7cacf9390c5d1025909ec0109e7f264670368596/.vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - LeafCage
+    - cohama
+    - deris0126
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - syngan
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/07/27#message-16017813
+  links:
+    - http://d.hatena.ne.jp/leafcage/20130727/1374935175
+- id: 57
+  date: 2013-08-03 23:00
+  author:
+    name: spf13
+    url: https://github.com/spf13
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/spf13/spf13-vim/blob/0e4a4ab22d7c61ae53468153a5cb6a810065844b/.vimrc
+  part: 
+  other: 
+  members:
+    - cohama
+    - deris0126
+    - hokorobi
+    - manga_osyo
+    - mattn
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - thinca
+    - ujihisa
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/08/03#message-16085863
+  links:
+- id: 58
+  date: 2013-08-10 23:00
+  author:
+    name: nishigori
+    url: https://github.com/nishigori
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/nishigori/dotfiles/blob/390d8934f44a58d52655a2db7cde40e33d55bd68/.vimrc
+  part: 
+  other: 
+  members:
+    - IMAGEDRIVE
+    - Lindan
+    - _nishigori
+    - cohama
+    - deris0126
+    - hecomi
+    - manga_osyo
+    - mopp
+    - sgur
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/08/10/#message-16164706
+  links:
+- id: 59
+  date: 2013-08-17 23:00
+  author:
+    name: aereal
+    url: https://github.com/aereal
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/aereal/dotfiles/blob/0e6ca0ff5eedacf5dae105df4b3143cdbb38c74c/.vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - Lindan
+    - aereal
+    - bgnori
+    - deris0126
+    - hecomi
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - s_of_p
+    - supermomonga
+    - thinca
+    - ujihisa
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/08/17/#message-16247969
+  links:
+- id: 60
+  date: 2013-08-24 23:00
+  author:
+    name: sjl
+    url: https://bitbucket.org/sjl
+  vimrcs:
+  - name: vimrc
+    url: https://bitbucket.org/sjl/dotfiles/src/10f4bf76eddda27da7e273fc26a31a96aef97b9d/vim/vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - Lindan
+    - Mi_Sawa
+    - Shougo
+    - anekos
+    - cohama
+    - crazymaster
+    - deris0126
+    - hecomi
+    - manga_osyo
+    - mattn
+    - mopp
+    - raa0121
+    - rbtnn
+    - sgur
+    - supermomonga
+    - thinca
+    - unmoremaster
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2013/08/24/#message-16331254
+  links:
+- id: 61
+  date: 2013-08-31 23:00
+  author:
+    name: kmizu
+    url: https://github.com/kmizu
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kmizu/dotfiles/blob/e3777116898e3f2d770588faaedc658e5f3f2da9/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - Lindan
+    - anekos
+    - boolfool
+    - cohama
+    - kamichidu
+    - manga_osyo
+    - mattn
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - sgur
+    - syngan
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/08/31/#message-16445892
+  links:
+- id: 62
+  date: 2013-09-07 23:00
+  author:
+    name: joedicastro
+    url: https://github.com/joedicastro
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/joedicastro/dotfiles/blob/45185501ab4cac0fad4e1918d8c0f9aa2faa94e1/vim/vimrc
+  part: 
+  other: 
+  members:
+    - LeafCage
+    - alpaca_taichou
+    - anekos
+    - cohama
+    - deris0126
+    - haya14busa
+    - manga_osyo
+    - mattn
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - sgur
+    - supermomonga
+    - thinca
+    - ujihisa
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/09/07/#message-16547473
+  links:
+- id: 63
+  date: 2013-09-14 23:00
+  author:
+    name: bootleq
+    url: https://github.com/bootleq
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/bootleq/vimrc_human/blob/c75c58f2d18d22667f1d59d46fe567d38b2f8062/.vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - Lindan
+    - anekos
+    - cohama
+    - deris0126
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - s_of_p
+    - sgur
+    - supermomonga
+    - thinca
+    - ujihisa
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/09/14/#message-16656144
+  links:
+- id: 64
+  date: 2013-09-21 23:00
+  author:
+    name: bootleq
+    url: https://github.com/bootleq
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/bootleq/vimrc_human/blob/c75c58f2d18d22667f1d59d46fe567d38b2f8062/.vimrc
+  part: 
+  other: 
+  members:
+    - anekos
+    - cohama
+    - crazymaster
+    - deris0126
+    - haya14busa
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - s_of_p
+    - sgur
+    - supermomonga
+    - thinca
+    - yasu_n
+  log: http://lingr.com/room/vim/archives/2013/09/21/#message-16763200
+  links:
+- id: 65
+  date: 2013-09-28 23:00
+  author:
+    name: saihoooooooo
+    url: https://github.com/saihoooooooo
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/saihoooooooo/dotfiles/blob/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - anekos
+    - boolfool
+    - cohama
+    - deris0126
+    - mattn
+    - s_of_p
+    - saihoooooooo
+    - supermomonga
+    - thinca
+    - yasu_n
+  log: http://lingr.com/room/vim/archives/2013/09/28/#message-16851940
+  links:
+- id: 66
+  date: 2013-10-05 23:00
+  author:
+    name: saihoooooooo
+    url: https://github.com/saihoooooooo
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/saihoooooooo/dotfiles/blob/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - Shougo
+    - cohama
+    - deris0126
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - saihoooooooo
+    - sgur
+    - supermomonga
+    - thinca
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/10/05/#message-16938477
+  links:
+- id: 67
+  date: 2013-10-12 23:00
+  author:
+    name: iyuuya
+    url: https://github.com/iyuuya
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/iyuuya/bksd/blob/bf4d369acd00f086f5edfcbf007beecb08519039/vim/dot.vimrc
+  part: 
+  other: 
+  members:
+    - LeafCage
+    - Lindan
+    - anekos
+    - cohama
+    - crazymaster
+    - deris0126
+    - iyuuya
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - sgur
+    - thinca
+    - ujihisa
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/10/12/#message-17037339
+  links:
+    - http://chopapp.com/#5tib5f2m
+- id: 68
+  date: 2013-10-19 23:00
+  author:
+    name: alpaca-tc
+    url: https://github.com/alpaca-tc
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/alpaca-tc/dotfiles/blob/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - alpaca_taichou
+    - crazymaster
+    - deris0126
+    - iyuuya
+    - manga_osyo
+    - rbtnn
+    - thinca
+    - ujihisa
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/10/19/#message-17110090
+  links:
+    - http://chopapp.com/#pwgstoq4
+- id: 69
+  date: 2013-10-26 23:00
+  author:
+    name: alpaca-tc
+    url: https://github.com/alpaca-tc
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/alpaca-tc/dotfiles/blob/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc
+  part: 
+  other: 
+  members:
+    - alpaca_taichou
+    - cohama
+    - deris0126
+    - manga_osyo
+    - mattn
+    - supermomonga
+    - thinca
+    - yo_i_jewelry
+    - yuya_presto
+  log: http://lingr.com/room/vim/archives/2013/10/26/#message-17189944
+  links:
+    - http://chopapp.com/#pwgstoq4
+- id: 70
+  date: 2013-11-02 23:00
+  author:
+    name: Rykka
+    url: https://github.com/Rykka
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/Rykka/dotfiles/blob/b7507cfc46895d38b5965a0cc17f62ebaae45f73/.vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - cohama
+    - deris0126
+    - manga_osyo
+    - rbtnn
+    - thinca
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/11/02/#message-17255799
+  links:
+- id: 71
+  date: 2013-11-09 23:00
+  author:
+    name: justinmk
+    url: https://github.com/justinmk
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/justinmk/config/blob/773eef9a3b94d1936d3b9db2bc712f97510f770c/.vimrc
+  part: 
+  other: 
+  members:
+    - bori_so1
+    - deris0126
+    - mattn
+    - rbtnn
+    - sgur
+    - supermomonga
+    - thinca
+    - unmoremaster
+  log: http://lingr.com/room/vim/archives/2013/11/09/#message-17324829
+  links:
+- id: 72
+  date: 2013-11-16 23:00
+  author:
+    name: 田中邦裕
+    url: http://tanaka.sakura.ad.jp/vimrc
+  vimrcs:
+  part: 
+  other: 
+  members:
+    - LeafCage
+    - Lindan
+    - _nishigori
+    - alpaca_taichou
+    - bori_so1
+    - cohama
+    - deris0126
+    - haya14busa
+    - hecomi
+    - hokorobi
+    - kiwanami
+    - manga_osyo
+    - mattn
+    - mopp
+    - raa0121
+    - rbtnn
+    - supermomonga
+    - thinca
+    - ujihisa
+  log: http://lingr.com/room/vim/archives/2013/11/16/#message-17390661
+  links:
+- id: 73
+  date: 2013-11-23 23:00
+  author:
+    name: portown
+    url: https://github.com/portown
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/portown/dotfiles/blob/530a516596a49272d3bfaf082a69bae5baa0bced/.vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - Shougo
+    - cohama
+    - crazymaster
+    - deris0126
+    - iyuuya
+    - kamichidu
+    - lisia
+    - manga_osyo
+    - mattn
+    - mopp
+    - portown
+    - rbtnn
+    - supermomonga
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/11/23/#message-17465568
+  links:
+    - http://chopapp.com/#1tvopsda
+- id: 74
+  date: 2013-11-30 23:00
+  author:
+    name: creasty
+    url: https://github.com/creasty
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/creasty/dotfiles/blob/bbd8b60af659133909096ba5197d4812f4589257/_vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - KoRoN
+    - Lindan
+    - cohama
+    - crazymaster
+    - deris0126
+    - haya14busa
+    - lisia
+    - manga_osyo
+    - mattn
+    - mopp
+    - rbtnn
+    - sgur
+    - supermomonga
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/11/30/#message-17696493
+  links:
+    - http://chopapp.com/#6vvv9f4p
+- id: 75
+  date: 2013-12-07 23:00
+  author:
+    name: kepbod
+    url: https://github.com/kepbod
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kepbod/ivim/blob/1b0fc9054774123a520743f77ed359894da9061b/vimrc
+  part: 
+  other: 
+  members:
+    - Lindan
+    - alpaca_taichou
+    - deris0126
+    - haya14busa
+    - manga_osyo
+    - mopp
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - shiracha
+    - supermomonga
+    - tanutarou
+    - thinca
+    - vancouverringo
+  log: http://lingr.com/room/vim/archives/2013/12/07/#message-17758011
+  links:
+- id: 76
+  date: 2013-12-14 23:00
+  author:
+    name: shiracha
+    url: https://github.com/shiracha
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/shiracha/settings/blob/b88d5e36326a0725cfb027ccf4635069fdc216c3/.vimrc
+  part: 
+  other: 
+  members:
+    - DeaR
+    - Lindan
+    - alpaca_taichou
+    - crazymaster
+    - deris0126
+    - haya14busa
+    - lisia
+    - manga_osyo
+    - s_of_p
+    - shiracha
+    - syui
+    - thinca
+    - zoncoen
+  log: http://lingr.com/room/vim/archives/2013/12/14#message-17824347
+  links:
+- id: 77
+  date: 2013-12-21 23:00
+  author:
+    name: edom18
+    url: https://github.com/edom18
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/edom18/vim/blob/60e8f18b409ea48333f370af49f7a218e0b203c0/_vimrc
+  part: 
+  other: 
+  members:
+    - LeafCage
+    - haya14busa
+    - mutsutel
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - syui
+    - t9md
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/12/21#message-17885221
+  links:
+- id: 78
+  date: 2013-12-28 23:00
+  author:
+    name: emorikawa
+    url: https://github.com/emorikawa
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/emorikawa/dotfiles/blob/da23f6025ce309fdfd0f2857bae8a8f7870e4f1e/vim/vimrc
+  part: 
+  other: 
+  members:
+    - deris0126
+    - haya14busa
+    - lisia
+    - manga_osyo
+    - mattn
+    - raa0121
+    - supermomonga
+    - thinca
+  log: http://lingr.com/room/vim/archives/2013/12/28#message-17932272
+  links:
+- id: 79
+  date: 2013-01-04 23:00
+  author:
+    name: eccyan
+    url: https://github.com/eccyan
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/eccyan/dotfiles/blob/df186a154a634d91ead180d04e48ce8da5359a40/.vimrc
+  part: 
+  other: 
+  members:
+    - bgnori
+    - kamichidu
+    - lisia
+    - manga_osyo
+    - s_of_p
+    - thinca
+  log: http://lingr.com/room/vim/archives/2014/01/04#message-17984681
+  links:
+- id: 80
+  date: 2013-01-11 23:00
+  author:
+    name: udadada
+    url: https://github.com/udadada
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/udadada/dotfiles/blob/0e7949ab14f95334a57d8589a17ba45ace1b4584/vim/.vimrc
+  part: 
+  other: 
+  members:
+    - LeafCage
+    - deris0126
+    - haya14busa
+    - manga_osyo
+    - s_of_p
+    - shiracha
+    - thinca
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2014/01/11#message-18046571
+  links:
+- id: 81
+  date: 2014-01-18 23:00
+  author:
+    name: raa0121
+    url: https://github.com/raa0121
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/raa0121/dotfiles/blob/662261e9f241144792dd7e7c7618be75e8903082/.vimrc
+  part: 
+  other: 
+  members:
+    - deris0126
+    - haya14busa
+    - hokorobi
+    - lisia
+    - manga_osyo
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - thinca
+    - wiredool
+  log: http://lingr.com/room/vim/archives/2014/01/18#message-18117473
+  links:
+- id: 82
+  date: 2014-01-25 23:00
+  author:
+    name: 5t111111
+    url: https://github.com/5t111111
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/5t111111/dotfiles/blob/1c1d913daaf50361c818a6d530e8d93b8efdd819/.vimrc
+  part: 
+  other: 
+  members:
+    - AmaiSaeta
+    - Jagua
+    - crazymaster
+    - deris0126
+    - haya14busa
+    - lisia
+    - manga_osyo
+    - mattn
+    - rbtnn
+    - thinca
+    - ujihisa
+    - wiredool
+    - zeero
+  log: http://lingr.com/room/vim/archives/2014/01/25#message-18179513
+  links:
+- id: 83
+  date: 2014-02-01 23:00
+  author:
+    name: supermomonga
+    url: https://github.com/supermomonga
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/supermomonga/dotfiles/blob/9193b237080c1aada25277021993d9fe1072ce1f/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - Lindan
+    - deris0126
+    - haya14busa
+    - lisia
+    - manga_osyo
+    - mattn
+    - raa0121
+    - rbtnn
+    - s_of_p
+    - supermomonga
+    - thinca
+    - yyatsuo
+    - zeero
+  log: http://lingr.com/room/vim/archives/2014/02/01#message-18243233
+  links:
+    - http://chopapp.com/#acs10nfs
+- id: 84
+  date: 2014-02-08 23:00
+  author:
+    name: cocopon
+    url: https://github.com/cocopon
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/cocopon/dotfiles/blob/978df1c7b9f239937d3670482c37b16f2d301e06/.vimrc
+  part: 
+  other: 
+  members:
+    - Jagua
+    - alpaca_taichou
+    - cocopon
+    - haya14busa
+    - hotoolong
+    - lisia
+    - manga_osyo
+    - s_of_p
+    - thinca
+    - zeero
+  log: http://lingr.com/room/vim/archives/2014/02/08#message-18301703
+  links:
+    - http://chopapp.com/#ckreoguy
+- id: 85
+  date: 0000-00-00 00:00
+  author:
+    name: 
+    url: 
+  vimrcs:
+  part: 
+  other: 
+  members:
+  log: 
+  links:
 - id: 86
-  date: 2014-02-22 23:00
+  date: 0000-00-00 00:00
   author:
-    name: haya14busa
-    url: https://github.com/haya14busa
+    name: 
+    url: 
   vimrcs:
-  - name: vimrc
-    url: https://github.com/haya14busa/dotfiles/blob/be8937e097af4666a4057090b79792acc137fca1/.vimrc
-  part: 後編
+  part: 
   other: 
   members:
-  - haya14busa
-  - hokorobi
-  - hotoolong
-  - manga_osyo
-  - supermomonga
-  - thinca
-  log: http://lingr.com/room/vim/archives/2014/02/22#message-18419881
+  log: 
   links:
-  - http://chopapp.com/#fp3emn2p
 - id: 87
-  date: 2014-03-01 23:00
+  date: 0000-00-00 00:00
   author:
-    name: toupeira
-    url: https://github.com/toupeira
+    name: 
+    url: 
   vimrcs:
-  - name: vimrc
-    url: https://github.com/toupeira/dotfiles/blob/4accee8bd72021c7e44f4e27d7acfe0be2ffeb7e/vim/vimrc
+  part: 
   other: 
   members:
-  - Lindan
-  - manga_osyo
-  - mattn
-  - msmhrt
-  - supermomonga
-  - thinca
-  log: http://lingr.com/room/vim/archives/2014/03/01#message-18475364
-  links: 
+  log: 
+  links:
 - id: 88
-  date: 2014-03-08 23:00
+  date: 0000-00-00 00:00
   author:
-    name: januswel
-    url: https://github.com/januswel
+    name: 
+    url: 
   vimrcs:
-  - name: vimrc
-    url: https://github.com/januswel/dotfiles/blob/752d2f1cee57c0221a894259cee76ef3dc0b1563/.vimrc
   part: 
   other: 
   members:
-  - anekos
-  - crazymaster
-  - hotoolong
-  - lisia
-  - manga_osyo
-  - supermomonga
-  - thinca
-  log: http://lingr.com/room/vim/archives/2014/03/08#message-18533769
-  links: 
+  log: 
+  links:
 - id: 89
-  date: 2014-03-15 23:00
+  date: 0000-00-00 00:00
   author:
-    name: dsummersl
-    url: https://github.com/dsummersl
+    name: 
+    url: 
   vimrcs:
-  - name: vimrc
-    url: https://github.com/dsummersl/dotvim/blob/1226f2ef26cd5e4145bcb5372c946c86c964dfc6/_vimrc
   part: 
   other: 
   members:
-  - daisuzu
-  - haya14busa
-  - lisia
-  - manga_osyo
-  - mattn
-  - rbtnn
-  - rusk
-  - supermomonga
-  - thinca
-  log: http://lingr.com/room/vim/archives/2014/03/15#message-18588139
-  links: 
+  log: 
+  links:
 - id: 90
-  date: 2014-03-22 23:00
+  date: 0000-00-00 00:00
   author:
-    name: Layzie
-    url: https://github.com/Layzie
+    name: 
+    url: 
   vimrcs:
-  - name: vimrc
-    url: https://github.com/Layzie/dotfiles/blob/7a771a73f39fe64a5623e0b8e47d176a38a99410/.vimrc
   part: 
   other: 
   members:
-  - deris0126
-  - haya14busa
-  - kmdsbng
-  - manga_osyo
-  - mattn
-  - msmhrt
-  - raa0121
-  - rusk
-  - tatt61880
-  - thinca
-  log: http://lingr.com/room/vim/archives/2014/03/22#message-18633072
-  links: 
+  log: 
+  links:
 - id: 91
-  date: 2014-03-29 23:00
+  date: 0000-00-00 00:00
   author:
-    name: faceleg
-    url: https://github.com/faceleg
+    name: 
+    url: 
   vimrcs:
-  - name: vimrc
-    url: https://github.com/faceleg/dotfiles/blob/ced582ac01f789d04dfe43cf543578841056438d/configuration/vimrc
   part: 
   other: 
   members:
-  - aomoririnqo
-  - deris0126
-  - haya14busa
-  - hotoolong
-  - kanno
-  - lisia
-  - manga_osyo
-  - mattn
-  - msmhrt
-  - rusk
-  - s_of_p
-  - tek_koc
-  - thinca
-  log: http://lingr.com/room/vim/archives/2014/03/29#message-18683041
-  links: 
+  log: 
+  links:
