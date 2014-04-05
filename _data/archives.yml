@@ -153,3 +153,29 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/03/29#message-18683041
   links: 
+- id: 92
+  date: 2014-04-05 23:00
+  author:
+    name: reedes
+    url: https://github.com/reedes
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/reedes/vim-config/blob/2e7b18c79fdde83e38366b8b2b4d7bdf510305ae/vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - deris0126
+  - haya14busa
+  - hokorobi
+  - k_takata
+  - lisia
+  - manga_osyo
+  - mattn
+  - msmhrt
+  - raa0121
+  - rbtnn
+  - rinx
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/04/05#message-18726390
+  links: 
