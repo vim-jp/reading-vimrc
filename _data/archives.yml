@@ -303,7 +303,7 @@
     url: https://gist.github.com/3666285
   - name: bundle.vim
     url: https://gist.github.com/3675965
-  part: 
+  part: 前編
   other: 
   members:
     - AmaiSaeta
@@ -334,7 +334,7 @@
     url: https://gist.github.com/3666285
   - name: bundle.vim
     url: https://gist.github.com/3675965
-  part: 
+  part: 後編
   other: 
   members:
     - AmaiSaeta
@@ -417,7 +417,7 @@
     url: https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vimrc
   - name: init.vim
     url: https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim
-  part: 
+  part: 前編
   other: 
   members:
     - Lindan
@@ -446,7 +446,7 @@
     url: https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vimrc
   - name: init.vim
     url: https://github.com/tyru/dotfiles/blob/f6f029360f5e0dff9639a9922a49109d29fea4ed/dotfiles/.vim/init.vim
-  part: 
+  part: 後編
   other: 
   members:
     - AmaiSaeta
@@ -833,7 +833,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/Shougo/shougo-s-github/blob/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc
-  part: 
+  part: 前編
   other: 
   members:
     - Jagua
@@ -866,7 +866,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/Shougo/shougo-s-github/blob/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc
-  part: 
+  part: 後編
   other: 
   members:
     - AmaiSaeta
@@ -1182,7 +1182,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/deris/Config/blob/c1767e551c736c9f584a9958a0cb42e7e9ee8728/.vimrc
-  part: 
+  part: 前編
   other: 
   members:
     - alpaca_taichou
@@ -1210,7 +1210,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/deris/Config/blob/c1767e551c736c9f584a9958a0cb42e7e9ee8728/.vimrc
-  part: 
+  part: 後編
   other: 
   members:
     - cohama
@@ -1235,7 +1235,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/kana/config/blob/cc6216eddbf9abc68526d90335f2d42cd43978ed/vim/personal/dot.vimrc
-  part: 
+  part: 前編
   other: 
   members:
     - DeaR
@@ -1262,7 +1262,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/kana/config/blob/cc6216eddbf9abc68526d90335f2d42cd43978ed/vim/personal/dot.vimrc
-  part: 
+  part: 中編
   other: 
   members:
     - AmaiSaeta
@@ -1293,7 +1293,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/kana/config/blob/cc6216eddbf9abc68526d90335f2d42cd43978ed/vim/personal/dot.vimrc
-  part: 
+  part: 後編
   other: 
   members:
     - AmaiSaeta
@@ -1420,7 +1420,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/sgur/vimrc/blob/2d8a2b3134692b3a65e42504479e46a5fafc7e67/vimrc
-  part: 
+  part: 前編
   other: 
   members:
     - Lindan
@@ -1446,7 +1446,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/sgur/vimrc/blob/2d8a2b3134692b3a65e42504479e46a5fafc7e67/vimrc
-  part: 
+  part: 後編
   other: 
   members:
     - DeaR
@@ -1678,7 +1678,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/bootleq/vimrc_human/blob/c75c58f2d18d22667f1d59d46fe567d38b2f8062/.vimrc
-  part: 
+  part: 前編
   other: 
   members:
     - DeaR
@@ -1705,7 +1705,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/bootleq/vimrc_human/blob/c75c58f2d18d22667f1d59d46fe567d38b2f8062/.vimrc
-  part: 
+  part: 後編
   other: 
   members:
     - anekos
@@ -1731,7 +1731,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/saihoooooooo/dotfiles/blob/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc
-  part: 
+  part: 前編
   other: 
   members:
     - Lindan
@@ -1755,7 +1755,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/saihoooooooo/dotfiles/blob/32bfe49d6ae3e170c084c8c1646b55ea5d5fc0eb/.vimrc
-  part: 
+  part: 後編
   other: 
   members:
     - Lindan
@@ -1808,7 +1808,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/alpaca-tc/dotfiles/blob/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc
-  part: 
+  part: 前編
   other: 
   members:
     - Lindan
@@ -1832,7 +1832,7 @@
   vimrcs:
   - name: vimrc
     url: https://github.com/alpaca-tc/dotfiles/blob/bd82f3673ebc76299305156ac4e8c3f9e9f23374/.vim/vimrc
-  part: 
+  part: 後編
   other: 
   members:
     - alpaca_taichou
