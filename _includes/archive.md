@@ -46,10 +46,14 @@
 ### ログ
 <{{ archive.log }}>
 
+{% if archive.links %}
 ### 関連リンク
+<ul>
 {% for link in archive.links %}
-  - <{{ link }}>
+  <li><a href="{{ link }}">{{ link }}</a></li>
 {% endfor %}
+</ul>
+{% endif %}
 
 {% if archive.other %}
 ### その他
