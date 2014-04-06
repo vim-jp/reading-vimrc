@@ -937,8 +937,8 @@
 - id: 34
   date: 2013-02-23 23:00
   author:
-    name: 
-    url: 
+    name: hibiki
+    url: https://github.com/hibiki
   vimrcs:
   - name: gvimrc
     url: https://github.com/hibiki/dotfiles/blob/1569874d97c98a5ccfc502b1a2e85818845be1e8/.gvimrc
