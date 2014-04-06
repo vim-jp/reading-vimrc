@@ -14,13 +14,13 @@
   {% when "Thu" %}(木)
   {% when "Fri" %}(金)
   {% when "Sat" %}(土)
-  {% when "San" %}(日)
+  {% when "Sun" %}(日)
   {% else %}{{ d }}
   {% endcase %} {{ archive.date | date: "%H:%M" }}-
 
 
 ### vimrc
-[{{ archive.author.name }}]({{ archive.author.url }}) さんの vimrc を読みました
+[{{ archive.author.name }}]({{ archive.author.url }}) さんの vimrc を読みました {% if archive.part %} ({{ archive.part }}) {% endif %}
 
 <ul>
 {% for vimrc in archive.vimrcs %}
@@ -46,12 +46,47 @@
 ### ログ
 <{{ archive.log }}>
 
+{% if archive.links %}
 ### 関連リンク
+<ul>
 {% for link in archive.links %}
-  - <{{ link }}>
+  <li><a href="{{ link }}">{{ link }}</a></li>
 {% endfor %}
+</ul>
+{% endif %}
 
 {% if archive.other %}
 ### その他
 {{ archive.other }}
 {% endif %}
+
+<div id="archive-nav" style="margin-top: 50px; margin-bottom: 0px;">
+{% assign prev_index = archive.id | minus: 2  %}
+{% if site.data.archives[prev_index] and prev_index >= 0 %}
+<span>
+  {% assign prev_id = archive.id | minus: 1 %}
+  {% if prev_id < 10 %}
+    {% assign prev_html = prev_id | prepend: '00'  %}
+  {% elsif prev_id < 100 %}
+    {% assign prev_html = prev_id | prepend: '0' %}
+  {% else %}
+    {% assign prev_html = prev_id %}
+  {% endif %}
+  <a href="{{ prev_html }}.html">« 第{{ prev_id }}回</a>
+</span>
+{% endif %}
+
+{% if site.data.archives[archive.id] %}
+<span style="float: right;">
+  {% assign next_id = archive.id | plus: 1 %}
+  {% if next_id < 10 %}
+    {% assign next_html = next_id | prepend: '00'  %}
+  {% elsif next_id < 100 %}
+    {% assign next_html = next_id | prepend: '0' %}
+  {% else %}
+    {% assign next_html = next_id %}
+  {% endif %}
+  <a href="{{ next_html }}.html">第{{ next_id }}回 »</a>
+</span>
+{% endif %}
+</div>
