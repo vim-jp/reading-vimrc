@@ -1894,6 +1894,8 @@
     name: 田中邦裕
     url: http://tanaka.sakura.ad.jp/vimrc
   vimrcs:
+  - name: vimrc
+    url: http://tanaka.sakura.ad.jp/vimrc
   part: 
   other: 
   members:
