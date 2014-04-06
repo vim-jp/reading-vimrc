@@ -537,7 +537,7 @@ title: 過去の開催 - vimrc読書会
         {% when "Thu" %}(木)
         {% when "Fri" %}(金)
         {% when "Sat" %}(土)
-        {% when "San" %}(日)
+        {% when "Sun" %}(日)
         {% else %}{{ d }}
         {% endcase %}
       {{ archive.date | date: "%H:%M" }}-
