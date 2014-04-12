@@ -1,13 +1,13 @@
 # vim: expandtab softtabstop=2 shiftwidth=2
 # _data/next.yml
-- id: 93
-  date: 2014-04-12 23:00
+- id: 94
+  date: 2014-04-19 23:00
   author:
-    name: glts
-    url: https://github.com/glts
+    name: gcmt
+    url: https://github.com/gcmt
   vimrcs:
     - name: vimrc
-      url: https://github.com/glts/dotfiles/blob/master/.vimrc
+      url: https://github.com/gcmt/dotfiles/blob/master/vim/.vimrc
       hash: #省略可
   part: #省略可
   other: #省略可
