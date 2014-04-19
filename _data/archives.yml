@@ -2429,3 +2429,24 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/04/12#message-18780856
   links: 
+- id: 94
+  date: 2014-04-19 23:00
+  author:
+    name: gcmt
+    url: https://github.com/gcmt
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/gcmt/dotfiles/blob/7370e0cf54df585bfc14aef80315892e2f42e903/vim/.vimrc
+  part: 
+  other: 
+  members:
+  - deris0126
+  - haya14busa
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - supermomonga
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/04/19#message-18840659
+  links: 
