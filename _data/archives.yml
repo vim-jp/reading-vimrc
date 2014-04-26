@@ -2450,3 +2450,29 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/04/19#message-18840659
   links: 
+- id: 95
+  date: 2014-04-26 23:00
+  author:
+    name: furu
+    url: https://github.com/furu
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/furu/dotfiles/blob/e7f881bdd417c3e2d3d16e1cfe721576bb4b1c60/vimrc
+  part: 
+  other: 
+  members:
+  - deris0126
+  - hamaco
+  - haya14busa
+  - keizo
+  - kmdsbng
+  - lisia
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rinx
+  - supermomonga
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2014/04/26#message-18895251
+  links: 
