@@ -2476,3 +2476,26 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2014/04/26#message-18895251
   links: 
+- id: 96
+  date: 2014-05-03 23:00
+  author:
+    name: lesguillemets
+    url: https://github.com/lesguillemets
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/lesguillemets/myvim/blob/caecbddf10bb9c687e6bed250b9e57e0373f086a/.vimrc
+  part: 
+  other: 
+  members:
+  - deris0126
+  - haya14busa
+  - kmdsbng
+  - lamsh
+  - lesguillemets
+  - lisia
+  - manga_osyo
+  - mattn
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/05/03#message-18936046
+  links: 
