@@ -2499,3 +2499,23 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/05/03#message-18936046
   links: 
+- id: 97
+  date: 2014-05-10 23:00
+  author:
+    name: shenqi
+    url: https://github.com/shenqi
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/shenqi/dotfiles/blob/6a5893dee2cbd522d3c3da33cfff6c1ca3be5919/home/.vimrc
+  part: 
+  other: 
+  members:
+  - deris0126
+  - haya14busa
+  - kmdsbng
+  - lisia
+  - manga_osyo
+  - mattn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/05/10#message-18989853
+  links: 
