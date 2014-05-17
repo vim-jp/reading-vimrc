@@ -2519,3 +2519,25 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/05/10#message-18989853
   links: 
+- id: 98
+  date: 2014-05-17 23:00
+  author:
+    name: OliverUv
+    url: https://github.com/OliverUv
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/OliverUv/Configuration-files/blob/cb31bb1abc30927299810886b666f53517de3fa7/vimrc
+  part: 
+  other: 
+  members:
+  - AmaiSaeta
+  - deris0126
+  - haya14busa
+  - iyuuya
+  - kazuakiM
+  - manga_osyo
+  - rbtnn
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2014/05/17#message-19048247
+  links: 
