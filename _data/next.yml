@@ -1,13 +1,13 @@
 # vim: expandtab softtabstop=2 shiftwidth=2
 # _data/next.yml
-- id: 99
-  date: 2014-05-24 23:00
+- id: 100
+  date: 2014-05-31 23:00
   author:
-    name: joker1007
-    url: https://github.com/joker1007
+    name: lambdalisue
+    url: https://github.com/lambdalisue
   vimrcs:
     - name: vimrc
-      url: https://github.com/joker1007/dotfiles/blob/master/vimrc
+      url: https://github.com/lambdalisue/dotfiles/blob/master/vim/vimrc
       hash: #省略可
   part: #省略可
   other: #省略可

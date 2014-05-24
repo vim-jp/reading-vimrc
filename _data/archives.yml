@@ -2541,3 +2541,30 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2014/05/17#message-19048247
   links: 
+- id: 99
+  date: 2014-05-24 23:00
+  author:
+    name: joker1007
+    url: https://github.com/joker1007
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/joker1007/dotfiles/blob/c7a7a18eb8ae1911d167a7b8dde24ab07829946c/vimrc
+  part: 
+  other: 
+  members:
+  - 7yan00
+  - Lindan
+  - cohama
+  - deris0126
+  - haya14busa
+  - hujo
+  - lisia
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - supermomonga
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2014/05/24#message-19120039
+  links: 
