@@ -7,7 +7,7 @@
     url: https://github.com/lambdalisue
   vimrcs:
     - name: vimrc
-      url: https://github.com/lambdalisue/dotfiles/blob/master/vim/vimrc
+      url: https://github.com/lambdalisue/vim-castle/blob/master/home/.vim/vimrc
       hash: #省略可
   part: #省略可
   other: #省略可
