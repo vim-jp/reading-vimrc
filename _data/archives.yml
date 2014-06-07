@@ -2596,3 +2596,34 @@
   log: http://lingr.com/room/vim/archives#message-19190832
   links:
   - http://chopapp.com/#unhrv006
+- id: 101
+  date: 2014-06-07 23:00
+  author:
+    name: violetyk
+    url: https://github.com/violetyk
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/violetyk/dotfiles/blob/529717690821654cbd6a49a71d32c35a72e64cfe/.vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - deris0126
+  - hamaco
+  - haya14busa
+  - hujo
+  - k_takata
+  - kazuakiM
+  - kichiemon
+  - kmdsbng
+  - lisia
+  - mattn
+  - raa0121
+  - rbtnn
+  - s_of_p
+  - sgur
+  - supermomonga
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives#message-19254255
+  links: 
