@@ -2627,3 +2627,27 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives#message-19254255
   links: 
+- id: 102
+  date: 2014-06-14 23:00
+  author:
+    name: eagletmt
+    url: https://github.com/eagletmt
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/eagletmt/dotfiles/blob/2ca2c7971d0b04772f75c2ab7874cf220b5256ec/dot.vimrc
+  part: 
+  other: 
+  members:
+  - Lindan
+  - anekos
+  - cohama
+  - deris0126
+  - hamaco
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - rinx
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives#message-19314896
+  links: 
