@@ -2651,3 +2651,24 @@
   - thinca
   log: http://lingr.com/room/vim/archives#message-19314896
   links: 
+- id: 103
+  date: 2014-06-21 23:00
+  author:
+    name: tarruda
+    url: https://github.com/tarruda
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/tarruda/dot-files/blob/bde3b4b47e2053b7c44e8637dc2f4755a95c11c5/vim/vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - haya14busa
+  - hujo
+  - manga_osyo
+  - s_of_p
+  - sgur
+  - supermomonga
+  - thinca
+  log: http://lingr.com/room/vim/archives#message-19379490
+  links: 
