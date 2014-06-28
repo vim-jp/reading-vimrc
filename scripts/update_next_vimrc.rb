@@ -17,10 +17,10 @@ if !ARGV.empty?
   next_vimrcs = ARGV.map {|url|
     url_path_split = url.split('/')
     {
-      :url         => url,
-      :name        => url_path_split[-1],
-      :author_name => url_path_split[3],
-      :author_url  => url_path_split[0..3].join('/'),
+      url: url,
+      name: url_path_split[-1],
+      author_name: url_path_split[3],
+      author_url: url_path_split[0..3].join('/'),
     }
   }
 
@@ -55,7 +55,7 @@ if !ARGV.empty?
 
   # IO
   open(next_data_path, "wb") {|f|
-    YAML.dump(next_data, f, :indentation => 2)
+    YAML.dump(next_data, f, indentation: 2)
   }
   puts 'Successfully updating next vimrc'
   puts 'Make sure the update is correct with git diff or whatever :)'
