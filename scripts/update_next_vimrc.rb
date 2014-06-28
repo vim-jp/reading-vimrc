@@ -9,7 +9,7 @@ next_data_path = "#{root}/_data/next.yml"
 next_data = YAML.load_file(next_data_path)
 
 # If theare no arguments, exit from this script.
-# FIXME: Check given arguments is the valid url
+# FIXME: Check given arguments are the valid url
 if ARGV.empty?
   puts "usage: #{File.basename(__FILE__)}"
   puts '--------'
