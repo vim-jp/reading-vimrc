@@ -14,9 +14,9 @@ next_data = YAML.load_file(next_data_path)
 # Main
 if !ARGV.empty?
   # Read URL
+  # Support only GitHub right now
   next_vimrcs = ARGV.map {|url|
     url_path_split = url.split('/')
-    # Support only GitHub right now
     {
       :url         => url,
       :name        => url_path_split[-1],
@@ -51,11 +51,10 @@ if !ARGV.empty?
   }
 
   # Others
-  f_next['part'] = nil # Calculate parts
+  f_next['part'] = nil # Deal with parts
   f_next['other'] = nil
 
   # IO
-  # file = "#{root}/_data/.txt"
   open(next_data_path, "wb") {|f|
     YAML.dump(next_data, f, :indentation => 2)
   }
