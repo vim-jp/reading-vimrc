@@ -8,7 +8,7 @@ root = File::expand_path("#{File::dirname(__FILE__)}/..")
 next_data_path = "#{root}/_data/next.yml"
 next_data = YAML.load_file(next_data_path)
 
-# If theare no arguments, exit from this script.
+# If there are no arguments, exit from this script.
 # FIXME: Check given arguments are the valid url
 if ARGV.empty?
   puts "usage: #{File.basename(__FILE__)}"
