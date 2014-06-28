@@ -3,7 +3,6 @@
 
 require 'date'
 require 'yaml'
-require 'uri'
 
 puts 'All you need is Vim'
 
