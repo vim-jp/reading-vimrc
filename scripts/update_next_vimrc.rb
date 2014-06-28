@@ -4,8 +4,6 @@
 require 'date'
 require 'yaml'
 
-puts 'All you need is Vim'
-
 root = File::expand_path("#{File::dirname(__FILE__)}/..")
 next_data_path = "#{root}/_data/next.yml"
 next_data = YAML.load_file(next_data_path)
@@ -33,7 +31,7 @@ if !ARGV.empty?
   f_next = next_data[0]
 
   f_next['id'] = f_current['id'] + 1
-  f_next['date'] = (Date.parse(f_current['date']) + 7).to_s + " 23:00"
+  f_next['date'] = "#{(Date.parse(f_current['date']) + 7)} 23:00"
 
   # Update next vimrc
   f_next['vimrcs'] = next_vimrcs.map {|vimrc|
