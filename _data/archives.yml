@@ -2672,3 +2672,26 @@
   - thinca
   log: http://lingr.com/room/vim/archives#message-19379490
   links: 
+- id: 104
+  date: 2014-06-28 23:00
+  author:
+    name: monochromegane
+    url: https://github.com/monochromegane/
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/monochromegane/dotfiles/blob/84c7135025ce716ec064b031eb613eca24af63a0/vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - haya14busa
+  - kazuakiM
+  - kmdsbng
+  - letthepeoplesing
+  - manga_osyo
+  - mattn
+  - raa0121
+  - sgur
+  - thinca
+  log: http://lingr.com/room/vim/archives#message-19451008
+  links: 
