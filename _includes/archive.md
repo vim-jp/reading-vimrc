@@ -20,7 +20,12 @@
 
 
 ### vimrc
-[{{ archive.author.name }}]({{ archive.author.url }}) さんの vimrc を読みました {% if archive.part %} ({{ archive.part }}) {% endif %}
+
+{% if archive.author.url %}
+  [{{ archive.author.name }}]({{ archive.author.url }})
+{% else %}
+  {{ archive.author.name }}
+{% endif %} さんの vimrc を読みました {% if archive.part %} ({{ archive.part }}) {% endif %}
 
 <ul>
 {% for vimrc in archive.vimrcs %}
