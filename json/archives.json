@@ -2,7 +2,7 @@
 ---
 [ {% for archive in site.data.archives %}
   {
-    "id" : "{{ archive.id }}",
+    "id" : {{ archive.id }},
     "date" : "{{ archive.date }}",
     "author" : {
         "name": "{{ archive.author.name }}",
