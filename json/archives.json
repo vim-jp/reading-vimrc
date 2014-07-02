@@ -18,6 +18,8 @@
     ],
     "part": "{{ archive.part }}",
     "other": "{{ archive.other }}",
-    "members" : [ {% for member in archive.members %} "{{ member }}" {% unless forloop.last %},{% endunless %} {% endfor %}]
+    "members" : [ {% for member in archive.members %} "{{ member }}" {% unless forloop.last %},{% endunless %} {% endfor %}],
+    "log" : {{ archive.log }},
+    "links" : [ {% for link in archive.links %} "{{ link }}" {% unless forloop.last %},{% endunless %} {% endfor %}],
   } {% unless forloop.last %},{% endunless %}
 {% endfor %} ]
