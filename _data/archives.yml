@@ -4,7 +4,7 @@
   date: 2012-07-10 23:00
   author:
     name: alwei
-    url: 
+    url: https://github.com/alwei/
   vimrcs:
   - name: .vimrc
     url: https://github.com/alwei/dotfiles/blob/3760650625663f3b08f24bc75762ec843ca7e112/.vimrc
@@ -29,7 +29,7 @@
   date: 2012-07-14 23:00
   author:
     name: anekos
-    url: 
+    url: https://github.com/anekos/
   vimrcs:
   - name: .vimrc
     url: https://github.com/anekos/my-config/blob/0afcd78455743a4d3fad31674136428052dc6ebe/.vimrc
@@ -72,7 +72,7 @@
   date: 2012-07-22 00:00
   author:
     name: sigwyg
-    url: 
+    url: https://github.com/sigwyg/
   vimrcs:
   - name: .vimrc
     url: https://github.com/sigwyg/dotfiles/blob/8c70c4032ebad90a8d92b76b1c5d732f28559e40/.vimrc
@@ -104,7 +104,7 @@
   date: 2012-07-28 23:00
   author:
     name: basyura
-    url: 
+    url: https://github.com/basyura/
   vimrcs:
   - name: vimrc
     url: https://github.com/basyura/vimfiles/blob/ee086f25b8c58b8ea6bf025d26ebc11ae50e6ca1/rc/vimrc
@@ -135,7 +135,7 @@
   date: 2012-08-04 23:00
   author:
     name: osyo-manga
-    url: 
+    url: https://github.com/osyo-manga/
   vimrcs:
   - name: vimrc
     url: https://github.com/osyo-manga/vimrc/blob/9ef0ca9757abcdaa11c76024aa551f0b473624bf/vimrcs/default/vimrc
