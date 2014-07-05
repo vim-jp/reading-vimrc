@@ -2695,3 +2695,37 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/06/28#message-19451008
   links: 
+- id: 105
+  date: 2014-07-05 23:00
+  author:
+    name: shiwano
+    url: https://github.com/shiwano
+  vimrcs:
+  - name: dot.vimrc
+    url: https://github.com/shiwano/dotfiles/blob/351609e4968e7214106ba00820889fc0a69b597a/dot.vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - Yana
+  - cohama
+  - crazymaster
+  - deris0126
+  - haya14busa
+  - hokorobi
+  - hujo
+  - kazuakiM
+  - kmdsbng
+  - lisia
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - rinx
+  - shiwano
+  - termoshtt
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2014/07/05#message-19525122
+  links:
+  - http://chopapp.com/#5v1ke9nx
