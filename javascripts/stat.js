@@ -140,6 +140,8 @@
             })
             ;
 
+        /* perfectscrollbar */
+        $('#d3-vimrc-participants-stat').perfectScrollbar();
     }
 
     function showStat(data) {

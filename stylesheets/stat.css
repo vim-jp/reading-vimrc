@@ -1,0 +1,55 @@
+/* Overwrite width */
+.wrapper {
+    max-width: 960px;
+}
+#header nav {
+    max-width: 960px;
+}
+section {
+    max-width: 960px;
+}
+
+/* General */
+h2 {
+    text-align: center;
+}
+
+/* d3 */
+#d3-vimrc-participants-stat {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.axis text {
+    font: 12px sans-serif;
+    fill: #f8f8f8;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #f8f8f8;
+    shape-rendering: crispEdges;
+}
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+
+/* tooltip */
+.js-stat-tooltip {
+    position: absolute;
+    z-index: 10;
+    visibility: hidden;
+
+    max-width: 350px;
+    padding: 3px;
+    color: #ffffff;
+    background: #000000;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 6px;
+}
