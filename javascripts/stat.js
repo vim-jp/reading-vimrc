@@ -146,8 +146,6 @@
     //});
 
     // Helper
-    var tooltip = d3.select('body').append('div')
-                    .attr('class', 'js-stat-tooltip');
 
     function get_members_len(d) { return d.members.length; }
 
@@ -166,6 +164,9 @@
     };
 
     function visualizeit(data) {
+        var tooltip = d3.select('body').append('div')
+                        .attr('class', 'js-stat-tooltip');
+
         var margin = {top: 20, right: 20, bottom: 30, left: 50},
             width = 960 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;
