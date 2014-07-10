@@ -41,6 +41,8 @@
         <div id="title">
           {% if page.url == '/index.html' %}
               <a href="{{ site.base-url }}{{ page.url | remove_first:'/' | replace:'index.html','' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+          {% elsif page.url == '/stat/index.html' %}
+              <a href="{{ site.base-url }}{{ page.url | remove_first:'/' | replace:'index.html','' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
           {% else %}
               <a href="{{ site.base-url }}{{ page.url | remove_first:'/' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
           {% endif %}
