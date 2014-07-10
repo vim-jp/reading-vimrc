@@ -6,7 +6,13 @@
     d3.json('/reading-vimrc/json/archives.json', function(error, json) {
         if (error) return console.warn(error);
         data = json;
+
+        // D3
         visualizeit();
+
+        // Caluculate stat
+        showStat(data);
+
     });
 
     // Helper
@@ -134,6 +140,29 @@
             })
             ;
 
+    }
+
+    function showStat(data) {
+        var members_flat = data.map(function(d) { return d.members; })
+                               .reduce(function(x, y) { return x.concat(y); });
+        var members_uniq = members_flat.filter(function(x, i, self) {
+            return self.indexOf(x) === i;
+        });
+        var members_with_count = members_uniq.map(function(mu) {
+            return {
+                name: mu,
+                count: members_flat.filter(function(mf) {
+                    return mu === mf;
+                }).length
+            };
+        }).sort(function(x, y) {
+            return y.count - x.count;
+        });
+
+        // TODO: write to the dom
+        for (var i=0; i < 15; ++i) {
+            console.log(members_with_count[i]);
+        }
     }
 
 })();
