@@ -1,0 +1,42 @@
+---
+layout: default
+title: vimrc読書会 Stat
+---
+<style>
+/* Overwrite width */
+.wrapper {
+  max-width: 1080px;
+}
+#header nav {
+  max-width: 1080px;
+}
+section {
+  max-width: 1080px;
+}
+
+/* Axis */
+.axis text {
+  font: 12px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #f8f8f8;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+}
+
+</style>
+
+
+<h1>Happy Vimming!</h1>
+
+<div id="reading-vimrc-stat">
+  <div id="d3-vimrc-barchart"></div>
+</div>
+
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="{{ site.base-url }}javascripts/stat.js"></script>
