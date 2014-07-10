@@ -33,6 +33,7 @@
             $scope.count = 0;
             $scope.archives = [];
             $scope.first = null;
+            $scope.last = null;
             $scope.current_streak = 0;
             $scope.longest_streak = 0;
             $scope.participated = [];
@@ -57,6 +58,7 @@
                     });
                     $scope.count = $scope.participated.length;
                     $scope.first = $scope.participated[0];
+                    $scope.last = $scope.participated[$scope.participated.length - 1];
 
                     // Calculate current & longest streak
                     var bool_list_r = $scope.archives.map(function(archive) {
