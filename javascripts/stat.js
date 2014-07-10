@@ -7,102 +7,74 @@
         visualizeit();
     });
 
+    // Helper
+    function get_members_len(d) {
+        return d.members.length;
+    }
+
     function visualizeit() {
-        var margin = {top: 20, right: 5, bottom: 30, left: 45},
-            width  = 1080 - margin.left - margin.right,
-            height = 300 - margin.top - margin.bottom;
+        var margin = {top: 20, right: 20, bottom: 30, left: 50},
+            width = 960 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
 
-        var xScale = d3.scale.ordinal()
-                       .rangeRoundBands([0, width], 0.1, 1);
+        var x = d3.scale.linear()
+                  .range([0, width]).nice();
 
-        var yScale = d3.scale.linear()
-                       .range([height, 0]);
+        var y = d3.scale.linear()
+                  .range([height, 0]);
 
         var xAxis = d3.svg.axis()
-                      .scale(xScale)
+                      .scale(x)
                       .orient("bottom");
 
         var yAxis = d3.svg.axis()
-                      .scale(yScale)
+                      .scale(y)
                       .orient("left");
 
-        // draw svg field
-        var svg = d3.select('#d3-vimrc-barchart')
-                    .append('svg')
-                    .attr({
-                        width: width + margin.left + margin.right,
-                        height: height + margin.top + margin.bottom
-                    })
-                    .append("g")
-                        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        var line = d3.svg.line()
+                     .x(function(d) { return x(d.id); })
+                     .y(function(d) { return y(get_members_len(d)); });
 
-        xScale.domain(data.map(function(d) { return d.id; }));
-        yScale.domain([0, d3.max(data, function(d) { return get_members_len(d); })]);
+        var svg = d3.select("body")
+                  .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                  .append("g")
+                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-        // draw axis
+        // x.domain(d3.extent(data, function(d) { return d.id; }));
+        x.domain([0, d3.max(data, function(d) { return d.id; })]);
+        y.domain([0, d3.max(data, function(d) { return get_members_len(d); })]);
+
         svg.append("g")
             .attr("class", "x axis")
-            .attr('fill', '#f8f8f8')
             .attr("transform", "translate(0," + height + ")")
-            .call(xAxis);
+            .call(xAxis)
+          .append("text")
+            .attr("y", 16)
+            .attr("dy", ".71em")
+            .attr("x", width + 10)
+            .text("(id)")
+            .style("text-anchor", "end")
+            ;
 
         svg.append("g")
             .attr("class", "y axis")
             .call(yAxis)
-            .attr('fill', '#f8f8f8')
-            .append("text")
-            .attr("transform", "rotate(-90)")
+          .append("text")
+            // .attr("transform", "rotate(-90)")
             .attr("y", 6)
             .attr("dy", ".71em")
-            .attr("fill", "#f8f8f8")
-            .style({
-                "text-anchor": "end",
-            })
+            .attr("x", margin.left + 10)
+            .style("text-anchor", "middle")
             .text("Participants");
 
+        svg.append("path")
+            .datum(data)
+            .attr("class", "line")
+            .attr("fill", "steelblue")
+            .attr("d", line);
 
-        var bar_style = {
-            padding : 2,
-            color: 'steelblue',
-            color_hover: 'orange'
-        };
-
-        // Draw bars
-        svg.selectAll(".bar")
-            .data(data)
-            .enter().append("rect")
-            .attr({
-                class: 'bar',
-                fill: bar_style.color
-            })
-            .attr({
-                x: function(d) { return xScale(d.id); },
-                y: function(d) { return height - get_bar_h(d); },
-                width: xScale.rangeBand(),
-                height: function(d) { return get_bar_h(d); }
-            })
-            .on('mouseover', function(d) {
-                d3.select(this).attr('fill', bar_style.color_hover);
-            })
-            .on('mouseout', function(d) {
-                d3.select(this).attr('fill', bar_style.color);
-            })
-            ;
-            
-
-        // Helper
-        function get_bar_h(d) {
-            var body_height = height - margin.top - margin.bottom;
-            var max_members = d3.max(
-                data, function(d) { return get_members_len(d);}
-            );
-            return (body_height / max_members) * get_members_len(d);
-        }
-
-        function get_members_len(d) {
-            return d.members.length;
-        }
     }
-
 
 })();
