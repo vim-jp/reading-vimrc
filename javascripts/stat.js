@@ -8,8 +8,16 @@
     });
 
     // Helper
-    function get_members_len(d) {
-        return d.members.length;
+    var tooltip = d3.select("body").append("div")
+                    .attr("class", "js-stat-tooltip");
+
+    function get_members_len(d) { return d.members.length; }
+
+    function formatDate(data_str) {
+        // data_str: %Y-%m-%d %H:%M
+        // return:   %Y/%m/%d
+        var parsedDate = d3.time.format('%Y-%m-%d %H:%M').parse(data_str);
+        return d3.time.format('%Y/%m/%d')(parsedDate);
     }
 
     function visualizeit() {
@@ -37,7 +45,7 @@
                      .y(function(d) { return y(get_members_len(d)); });
 
         // Draw svg field
-        var svg = d3.select("body")
+        var svg = d3.select("#d3-vimrc-participants-stat")
                   .append("svg")
                     .attr("width", width + margin.left + margin.right)
                     .attr("height", height + margin.top + margin.bottom)
@@ -56,7 +64,7 @@
             .attr("y", 16)
             .attr("dy", ".71em")
             .attr("x", width + 10)
-            .text("(id)")
+            .text("開催数")
             .style("text-anchor", "end")
             ;
 
@@ -69,7 +77,7 @@
             .attr("dy", ".71em")
             .attr("x", margin.left + 10)
             .style("text-anchor", "middle")
-            .text("Participants");
+            .text("参加者数(人)");
 
         // Draw line
         svg.append("path")
@@ -92,12 +100,22 @@
                 d3.select(this).attr({
                     'r': '8'
                 });
+                return tooltip.style('visibility', 'visible')
+                    .text(
+                        '第'+d.id+'回 '+d.author.name+' '+formatDate(d.date)
+                    )
+                    .style({
+                        top : (d3.event.pageY - 80) + 'px',
+                        left: (d3.event.pageX - 100) + 'px'
+                    })
+                    ;
             })
             .on('mouseout', function(d) {
                 d3.select(this).attr({
                     'fill': '#ffcc00',
                     'r': '3'
                 });
+                return tooltip.style('visibility', 'hidden');
             })
             .on('click', function(d) {
                 console.log(d);

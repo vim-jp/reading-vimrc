@@ -5,13 +5,13 @@ title: vimrc読書会 Stat
 <style>
 /* Overwrite width */
 .wrapper {
-  max-width: 1080px;
+  max-width: 960px;
 }
 #header nav {
-  max-width: 1080px;
+  max-width: 960px;
 }
 section {
-  max-width: 1080px;
+  max-width: 960px;
 }
 
 /* Axis */
@@ -33,13 +33,26 @@ section {
   stroke-width: 1.5px;
 }
 
+/* tooltip */
+.js-stat-tooltip {
+  position: absolute;
+  z-index: 10;
+  visibility: hidden;
+
+  max-width: 350px;
+  padding: 3px;
+  color: #ffffff;
+  background: #000000;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 6px;
+}
+
 </style>
 
-
-<h1>Happy Vimming!</h1>
-
 <div id="reading-vimrc-stat">
-  <div id="d3-vimrc-barchart"></div>
+  <h2>vimrc読書会参加者数</h2>
+  <div id="d3-vimrc-participants-stat"></div>
 </div>
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
