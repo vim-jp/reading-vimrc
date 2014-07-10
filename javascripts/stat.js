@@ -1,4 +1,6 @@
 (function() {
+    var ARCHIVE_URL_TEMPLATE = '/reading-vimrc/archive/';
+
     var data; // a global
 
     d3.json('/reading-vimrc/json/archives.json', function(error, json) {
@@ -19,6 +21,13 @@
         var parsedDate = d3.time.format('%Y-%m-%d %H:%M').parse(data_str);
         return d3.time.format('%Y/%m/%d')(parsedDate);
     }
+
+    String.prototype.lpad = function(length, padString) {
+        var str = this;
+        while (str.length < length)
+            str = padString + str;
+        return str;
+    };
 
     function visualizeit() {
         var margin = {top: 20, right: 20, bottom: 30, left: 50},
@@ -88,7 +97,12 @@
 
         // Draw dot on the line
         svg.selectAll("circle")
-            .data(data).enter().append("svg:circle")
+            .data(data).enter()
+          .append("svg:a")
+            .attr("xlink:href", function(d) {
+                return ARCHIVE_URL_TEMPLATE + (d.id + '').lpad(3, '0') + '.html';
+            })
+          .append("svg:circle")
             .attr("class", "circle")
             .attr({
                 cx: function(d) { return x(d.id); },
@@ -97,12 +111,13 @@
                 fill: '#ffcc00'
             })
             .on('mouseover', function(d) {
-                d3.select(this).attr({
-                    'r': '8'
-                });
+                d3.select(this).attr({ 'r': '8' });
                 return tooltip.style('visibility', 'visible')
                     .text(
-                        '第'+d.id+'回 '+d.author.name+' '+formatDate(d.date)
+                        '第' + d.id + '回 ' +
+                        d.author.name + ' ' +
+                        get_members_len(d) + '名 ' +
+                        formatDate(d.date)
                     )
                     .style({
                         top : (d3.event.pageY - 80) + 'px',
@@ -116,9 +131,6 @@
                     'r': '3'
                 });
                 return tooltip.style('visibility', 'hidden');
-            })
-            .on('click', function(d) {
-                console.log(d);
             })
             ;
 
