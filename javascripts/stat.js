@@ -89,6 +89,8 @@
                         $scope.longest_streak = memo;
                     }
 
+                    // d3
+                    draw_streak_graph($scope.archives);
                 })
                 .error(function(data, status, headers, config) {
                     console.log('Error');
@@ -106,7 +108,7 @@
                 $scope.members_with_count = Members.members_with_count;
 
                 // d3
-                visualizeit(Members.raw);
+                draw_participation_charts(Members.raw);
              })
             .error(function(data, status, headers, config) {
                 console.log('Error');
@@ -137,16 +139,6 @@
     /* d3 */
     var ARCHIVE_URL_TEMPLATE = '/reading-vimrc/archive/';
 
-    // var data; // a global
-
-    //d3.json('/reading-vimrc/json/archives.json', function(error, json) {
-    //    if (error) return console.warn(error);
-    //    // data = json;
-
-    //    // D3
-    //    visualizeit(json);
-    //});
-
     // Helper
 
     function get_members_len(d) { return d.members.length; }
@@ -165,7 +157,7 @@
         return str;
     };
 
-    function visualizeit(data) {
+    function draw_participation_charts(data) {
         var tooltip = d3.select('body').append('div')
                         .attr('class', 'js-stat-tooltip');
 
@@ -275,6 +267,106 @@
 
         /* perfectscrollbar */
         $('#d3-vimrc-participants-stat').perfectScrollbar();
+    }
+
+    function draw_streak_graph(data) {
+        var tooltip = d3.select('body').append('div')
+                        .attr('class', 'js-stat-tooltip');
+
+        var rect_style = {
+            w: 15,
+            h: 15,
+            p: 5,
+            marting_top: 30
+        };
+        rect_style.get_x = function(d, i) {
+            var col = Math.ceil((i + 1) / 5);
+            return margin.left + (rect_style.p + rect_style.w) * col;
+        };
+        rect_style.get_y = function(d, i) {
+            var row = 1 + ((i) % 5);
+            return margin.top + (rect_style.p + rect_style.h) * row;
+        };
+        rect_style.get_color = function(archive, i) {
+            // return (archive.did_participate) ? '#3ac31a' : '#919992';
+            return (archive.did_participate) ? '#6FF118' : '#999';
+        };
+
+        var margin = {top: 30, right: 50, bottom: 20, left: 30},
+            // width = 640 - margin.left - margin.right,
+            width = ( Math.ceil(data.length / 5) *
+                      (rect_style.w + rect_style.p)
+                    ) + 150 - margin.left - margin.right,
+            height = 200 - margin.top - margin.bottom;
+
+        var x = d3.scale.linear()
+                  .range([0, width]).nice();
+
+        var y = d3.scale.linear()
+                  .range([height, 0]);
+
+        // Draw svg field
+        var svg = d3.select('#d3-participation-streak-graph')
+                  .append('svg')
+                    .attr('width', width + margin.left + margin.right)
+                    .attr('height', height + margin.top + margin.bottom)
+                    ;
+
+
+        // Draw streak rect
+        svg.selectAll('rect')
+            .data(data).enter()
+          .append('svg:a')
+            .attr('xlink:href', function(d) {
+                return ARCHIVE_URL_TEMPLATE + (d.id + '').lpad(3, '0') + '.html';
+            })
+          .append('svg:rect')
+            .attr({
+                x: function(d,i) { return rect_style.get_x(d,i); },
+                y: function(d,i) { return rect_style.get_y(d,i); },
+                width: rect_style.w,
+                height: rect_style.h,
+                fill: function(d,i) { return rect_style.get_color(d,i); }
+            })
+            .on('mouseover', function(d) {
+                return tooltip.style('visibility', 'visible')
+                    .text(
+                        '第' + d.id + '回 ' +
+                        d.author.name + ' ' +
+                        formatDate(d.date)
+                    )
+                    .style({
+                        top : (d3.event.pageY - 50) + 'px',
+                        left: (d3.event.pageX - 100) + 'px'
+                    })
+                    ;
+            })
+            .on('mouseout', function(d) {
+                return tooltip.style('visibility', 'hidden');
+            })
+            ;
+
+        svg.selectAll('text')
+           .data(data).enter()
+         .append('g')
+           .style({'font-size': '10px'})
+         .append('svg:text')
+           .attr({
+               x: function(d, i) {
+                   return rect_style.get_x(d,i);
+               },
+               y: margin.top ,
+               dy: '.71em',
+               fill: 'steelblue'
+           })
+           .text(function(d,i) {
+               if (i % 20 === 0) return i;
+               else return '';
+           })
+           .style('text-anchor', 'middle')
+           ;
+
+
     }
 
 

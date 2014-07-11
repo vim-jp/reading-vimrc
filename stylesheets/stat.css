@@ -39,13 +39,19 @@ h2 {
     stroke-width: 1.5px;
 }
 
+#d3-participation-streak-graph {
+    padding: 0 30px;
+}
+
 /* tooltip */
 .js-stat-tooltip {
     position: absolute;
     z-index: 10;
     visibility: hidden;
 
-    max-width: 350px;
+    display: block;
+    height: 30px;
+    overflow: hidden;
     padding: 3px;
     color: #ffffff;
     background: #000000;
