@@ -1,5 +1,14 @@
 <h2> [[ name ]] </h2>
 
+<div style='text-align: right;'>
+  <form class='navbar-search pull-left' ng-submit='doUserSearch()'>
+    <input type='text' autocomplete='on' list='users' placeholder='Search users' ng-model='user_query'/>
+    <datalist id='users'>
+      <option ng-repeat='user in users' value='[[user]]'>
+    </datalist>
+  </form>
+</div>
+
 <div id='user-stat'>
   <h3>Stat</h3>
   <dl>

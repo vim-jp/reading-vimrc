@@ -27,8 +27,8 @@
         }
     ]);
 
-    app.controller('UserCtrl', ['$scope', '$routeParams', '$http',
-        function($scope, $routeParams, $http) {
+    app.controller('UserCtrl', ['$scope', '$routeParams', '$http', '$location',
+        function($scope, $routeParams, $http, $location) {
             $scope.name = $routeParams.name;
             $scope.count = 0;
             $scope.archives = [];
@@ -39,9 +39,15 @@
             $scope.participated = [];
             $scope.note_participated = [];
 
+            $scope.users = [];
+            $scope.doUserSearch = function() {
+                $location.path('/u/' + $scope.user_query);
+            };
+
             $http({method: 'GET', url: '/reading-vimrc/json/archives.json'})
                 .success(function(data, status, headers, config) {
                     Members.init(data);
+                    $scope.users = Members.members;
 
                     // Add participation flag
                     $scope.archives = data.map(function(archive) {
