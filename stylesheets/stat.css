@@ -53,3 +53,15 @@ h2 {
     text-align: center;
     border-radius: 6px;
 }
+
+/* Participation ranking table */
+#participation-ranking table {
+    max-width: 600px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.t-rank-col,
+.t-count-col {
+    width: 40px;
+}

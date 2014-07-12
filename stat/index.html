@@ -6,12 +6,33 @@ title: vimrc読書会 Stat
 <link rel="stylesheet" href="{{ site.base-url }}stylesheets/stat.css">
 <link rel="stylesheet" href="{{ site.base-url }}assets/perfect-scrollbar-0.4.10.min.css">
 
-<script src="{{ site.base-url }}assets/perfect-scrollbar-0.4.10.with-mousewheel.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.14/angular.min.js"></script>
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+<script src="{{ site.base-url }}assets/perfect-scrollbar-0.4.10.with-mousewheel.min.js"></script>
 <script src="{{ site.base-url }}javascripts/stat.js"></script>
 
-<div id="reading-vimrc-stat">
+<div ng-app='stat' id='reading-vimrc-stat'>
   <h2>vimrc読書会参加者数</h2>
   <div id="d3-vimrc-participants-stat"></div>
+
+  <hr>
+
+  <div ng-controller='ParticipationRank' id='participation-ranking'>
+    <h2>vimrc読書会参加数ランキング</h2>
+    <table>
+      <tr>
+        <th class='t-rank-col'>Rank</th>
+        <th class='t-name-col'>Name</th>
+        <th class='t-count-col'>Count</th>
+      </tr>
+      <tr ng-repeat='member in members_with_count'>
+        <td class='t-rank-col'>[[ $index + 1 ]]</td>
+        <td class='t-name-col'>[[ member.name ]]</td>
+        <td class='t-count-col'>[[ member.count ]]</td>
+      </tr>
+    </table>
+  </div>
+
 </div>
 

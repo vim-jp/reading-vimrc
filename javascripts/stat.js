@@ -1,4 +1,47 @@
 (function() {
+    /* Angular */
+    var app = angular.module('stat', []);
+
+    app.config([
+        '$interpolateProvider', function($interpolateProvider) {
+            return $interpolateProvider.startSymbol('[[').endSymbol(']]');
+        }
+    ]);
+
+    app.controller('ParticipationRank', ['$scope', '$http', function($scope, $http) {
+        $scope.members = [];
+
+        $http({method: 'GET', url: '/reading-vimrc/json/archives.json'})
+            .success(function(data, status, headers, config) {
+                Members.init(data);
+                $scope.members = Members.members;
+                $scope.members_with_count = Members.members_with_count;
+             })
+            .error(function(data, status, headers, config) {
+                console.log('Error');
+            });
+
+    }]);
+
+    var Members = {};
+    Members.init = function(data) {
+        this.raw = data;
+        this.members_flat = data.map(function(d) { return d.members; })
+                                .reduce(function(x, y) { return x.concat(y); });
+        this.members = this.members_flat.filter(function(x, i, self) {
+            return self.indexOf(x) === i;
+        });
+
+        this.members_with_count = this.members.map(function(mu) { // uniq member
+            return {
+                name: mu,
+                count: Members.members_flat.filter(function(mf) { return mu === mf; }).length
+            };
+        }).sort(function(x, y) { return y.count - x.count; });
+
+    };
+
+    /* d3 */
     var ARCHIVE_URL_TEMPLATE = '/reading-vimrc/archive/';
 
     var data; // a global
@@ -9,9 +52,6 @@
 
         // D3
         visualizeit();
-
-        // Caluculate stat
-        showStat(data);
 
     });
 
@@ -144,27 +184,5 @@
         $('#d3-vimrc-participants-stat').perfectScrollbar();
     }
 
-    function showStat(data) {
-        var members_flat = data.map(function(d) { return d.members; })
-                               .reduce(function(x, y) { return x.concat(y); });
-        var members_uniq = members_flat.filter(function(x, i, self) {
-            return self.indexOf(x) === i;
-        });
-        var members_with_count = members_uniq.map(function(mu) {
-            return {
-                name: mu,
-                count: members_flat.filter(function(mf) {
-                    return mu === mf;
-                }).length
-            };
-        }).sort(function(x, y) {
-            return y.count - x.count;
-        });
-
-        // TODO: write to the dom
-        for (var i=0; i < 15; ++i) {
-            console.log(members_with_count[i]);
-        }
-    }
 
 })();
