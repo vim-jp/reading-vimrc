@@ -1,0 +1,59 @@
+<!doctype html>
+<html ng-app='stat'>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{% if page.title %}{{ page.title }}{% endif %}</title>
+    <link rel="stylesheet" href="{{ site.base-url }}stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.base-url }}stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="{{ site.base-url }}javascripts/respond.js"></script>
+
+    <link rel="stylesheet" href="{{ site.base-url }}stylesheets/stat.css">
+    <link rel="stylesheet" href="{{ site.base-url }}assets/perfect-scrollbar-0.4.10.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.14/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.14/angular-resource.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-beta.14/angular-route.min.js"></script>
+
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+    <script src="{{ site.base-url }}assets/perfect-scrollbar-0.4.10.with-mousewheel.min.js"></script>
+    <script src="{{ site.base-url }}javascripts/stat.js"></script>
+
+
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="{{ site.base-url }}stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  </head>
+  <body>
+    <div class="wrapper">
+        <div id="header">
+            {% include navigation.html %}
+        </div>
+
+      <section>
+        <div id="title">
+          {% if page.url == '/index.html' %}
+              <a href="{{ site.base-url }}{{ page.url | remove_first:'/' | replace:'index.html','' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+          {% elsif page.url == '/stat/index.html' %}
+              <a href="{{ site.base-url }}{{ page.url | remove_first:'/' | replace:'index.html','' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+          {% else %}
+              <a href="{{ site.base-url }}{{ page.url | remove_first:'/' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+          {% endif %}
+          <p></p>
+          <hr>
+        </div>
+        {{content}}
+      </section>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
+    <script src="{{ site.base-url }}javascripts/navigation.js"></script>
+  </body>
+</html>
