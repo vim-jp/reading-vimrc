@@ -2729,3 +2729,29 @@
   log: http://lingr.com/room/vim/archives/2014/07/05#message-19525122
   links:
   - http://chopapp.com/#5v1ke9nx
+- id: 106
+  date: 2014-07-12 23:00
+  author:
+    name: miio
+    url: https://github.com/miio
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/miio/dotfiles/blob/0ebe68ee9f3d65141a00d0dd0bd1800afdca2eb9/.vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - Lindan
+  - cohama
+  - deris0126
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - thinca
+  - Λlisue
+  log: http://lingr.com/room/vim/archives/2014/07/12#message-19610081
+  links: 
