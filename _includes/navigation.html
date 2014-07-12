@@ -11,6 +11,15 @@
         <ul class="nav-list">
             <li {% if page.url == '/index.html' %}class="active"{% endif %}><a href="{{ site.base-url }}">Home</a></li>
             <li {% if page.url == '/archive/index.html' %}class="active"{% endif %}><a href="{{ site.base-url }}archive/index.html">Archive</a></li>
+            <li {% if page.url == '/stat/index.html' %}class="active"{% endif %}>
+              <a
+                {% if page.url == '/stat/index.html' %}
+                  href=""
+                  ng-href="{{ site.base-url }}stat/#/"
+                {% else %}
+                  href="{{ site.base-url }}stat/"
+                {% endif %}>Stat</a>
+            </li>
             <li><a href="https://github.com/vim-jp/reading-vimrc/wiki/Request">Request</a></li>
             <li><a href="http://lingr.com/room/vim">Lingr - Vim部屋</a></li>
         </ul>

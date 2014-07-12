@@ -3,7 +3,7 @@
     max-width: 960px;
 }
 #header nav {
-    max-width: 960px;
+    /* max-width: 960px; */
 }
 section {
     max-width: 960px;
@@ -64,4 +64,14 @@ h2 {
 .t-rank-col,
 .t-count-col {
     width: 40px;
+}
+
+/* User stat */
+#user-stat {
+    font-size: 18px;
+}
+
+#user-stat dt {
+    border-bottom: 1px dashed #f8f8f8;
+    margin-bottom: 5px;
 }

@@ -1,0 +1,56 @@
+<h2> [[ name ]] </h2>
+
+<div id='user-stat'>
+  <h3>Stat</h3>
+  <dl>
+    <dt>総参加数</dt> <dd>[[ count ]] 回</dd>
+    <dt>参加率</dt> <dd>[[ (count / archives.length) * 100 | number:0 ]] %</dd>
+    <dt>はじめての参加</dt> <dd> <a href='[[first.archive_url]]'>第[[ first.id ]]回 [[first.author.name]] [[first.date]]</a></dd>
+    <dt>Current streak</dt> <dd>[[ current_streak ]] 回</dd>
+    <dt>Longest streak</dt> <dd>[[ longest_streak ]] 回</dd>
+  </dl>
+</div>
+
+<h3>参加してない読書会</h3>
+
+<table>
+<thead>
+<tr>
+  <th> ナンバー</th>
+  <th> 日時</th>
+  <th> vimrc </th>
+  <th> ログ</th>
+</tr>
+</thead>
+<tbody>
+  <tr ng-repeat='archive in not_participated'>
+    <td><a href='[[archive.archive_url]]'>第[[ archive.id ]]回</a></td>
+    <td> [[archive.date]] </td>
+    <td> <a href='[[ archive.vimrc.url ]]'>[[ archive.author.name ]]</a> さん </td>
+    <td><a href='[[ archive.log ]]'>ログ</a></td>
+  </tr>
+</tbody>
+</table>
+
+<h3>参加した読書会</h3>
+
+<table>
+<thead>
+<tr>
+  <th> ナンバー</th>
+  <th> 日時</th>
+  <th> vimrc </th>
+  <th> ログ</th>
+</tr>
+</thead>
+<tbody>
+  <tr ng-repeat='archive in participated'>
+    <td><a href='[[archive.archive_url]]'>第[[ archive.id ]]回</a></td>
+    <td> [[archive.date]] </td>
+    <td> <a href='[[ archive.vimrc.url ]]'>[[ archive.author.name ]]</a> さん </td>
+    <td><a href='[[ archive.log ]]'>ログ</a></td>
+  </tr>
+</tbody>
+</table>
+
+<a href='' ng-href='/reading-vimrc/stat/'>全体のStatに戻る</a>

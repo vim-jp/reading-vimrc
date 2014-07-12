@@ -1,10 +1,96 @@
 (function() {
     /* Angular */
-    var app = angular.module('stat', []);
+    var app = angular.module('stat', ['ngRoute']);
 
     app.config([
-        '$interpolateProvider', function($interpolateProvider) {
-            return $interpolateProvider.startSymbol('[[').endSymbol(']]');
+        '$interpolateProvider', '$routeProvider', '$locationProvider',
+        function($interpolateProvider, $routeProvider, $locationProvider) {
+            $interpolateProvider.startSymbol('[[').endSymbol(']]');
+
+            // TODO: Working with Jekyll
+            // $locationProvider.html5Mode(true);
+            // var root = '/reading-vimrc/stat/';
+            var root = '/';
+            $routeProvider
+                .when(root, {
+                    controller:'ParticipationRank',
+                    templateUrl:'top.html'
+                })
+                .when(root + 'u/:name', {
+                    controller:'UserCtrl',
+                    templateUrl:'user.html'
+                })
+                .otherwise({
+                    redirectTo: root
+                });
+
+        }
+    ]);
+
+    app.controller('UserCtrl', ['$scope', '$routeParams', '$http',
+        function($scope, $routeParams, $http) {
+            $scope.name = $routeParams.name;
+            $scope.count = 0;
+            $scope.archives = [];
+            $scope.first = null;
+            $scope.current_streak = 0;
+            $scope.longest_streak = 0;
+            $scope.participated = [];
+            $scope.note_participated = [];
+
+            $http({method: 'GET', url: '/reading-vimrc/json/archives.json'})
+                .success(function(data, status, headers, config) {
+                    Members.init(data);
+
+                    // Add participation flag
+                    $scope.archives = data.map(function(archive) {
+                        archive.did_participate = (archive.members.indexOf($scope.name) > -1);
+                        archive.archive_url = ARCHIVE_URL_TEMPLATE + (archive.id + '').lpad(3, '0') + '.html';
+                        return archive;
+                    });
+
+                    $scope.participated = $scope.archives.filter(function(archive) {
+                        return archive.did_participate;
+                    });
+                    $scope.not_participated = $scope.archives.filter(function(archive) {
+                        return !archive.did_participate;
+                    });
+                    $scope.count = $scope.participated.length;
+                    $scope.first = $scope.participated[0];
+
+                    // Calculate current & longest streak
+                    var bool_list_r = $scope.archives.map(function(archive) {
+                        return archive.did_participate;
+                    }).reverse();
+                    var flag = { breaked: false };
+                    var longest = 0;
+                    var memo = 0;
+                    for (var i in bool_list_r) {
+                        if (bool_list_r[i]) { memo++; }
+                        else {
+                            // Update current
+                            if (! flag.breaked) {
+                                $scope.current_streak = memo;
+                                flag.breaked = true;
+                            }
+
+                            // Update longest?
+                            if (longest < memo) { longest = memo; }
+
+                            memo = 0; // reset
+                        }
+                    }
+                    if (flag.breaked) {
+                        $scope.longest_streak = longest;
+                    } else {
+                        $scope.current_streak = memo;
+                        $scope.longest_streak = memo;
+                    }
+
+                })
+                .error(function(data, status, headers, config) {
+                    console.log('Error');
+                });
         }
     ]);
 
@@ -16,13 +102,18 @@
                 Members.init(data);
                 $scope.members = Members.members;
                 $scope.members_with_count = Members.members_with_count;
+
+                // d3
+                visualizeit(Members.raw);
              })
             .error(function(data, status, headers, config) {
                 console.log('Error');
             });
 
+
     }]);
 
+    // Model ...?
     var Members = {};
     Members.init = function(data) {
         this.raw = data;
@@ -44,16 +135,15 @@
     /* d3 */
     var ARCHIVE_URL_TEMPLATE = '/reading-vimrc/archive/';
 
-    var data; // a global
+    // var data; // a global
 
-    d3.json('/reading-vimrc/json/archives.json', function(error, json) {
-        if (error) return console.warn(error);
-        data = json;
+    //d3.json('/reading-vimrc/json/archives.json', function(error, json) {
+    //    if (error) return console.warn(error);
+    //    // data = json;
 
-        // D3
-        visualizeit();
-
-    });
+    //    // D3
+    //    visualizeit(json);
+    //});
 
     // Helper
     var tooltip = d3.select('body').append('div')
@@ -75,7 +165,7 @@
         return str;
     };
 
-    function visualizeit() {
+    function visualizeit(data) {
         var margin = {top: 20, right: 20, bottom: 30, left: 50},
             width = 960 - margin.left - margin.right,
             height = 500 - margin.top - margin.bottom;

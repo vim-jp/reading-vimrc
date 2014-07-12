@@ -1,0 +1,19 @@
+<h2>vimrc読書会参加者数</h2>
+<div id="d3-vimrc-participants-stat"></div>
+<hr>
+
+<div id='participation-ranking'>
+  <h2>vimrc読書会参加数ランキング</h2>
+  <table>
+    <tr>
+      <th class='t-rank-col'>Rank</th>
+      <th class='t-name-col'>Name</th>
+      <th class='t-count-col'>Count</th>
+    </tr>
+    <tr ng-repeat='member in members_with_count'>
+      <td class='t-rank-col'>[[ $index + 1 ]]</td>
+      <td class='t-name-col'><a href='' ng-href="#/u/[[member.name]]">[[ member.name ]]</a></td>
+      <td class='t-count-col'>[[ member.count ]]</td>
+    </tr>
+  </table>
+</div>
