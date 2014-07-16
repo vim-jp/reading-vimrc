@@ -44,7 +44,7 @@
 
 <ul>
 {% for member in archive.members %}
-  <li>{{ member }}</li>
+  <li><a href="{{ site.base-url }}stat/#/u/{{ member }}">{{ member }}</a></li>
 {% endfor %}
 </ul>
 
