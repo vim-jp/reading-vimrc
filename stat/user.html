@@ -41,7 +41,7 @@
   <tr ng-repeat='archive in not_participated'>
     <td><a href='[[archive.archive_url]]'>第[[ archive.id ]]回</a></td>
     <td> [[archive.date]] </td>
-    <td> <a href='[[ archive.vimrc.url ]]'>[[ archive.author.name ]]</a> さん </td>
+    <td> <a href='[[ archive.vimrc[0].url ]]'>[[ archive.author.name ]]</a> さん </td>
     <td><a href='[[ archive.log ]]'>ログ</a></td>
   </tr>
 </tbody>
@@ -62,7 +62,7 @@
   <tr ng-repeat='archive in participated'>
     <td><a href='[[archive.archive_url]]'>第[[ archive.id ]]回</a></td>
     <td> [[archive.date]] </td>
-    <td> <a href='[[ archive.vimrc.url ]]'>[[ archive.author.name ]]</a> さん </td>
+    <td> <a href='[[ archive.vimrc[0].url ]]'>[[ archive.author.name ]]</a> さん </td>
     <td><a href='[[ archive.log ]]'>ログ</a></td>
   </tr>
 </tbody>
