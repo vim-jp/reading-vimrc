@@ -2755,3 +2755,26 @@
   - Λlisue
   log: http://lingr.com/room/vim/archives/2014/07/12#message-19610081
   links: 
+- id: 107
+  date: 2014-07-19 23:00
+  author:
+    name: itochan
+    url: https://github.com/itochan
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/itochan/dotfiles/blob/f81f5cf58c473f494114e54370a45f3ace888d8b/.vimrc
+  part: 
+  other: 
+  members:
+  - basyura
+  - cohama
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - supermomonga
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/07/19#message-19685568
+  links: 
