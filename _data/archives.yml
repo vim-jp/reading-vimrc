@@ -2778,3 +2778,32 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/07/19#message-19685568
   links: 
+- id: 108
+  date: 2014-07-26 23:00
+  author:
+    name: scheakur
+    url: https://github.com/scheakur
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/scheakur/dotfiles/blob/0218a68f33e161bbe24d23d211d320f4a08c0d14/vimrc
+  part: 
+  other: 
+  members:
+  - Yana
+  - babarot
+  - cohama
+  - deris0126
+  - haya14busa
+  - hotoolong
+  - hujo
+  - kazuakiM
+  - lisia
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - supermomonga
+  - termoshtt
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/07/26#message-19756693
+  links: 
