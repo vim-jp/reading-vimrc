@@ -2807,3 +2807,30 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/07/26#message-19756693
   links: 
+- id: 109
+  date: 2014-08-02 23:00
+  author:
+    name: dalibor
+    url: https://github.com/dalibor
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/dalibor/vimfiles/blob/b16a2c7d835c4b4237b520a750e8c352c6cd4fff/vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - babarot
+  - cohama
+  - deris0126
+  - haya14busa
+  - kazuakiM
+  - kmdsbng
+  - lisia
+  - mattn
+  - rbtnn
+  - syui
+  - thinca
+  - ujihisa
+  - yoshitia
+  log: http://lingr.com/room/vim/archives/2014/08/02#message-19829335
+  links: 
