@@ -2834,3 +2834,29 @@
   - yoshitia
   log: http://lingr.com/room/vim/archives/2014/08/02#message-19829335
   links: 
+- id: 110
+  date: 2014-08-09 23:00
+  author:
+    name: divad12
+    url: https://github.com/divad12
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/divad12/dotfiles/blob/a77f59dd5c22f6e6d952765b89b88fb236a36730/.vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - Lindan
+  - cohama
+  - crazymaster
+  - deris0126
+  - haya14busa
+  - hujo
+  - kamichidu
+  - kazuakiM
+  - lisia
+  - rinx
+  - syui
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/08/09#message-19891339
+  links: 

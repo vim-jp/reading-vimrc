@@ -1,12 +1,12 @@
 ---
-- id: 110
-  date: 2014-08-09 23:00
+- id: 111
+  date: 2014-08-16 23:00
   author:
-    name: divad12
-    url: https://github.com/divad12
+    name: chibicode
+    url: https://github.com/chibicode
   vimrcs:
-  - url: https://github.com/divad12/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/chibicode/vimrc/blob/master/vimrc.vim
+    name: vimrc.vim
     hash: 
   part: 
   other: 
