@@ -2860,3 +2860,28 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/08/09#message-19891339
   links: 
+- id: 111
+  date: 2014-08-16 23:00
+  author:
+    name: chibicode
+    url: https://github.com/chibicode
+  vimrcs:
+  - name: vimrc.vim
+    url: https://github.com/chibicode/vimrc/blob/395df5a7c89e3000aea3d543cfe30a00670b99f6/vimrc.vim
+  part: 
+  other: 
+  members:
+  - cohama
+  - deris0126
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - lisia
+  - manga_osyo
+  - mattn
+  - rbtnn
+  - rinx
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/08/16#message-19952185
+  links: 
