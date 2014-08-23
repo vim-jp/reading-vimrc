@@ -2885,3 +2885,30 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/08/16#message-19952185
   links: 
+- id: 112
+  date: 2014-08-23 23:00
+  author:
+    name: koara-local
+    url: https://github.com/koara-local
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/koara-local/dotvim/blob/1807ffc7f012b2178d5d76822ef52865ef3704d6/vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - deris0126
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - koara_local
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - rinx
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/08/23#message-20015616
+  links:
+  - http://chopapp.com/#elyfbax0
