@@ -1,12 +1,12 @@
 ---
-- id: 113
-  date: 2014-08-30 23:00
+- id: 114
+  date: 2014-09-06 23:00
   author:
-    name: yuroyoro
-    url: https://github.com/yuroyoro
+    name: junegunn
+    url: https://github.com/junegunn
   vimrcs:
-  - url: https://github.com/yuroyoro/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/junegunn/dotfiles/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 

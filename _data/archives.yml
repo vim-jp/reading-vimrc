@@ -2912,3 +2912,35 @@
   log: http://lingr.com/room/vim/archives/2014/08/23#message-20015616
   links:
   - http://chopapp.com/#elyfbax0
+- id: 113
+  date: 2014-08-30 23:00
+  author:
+    name: yuroyoro
+    url: https://github.com/yuroyoro
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/yuroyoro/dotfiles/blob/fd81ea04ddc313312b0668dfac207ffb8492d467/.vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - Lindan
+  - aiya000
+  - aomoriringo
+  - aomoriringoaaaaaaaa
+  - cohama
+  - deris0126
+  - haya14busa
+  - hotoolong
+  - hujo
+  - kazuakiM
+  - koara_local
+  - mattn
+  - raa0121
+  - rinx
+  - supermomonga
+  - syui
+  - thinca
+  - yoshitia
+  log: http://lingr.com/room/vim/archives/2014/08/30#message-20074872
+  links: 
