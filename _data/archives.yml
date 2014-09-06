@@ -2944,3 +2944,39 @@
   - yoshitia
   log: http://lingr.com/room/vim/archives/2014/08/30#message-20074872
   links: 
+- id: 114
+  date: 2014-09-06 23:00
+  author:
+    name: junegunn
+    url: https://github.com/junegunn
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/junegunn/dotfiles/blob/dbeddfce1bd1975e499984632191d2d1ec080e25/vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - Lindan
+  - Shougo
+  - b4b4r07
+  - cohama
+  - deris0126
+  - hamaco
+  - haya14busa
+  - hotoolong
+  - hujo
+  - kamichidu
+  - kazuakiM
+  - koara_local
+  - mattn
+  - raa0121
+  - rbtnn
+  - s_of_p
+  - syui
+  - termoshtt
+  - thinca
+  - ujihisa
+  - yoshitia
+  - 女児
+  log: http://lingr.com/room/vim/archives/2014/09/06#message-20128469
+  links: 
