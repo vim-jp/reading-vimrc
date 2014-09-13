@@ -2980,3 +2980,24 @@
   - 女児
   log: http://lingr.com/room/vim/archives/2014/09/06#message-20128469
   links: 
+- id: 115
+  date: 2014-09-13 23:00
+  author:
+    name: aktau
+    url: https://github.com/aktau
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/aktau/dotfiles/blob/c82c695b308b03232719b37e5d2a9244a1c3b1c9/.vimrc
+  part: 
+  other: 
+  members:
+  - KoRoN
+  - haya14busa
+  - hotoolong
+  - kazuakiM
+  - koara_local
+  - msmhrt
+  - rbtnn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/09/13#message-20185697
+  links: 

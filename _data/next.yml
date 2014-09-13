@@ -1,11 +1,11 @@
 ---
-- id: 115
-  date: 2014-09-13 23:00
+- id: 116
+  date: 2014-09-20 23:00
   author:
-    name: aktau
-    url: https://github.com/aktau
+    name: boxp
+    url: https://github.com/boxp
   vimrcs:
-  - url: https://github.com/aktau/dotfiles/blob/master/.vimrc
+  - url: https://github.com/boxp/dotfiles/blob/master/.vimrc
     name: ".vimrc"
     hash: 
   part: 
