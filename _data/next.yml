@@ -1,12 +1,12 @@
 ---
-- id: 116
-  date: 2014-09-20 23:00
+- id: 117
+  date: 2014-09-27 23:00
   author:
-    name: boxp
-    url: https://github.com/boxp
+    name: akameco
+    url: https://github.com/akameco
   vimrcs:
-  - url: https://github.com/boxp/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/akameco/dotfiles/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 

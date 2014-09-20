@@ -3001,3 +3001,27 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/09/13#message-20185697
   links: 
+- id: 116
+  date: 2014-09-20 23:00
+  author:
+    name: boxp
+    url: https://github.com/boxp
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/boxp/dotfiles/blob/8bdbf9599187d535ba361194257f67e80ba6d371/.vimrc
+  part: 
+  other: 
+  members:
+  - BOXP
+  - Lindan
+  - Yana
+  - cohama
+  - deris0126
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/09/20#message-20234464
+  links: 
