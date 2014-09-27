@@ -3025,3 +3025,37 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/09/20#message-20234464
   links: 
+- id: 117
+  date: 2014-09-27 23:00
+  author:
+    name: akameco
+    url: https://github.com/akameco
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/akameco/dotfiles/blob/d1b97a4d016e4f094e9432fdd9dc477b99a494a0/vimrc
+  part: 
+  other: 
+  members:
+  - BOXP
+  - Jagua
+  - Lindan
+  - YohichiDate
+  - aiya000
+  - akameco
+  - cohama
+  - deris0126
+  - haya14busa
+  - hotoolong
+  - hujo
+  - kazuakiM
+  - koara_local
+  - lesguillemets
+  - manga_osyo
+  - mattn
+  - raa0121
+  - rbtnn
+  - rinx
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/09/27#message-20283978
+  links: 
