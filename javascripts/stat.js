@@ -88,11 +88,9 @@
                             memo = 0; // reset
                         }
                     }
-                    if (flag.breaked) {
-                        $scope.longest_streak = longest;
-                    } else {
+                    $scope.longest_streak = Math.max(memo, longest);
+                    if (! flag.breaked) { // for @thinca who hasn't break streak!
                         $scope.current_streak = memo;
-                        $scope.longest_streak = memo;
                     }
 
                     // d3
