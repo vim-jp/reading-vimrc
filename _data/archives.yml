@@ -3059,3 +3059,27 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/09/27#message-20283978
   links: 
+- id: 118
+  date: 2014-10-04 23:00
+  author:
+    name: yasu-n
+    url: https://github.com/yasu-n
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/yasu-n/dotfiles/blob/8cd2db3db99647e120682dc90cfb15b938edbea4/vimrc
+  part: 
+  other: 
+  members:
+  - BOXP
+  - YohichiDate
+  - cohama
+  - deris0126
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - rinx
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2014/10/04#message-20334780
+  links: 
