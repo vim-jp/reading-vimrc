@@ -3083,3 +3083,23 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2014/10/04#message-20334780
   links: 
+- id: 119
+  date: 2014-10-11 23:00
+  author:
+    name: luke-gru
+    url: https://github.com/luke-gru
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/luke-gru/dotfiles/blob/9567a75d1e077ee0ac2046e7e3b9115558f6b06e/.vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - deris0126
+  - haya14busa
+  - kazuakiM
+  - rbtnn
+  - thinca
+  - 国選幼女人
+  log: http://lingr.com/room/vim/archives/2014/10/11#message-20380481
+  links: 
