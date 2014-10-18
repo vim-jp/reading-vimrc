@@ -3103,3 +3103,31 @@
   - 国選幼女人
   log: http://lingr.com/room/vim/archives/2014/10/11#message-20380481
   links: 
+- id: 120
+  date: 2014-10-18 23:00
+  author:
+    name: srockstyle
+    url: https://github.com/srockstyle
+  vimrcs:
+  - name: dot_vimrc
+    url: https://github.com/srockstyle/vimrc/blob/341e27d9d829c8ccf29f5637fee2e6776822cb94/dot_vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - cohama
+  - deris0126
+  - haya14busa
+  - kamichidu
+  - kazuakiM
+  - manga_osyo
+  - mattn
+  - oppara
+  - raa0121
+  - rbtnn
+  - srockstyle
+  - thinca
+  - ujihisa
+  - yoshitia
+  log: http://lingr.com/room/vim/archives/2014/10/18#message-20423824
+  links: 
