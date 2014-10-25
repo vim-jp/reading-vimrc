@@ -3131,3 +3131,21 @@
   - yoshitia
   log: http://lingr.com/room/vim/archives/2014/10/18#message-20423824
   links: 
+- id: 121
+  date: 2014-10-25 23:00
+  author:
+    name: timss
+    url: https://github.com/timss
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/timss/vimconf/blob/29448c492de0bf1c374976fe238523c6235876a9/.vimrc
+  part: 
+  other: 
+  members:
+  - LeafCage
+  - deris0126
+  - haya14busa
+  - manga_osyo
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/10/25#message-20465155
+  links: 
