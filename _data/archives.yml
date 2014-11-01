@@ -3149,3 +3149,27 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/10/25#message-20465155
   links: 
+- id: 122
+  date: 2014-11-01 23:00
+  author:
+    name: frah
+    url: https://github.com/frah
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/frah/dotfiles/blob/4cf454491c3387c1b2bde97d938bb41c4b603c8c/.vimrc
+  part: 
+  other: 
+  members:
+  - Lindan
+  - aiya000
+  - cohama
+  - deris0126
+  - hokorobi
+  - hujo
+  - kazuakiM
+  - lesguillemets
+  - manga_osyo
+  - raa0121
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/11/01#message-20516276
+  links: 
