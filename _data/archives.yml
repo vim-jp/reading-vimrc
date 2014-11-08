@@ -3173,3 +3173,24 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/11/01#message-20516276
   links: 
+- id: 123
+  date: 2014-11-08 23:00
+  author:
+    name: naoty
+    url: https://github.com/naoty
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/naoty/dotfiles/blob/804c53032994fadc078525bc09cc559e067044ee/.vimrc
+  part: 
+  other: 
+  members:
+  - boku
+  - cohama
+  - haya14busa
+  - kazuakiM
+  - raa0121
+  - rbtnn
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/11/08#message-20565376
+  links: 
