@@ -3194,3 +3194,26 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/11/08#message-20565376
   links: 
+- id: 124
+  date: 2014-11-15 23:00
+  author:
+    name: suy
+    url: https://github.com/suy
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/suy/configs/blob/1581c50e7a38e8f9d2bafae479fcebe002cfa795/vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - cohama
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - lesguillemets
+  - rbtnn
+  - rltm
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/11/15#message-20615154
+  links: 
