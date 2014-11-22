@@ -1,12 +1,12 @@
 ---
-- id: 125
-  date: 2014-11-22 23:00
+- id: 126
+  date: 2014-11-29 23:00
   author:
-    name: nyangry
-    url: https://github.com/nyangry
+    name: y-uuki
+    url: https://github.com/y-uuki
   vimrcs:
-  - url: https://github.com/nyangry/dotfiles/blob/master/vimrc
-    name: vimrc
+  - url: https://github.com/y-uuki/dotfiles/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
   part: 
   other: 

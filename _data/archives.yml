@@ -3217,3 +3217,23 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/11/15#message-20615154
   links: 
+- id: 125
+  date: 2014-11-22 23:00
+  author:
+    name: nyangry
+    url: https://github.com/nyangry
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/nyangry/dotfiles/blob/aeb2eafc41a3cbf8b7b93f1fc8223124622368c1/vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - deris0126
+  - haya14busa
+  - kazuakiM
+  - lisia
+  - raa0121
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/11/22#message-20673609
+  links: 
