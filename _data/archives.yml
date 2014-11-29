@@ -3237,3 +3237,27 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/11/22#message-20673609
   links: 
+- id: 126
+  date: 2014-11-29 23:00
+  author:
+    name: y-uuki
+    url: https://github.com/y-uuki
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/y-uuki/dotfiles/blob/b8c83c06616d2c6a97062cdbbcb72da767fa19b2/.vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - deris0126
+  - haya14busa
+  - itchyny
+  - lesguillemets
+  - mattn
+  - rbtnn
+  - tek_koc
+  - thinca
+  - y_uuki
+  - 小4女児
+  log: http://lingr.com/room/vim/archives/2014/11/29#message-20729884
+  links: 
