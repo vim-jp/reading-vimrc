@@ -12,7 +12,8 @@
       {% for vimrc in archive.vimrcs %}
         {
           "name": "{{ vimrc.name }}",
-          "url": "{{ vimrc.url }}"
+          "url": "{{ vimrc.url }}",
+          "raw_url": "{{ vimrc.raw_url }}"
         } {% unless forloop.last %},{% endunless %}
       {% endfor %}
     ],
