@@ -3392,3 +3392,25 @@
   - 小4女児
   log: http://lingr.com/room/vim/archives/2014/11/29#message-20729884
   links: 
+- id: 127
+  date: 2014-12-06 23:00
+  author:
+    name: motemen
+    url: https://github.com/motemen
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/motemen/dotfiles/blob/83cfe8efe613362bd5e62daefd88f8ad5d9b9137/.vimrc
+    raw_url: https://raw.github.com/motemen/dotfiles/83cfe8efe613362bd5e62daefd88f8ad5d9b9137/.vimrc
+  part: 
+  other: 
+  members:
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - lesguillemets
+  - mattn
+  - rbtnn
+  - syui
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/12/06#message-20783713
+  links: 
