@@ -3435,3 +3435,23 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/12/13#message-20830119
   links: 
+- id: 129
+  date: 2014-12-20 23:00
+  author:
+    name: hakobe
+    url: https://github.com/hakobe
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/hakobe/dotfiles/blob/a48e011568797c19056d5a1ac9b7f3bd14f05233/.vimrc
+    raw_url: https://raw.github.com/hakobe/dotfiles/a48e011568797c19056d5a1ac9b7f3bd14f05233/.vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - hujo
+  - raa0121
+  - thinca
+  - yoshitia
+  - 小4女児
+  log: http://lingr.com/room/vim/archives/2014/12/20#message-20877305
+  links: 
