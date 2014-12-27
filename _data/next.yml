@@ -1,12 +1,12 @@
 ---
-- id: 130
-  date: 2014-12-27 23:00
+- id: 131
+  date: 2015-01-03 23:00
   author:
-    name: AtsushiM
-    url: https://github.com/AtsushiM
+    name: JunichiIto
+    url: https://github.com/JunichiIto
   vimrcs:
-  - url: https://github.com/AtsushiM/vimrc/blob/master/vimrc
-    name: vimrc
+  - url: https://github.com/JunichiIto/dotfiles/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
   part: 
   other: 

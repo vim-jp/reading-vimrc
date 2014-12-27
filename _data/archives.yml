@@ -3455,3 +3455,23 @@
   - 小4女児
   log: http://lingr.com/room/vim/archives/2014/12/20#message-20877305
   links: 
+- id: 130
+  date: 2014-12-27 23:00
+  author:
+    name: AtsushiM
+    url: https://github.com/AtsushiM
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/AtsushiM/vimrc/blob/1eaa6c5ff41f03672a4fa6706ce156be38f03170/vimrc
+    raw_url: https://raw.github.com/AtsushiM/vimrc/1eaa6c5ff41f03672a4fa6706ce156be38f03170/vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - deris0126
+  - haya14busa
+  - hujo
+  - mattn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2014/12/27#message-20913615
+  links: 
