@@ -1,12 +1,12 @@
 ---
-- id: 131
-  date: 2015-01-03 23:00
+- id: 132
+  date: 2015-01-10 23:00
   author:
-    name: JunichiIto
-    url: https://github.com/JunichiIto
+    name: derekwyatt
+    url: https://github.com/derekwyatt
   vimrcs:
-  - url: https://github.com/JunichiIto/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/derekwyatt/vim-config/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 

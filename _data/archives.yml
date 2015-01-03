@@ -3475,3 +3475,25 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2014/12/27#message-20913615
   links: 
+- id: 131
+  date: 2015-01-03 23:00
+  author:
+    name: JunichiIto
+    url: https://github.com/JunichiIto
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/JunichiIto/dotfiles/blob/8f2f3a561471db59c93c47e67fdac59cc2d54cc9/.vimrc
+    raw_url: https://raw.github.com/JunichiIto/dotfiles/8f2f3a561471db59c93c47e67fdac59cc2d54cc9/.vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - hujo
+  - introom
+  - k_takata
+  - kazuakiM
+  - raa0121
+  - thinca
+  - 小4女児
+  log: http://lingr.com/room/vim/archives/2015/01/03#message-20952790
+  links: 
