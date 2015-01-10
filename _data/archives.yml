@@ -3497,3 +3497,29 @@
   - 小4女児
   log: http://lingr.com/room/vim/archives/2015/01/03#message-20952790
   links: 
+- id: 132
+  date: 2015-01-10 23:00
+  author:
+    name: derekwyatt
+    url: https://github.com/derekwyatt
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/derekwyatt/vim-config/blob/fec68c4dabb8de5a7fd38b907e6a392cc8dcc54a/vimrc
+    raw_url: https://raw.github.com/derekwyatt/vim-config/fec68c4dabb8de5a7fd38b907e6a392cc8dcc54a/vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - deris0126
+  - haya14busa
+  - hujo
+  - introom
+  - kazuakiM
+  - lesguillemets
+  - miyako
+  - rbtnn
+  - s_of_p
+  - thinca
+  - 小4女児
+  log: http://lingr.com/room/vim/archives/2015/01/10#message-21001835
+  links: 
