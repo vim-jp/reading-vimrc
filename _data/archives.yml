@@ -3523,3 +3523,29 @@
   - 小4女児
   log: http://lingr.com/room/vim/archives/2015/01/10#message-21001835
   links: 
+- id: 133
+  date: 2015-01-17 23:00
+  author:
+    name: joshtch
+    url: https://github.com/joshtch
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/joshtch/dotfiles/blob/ea0013074862b8b12d064b15d71a63471846b35b/vimrc
+    raw_url: https://raw.github.com/joshtch/dotfiles/ea0013074862b8b12d064b15d71a63471846b35b/vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - deris0126
+  - haya14busa
+  - hujo
+  - kamichidu
+  - kazuakiM
+  - lesguillemets
+  - miyako
+  - syngan
+  - thinca
+  - yoshitia
+  - 小4女児
+  log: http://lingr.com/room/vim/archives/2015/01/17#message-21053845
+  links: 
