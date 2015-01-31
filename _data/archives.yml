@@ -3574,3 +3574,29 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/01/24#message-21121197
   links: 
+- id: 135
+  date: 2015-01-31 23:00
+  author:
+    name: rdlugosz
+    url: https://github.com/rdlugosz
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/rdlugosz/dotfiles/blob/fa77f78dab01b137ce8ec5db59c2720308c8373f/vimrc
+    raw_url: https://raw.github.com/rdlugosz/dotfiles/fa77f78dab01b137ce8ec5db59c2720308c8373f/vimrc
+  part: 
+  other: 
+  members:
+  - AmaiSaeta
+  - Kazumi Kinoshita
+  - NC
+  - aiya000
+  - deris0126
+  - hujo
+  - introom
+  - kazuakiM
+  - mattn
+  - miyako
+  - rbtnn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/01/31#message-21170092
+  links: 
