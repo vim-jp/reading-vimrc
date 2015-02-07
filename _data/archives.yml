@@ -3600,3 +3600,25 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/01/31#message-21170092
   links: 
+- id: 136
+  date: 2015-02-07 23:00
+  author:
+    name: miripiruni
+    url: https://github.com/miripiruni
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/miripiruni/vimi/blob/7389d580fb824224790a01144cd8a097c502f446/.vimrc
+    raw_url: https://raw.githubusercontent.com/miripiruni/vimi/7389d580fb824224790a01144cd8a097c502f446/.vimrc
+  part: 
+  other: 
+  members:
+  - Kazumi Kinoshita
+  - haya14busa
+  - hokorobi
+  - hotoolong
+  - introom
+  - kazuakiM
+  - rbtnn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/02/07#message-21215845
+  links: 
