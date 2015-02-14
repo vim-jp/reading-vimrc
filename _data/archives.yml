@@ -3622,3 +3622,28 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/02/07#message-21215845
   links: 
+- id: 137
+  date: 2015-02-14 23:00
+  author:
+    name: PonderingGrower
+    url: https://github.com/PonderingGrower
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/PonderingGrower/dotfiles/blob/e3d586fc1761f8e62514b30211ad1f6c244134e9/.vimrc
+    raw_url: https://raw.githubusercontent.com/PonderingGrower/dotfiles/e3d586fc1761f8e62514b30211ad1f6c244134e9/.vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - deris0126
+  - haya14busa
+  - hujo
+  - introom
+  - kazuakiM
+  - miyako
+  - raa0121
+  - rbtnn
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/02/14#message-21265308
+  links: 
