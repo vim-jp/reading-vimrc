@@ -3647,3 +3647,24 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/02/14#message-21265308
   links: 
+- id: 138
+  date: 2015-02-21 23:00
+  author:
+    name: hokaccha
+    url: https://github.com/hokaccha
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/hokaccha/dotfiles/blob/fb3413354849cdda6a22394a0c6fbb9974bedd38/.vimrc
+    raw_url: https://raw.githubusercontent.com/hokaccha/dotfiles/fb3413354849cdda6a22394a0c6fbb9974bedd38/.vimrc
+  part: 
+  other: 
+  members:
+  - haya14busa
+  - introom
+  - kazuakiM
+  - raa0121
+  - rbtnn
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/02/21#message-21313443
+  links: 

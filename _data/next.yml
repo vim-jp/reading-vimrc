@@ -1,12 +1,12 @@
 ---
-- id: 138
-  date: 2015-02-21 23:00
+- id: 139
+  date: 2015-02-28 23:00
   author:
-    name: hokaccha
-    url: https://github.com/hokaccha
+    name: slith76
+    url: https://github.com/slith76
   vimrcs:
-  - url: https://github.com/hokaccha/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/slith76/dotfiles/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 
