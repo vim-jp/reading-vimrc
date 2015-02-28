@@ -3668,3 +3668,24 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/02/21#message-21313443
   links: 
+- id: 139
+  date: 2015-02-28 23:00
+  author:
+    name: slith76
+    url: https://github.com/slith76
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/slith76/dotfiles/blob/b012a2d640e5d425ad19ae60fb0e61905da40c79/vimrc
+    raw_url: https://raw.githubusercontent.com/slith76/dotfiles/b012a2d640e5d425ad19ae60fb0e61905da40c79/vimrc
+  part: 
+  other: 
+  members:
+  - abc10946
+  - hujo
+  - introom
+  - kamichidu
+  - kazuakiM
+  - rbtnn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/02/28#message-21353927
+  links: 

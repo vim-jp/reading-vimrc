@@ -1,11 +1,11 @@
 ---
-- id: 139
-  date: 2015-02-28 23:00
+- id: 140
+  date: 2015-03-07 23:00
   author:
-    name: slith76
-    url: https://github.com/slith76
+    name: mtth
+    url: https://github.com/mtth
   vimrcs:
-  - url: https://github.com/slith76/dotfiles/blob/master/vimrc
+  - url: https://github.com/mtth/.dotfiles/blob/master/src/vimrc
     name: vimrc
     hash: 
   part: 
