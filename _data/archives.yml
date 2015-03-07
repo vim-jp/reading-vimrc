@@ -3689,3 +3689,32 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/02/28#message-21353927
   links: 
+- id: 140
+  date: 2015-03-07 23:00
+  author:
+    name: mtth
+    url: https://github.com/mtth
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/mtth/.dotfiles/blob/78edb99241319a8194d61fd8a20daf290351b4e2/src/vimrc
+    raw_url: https://raw.githubusercontent.com/mtth/.dotfiles/78edb99241319a8194d61fd8a20daf290351b4e2/src/vimrc
+  part: 
+  other: 
+  members:
+  - AmaiSaeta
+  - Kazumi Kinoshita
+  - aiya000
+  - basyura
+  - deris0126
+  - haya14busa
+  - hotoolong
+  - hujo
+  - introom
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - thinca
+  - yassu0320
+  - yoshitia
+  log: http://lingr.com/room/vim/archives/2015/03/07#message-21405280
+  links: 
