@@ -1,11 +1,11 @@
 ---
-- id: 141
-  date: 2015-03-14 23:00
+- id: 142
+  date: 2015-03-21 23:00
   author:
-    name: hotchpotch
-    url: https://github.com/hotchpotch
+    name: aiya000
+    url: https://github.com/aiya000
   vimrcs:
-  - url: https://github.com/hotchpotch/dotfiles-vim/blob/master/.vimrc
+  - url: https://github.com/aiya000/dotfiles/blob/master/.vimrc
     name: ".vimrc"
     hash: 
   part: 

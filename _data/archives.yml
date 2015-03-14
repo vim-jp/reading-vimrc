@@ -3718,3 +3718,29 @@
   - yoshitia
   log: http://lingr.com/room/vim/archives/2015/03/07#message-21405280
   links: 
+- id: 141
+  date: 2015-03-14 23:00
+  author:
+    name: hotchpotch
+    url: https://github.com/hotchpotch
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/hotchpotch/dotfiles-vim/blob/57678c215dd670d4d629b554edf7a24a32e78ffd/.vimrc
+    raw_url: https://raw.githubusercontent.com/hotchpotch/dotfiles-vim/57678c215dd670d4d629b554edf7a24a32e78ffd/.vimrc
+  part: 
+  other: 
+  members:
+  - AmaiSaeta
+  - Jagua
+  - aiya000
+  - cohama
+  - homaji
+  - hotoolong
+  - introom
+  - lesguillemets
+  - rbtnn
+  - thinca
+  - yassu0320
+  - 小4女児
+  log: http://lingr.com/room/vim/archives/2015/03/14#message-21462540
+  links: 
