@@ -1,12 +1,12 @@
 ---
-- id: 142
-  date: 2015-03-21 23:00
+- id: 143
+  date: 2015-03-28 23:00
   author:
-    name: aiya000
-    url: https://github.com/aiya000
+    name: yassu
+    url: https://github.com/yassu
   vimrcs:
-  - url: https://github.com/aiya000/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/yassu/dotfiles/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 

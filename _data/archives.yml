@@ -3744,3 +3744,32 @@
   - 小4女児
   log: http://lingr.com/room/vim/archives/2015/03/14#message-21462540
   links: 
+- id: 142
+  date: 2015-03-21 23:00
+  author:
+    name: aiya000
+    url: https://github.com/aiya000
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/aiya000/dotfiles/blob/aebde2c97c681a55da3c08744120971d9eb109fd/.vimrc
+    raw_url: https://raw.githubusercontent.com/aiya000/dotfiles/aebde2c97c681a55da3c08744120971d9eb109fd/.vimrc
+  part: 
+  other: 
+  members:
+  - Lindan
+  - NC
+  - aiya000
+  - bdcf
+  - deris0126
+  - haya14busa
+  - homaji
+  - hujo
+  - introom
+  - kazuakiM
+  - lesguillemets
+  - mattn
+  - rbtnn
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/03/21#message-21513307
+  links: 
