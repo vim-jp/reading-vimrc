@@ -3773,3 +3773,30 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/03/21#message-21513307
   links: 
+- id: 143
+  date: 2015-03-28 23:00
+  author:
+    name: yassu
+    url: https://github.com/yassu
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/yassu/dotfiles/blob/a8a2c5b3d63bec7f058e2e03cc79f12b5f82a6d5/vimrc
+    raw_url: https://raw.githubusercontent.com/yassu/dotfiles/a8a2c5b3d63bec7f058e2e03cc79f12b5f82a6d5/vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - anekos
+  - aomoriringo2
+  - cohama
+  - deris0126
+  - kamichidu
+  - kazuakiM
+  - lesguillemets
+  - mattn
+  - rbtnn
+  - s_of_p
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/03/28#message-21558602
+  links: 
