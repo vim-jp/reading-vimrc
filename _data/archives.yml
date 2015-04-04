@@ -3800,3 +3800,26 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/03/28#message-21558602
   links: 
+- id: 144
+  date: 2015-04-04 23:00
+  author:
+    name: travisjeffery
+    url: https://github.com/travisjeffery
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/travisjeffery/dotfiles/blob/d3a062038d150f2d95ef0795266df60bf458e5bb/.vimrc
+    raw_url: https://raw.githubusercontent.com/travisjeffery/dotfiles/d3a062038d150f2d95ef0795266df60bf458e5bb/.vimrc
+  part: 
+  other: 
+  members:
+  - deris0126
+  - introom
+  - kazuakiM
+  - mattn
+  - raa0121
+  - rbtnn
+  - s_of_p
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/04/04#message-21601391
+  links: 

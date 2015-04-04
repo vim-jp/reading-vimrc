@@ -1,12 +1,12 @@
 ---
-- id: 144
-  date: 2015-04-04 23:00
+- id: 145
+  date: 2015-04-11 23:00
   author:
-    name: travisjeffery
-    url: https://github.com/travisjeffery
+    name: gregstallings
+    url: https://github.com/gregstallings
   vimrcs:
-  - url: https://github.com/travisjeffery/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/gregstallings/vimfiles/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 
