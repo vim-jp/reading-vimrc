@@ -3823,3 +3823,24 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/04/04#message-21601391
   links: 
+- id: 145
+  date: 2015-04-11 23:00
+  author:
+    name: gregstallings
+    url: https://github.com/gregstallings
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/gregstallings/vimfiles/blob/7c5353b6b0d215dc4085d2381885451cb180bb33/vimrc
+    raw_url: https://raw.githubusercontent.com/gregstallings/vimfiles/7c5353b6b0d215dc4085d2381885451cb180bb33/vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - deris0126
+  - introom
+  - kamichidu
+  - kazuakiM
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/04/11#message-21647804
+  links: 
