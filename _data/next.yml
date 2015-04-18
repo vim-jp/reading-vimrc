@@ -1,11 +1,11 @@
 ---
-- id: 146
-  date: 2015-04-18 23:00
+- id: 147
+  date: 2015-04-25 23:00
   author:
-    name: jdavis
-    url: https://github.com/jdavis
+    name: emilyst
+    url: https://github.com/emilyst
   vimrcs:
-  - url: https://github.com/jdavis/dotfiles/blob/master/.vimrc
+  - url: https://github.com/emilyst/home/blob/master/.vimrc
     name: ".vimrc"
     hash: 
   part: 

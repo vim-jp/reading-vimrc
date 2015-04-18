@@ -3844,3 +3844,29 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/04/11#message-21647804
   links: 
+- id: 146
+  date: 2015-04-18 23:00
+  author:
+    name: jdavis
+    url: https://github.com/jdavis
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/jdavis/dotfiles/blob/ca86c72c573691345c0b66c1ac000f9f77873c0c/.vimrc
+    raw_url: https://raw.githubusercontent.com/jdavis/dotfiles/ca86c72c573691345c0b66c1ac000f9f77873c0c/.vimrc
+  part: 
+  other: 
+  members:
+  - anekos
+  - deris0126
+  - haya14busa
+  - introom
+  - kazuakiM
+  - kenoss
+  - lesguillemets
+  - raa0121
+  - rbtnn
+  - thinca
+  - ujihisa
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/04/18#message-21694900
+  links: 
