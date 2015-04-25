@@ -3870,3 +3870,25 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/04/18#message-21694900
   links: 
+- id: 147
+  date: 2015-04-25 23:00
+  author:
+    name: emilyst
+    url: https://github.com/emilyst
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/emilyst/home/blob/cdbeaf3f982d2b5fca3337ec8c8e90f4db39b93f/.vimrc
+    raw_url: https://raw.githubusercontent.com/emilyst/home/cdbeaf3f982d2b5fca3337ec8c8e90f4db39b93f/.vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - ajimejilo
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - s_of_p
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/04/25#message-21734933
+  links: 
