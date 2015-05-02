@@ -3892,3 +3892,25 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/04/25#message-21734933
   links: 
+- id: 148
+  date: 2015-05-02 23:00
+  author:
+    name: blueyed
+    url: https://github.com/blueyed
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/blueyed/dotfiles/blob/59b68280e7273d450039a23be0f08b16a72971e5/vimrc
+    raw_url: https://raw.githubusercontent.com/blueyed/dotfiles/59b68280e7273d450039a23be0f08b16a72971e5/vimrc
+  part: 
+  other: 
+  members:
+  - deris0126
+  - haya14busa
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - thinca
+  - ujihisa
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/05/02#message-21782121
+  links: 
