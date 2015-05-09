@@ -3914,3 +3914,27 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/05/02#message-21782121
   links: 
+- id: 149
+  date: 2015-05-09 23:00
+  author:
+    name: smutch
+    url: https://github.com/smutch
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/smutch/vim-config/blob/39c8cd3c747384179b9a0306f40ec0ceeb5d615d/vimrc
+    raw_url: https://raw.githubusercontent.com/smutch/vim-config/39c8cd3c747384179b9a0306f40ec0ceeb5d615d/vimrc
+  part: 
+  other: 
+  members:
+  - YohichiDate
+  - haya14busa
+  - hotoolong
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - thinca
+  - ujihisa
+  - yassu0320
+  - 小4女児
+  log: http://lingr.com/room/vim/archives/2015/05/09#message-21822849
+  links: 
