@@ -3938,3 +3938,23 @@
   - 小4女児
   log: http://lingr.com/room/vim/archives/2015/05/09#message-21822849
   links: 
+- id: 150
+  date: 2015-05-16 23:00
+  author:
+    name: mhinz
+    url: https://github.com/mhinz
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/mhinz/dotfiles/blob/5e67af71061e6686a097e08c37faf113334a5338/vim/vimrc
+    raw_url: https://raw.githubusercontent.com/mhinz/dotfiles/5e67af71061e6686a097e08c37faf113334a5338/vim/vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - hujo
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/05/16#message-21860438
+  links: 

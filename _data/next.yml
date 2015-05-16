@@ -1,12 +1,12 @@
 ---
-- id: 150
-  date: 2015-05-16 23:00
+- id: 151
+  date: 2015-05-23 23:00
   author:
-    name: mhinz
-    url: https://github.com/mhinz
+    name: Tosainu
+    url: https://github.com/Tosainu
   vimrcs:
-  - url: https://github.com/mhinz/dotfiles/blob/master/vim/vimrc
-    name: vimrc
+  - url: https://github.com/Tosainu/dotfiles/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
   part: 
   other: 
