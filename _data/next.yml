@@ -1,12 +1,12 @@
 ---
-- id: 151
-  date: 2015-05-23 23:00
+- id: 152
+  date: 2015-05-30 23:00
   author:
-    name: Tosainu
-    url: https://github.com/Tosainu
+    name: mortonfox
+    url: https://github.com/mortonfox
   vimrcs:
-  - url: https://github.com/Tosainu/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/mortonfox/myvimrc/blob/master/_vimrc
+    name: _vimrc
     hash: 
   part: 
   other: 

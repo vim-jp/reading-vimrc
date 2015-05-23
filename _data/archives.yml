@@ -3958,3 +3958,33 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/05/16#message-21860438
   links: 
+- id: 151
+  date: 2015-05-23 23:00
+  author:
+    name: Tosainu
+    url: https://github.com/Tosainu
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/Tosainu/dotfiles/blob/99213afd3f19ca3d29788cf699117b2fe2386552/.vimrc
+    raw_url: https://raw.githubusercontent.com/Tosainu/dotfiles/99213afd3f19ca3d29788cf699117b2fe2386552/.vimrc
+  part: 
+  other: 
+  members:
+  - DeaR
+  - Tosainu
+  - Uemori Yasutomo
+  - cohama
+  - deris0126
+  - haya14busa
+  - itchyny
+  - iyuuya
+  - k_takata
+  - kazuakiM
+  - mozi_kke
+  - rbtnn
+  - thinca
+  - tokoro10g
+  - tosainu.maple@gmail.com
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/05/23#message-21900962
+  links: 
