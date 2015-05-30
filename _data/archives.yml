@@ -3988,3 +3988,22 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/05/23#message-21900962
   links: 
+- id: 152
+  date: 2015-05-30 23:00
+  author:
+    name: mortonfox
+    url: https://github.com/mortonfox
+  vimrcs:
+  - name: _vimrc
+    url: https://github.com/mortonfox/myvimrc/blob/646b4a44152b3e55ee863acef1a0e9edb99aebb1/_vimrc
+    raw_url: https://raw.githubusercontent.com/mortonfox/myvimrc/646b4a44152b3e55ee863acef1a0e9edb99aebb1/_vimrc
+  part: 
+  other: 
+  members:
+  - crazymaster
+  - mattn
+  - rbtnn
+  - s_of_p
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/05/30#message-21940384
+  links: 
