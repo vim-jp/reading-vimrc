@@ -4007,3 +4007,24 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/05/30#message-21940384
   links: 
+- id: 153
+  date: 2015-06-06 23:00
+  author:
+    name: morygonzalez
+    url: https://github.com/morygonzalez
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/morygonzalez/dotfiles/blob/24efa56169eb1a23bb71e5efcb8081f4d60d4584/.vimrc
+    raw_url: https://raw.githubusercontent.com/morygonzalez/dotfiles/24efa56169eb1a23bb71e5efcb8081f4d60d4584/.vimrc
+  part: 
+  other: 
+  members:
+  - LeafCage
+  - cohama
+  - haya14busa
+  - kazuakiM
+  - rbtnn
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2015/06/06#message-21980011
+  links: 
