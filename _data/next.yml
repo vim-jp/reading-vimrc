@@ -1,12 +1,12 @@
 ---
-- id: 154
-  date: 2015-06-13 23:00
+- id: 155
+  date: 2015-06-20 23:00
   author:
     name: todashuta
     url: https://github.com/todashuta
   vimrcs:
   - url: https://github.com/todashuta/.dotfiles/blob/master/.vimrc
     name: ".vimrc"
-    hash: 
-  part: 
+    hash: aa1f494c4f223113e619f2551161af2176df1deb
+  part: 後編
   other: 

@@ -4028,3 +4028,29 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2015/06/06#message-21980011
   links: 
+- id: 154
+  date: 2015-06-13 23:00
+  author:
+    name: todashuta
+    url: https://github.com/todashuta
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/todashuta/.dotfiles/blob/aa1f494c4f223113e619f2551161af2176df1deb/.vimrc
+    raw_url: https://raw.githubusercontent.com/todashuta/.dotfiles/aa1f494c4f223113e619f2551161af2176df1deb/.vimrc
+  part: 前編
+  other: 
+  members:
+  - Kazumi
+  - cohama
+  - deris0126
+  - haya14busa
+  - kazuakiM
+  - kenoss
+  - lesguillemets
+  - mattn
+  - miyako
+  - thinca
+  - todashuta
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2015/06/13#message-22021709
+  links: 
