@@ -4054,3 +4054,26 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2015/06/13#message-22021709
   links: 
+- id: 155
+  date: 2015-06-20 23:00
+  author:
+    name: todashuta
+    url: https://github.com/todashuta
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/todashuta/.dotfiles/blob/aa1f494c4f223113e619f2551161af2176df1deb/.vimrc
+    raw_url: https://raw.githubusercontent.com/todashuta/.dotfiles/aa1f494c4f223113e619f2551161af2176df1deb/.vimrc
+  part: 後編
+  other: 
+  members:
+  - Kazumi
+  - U-MA
+  - deris0126
+  - kazuakiM
+  - mattn
+  - thinca
+  - todashuta
+  - ujihisa
+  - zchee
+  log: http://lingr.com/room/vim/archives/2015/06/20#message-22056719
+  links: 
