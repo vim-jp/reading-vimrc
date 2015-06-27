@@ -4077,3 +4077,31 @@
   - zchee
   log: http://lingr.com/room/vim/archives/2015/06/20#message-22056719
   links: 
+- id: 156
+  date: 2015-06-27 23:00
+  author:
+    name: DeaR
+    url: https://github.com/DeaR
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/DeaR/dotfiles/blob/c5a66a5be81822b311263d3ecb2affb972fc0b28/.vimrc
+    raw_url: https://raw.githubusercontent.com/DeaR/dotfiles/c5a66a5be81822b311263d3ecb2affb972fc0b28/.vimrc
+  part: 前編
+  other: 
+  members:
+  - BABAROT
+  - DeaR
+  - Kazumin
+  - U-MA
+  - b4b4r07
+  - deris0126
+  - haya14busa
+  - itchyny
+  - iyuuya
+  - kenoss
+  - rbtnn
+  - thinca
+  - todashuta
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2015/06/27#message-22087239
+  links: 
