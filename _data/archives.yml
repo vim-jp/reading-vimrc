@@ -4105,3 +4105,31 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2015/06/27#message-22087239
   links: 
+- id: 157
+  date: 2015-07-04 23:00
+  author:
+    name: DeaR
+    url: https://github.com/DeaR
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/DeaR/dotfiles/blob/c5a66a5be81822b311263d3ecb2affb972fc0b28/.vimrc
+    raw_url: https://raw.githubusercontent.com/DeaR/dotfiles/c5a66a5be81822b311263d3ecb2affb972fc0b28/.vimrc
+  part: 後編
+  other: 
+  members:
+  - BABAROT
+  - DeaR
+  - Kazumin
+  - deris0126
+  - haya14busa
+  - iyuuya
+  - k_takata
+  - kazuakiM
+  - raa0121
+  - rbtnn
+  - thinca
+  - todashuta
+  - yassu0320
+  - さっき作った
+  log: http://lingr.com/room/vim/archives/2015/07/04#message-22117858
+  links: 

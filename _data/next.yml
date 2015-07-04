@@ -1,12 +1,12 @@
 ---
-- id: 157
-  date: 2015-07-04 23:00
+- id: 158
+  date: 2015-07-11 23:00
   author:
-    name: DeaR
-    url: https://github.com/DeaR
+    name: martin-svk
+    url: https://github.com/martin-svk
   vimrcs:
-  - url: https://github.com/DeaR/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
-    hash: "c5a66a5be81822b311263d3ecb2affb972fc0b28"
-  part: 後編
+  - url: https://github.com/martin-svk/dot-files/blob/master/vim/vimrc
+    name: vimrc
+    hash: 
+  part: 
   other: 
