@@ -1,12 +1,12 @@
 ---
-- id: 158
-  date: 2015-07-11 23:00
+- id: 159
+  date: 2015-07-18 23:00
   author:
-    name: martin-svk
-    url: https://github.com/martin-svk
+    name: hachibeeDI
+    url: https://github.com/hachibeeDI
   vimrcs:
-  - url: https://github.com/martin-svk/dot-files/blob/master/vim/vimrc
-    name: vimrc
+  - url: https://github.com/hachibeeDI/dotfiles/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
   part: 
   other: 

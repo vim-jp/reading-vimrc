@@ -4133,3 +4133,24 @@
   - さっき作った
   log: http://lingr.com/room/vim/archives/2015/07/04#message-22117858
   links: 
+- id: 158
+  date: 2015-07-11 23:00
+  author:
+    name: martin-svk
+    url: https://github.com/martin-svk
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/martin-svk/dot-files/blob/682087a4ff45870f55bd966632156be07a2ff1c4/vim/vimrc
+    raw_url: https://raw.githubusercontent.com/martin-svk/dot-files/682087a4ff45870f55bd966632156be07a2ff1c4/vim/vimrc
+  part: 
+  other: 
+  members:
+  - Kazumin
+  - U-MA
+  - aiya000
+  - cohama
+  - haya14busa
+  - kazuakiM
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/07/11#message-22150001
+  links: 
