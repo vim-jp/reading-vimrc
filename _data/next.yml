@@ -1,12 +1,12 @@
 ---
-- id: 159
-  date: 2015-07-18 23:00
+- id: 160
+  date: 2015-07-25 23:00
   author:
     name: hachibeeDI
     url: https://github.com/hachibeeDI
   vimrcs:
   - url: https://github.com/hachibeeDI/dotfiles/blob/master/.vimrc
     name: ".vimrc"
-    hash: 
-  part: 
+    hash: b812592a509f61db4b48ca518206fb88be540472
+  part: 後編
   other: 

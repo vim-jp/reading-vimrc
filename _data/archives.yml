@@ -4154,3 +4154,25 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/07/11#message-22150001
   links: 
+- id: 159
+  date: 2015-07-18 23:00
+  author:
+    name: hachibeeDI
+    url: https://github.com/hachibeeDI
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/hachibeeDI/dotfiles/blob/b812592a509f61db4b48ca518206fb88be540472/.vimrc
+    raw_url: https://raw.githubusercontent.com/hachibeeDI/dotfiles/b812592a509f61db4b48ca518206fb88be540472/.vimrc
+  part: 前編
+  other: 
+  members:
+  - Kazumin
+  - haya14busa
+  - itchyny
+  - kazuakiM
+  - lesguillemets
+  - mattn
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2015/07/18#message-22180515
+  links: 
