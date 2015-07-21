@@ -102,6 +102,7 @@ Facebookアカウントとの連携を行いたくない方は、[こちらの�
 - [rbtnn](https://github.com/rbtnn) (Twitter: [@rbtnn](https://twitter.com/rbtnn))
 - [deris](https://github.com/deris) (Twitter: [@deris0126](https://twitter.com/deris0126))
 - [haya14busa](https://github.com/haya14busa) (Twitter: [@haya14busa](https://twitter.com/haya14busa))
+- [zchee](https://github.com/zchee) (Twitter: [@\_zchee\_](https://twitter.com/_zchee_))
 
 運営者はいつでも募集中です。お気軽に声をかけてください！
 
