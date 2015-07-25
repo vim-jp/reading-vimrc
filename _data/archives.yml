@@ -4176,3 +4176,25 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2015/07/18#message-22180515
   links: 
+- id: 160
+  date: 2015-07-25 23:00
+  author:
+    name: hachibeeDI
+    url: https://github.com/hachibeeDI
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/hachibeeDI/dotfiles/blob/b812592a509f61db4b48ca518206fb88be540472/.vimrc
+    raw_url: https://raw.githubusercontent.com/hachibeeDI/dotfiles/b812592a509f61db4b48ca518206fb88be540472/.vimrc
+  part: "後編"
+  other: 
+  members:
+  - BABAROT
+  - Kazumin
+  - aiya000
+  - kazuakiM
+  - mattn
+  - raa0121
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2015/07/25#message-22211243
+  links: 
