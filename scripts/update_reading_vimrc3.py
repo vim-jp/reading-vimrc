@@ -33,7 +33,7 @@ import urllib.request
 import re
 
 YAML_URL = \
-    'http://lingr-bot-readingvimrc.herokuapp.com/reading_vimrc/vimrc/yml'
+    'http://reading_vimrc.zchee.io/reading_vimrc/vimrc/yml'
 
 TEMPLATE_TEXT = '''\
 ---
