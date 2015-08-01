@@ -4198,3 +4198,30 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2015/07/25#message-22211243
   links: 
+- id: 161
+  date: 2015-08-01 23:00
+  author:
+    name: angelic-sedition
+    url: https://github.com/angelic-sedition
+  vimrcs:
+  - name: .vimrc
+    url: https://github.com/angelic-sedition/dotfiles/blob/5826fb53715b5cd69786e02ab02a4c8c4e34259e/vim/.vimrc
+    raw_url: https://raw.githubusercontent.com/angelic-sedition/dotfiles/5826fb53715b5cd69786e02ab02a4c8c4e34259e/vim/.vimrc
+  part: 前編
+  other: 
+  members:
+  - DeaR
+  - Kazumin
+  - aiya000
+  - deris0126
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - kenoss
+  - maxmellon
+  - rbtnn
+  - s_of_p
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/08/01#message-22244123
+  links: 

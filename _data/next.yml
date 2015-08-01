@@ -1,12 +1,12 @@
 ---
-- id: 161
-  date: 2015-08-01 23:00
+- id: 162
+  date: 2015-08-08 23:00
   author:
     name: angelic-sedition
     url: https://github.com/angelic-sedition
   vimrcs:
   - url: https://github.com/angelic-sedition/dotfiles/blob/master/vim/.vimrc
     name: ".vimrc"
-    hash: 
-  part: 
+    hash: 5826fb53715b5cd69786e02ab02a4c8c4e34259e
+  part: 後編
   other: 
