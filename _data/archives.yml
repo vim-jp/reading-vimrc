@@ -4225,3 +4225,28 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/08/01#message-22244123
   links: 
+- id: 162
+  date: 2015-08-08 23:00
+  author:
+    name: angelic-sedition
+    url: https://github.com/angelic-sedition
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/angelic-sedition/dotfiles/blob/5826fb53715b5cd69786e02ab02a4c8c4e34259e/vim/.vimrc
+    raw_url: https://raw.githubusercontent.com/angelic-sedition/dotfiles/5826fb53715b5cd69786e02ab02a4c8c4e34259e/vim/.vimrc
+  part: "後編"
+  other: 
+  members:
+  - BABAROT
+  - Kazumin
+  - deris0126
+  - haya14busa
+  - kazuakiM
+  - mattn
+  - s_of_p
+  - thinca
+  - ujihisa
+  - yoshitia
+  - "小4女児"
+  log: http://lingr.com/room/vim/archives/2015/08/08#message-22274710
+  links: 
