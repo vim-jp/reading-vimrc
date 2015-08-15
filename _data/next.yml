@@ -1,12 +1,12 @@
 ---
-- id: 163
-  date: 2015-08-15 23:00
+- id: 164
+  date: 2015-08-22 23:00
   author:
-    name: soh335
-    url: https://github.com/soh335
+    name: emonkak
+    url: https://github.com/emonkak
   vimrcs:
-  - url: https://github.com/soh335/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/emonkak/config/blob/master/vim/dot.vimrc
+    name: dot.vimrc
     hash: 
   part: 
   other: 

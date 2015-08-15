@@ -4250,3 +4250,23 @@
   - "小4女児"
   log: http://lingr.com/room/vim/archives/2015/08/08#message-22274710
   links: 
+- id: 163
+  date: 2015-08-15 23:00
+  author:
+    name: soh335
+    url: https://github.com/soh335
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/soh335/dotfiles/blob/050f2de7abc09c8bfae003c59e046e9590342dc8/.vimrc
+    raw_url: https://raw.githubusercontent.com/soh335/dotfiles/050f2de7abc09c8bfae003c59e046e9590342dc8/.vimrc
+  part: 
+  other: 
+  members:
+  - aiya000
+  - kenoss
+  - rbtnn
+  - s_of_p
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2015/08/15#message-22305444
+  links: 
