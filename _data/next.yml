@@ -1,12 +1,12 @@
 ---
-- id: 164
-  date: 2015-08-22 23:00
+- id: 165
+  date: 2015-08-29 23:00
   author:
     name: emonkak
     url: https://github.com/emonkak
   vimrcs:
   - url: https://github.com/emonkak/config/blob/master/vim/dot.vimrc
     name: dot.vimrc
-    hash: 
-  part: 
+    hash: d99a647057362a60843c36744e368d1116c002ce
+  part: "後編"
   other: 
