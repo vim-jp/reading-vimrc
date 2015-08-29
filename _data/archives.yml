@@ -4294,3 +4294,25 @@
   - zchee
   log: http://lingr.com/room/vim/archives/2015/08/22#message-22334081
   links: 
+- id: 165
+  date: 2015-08-29 23:00
+  author:
+    name: emonkak
+    url: https://github.com/emonkak
+  vimrcs:
+  - name: dot.vimrc
+    url: https://github.com/emonkak/config/blob/d99a647057362a60843c36744e368d1116c002ce/vim/dot.vimrc
+    raw_url: https://raw.githubusercontent.com/emonkak/config/d99a647057362a60843c36744e368d1116c002ce/vim/dot.vimrc
+  part: "後編"
+  other: 
+  members:
+  - aiya000
+  - haya14busa
+  - kazuakiM
+  - kenoss
+  - maxmellon
+  - rbtnn
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2015/08/29#message-22368069
+  links: 
