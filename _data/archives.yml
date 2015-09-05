@@ -4316,3 +4316,24 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2015/08/29#message-22368069
   links: 
+- id: 166
+  date: 2015-09-05 23:00
+  author:
+    name: aCayF
+    url: https://github.com/aCayF
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/aCayF/.vim/blob/88996839140b6069cc65003960abc2c0049b67d3/.vimrc
+    raw_url: https://raw.githubusercontent.com/aCayF/.vim/88996839140b6069cc65003960abc2c0049b67d3/.vimrc
+  part: 
+  other: 
+  members:
+  - AmaiSaeta
+  - U-MA
+  - cohama
+  - kazuakiM
+  - rbtnn
+  - thinca
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2015/09/05#message-22405299
+  links: 
