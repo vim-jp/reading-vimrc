@@ -4337,3 +4337,29 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2015/09/05#message-22405299
   links: 
+- id: 167
+  date: 2015-09-12 23:00
+  author:
+    name: BohrShaw
+    url: https://github.com/BohrShaw
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/BohrShaw/vish/blob/f78c386c23e6380368eacb03556a353cb9b4a0be/vimrc
+    raw_url: https://raw.githubusercontent.com/BohrShaw/vish/f78c386c23e6380368eacb03556a353cb9b4a0be/vimrc
+  part: 
+  other: 
+  members:
+  - DeaR
+  - Kazumin
+  - Shougo
+  - aiya000
+  - deris0126
+  - hujo
+  - mattn
+  - raa0121
+  - rbtnn
+  - thinca
+  - ujihisa
+  - "小4女児"
+  log: http://lingr.com/room/vim/archives/2015/09/12#message-22444742
+  links: 

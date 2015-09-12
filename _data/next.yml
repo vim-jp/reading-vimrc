@@ -1,11 +1,11 @@
 ---
-- id: 167
-  date: 2015-09-12 23:00
+- id: 168
+  date: 2015-09-19 23:00
   author:
-    name: BohrShaw
-    url: https://github.com/BohrShaw
+    name: YoshihiroIto
+    url: https://github.com/YoshihiroIto
   vimrcs:
-  - url: https://github.com/BohrShaw/vish/blob/master/vimrc
+  - url: https://github.com/YoshihiroIto/dotfiles/blob/master/.vimrc
     name: ".vimrc"
     hash: 
   part: 
