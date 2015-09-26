@@ -1,12 +1,12 @@
 ---
-- id: 169
-  date: 2015-09-26 23:00
+- id: 170
+  date: 2015-10-03 23:00
   author:
-    name: YoshihiroIto
-    url: https://github.com/YoshihiroIto
+    name: kamichidu
+    url: https://github.com/kamichidu
   vimrcs:
-  - url: https://github.com/YoshihiroIto/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
-    hash: 5a9435e42f3b982f0177b1010b1ab7109f9be747
-  part: "後編"
+  - url: https://github.com/kamichidu/dotfiles/blob/master/vimrc
+    name: vimrc
+    hash: 
+  part: 
   other: 

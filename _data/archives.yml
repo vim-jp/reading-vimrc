@@ -4387,3 +4387,25 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2015/09/19#message-22478552
   links: 
+- id: 169
+  date: 2015-09-26 23:00
+  author:
+    name: YoshihiroIto
+    url: https://github.com/YoshihiroIto
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/YoshihiroIto/dotfiles/blob/5a9435e42f3b982f0177b1010b1ab7109f9be747/.vimrc
+    raw_url: https://raw.githubusercontent.com/YoshihiroIto/dotfiles/5a9435e42f3b982f0177b1010b1ab7109f9be747/.vimrc
+  part: "後編"
+  other: 
+  members:
+  - Kazumin
+  - Kazutaka Miyamoto
+  - crazymaster
+  - haya14busa
+  - kazuakiM
+  - rbtnn
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/09/26#message-22515130
+  links: 
