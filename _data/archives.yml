@@ -4409,3 +4409,29 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/09/26#message-22515130
   links: 
+- id: 170
+  date: 2015-10-03 23:00
+  author:
+    name: kamichidu
+    url: https://github.com/kamichidu
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kamichidu/dotfiles/blob/431da951e8977f101f33f13df72d66fe0934aedb/vimrc
+    raw_url: https://raw.githubusercontent.com/kamichidu/dotfiles/431da951e8977f101f33f13df72d66fe0934aedb/vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - Kazumin
+  - aiya000
+  - itchyny
+  - kamichidu
+  - kazuakiM
+  - raa0121
+  - rbtnn
+  - thinca
+  - ujihisa
+  - yassu0320
+  - yoshitia
+  log: http://lingr.com/room/vim/archives/2015/10/03#message-22550249
+  links: 
