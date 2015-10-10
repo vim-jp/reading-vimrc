@@ -1,30 +1,12 @@
 ---
-- id: 171
-  date: 2015-10-10 23:00
+- id: 172
+  date: 2015-10-17 23:00
   author:
-    name: hoelzro
-    url: https://github.com/hoelzro
+    name: meIias
+    url: https://github.com/meIias
   vimrcs:
-  - url: https://github.com/hoelzro/vimfiles/blob/master/vimrc
+  - url: https://github.com/meIias/dotvim/blob/master/vimrc
     name: vimrc
-    hash: 
-  - url: https://github.com/hoelzro/vimfiles/blob/master/settings.vim
-    name: settings.vim
-    hash: 
-  - url: https://github.com/hoelzro/vimfiles/blob/master/plugin-settings.vim
-    name: plugin-settings.vim
-    hash: 
-  - url: https://github.com/hoelzro/vimfiles/blob/master/language-settings.vim
-    name: language-settings.vim
-    hash: 
-  - url: https://github.com/hoelzro/vimfiles/blob/master/helper-functions.vim
-    name: helper-functions.vim
-    hash: 
-  - url: https://github.com/hoelzro/vimfiles/blob/master/mappings.vim
-    name: mappings.vim
-    hash: 
-  - url: https://github.com/hoelzro/vimfiles/blob/master/autocommands.vim
-    name: autocommands.vim
     hash: 
   part: 
   other: 

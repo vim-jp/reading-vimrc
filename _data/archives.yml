@@ -4435,3 +4435,41 @@
   - yoshitia
   log: http://lingr.com/room/vim/archives/2015/10/03#message-22550249
   links: 
+- id: 171
+  date: 2015-10-10 23:00
+  author:
+    name: hoelzro
+    url: https://github.com/hoelzro
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/hoelzro/vimfiles/blob/2bf82506cd8569b26ee3d762decd37cbc228b57b/vimrc
+    raw_url: https://raw.githubusercontent.com/hoelzro/vimfiles/2bf82506cd8569b26ee3d762decd37cbc228b57b/vimrc
+  - name: settings.vim
+    url: https://github.com/hoelzro/vimfiles/blob/2bf82506cd8569b26ee3d762decd37cbc228b57b/settings.vim
+    raw_url: https://raw.githubusercontent.com/hoelzro/vimfiles/2bf82506cd8569b26ee3d762decd37cbc228b57b/settings.vim
+  - name: plugin-settings.vim
+    url: https://github.com/hoelzro/vimfiles/blob/2bf82506cd8569b26ee3d762decd37cbc228b57b/plugin-settings.vim
+    raw_url: https://raw.githubusercontent.com/hoelzro/vimfiles/2bf82506cd8569b26ee3d762decd37cbc228b57b/plugin-settings.vim
+  - name: language-settings.vim
+    url: https://github.com/hoelzro/vimfiles/blob/2bf82506cd8569b26ee3d762decd37cbc228b57b/language-settings.vim
+    raw_url: https://raw.githubusercontent.com/hoelzro/vimfiles/2bf82506cd8569b26ee3d762decd37cbc228b57b/language-settings.vim
+  - name: helper-functions.vim
+    url: https://github.com/hoelzro/vimfiles/blob/2bf82506cd8569b26ee3d762decd37cbc228b57b/helper-functions.vim
+    raw_url: https://raw.githubusercontent.com/hoelzro/vimfiles/2bf82506cd8569b26ee3d762decd37cbc228b57b/helper-functions.vim
+  - name: mappings.vim
+    url: https://github.com/hoelzro/vimfiles/blob/2bf82506cd8569b26ee3d762decd37cbc228b57b/mappings.vim
+    raw_url: https://raw.githubusercontent.com/hoelzro/vimfiles/2bf82506cd8569b26ee3d762decd37cbc228b57b/mappings.vim
+  - name: autocommands.vim
+    url: https://github.com/hoelzro/vimfiles/blob/2bf82506cd8569b26ee3d762decd37cbc228b57b/autocommands.vim
+    raw_url: https://raw.githubusercontent.com/hoelzro/vimfiles/2bf82506cd8569b26ee3d762decd37cbc228b57b/autocommands.vim
+  part: 
+  other: 
+  members:
+  - Kazumin
+  - aiya000
+  - haya14busa
+  - kazuakiM
+  - rbtnn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/10/10#message-22584595
+  links: 
