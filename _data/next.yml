@@ -1,12 +1,12 @@
 ---
-- id: 172
-  date: 2015-10-17 23:00
+- id: 173
+  date: 2015-10-24 23:00
   author:
-    name: meIias
-    url: https://github.com/meIias
+    name: iishikawa
+    url: https://github.com/iishikawa
   vimrcs:
-  - url: https://github.com/meIias/dotvim/blob/master/vimrc
-    name: vimrc
+  - url: https://github.com/iishikawa/dotfiles/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
   part: 
   other: 

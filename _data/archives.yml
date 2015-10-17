@@ -4473,3 +4473,23 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/10/10#message-22584595
   links: 
+- id: 172
+  date: 2015-10-17 23:00
+  author:
+    name: meIias
+    url: https://github.com/meIias
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/meIias/dotvim/blob/c17ef974bda98979d9a7967cf1ceb3db4931347d/vimrc
+    raw_url: https://raw.githubusercontent.com/meIias/dotvim/c17ef974bda98979d9a7967cf1ceb3db4931347d/vimrc
+  part: 
+  other: 
+  members:
+  - Matsu Matsu
+  - anekos
+  - itchyny
+  - kazuakiM
+  - rbtnn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/10/17#message-22614687
+  links: 
