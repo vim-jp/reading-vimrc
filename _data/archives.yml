@@ -4493,3 +4493,25 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/10/17#message-22614687
   links: 
+- id: 173
+  date: 2015-10-24 23:00
+  author:
+    name: iishikawa
+    url: https://github.com/iishikawa
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/iishikawa/dotfiles/blob/44a64ad0c3800887ee35b041d8d3b151effe8420/.vimrc
+    raw_url: https://raw.githubusercontent.com/iishikawa/dotfiles/44a64ad0c3800887ee35b041d8d3b151effe8420/.vimrc
+  part: 
+  other: 
+  members:
+  - cohama
+  - deris0126
+  - kazuakiM
+  - raa0121
+  - rbtnn
+  - thinca
+  - ujihisa
+  - yasuharu519
+  log: http://lingr.com/room/vim/archives/2015/10/24#message-22641751
+  links: 
