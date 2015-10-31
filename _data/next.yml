@@ -1,11 +1,11 @@
 ---
-- id: 174
-  date: 2015-10-31 23:00
+- id: 175
+  date: 2015-11-07 23:00
   author:
-    name: akinama
-    url: https://github.com/akinama
+    name: fmoralesc
+    url: https://github.com/fmoralesc
   vimrcs:
-  - url: https://github.com/akinama/dotfiles/blob/master/.vimrc
+  - url: https://github.com/fmoralesc/dotfiles/blob/master/.vimrc
     name: ".vimrc"
     hash: 
   part: 

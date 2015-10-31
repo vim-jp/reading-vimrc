@@ -4515,3 +4515,24 @@
   - yasuharu519
   log: http://lingr.com/room/vim/archives/2015/10/24#message-22641751
   links: 
+- id: 174
+  date: 2015-10-31 23:00
+  author:
+    name: akinama
+    url: https://github.com/akinama
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/akinama/dotfiles/blob/d6861940a54b198126d1499400045de811629551/.vimrc
+    raw_url: https://raw.githubusercontent.com/akinama/dotfiles/d6861940a54b198126d1499400045de811629551/.vimrc
+  part: 
+  other: 
+  members:
+  - AmaiSaeta
+  - deris0126
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/10/31#message-22667637
+  links: 
