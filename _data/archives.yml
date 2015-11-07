@@ -4536,3 +4536,22 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/10/31#message-22667637
   links: 
+- id: 175
+  date: 2015-11-07 23:00
+  author:
+    name: fmoralesc
+    url: https://github.com/fmoralesc
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/fmoralesc/dotfiles/blob/4f66cb3cc58c28b5d931c6c900f090dcfcd12a57/.vimrc
+    raw_url: https://raw.githubusercontent.com/fmoralesc/dotfiles/4f66cb3cc58c28b5d931c6c900f090dcfcd12a57/.vimrc
+  part: 
+  other: 
+  members:
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/11/07#message-22696304
+  links: 
