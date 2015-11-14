@@ -4555,3 +4555,24 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/11/07#message-22696304
   links: 
+- id: 176
+  date: 2015-11-14 23:00
+  author:
+    name: mashiro
+    url: https://github.com/mashiro
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/mashiro/dot-files/blob/c7cf3483e7b31dd33b7b3d25b6f2a2cd6179d9e8/vim/.vimrc
+    raw_url: https://raw.githubusercontent.com/mashiro/dot-files/c7cf3483e7b31dd33b7b3d25b6f2a2cd6179d9e8/vim/.vimrc
+  part: 
+  other: 
+  members:
+  - U-MA
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - thinca
+  - yassu0320
+  log: http://lingr.com/room/vim/archives/2015/11/14#message-22724690
+  links: 
