@@ -4576,3 +4576,25 @@
   - yassu0320
   log: http://lingr.com/room/vim/archives/2015/11/14#message-22724690
   links: 
+- id: 177
+  date: 2015-11-21 23:00
+  author:
+    name: heroheman
+    url: https://github.com/heroheman
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/heroheman/dotfiles/blob/c8cf27583f8a8a7d72e3123cc7cfaf9fad387e3a/vimrc
+    raw_url: https://raw.githubusercontent.com/heroheman/dotfiles/c8cf27583f8a8a7d72e3123cc7cfaf9fad387e3a/vimrc
+  part: 
+  other: 
+  members:
+  - U-MA
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - thinca
+  - vimhelpjp
+  - zchee
+  log: http://lingr.com/room/vim/archives/2015/11/21#message-22747812
+  links: 

@@ -1,11 +1,11 @@
 ---
-- id: 177
-  date: 2015-11-21 23:00
+- id: 178
+  date: 2015-11-28 23:00
   author:
-    name: heroheman
-    url: https://github.com/heroheman
+    name: jesusangelm
+    url: https://github.com/jesusangelm
   vimrcs:
-  - url: https://github.com/heroheman/dotfiles/blob/master/vimrc
+  - url: https://github.com/jesusangelm/ConfVim/blob/master/vimrc
     name: vimrc
     hash: 
   part: 
