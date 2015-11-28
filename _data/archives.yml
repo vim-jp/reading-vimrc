@@ -4598,3 +4598,25 @@
   - zchee
   log: http://lingr.com/room/vim/archives/2015/11/21#message-22747812
   links: 
+- id: 178
+  date: 2015-11-28 23:00
+  author:
+    name: jesusangelm
+    url: https://github.com/jesusangelm
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/jesusangelm/ConfVim/blob/463da4417f3e81167f78df1aaeffa2d84c9f4e6f/vimrc
+    raw_url: https://raw.githubusercontent.com/jesusangelm/ConfVim/463da4417f3e81167f78df1aaeffa2d84c9f4e6f/vimrc
+  part: 
+  other: 
+  members:
+  - BABAROT
+  - U-MA
+  - hujo
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - thinca
+  - watiko
+  log: http://lingr.com/room/vim/archives/2015/11/28#message-22776322
+  links: 
