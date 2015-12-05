@@ -4620,3 +4620,25 @@
   - watiko
   log: http://lingr.com/room/vim/archives/2015/11/28#message-22776322
   links: 
+- id: 179
+  date: 2015-12-05 23:00
+  author:
+    name: bbatha
+    url: https://github.com/bbatha
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/bbatha/dotfiles/blob/9c0f497e2683cb233a2318dea7fd386ec57fd0b2/.vimrc
+    raw_url: https://raw.githubusercontent.com/bbatha/dotfiles/9c0f497e2683cb233a2318dea7fd386ec57fd0b2/.vimrc
+  part: 
+  other: 
+  members:
+  - U-MA
+  - deris0126
+  - hujo
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - ryunix
+  - thinca
+  log: http://lingr.com/room/vim/archives/2015/12/05#message-22801898
+  links: 

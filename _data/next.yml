@@ -1,11 +1,11 @@
 ---
-- id: 179
-  date: 2015-12-05 23:00
+- id: 180
+  date: 2015-12-12 23:00
   author:
-    name: bbatha
-    url: https://github.com/bbatha
+    name: yoshiko-pg
+    url: https://github.com/yoshiko-pg
   vimrcs:
-  - url: https://github.com/bbatha/dotfiles/blob/master/.vimrc
+  - url: https://github.com/yoshiko-pg/dotfiles/blob/master/.vimrc
     name: ".vimrc"
     hash: 
   part: 
