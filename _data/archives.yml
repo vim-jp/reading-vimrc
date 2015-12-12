@@ -4642,3 +4642,29 @@
   - thinca
   log: http://lingr.com/room/vim/archives/2015/12/05#message-22801898
   links: 
+- id: 180
+  date: 2015-12-12 23:00
+  author:
+    name: yoshiko-pg
+    url: https://github.com/yoshiko-pg
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/yoshiko-pg/dotfiles/blob/70f33fc7c0df2c421a10cad0ab0ad5b3e2c2eb4d/.vimrc
+    raw_url: https://raw.githubusercontent.com/yoshiko-pg/dotfiles/70f33fc7c0df2c421a10cad0ab0ad5b3e2c2eb4d/.vimrc
+  part: 
+  other: 
+  members:
+  - Slack
+  - crazymaster
+  - hujo
+  - k_takata
+  - kamichidu
+  - kazuakiM
+  - kenoss
+  - mattn
+  - ryunix
+  - s_of_p
+  - thinca
+  - yoshiko_pg
+  log: http://lingr.com/room/vim/archives/2015/12/12#message-22827384
+  links: 

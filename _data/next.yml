@@ -1,11 +1,11 @@
 ---
-- id: 180
-  date: 2015-12-12 23:00
+- id: 181
+  date: 2015-12-19 23:00
   author:
-    name: yoshiko-pg
-    url: https://github.com/yoshiko-pg
+    name: vesanieminen
+    url: https://github.com/vesanieminen
   vimrcs:
-  - url: https://github.com/yoshiko-pg/dotfiles/blob/master/.vimrc
+  - url: https://github.com/vesanieminen/vim-conf/blob/master/.vimrc
     name: ".vimrc"
     hash: 
   part: 
