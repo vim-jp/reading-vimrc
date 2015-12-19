@@ -4668,3 +4668,27 @@
   - yoshiko_pg
   log: http://lingr.com/room/vim/archives/2015/12/12#message-22827384
   links: 
+- id: 181
+  date: 2015-12-19 23:00
+  author:
+    name: vesanieminen
+    url: https://github.com/vesanieminen
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/vesanieminen/vim-conf/blob/834e8116361ba598231ed0656c1730d07194037d/.vimrc
+    raw_url: https://raw.githubusercontent.com/vesanieminen/vim-conf/834e8116361ba598231ed0656c1730d07194037d/.vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - cohama
+  - haya14busa
+  - kazuakiM
+  - raa0121
+  - rbtnn
+  - ryunix
+  - thinca
+  - watiko
+  - zchee
+  log: http://lingr.com/room/vim/archives/2015/12/19#message-22853126
+  links: 
