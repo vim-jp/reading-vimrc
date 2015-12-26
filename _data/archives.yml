@@ -4692,3 +4692,27 @@
   - zchee
   log: http://lingr.com/room/vim/archives/2015/12/19#message-22853126
   links: 
+- id: 182
+  date: 2015-12-26 23:00
+  author:
+    name: RageZBla
+    url: https://github.com/RageZBla
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/RageZBla/dotfiles/blob/a6c259709fe9c39b64d02ef450d15b1f0557a0c0/vimrc
+    raw_url: https://raw.githubusercontent.com/RageZBla/dotfiles/a6c259709fe9c39b64d02ef450d15b1f0557a0c0/vimrc
+  part: 
+  other: 
+  members:
+  - Lindan
+  - deris0126
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - ryunix
+  - takets
+  - thinca
+  - zchee
+  log: http://lingr.com/room/vim/archives/2015/12/26#message-22877632
+  links: 
