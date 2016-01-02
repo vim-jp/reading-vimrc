@@ -4716,3 +4716,27 @@
   - zchee
   log: http://lingr.com/room/vim/archives/2015/12/26#message-22877632
   links: 
+- id: 183
+  date: 2016-01-02 23:00
+  author:
+    name: romainl
+    url: https://github.com/romainl
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/romainl/dotvim/blob/e2c242fecc9e39eb5323c46d10e02c1ae101fff9/vimrc
+    raw_url: https://raw.githubusercontent.com/romainl/dotvim/e2c242fecc9e39eb5323c46d10e02c1ae101fff9/vimrc
+  part: 
+  other: 
+  members:
+  - Watson_DNA
+  - aiya000
+  - hujo
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - zchee
+  log: http://lingr.com/room/vim/archives/2016/01/02#message-22896452
+  links: 
