@@ -4740,3 +4740,29 @@
   - zchee
   log: http://lingr.com/room/vim/archives/2016/01/02#message-22896452
   links: 
+- id: 184
+  date: 2016-01-09 23:00
+  author:
+    name: toshi32tony3
+    url: https://github.com/toshi32tony3
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/toshi32tony3/dotfiles/blob/96ccb14f1192111a6b9ff1798355938f4c3eea5c/.vimrc
+    raw_url: https://raw.githubusercontent.com/toshi32tony3/dotfiles/96ccb14f1192111a6b9ff1798355938f4c3eea5c/.vimrc
+  part: "前編"
+  other: 
+  members:
+  - Jagua
+  - Shougo
+  - Watson_DNA
+  - hujo
+  - mattn
+  - rbtnn
+  - ryunix
+  - s_of_p
+  - thinca
+  - toshi32tony3
+  - yassu0320
+  - yoshitia
+  log: http://lingr.com/room/vim/archives/2016/01/09#message-22921116
+  links: 

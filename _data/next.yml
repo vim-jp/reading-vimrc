@@ -1,12 +1,12 @@
 ---
-- id: 184
-  date: 2016-01-09 23:00
+- id: 185
+  date: 2016-01-16 23:00
   author:
     name: toshi32tony3
     url: https://github.com/toshi32tony3
   vimrcs:
   - url: https://github.com/toshi32tony3/dotfiles/blob/master/.vimrc
     name: ".vimrc"
-    hash: 
-  part: 前編
+    hash: 96ccb14f1192111a6b9ff1798355938f4c3eea5c
+  part: 後編
   other: 
