@@ -4766,3 +4766,29 @@
   - yoshitia
   log: http://lingr.com/room/vim/archives/2016/01/09#message-22921116
   links: 
+- id: 185
+  date: 2016-01-16 23:00
+  author:
+    name: toshi32tony3
+    url: https://github.com/toshi32tony3
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/toshi32tony3/dotfiles/blob/96ccb14f1192111a6b9ff1798355938f4c3eea5c/.vimrc
+    raw_url: https://raw.githubusercontent.com/toshi32tony3/dotfiles/96ccb14f1192111a6b9ff1798355938f4c3eea5c/.vimrc
+  part: "後編"
+  other: 
+  members:
+  - Watson_DNA
+  - haya14busa
+  - hujo
+  - kenoss
+  - mattn
+  - rbtnn
+  - ryunix
+  - takets
+  - thinca
+  - toshi32tony3
+  - ujihisa
+  - zchee
+  log: http://lingr.com/room/vim/archives/2016/01/16#message-22944280
+  links: 
