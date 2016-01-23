@@ -4792,3 +4792,33 @@
   - zchee
   log: http://lingr.com/room/vim/archives/2016/01/16#message-22944280
   links: 
+- id: 186
+  date: 2016-01-23 23:00
+  author:
+    name: crazymaster
+    url: https://github.com/crazymaster
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/crazymaster/dotfiles/blob/d6d90b8feb0cf6d7356b831600e8860463fe8658/.vimrc
+    raw_url: https://raw.githubusercontent.com/crazymaster/dotfiles/d6d90b8feb0cf6d7356b831600e8860463fe8658/.vimrc
+  part: 
+  other: 
+  members:
+  - AmaiSaeta
+  - Jagua
+  - crazymaster
+  - deris0126
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - ryunix
+  - takets
+  - thinca
+  - toshi32tony3
+  - tyru
+  - yoshitia
+  - "Λlisue"
+  log: http://lingr.com/room/vim/archives/2016/01/23#message-22974663
+  links: 

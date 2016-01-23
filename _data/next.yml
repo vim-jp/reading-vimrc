@@ -1,12 +1,12 @@
 ---
-- id: 186
-  date: 2016-01-23 23:00
+- id: 187
+  date: 2016-01-30 23:00
   author:
-    name: crazymaster
-    url: https://github.com/crazymaster
+    name: lambdalisue
+    url: https://github.com/lambdalisue
   vimrcs:
-  - url: https://github.com/crazymaster/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/lambdalisue/rook/blob/master/home/.vim/vimrc
+    name: vimrc
     hash: 
   part: 
-  other: 
+  other: (2週目)
