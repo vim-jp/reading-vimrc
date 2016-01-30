@@ -4822,3 +4822,32 @@
   - "Λlisue"
   log: http://lingr.com/room/vim/archives/2016/01/23#message-22974663
   links: 
+- id: 187
+  date: 2016-01-30 23:00
+  author:
+    name: lambdalisue
+    url: https://github.com/lambdalisue
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/lambdalisue/rook/blob/ebb43dc2f02f90340b0ba2e8ae0205fe17995159/home/.vim/vimrc
+    raw_url: https://raw.githubusercontent.com/lambdalisue/rook/ebb43dc2f02f90340b0ba2e8ae0205fe17995159/home/.vim/vimrc
+  part: 
+  other: "(2週目)"
+  members:
+  - Jagua
+  - Shougo
+  - Watson_DNA
+  - crazymaster
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - tyru
+  - yoshitia
+  - "Λlisue"
+  log: http://lingr.com/room/vim/archives/2016/01/30#message-22998566
+  links: 
