@@ -4851,3 +4851,26 @@
   - "Λlisue"
   log: http://lingr.com/room/vim/archives/2016/01/30#message-22998566
   links: 
+- id: 188
+  date: 2016-02-06 23:00
+  author:
+    name: rafi
+    url: https://github.com/rafi
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/rafi/vim-config/blob/9e771129c844bd554eb76148f247b9867121f300/config/vimrc
+    raw_url: https://raw.githubusercontent.com/rafi/vim-config/9e771129c844bd554eb76148f247b9867121f300/config/vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - U-MA
+  - hujo
+  - mattn
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - "Λlisue"
+  log: http://lingr.com/room/vim/archives/2016/02/06#message-23024058
+  links: 
