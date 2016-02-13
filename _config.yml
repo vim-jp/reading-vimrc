@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 base-url: /reading-vimrc/
 encoding: utf-8
 exclude:
