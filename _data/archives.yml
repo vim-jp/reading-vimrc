@@ -4895,3 +4895,25 @@
   - toshi32tony3
   log: http://lingr.com/room/vim/archives/2016/02/13#message-23042854
   links: 
+- id: 190
+  date: 2016-02-20 23:00
+  author:
+    name: ntddk
+    url: https://github.com/ntddk
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/ntddk/dotfiles/blob/5a426760d5f39dd6943c0f94a957a430c9a3eeff/.vimrc
+    raw_url: https://raw.githubusercontent.com/ntddk/dotfiles/5a426760d5f39dd6943c0f94a957a430c9a3eeff/.vimrc
+  part: 
+  other: 
+  members:
+  - Jagua
+  - anekos
+  - kazuakiM
+  - mattn
+  - ryunix
+  - s_of_p
+  - thinca
+  - toshi32tony3
+  log: http://lingr.com/room/vim/archives/2016/02/20#message-23061729
+  links: 

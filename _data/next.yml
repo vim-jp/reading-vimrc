@@ -1,12 +1,12 @@
 ---
-- id: 190
-  date: 2016-02-20 23:00
+- id: 191
+  date: 2016-02-27 23:00
   author:
-    name: ntddk
-    url: https://github.com/ntddk
+    name: davydovanton
+    url: https://github.com/davydovanton
   vimrcs:
-  - url: https://github.com/ntddk/dotfiles/blob/master/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/davydovanton/dotfiles/blob/master/vim/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 
