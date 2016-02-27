@@ -4917,3 +4917,26 @@
   - toshi32tony3
   log: http://lingr.com/room/vim/archives/2016/02/20#message-23061729
   links: 
+- id: 191
+  date: 2016-02-27 23:00
+  author:
+    name: davydovanton
+    url: https://github.com/davydovanton
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/davydovanton/dotfiles/blob/066c39eebdb39185d5669f9207d11f99d2cb056a/vim/vimrc
+    raw_url: https://raw.githubusercontent.com/davydovanton/dotfiles/066c39eebdb39185d5669f9207d11f99d2cb056a/vim/vimrc
+  part: 
+  other: 
+  members:
+  - agatan
+  - kubor
+  - mattn
+  - motty1009
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - yoza
+  log: http://lingr.com/room/vim/archives/2016/02/27#message-23082837
+  links: 

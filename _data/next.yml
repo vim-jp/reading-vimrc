@@ -1,12 +1,12 @@
 ---
-- id: 191
-  date: 2016-02-27 23:00
+- id: 192
+  date: 2016-03-05 23:00
   author:
-    name: davydovanton
-    url: https://github.com/davydovanton
+    name: KazuakiM
+    url: https://github.com/KazuakiM
   vimrcs:
-  - url: https://github.com/davydovanton/dotfiles/blob/master/vim/vimrc
-    name: vimrc
+  - url: https://github.com/KazuakiM/dotfiles/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
   part: 
   other: 
