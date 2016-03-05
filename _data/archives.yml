@@ -4940,3 +4940,26 @@
   - yoza
   log: http://lingr.com/room/vim/archives/2016/02/27#message-23082837
   links: 
+- id: 192
+  date: 2016-03-05 23:00
+  author:
+    name: KazuakiM
+    url: https://github.com/KazuakiM
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/KazuakiM/dotfiles/blob/312e14a38a6c1b455e2c96ae40dc33eadd8050f6/.vimrc
+    raw_url: https://raw.githubusercontent.com/KazuakiM/dotfiles/312e14a38a6c1b455e2c96ae40dc33eadd8050f6/.vimrc
+  part: 
+  other: 
+  members:
+  - U-MA
+  - anekos
+  - deris0126
+  - hujo
+  - kazuakiM
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  log: http://lingr.com/room/vim/archives/2016/03/05#message-23104310
+  links: 
