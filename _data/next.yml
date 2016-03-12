@@ -1,11 +1,11 @@
 ---
-- id: 193
-  date: 2016-03-12 23:00
+- id: 194
+  date: 2016-03-19 23:00
   author:
-    name: ryuzee
-    url: https://github.com/ryuzee
+    name: jceb
+    url: https://github.com/jceb
   vimrcs:
-  - url: https://github.com/ryuzee/vimrc/blob/master/vimrc
+  - url: https://github.com/jceb/vimrc/blob/master/vimrc
     name: vimrc
     hash: 
   part: 

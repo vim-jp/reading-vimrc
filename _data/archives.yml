@@ -4963,3 +4963,27 @@
   - toshi32tony3
   log: http://lingr.com/room/vim/archives/2016/03/05#message-23104310
   links: 
+- id: 193
+  date: 2016-03-12 23:00
+  author:
+    name: ryuzee
+    url: https://github.com/ryuzee
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/ryuzee/vimrc/blob/47a6b4af0f231ee0466ac0b1c5835badaf589ace/vimrc
+    raw_url: https://raw.githubusercontent.com/ryuzee/vimrc/47a6b4af0f231ee0466ac0b1c5835badaf589ace/vimrc
+  part: 
+  other: 
+  members:
+  - anekos
+  - kazuakiM
+  - kubor
+  - mattn
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - ujihisa
+  - yoza
+  log: http://lingr.com/room/vim/archives/2016/03/12#message-23123333
+  links: 
