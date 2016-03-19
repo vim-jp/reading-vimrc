@@ -4987,3 +4987,26 @@
   - yoza
   log: http://lingr.com/room/vim/archives/2016/03/12#message-23123333
   links: 
+- id: 194
+  date: 2016-03-19 23:00
+  author:
+    name: jceb
+    url: https://github.com/jceb
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/jceb/vimrc/blob/f5a151126c3f3bb02d29a5c3995690e38b3afc02/vimrc
+    raw_url: https://raw.githubusercontent.com/jceb/vimrc/f5a151126c3f3bb02d29a5c3995690e38b3afc02/vimrc
+  part: 
+  other: 
+  members:
+  - anekos
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - yoza
+  - "Λlisue"
+  log: http://lingr.com/room/vim/archives/2016/03/19#message-23142192
+  links: 
