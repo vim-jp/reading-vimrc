@@ -5010,3 +5010,25 @@
   - "Λlisue"
   log: http://lingr.com/room/vim/archives/2016/03/19#message-23142192
   links: 
+- id: 195
+  date: 2016-03-26 23:00
+  author:
+    name: AndrewRadev
+    url: https://github.com/AndrewRadev
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/AndrewRadev/Vimfiles/blob/9d52afdb179907aaef286b3af37f52fd04793a51/.vimrc
+    raw_url: https://raw.githubusercontent.com/AndrewRadev/Vimfiles/9d52afdb179907aaef286b3af37f52fd04793a51/.vimrc
+  part: 
+  other: 
+  members:
+  - haya14busa
+  - kazuakiM
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - tyru
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2016/03/26#message-23164509
+  links: 
