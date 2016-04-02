@@ -5032,3 +5032,23 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2016/03/26#message-23164509
   links: 
+- id: 196
+  date: 2016-04-02 23:00
+  author:
+    name: pragmaticTNT
+    url: https://github.com/pragmaticTNT
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/pragmaticTNT/VIM/blob/91f0519bea338d400c476a07985914905b0427db/.vimrc
+    raw_url: https://raw.githubusercontent.com/pragmaticTNT/VIM/91f0519bea338d400c476a07985914905b0427db/.vimrc
+  part: 
+  other: 
+  members:
+  - anekos
+  - mattn
+  - ryunix
+  - s_of_p
+  - thinca
+  - toshi32tony3
+  log: http://lingr.com/room/vim/archives/2016/04/02#message-23180293
+  links: 
