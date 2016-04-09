@@ -2,10 +2,10 @@
 - id: 197
   date: 2016-04-09 23:00
   author:
-    name: kshenoy
-    url: https://github.com/kshenoy
+    name: juliobiason
+    url: https://bitbucket.org/juliobiason
   vimrcs:
-  - url: https://github.com/kshenoy/dotvim/blob/master/vimrc
+  - url: https://bitbucket.org/juliobiason/vim-configs/src/d894b0007f630574258ac0538354043dd65fd1c9/configs/vimrc?at=master
     name: vimrc
     hash: 
   part: 

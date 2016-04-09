@@ -5052,3 +5052,26 @@
   - toshi32tony3
   log: http://lingr.com/room/vim/archives/2016/04/02#message-23180293
   links: 
+- id: 197
+  date: 2016-04-09 23:00
+  author:
+    name: kshenoy
+    url: https://github.com/kshenoy
+  vimrcs:
+  - name: vimrc
+    url: https://github.com/kshenoy/dotvim/blob/1987c7fe910604b3f1031660330217bbba088ae8/vimrc
+    raw_url: https://raw.githubusercontent.com/kshenoy/dotvim/1987c7fe910604b3f1031660330217bbba088ae8/vimrc
+  part: 
+  other: 
+  members:
+  - U-MA
+  - haya14busa
+  - hujo
+  - kazuakiM
+  - mattn
+  - rbtnn
+  - ryunix
+  - toshi32tony3
+  - yoza
+  log: http://lingr.com/room/vim/archives/2016/04/09#message-23195524
+  links: 
