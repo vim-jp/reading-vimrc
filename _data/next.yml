@@ -1,12 +1,12 @@
 ---
-- id: 197
-  date: 2016-04-09 23:00
+- id: 199
+  date: 2016-04-23 23:00
   author:
-    name: juliobiason
-    url: https://bitbucket.org/juliobiason
+    name: machakann
+    url: https://github.com/machakann
   vimrcs:
-  - url: https://bitbucket.org/juliobiason/vim-configs/src/d894b0007f630574258ac0538354043dd65fd1c9/configs/vimrc?at=master
-    name: vimrc
+  - url: https://github.com/machakann/vimrc/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
-  part: 
+  part: "前編"
   other: 

@@ -5075,3 +5075,24 @@
   - yoza
   log: http://lingr.com/room/vim/archives/2016/04/09#message-23195524
   links: 
+- id: 198
+  date: 2016-04-16 23:00
+  author:
+    name: juliobiason
+    url: https://bitbucket.org/juliobiason
+  vimrcs:
+  - name: vimrc
+    url: https://bitbucket.org/juliobiason/vim-configs/src/d894b0007f630574258ac0538354043dd65fd1c9/configs/vimrc?fileviewer=file-view-default
+    raw_url: https://bitbucket.org/juliobiason/vim-configs/raw/d894b0007f630574258ac0538354043dd65fd1c9/configs/vimrc
+  part: 
+  other: 
+  members:
+  - hujo
+  - mattn
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2016/04/16#message-23215017
+  links: 
