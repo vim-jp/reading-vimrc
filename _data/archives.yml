@@ -5096,3 +5096,26 @@
   - ujihisa
   log: http://lingr.com/room/vim/archives/2016/04/16#message-23215017
   links: 
+- id: 199
+  date: 2016-04-23 23:00
+  author:
+    name: machakann
+    url: https://github.com/machakann
+  vimrcs:
+  - name: ".vimrc"
+    url: https://github.com/machakann/vimrc/blob/3dc16ac1ae31197e35bebdf3f0fbf275117478bd/.vimrc
+    raw_url: https://raw.githubusercontent.com/machakann/vimrc/3dc16ac1ae31197e35bebdf3f0fbf275117478bd/.vimrc
+  part: "前編"
+  other: 
+  members:
+  - Jagua
+  - U-MA
+  - cohama
+  - haya14busa
+  - rbtnn
+  - ryunix
+  - thinca
+  - toshi32tony3
+  - ujihisa
+  log: http://lingr.com/room/vim/archives/2016/04/23#message-23231256
+  links: 
