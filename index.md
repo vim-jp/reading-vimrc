@@ -96,8 +96,6 @@ title: vimrc読書会
 主に開催の日程を決めたり、vimrc を探してきたり、当日の進行(と言っても開始と終了の合図をするくらい)をする人たちです。
 
 - [thinca](https://github.com/thinca) (Twitter: [@thinca](https://twitter.com/thinca))
-- [osyo-manga](https://github.com/osyo-manga) (Twitter: [@manga_osyo](https://twitter.com/manga_osyo))
-- [LeafCage](https://github.com/LeafCage) (Twitter: [@LeafCage](https://twitter.com/LeafCage))
 - [rbtnn](https://github.com/rbtnn) (Twitter: [@rbtnn](https://twitter.com/rbtnn))
 - [deris](https://github.com/deris) (Twitter: [@deris0126](https://twitter.com/deris0126))
 - [haya14busa](https://github.com/haya14busa) (Twitter: [@haya14busa](https://twitter.com/haya14busa))
