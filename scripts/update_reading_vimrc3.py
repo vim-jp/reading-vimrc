@@ -33,7 +33,7 @@ import urllib.request
 import re
 
 YAML_URL = \
-    'http://reading_vimrc.zchee.io/reading_vimrc/vimrc/yml'
+    'http://gitter-vimjp.rhcloud.com/reading_vimrc/info.yml'
 
 TEMPLATE_TEXT = '''\
 ---

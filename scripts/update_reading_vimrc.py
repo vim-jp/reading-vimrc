@@ -36,7 +36,7 @@ import codecs
 
 
 YAML_URL = \
-    u'http://reading_vimrc.zchee.io/reading_vimrc/vimrc/yml'
+    u'http://gitter-vimjp.rhcloud.com/reading_vimrc/info.yml'
 
 TEMPLATE_TEXT = u'''\
 ---
