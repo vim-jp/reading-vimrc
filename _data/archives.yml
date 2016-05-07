@@ -5142,3 +5142,24 @@
   - toshi32tony3
   log: http://lingr.com/room/vim/archives/2016/04/30#message-23246065
   links: 
+- id: 201
+  date: '2016-05-07 23:00'
+  author:
+    name: jaxbot
+    url: 'https://github.com/jaxbot'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/jaxbot/vimfiles/blob/5210beec9ee7be78a375fe3aca6c6a18bd8d61a4/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/jaxbot/vimfiles/5210beec9ee7be78a375fe3aca6c6a18bd8d61a4/vimrc'
+  part: null
+  other: null
+  members:
+    - haya14busa
+    - hokorobi
+    - mattn
+    - nafu
+    - rbtnn
+    - ryunix
+    - thinca
+    - yoza
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=572df4e4f36daf63798d6c8f'

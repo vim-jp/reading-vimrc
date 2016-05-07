@@ -1,11 +1,11 @@
 ---
-- id: 201
-  date: 2016-05-07 23:00
+- id: 202
+  date: 2016-05-14 23:00
   author:
-    name: jaxbot
-    url: https://github.com/jaxbot
+    name: vaibhavsagar
+    url: https://github.com/vaibhavsagar
   vimrcs:
-  - url: https://github.com/jaxbot/vimfiles/blob/master/vimrc
+  - url: https://github.com/vaibhavsagar/dotfiles/blob/master/vimrc
     name: vimrc
     hash: 
   part: 
