@@ -24,7 +24,7 @@ title: vimrc読書会
                 {{ next.date | date: " %H:%M" }}
               </span>
     </li>
-    <li>場所: <a href="http://lingr.com/room/vim">LingrのVim部屋</a></li>
+    <li>場所: <a href="https://gitter.im/vim-jp/reading-vimrc">Gitter (vim-jp/reading-vimrc)</a></li>
     <li>vimrc: <a href="{{ next.author.url }}"> {{ next.author.name }}</a> さん
         {% if next.part %} ({{ next.part }}) {% endif %}
     </li>
