@@ -1,12 +1,12 @@
 ---
-- id: 202
-  date: 2016-05-14 23:00
+- id: 203
+  date: 2016-05-21 23:00
   author:
-    name: vaibhavsagar
-    url: https://github.com/vaibhavsagar
+    name: ryanoasis
+    url: https://github.com/ryanoasis
   vimrcs:
-  - url: https://github.com/vaibhavsagar/dotfiles/blob/master/vimrc
-    name: vimrc
+  - url: https://github.com/ryanoasis/dotfiles/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
   part: 
   other: 

@@ -5163,3 +5163,28 @@
     - thinca
     - yoza
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=572df4e4f36daf63798d6c8f'
+- id: 202
+  date: '2016-05-14 23:00'
+  author:
+    name: vaibhavsagar
+    url: 'https://github.com/vaibhavsagar'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/vaibhavsagar/dotfiles/blob/cc4e44378cfc364070577363438ea2435fa4648f/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/vaibhavsagar/dotfiles/cc4e44378cfc364070577363438ea2435fa4648f/vimrc'
+  part: null
+  other: null
+  members:
+    - DeaR
+    - KazuakiM
+    - MaxMEllon
+    - U-MA
+    - morinatsu
+    - nafu
+    - rbtnn
+    - ryunix
+    - tetsis_twitter
+    - thinca
+    - ujihisa
+    - yoza
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57372f6d1794136a7d08a10e'
