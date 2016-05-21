@@ -5188,3 +5188,26 @@
     - ujihisa
     - yoza
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57372f6d1794136a7d08a10e'
+- id: 203
+  date: '2016-05-21 23:00'
+  author:
+    name: ryanoasis
+    url: 'https://github.com/ryanoasis'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/ryanoasis/dotfiles/blob/0358ec42edfb8516ed8c4a7e25ce385771732c58/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ryanoasis/dotfiles/0358ec42edfb8516ed8c4a7e25ce385771732c58/.vimrc'
+  part: null
+  other: null
+  members:
+    - KazuakiM
+    - MaxMEllon
+    - U-MA
+    - cohama
+    - haya14busa
+    - mattn
+    - morinatsu
+    - ryunix
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=574069eb5138fa4a0f1298f7'
