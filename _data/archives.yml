@@ -5211,3 +5211,25 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=574069eb5138fa4a0f1298f7'
+- id: 204
+  date: '2016-05-28 23:00'
+  author:
+    name: DanielFGray
+    url: 'https://github.com/DanielFGray'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/DanielFGray/dotfiles/blob/d606bb51f0ddba5fc69155e514c6f15f700fa93c/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/DanielFGray/dotfiles/d606bb51f0ddba5fc69155e514c6f15f700fa93c/vimrc'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - U-MA
+    - haya14busa
+    - k-takata
+    - morinatsu
+    - ryunix
+    - tetsis
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5749a5778fba4a053f1afce3'
