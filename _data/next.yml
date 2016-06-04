@@ -1,6 +1,6 @@
 ---
-- id: 205
-  date: 2016-06-04 23:00
+- id: 206
+  date: 2016-06-11 23:00
   author:
     name: guns
     url: https://github.com/guns
@@ -29,5 +29,5 @@
   - url: https://github.com/guns/haus/blob/master/etc/vim/local/tty.vim
     name: tty.vim
     hash: e8ea5858ef8d89ae7281a83bff78db84171dd050
-  part: 
+  part: "後編"
   other: 

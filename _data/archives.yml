@@ -5233,3 +5233,43 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5749a5778fba4a053f1afce3'
+- id: 205
+  date: '2016-06-04 23:00'
+  author:
+    name: guns
+    url: 'https://github.com/guns'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/guns/haus/blob/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/guns/haus/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vimrc'
+    - name: autocommands.vim
+      url: 'https://github.com/guns/haus/blob/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/autocommands.vim'
+      raw_url: 'https://raw.githubusercontent.com/guns/haus/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/autocommands.vim'
+    - name: commands.vim
+      url: 'https://github.com/guns/haus/blob/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/commands.vim'
+      raw_url: 'https://raw.githubusercontent.com/guns/haus/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/commands.vim'
+    - name: gvimrc.vim
+      url: 'https://github.com/guns/haus/blob/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/gvimrc.vim'
+      raw_url: 'https://raw.githubusercontent.com/guns/haus/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/gvimrc.vim'
+    - name: mappings.vim
+      url: 'https://github.com/guns/haus/blob/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/mappings.vim'
+      raw_url: 'https://raw.githubusercontent.com/guns/haus/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/mappings.vim'
+    - name: modifiers.vim
+      url: 'https://github.com/guns/haus/blob/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/modifiers.vim'
+      raw_url: 'https://raw.githubusercontent.com/guns/haus/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/modifiers.vim'
+    - name: syntax.vim
+      url: 'https://github.com/guns/haus/blob/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/syntax.vim'
+      raw_url: 'https://raw.githubusercontent.com/guns/haus/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/syntax.vim'
+    - name: tty.vim
+      url: 'https://github.com/guns/haus/blob/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/tty.vim'
+      raw_url: 'https://raw.githubusercontent.com/guns/haus/e8ea5858ef8d89ae7281a83bff78db84171dd050/etc/vim/local/tty.vim'
+  part: "前編"
+  other: null
+  members:
+    - U-MA
+    - mattn
+    - morinatsu
+    - nafu
+    - ryunix
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5752e708434455107d4c6df4'
