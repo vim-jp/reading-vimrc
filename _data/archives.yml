@@ -5318,3 +5318,21 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=575c1979e20024bd1ad29831'
+- id: 207
+  date: '2016-06-18 23:00'
+  author:
+    name: gilbertwyw
+    url: 'https://github.com/gilbertwyw'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/gilbertwyw/dotfiles/blob/2b4c75b23457a309082045a5522f2be379a91f35/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/gilbertwyw/dotfiles/2b4c75b23457a309082045a5522f2be379a91f35/vim/vimrc'
+  part: null
+  other: null
+  members:
+    - mattn
+    - morinatsu
+    - ryunix
+    - thinca
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=576553e4a7b963c04e7c844f'

@@ -1,12 +1,54 @@
 ---
-- id: 207
-  date: 2016-06-18 23:00
+- id: 208
+  date: 2016-06-25 23:00
   author:
-    name: gilbertwyw
-    url: https://github.com/gilbertwyw
+    name: yyotti
+    url: https://github.com/yyotti
   vimrcs:
-  - url: https://github.com/gilbertwyw/dotfiles/blob/master/vim/vimrc
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/vimrc
     name: vimrc
     hash: 
-  part: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/colorscheme.rc.vim
+    name: colorscheme.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/dein.rc.vim
+    name: dein.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/edit.rc.vim
+    name: edit.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/encoding.rc.vim
+    name: encoding.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/filetype.rc.vim
+    name: filetype.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/gui.rc.vim
+    name: gui.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/init.rc.vim
+    name: init.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/lightline.rc.vim
+    name: lightline.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/mappings.rc.vim
+    name: mappings.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/powerline.rc.vim
+    name: powerline.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/search.rc.vim
+    name: search.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/unix.rc.vim
+    name: unix.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/view.rc.vim
+    name: view.rc.vim
+    hash: 
+  - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/windows.rc.vim
+    name: windows.rc.vim
+    hash: 
+  part: "前編"
   other: 
