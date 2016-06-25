@@ -1,6 +1,6 @@
 ---
-- id: 208
-  date: 2016-06-25 23:00
+- id: 209
+  date: 2016-07-02 23:00
   author:
     name: yyotti
     url: https://github.com/yyotti
@@ -50,5 +50,5 @@
   - url: https://github.com/yyotti/unix_settings/blob/master/vim/rc/windows.rc.vim
     name: windows.rc.vim
     hash: 
-  part: "前編"
+  part: "後編"
   other: 
