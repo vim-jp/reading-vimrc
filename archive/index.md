@@ -52,5 +52,5 @@ title: 過去の開催 - vimrc読書会
 </tbody>
 </table>
 
-[トップに戻る]({{ site.base-url }})
+[トップに戻る]({{ site.github.url }}/)
 

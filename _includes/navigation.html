@@ -5,19 +5,19 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="nav-head" href="{{ site.base-url }}">vimrc読書会</a>
+        <a class="nav-head" href="{{ site.github.url }}/">vimrc読書会</a>
     </div>
     <div class="collapse navbar-collapse target">
         <ul class="nav-list">
-            <li {% if page.url == '/index.html' %}class="active"{% endif %}><a href="{{ site.base-url }}">Home</a></li>
-            <li {% if page.url == '/archive/index.html' %}class="active"{% endif %}><a href="{{ site.base-url }}archive/index.html">Archive</a></li>
+            <li {% if page.url == '/index.html' %}class="active"{% endif %}><a href="{{ site.github.url }}/">Home</a></li>
+            <li {% if page.url == '/archive/index.html' %}class="active"{% endif %}><a href="{{ site.github.url }}/archive/index.html">Archive</a></li>
             <li {% if page.url == '/stat/index.html' %}class="active"{% endif %}>
               <a
                 {% if page.url == '/stat/index.html' %}
                   href=""
-                  ng-href="{{ site.base-url }}stat/#/"
+                  ng-href="{{ site.github.url }}/stat/#/"
                 {% else %}
-                  href="{{ site.base-url }}stat/"
+                  href="{{ site.github.url }}/stat/"
                 {% endif %}>Stat</a>
             </li>
             <li><a href="https://github.com/vim-jp/reading-vimrc/wiki/Request">Request</a></li>
