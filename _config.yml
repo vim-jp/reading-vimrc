@@ -1,5 +1,24 @@
-markdown: kramdown
-encoding: utf-8
+############################################################################
+# 原則 http://jekyllrb.com/docs/configuration/#default-configuration からの
+# 差分のみ記述している。記述順序も前述に従う。
+
+### Handling Reading
 exclude:
   - 'scripts'
   - 'README.md'
+# デフォルトと同じだが「utf-8で記事を書こう」という宣言的な意味合で残した。
+encoding: utf-8
+
+### Plugins
+gems:
+  - jemoji
+  - jekyll-seo-tag
+
+### Outputting
+# デフォルトと同じだが、万が一デフォルトが変わってしまうと記事のURLが変わってし
+# まいクリティカルなので、明示的に指定した。
+permalink: date
+
+### Markdown Processors
+kramdown:
+  input: GFM
