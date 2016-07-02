@@ -5401,3 +5401,69 @@
     - thinca
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=576e918cf04fad5c263fa0a8'
+- id: 209
+  date: '2016-07-02 23:00'
+  author:
+    name: yyotti
+    url: 'https://github.com/yyotti'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/vimrc'
+    - name: colorscheme.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/colorscheme.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/colorscheme.rc.vim'
+    - name: dein.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/dein.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/dein.rc.vim'
+    - name: edit.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/edit.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/edit.rc.vim'
+    - name: encoding.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/encoding.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/encoding.rc.vim'
+    - name: filetype.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/filetype.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/filetype.rc.vim'
+    - name: gui.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/gui.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/gui.rc.vim'
+    - name: init.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/init.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/init.rc.vim'
+    - name: lightline.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/lightline.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/lightline.rc.vim'
+    - name: mappings.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/mappings.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/mappings.rc.vim'
+    - name: powerline.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/powerline.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/powerline.rc.vim'
+    - name: search.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/search.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/search.rc.vim'
+    - name: unix.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/unix.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/unix.rc.vim'
+    - name: view.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/view.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/view.rc.vim'
+    - name: windows.rc.vim
+      url: 'https://github.com/yyotti/unix_settings/blob/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/windows.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yyotti/unix_settings/5b62d261f73f0f6ef2ddec3d049f483f558e2cb8/vim/rc/windows.rc.vim'
+  part: 後編
+  other: null
+  members:
+    - MaxMEllon
+    - iyuuya
+    - koron
+    - kubor__twitter
+    - mattn
+    - morinatsu
+    - rbtnn
+    - ryunix
+    - thinca
+    - ujihisa
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5777c8e95522bb3636d62770'
