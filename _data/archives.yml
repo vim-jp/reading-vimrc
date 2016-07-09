@@ -5467,3 +5467,26 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5777c8e95522bb3636d62770'
+- id: 210
+  date: '2016-07-09 23:00'
+  author:
+    name: ryym
+    url: 'https://github.com/ryym'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/ryym/dotfiles/blob/0ad3b0e9e94f4b5b14303bccbe4fa8d74c015d74/dotfiles/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ryym/dotfiles/0ad3b0e9e94f4b5b14303bccbe4fa8d74c015d74/dotfiles/vim/vimrc'
+  part: null
+  other: null
+  members:
+    - KazuakiM
+    - MaxMEllon
+    - U-MA
+    - aiya000
+    - diginatu
+    - rbtnn
+    - ryunix
+    - thinca
+    - ujihisa
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57810369064f828707f3d3a5'
