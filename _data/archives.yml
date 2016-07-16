@@ -5490,3 +5490,23 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57810369064f828707f3d3a5'
+- id: 211
+  date: '2016-07-16 23:00'
+  author:
+    name: AtsushiSakai
+    url: 'https://github.com/AtsushiSakai'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/AtsushiSakai/myvim/blob/922f24d7e51321b910c7a0bb5d1c19628dd67713/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/AtsushiSakai/myvim/922f24d7e51321b910c7a0bb5d1c19628dd67713/.vimrc'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - mattn
+    - morinatsu
+    - rbtnn
+    - ryunix
+    - thinca
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=578a3e793c5129720e3b6b8d'

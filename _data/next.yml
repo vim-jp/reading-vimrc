@@ -1,12 +1,33 @@
 ---
-- id: 211
-  date: 2016-07-16 23:00
+- id: 212
+  date: 2016-07-23 23:00
   author:
-    name: AtsushiSakai
-    url: https://github.com/AtsushiSakai
+    name: liquidz
+    url: https://github.com/liquidz
   vimrcs:
-  - url: https://github.com/AtsushiSakai/myvim/blob/master/.vimrc
+  - url: https://github.com/liquidz/dotfiles/blob/master/.vimrc
     name: .vimrc
+    hash: 
+  - url: https://github.com/liquidz/dotfiles/blob/master/gvimrc
+    name: gvimrc
+    hash: 
+  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/ctrlme.toml
+    name: ctrlme.toml
+    hash: 
+  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/custom.vim
+    name: custom.vim
+    hash: 
+  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/dein.lazy.toml
+    name: dein.lazy.toml
+    hash: 
+  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/dein.toml
+    name: dein.toml
+    hash: 
+  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/lgtm.vim
+    name: lgtm.vim
+    hash: 
+  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/plugin.vim
+    name: plugin.vim
     hash: 
   part: 
   other: 
