@@ -1,33 +1,39 @@
 ---
-- id: 212
-  date: 2016-07-23 23:00
+- id: 213
+  date: 2016-07-30 23:00
   author:
-    name: liquidz
-    url: https://github.com/liquidz
+    name: yuku-t
+    url: https://github.com/yuku-t
   vimrcs:
-  - url: https://github.com/liquidz/dotfiles/blob/master/.vimrc
-    name: .vimrc
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vimrc
+    name: vimrc
     hash: 
-  - url: https://github.com/liquidz/dotfiles/blob/master/gvimrc
-    name: gvimrc
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/behavior.vim
+    name: behavior.vim
     hash: 
-  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/ctrlme.toml
-    name: ctrlme.toml
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/ftdetects.vim
+    name: ftdetects.vim
     hash: 
-  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/custom.vim
-    name: custom.vim
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/general.vim
+    name: general.vim
     hash: 
-  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/dein.lazy.toml
-    name: dein.lazy.toml
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/highlight.vim
+    name: highlight.vim
     hash: 
-  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/dein.toml
-    name: dein.toml
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/mac.vim
+    name: mac.vim
     hash: 
-  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/lgtm.vim
-    name: lgtm.vim
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/mapping.vim
+    name: mapping.vim
     hash: 
-  - url: https://github.com/liquidz/dotfiles/blob/master/.vim/conf.d/plugin.vim
-    name: plugin.vim
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/plugins.vim
+    name: plugins.vim
+    hash: 
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/search.vim
+    name: search.vim
+    hash: 
+  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/ui.vim
+    name: ui.vim
     hash: 
   part: 
   other: 

@@ -5510,3 +5510,42 @@
     - thinca
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=578a3e793c5129720e3b6b8d'
+- id: 212
+  date: '2016-07-23 23:00'
+  author:
+    name: liquidz
+    url: 'https://github.com/liquidz'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/liquidz/dotfiles/blob/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/liquidz/dotfiles/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vimrc'
+    - name: gvimrc
+      url: 'https://github.com/liquidz/dotfiles/blob/2fcfa604073adb23bd480bbd91f2748c39aa610b/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/liquidz/dotfiles/2fcfa604073adb23bd480bbd91f2748c39aa610b/gvimrc'
+    - name: ctrlme.toml
+      url: 'https://github.com/liquidz/dotfiles/blob/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/ctrlme.toml'
+      raw_url: 'https://raw.githubusercontent.com/liquidz/dotfiles/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/ctrlme.toml'
+    - name: custom.vim
+      url: 'https://github.com/liquidz/dotfiles/blob/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/custom.vim'
+      raw_url: 'https://raw.githubusercontent.com/liquidz/dotfiles/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/custom.vim'
+    - name: dein.lazy.toml
+      url: 'https://github.com/liquidz/dotfiles/blob/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/dein.lazy.toml'
+      raw_url: 'https://raw.githubusercontent.com/liquidz/dotfiles/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/dein.lazy.toml'
+    - name: dein.toml
+      url: 'https://github.com/liquidz/dotfiles/blob/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/dein.toml'
+      raw_url: 'https://raw.githubusercontent.com/liquidz/dotfiles/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/dein.toml'
+    - name: lgtm.vim
+      url: 'https://github.com/liquidz/dotfiles/blob/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/lgtm.vim'
+      raw_url: 'https://raw.githubusercontent.com/liquidz/dotfiles/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/lgtm.vim'
+    - name: plugin.vim
+      url: 'https://github.com/liquidz/dotfiles/blob/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/plugin.vim'
+      raw_url: 'https://raw.githubusercontent.com/liquidz/dotfiles/2fcfa604073adb23bd480bbd91f2748c39aa610b/.vim/conf.d/plugin.vim'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - diginatu
+    - ryunix
+    - thinca
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5793789089521c0718aae75d'
