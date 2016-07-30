@@ -1,39 +1,12 @@
 ---
-- id: 213
-  date: 2016-07-30 23:00
+- id: 214
+  date: 2016-08-06 23:00
   author:
-    name: yuku-t
-    url: https://github.com/yuku-t
+    name: murajun1978
+    url: https://github.com/murajun1978
   vimrcs:
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vimrc
+  - url: https://github.com/murajun1978/dotvim/blob/master/vimrc
     name: vimrc
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/behavior.vim
-    name: behavior.vim
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/ftdetects.vim
-    name: ftdetects.vim
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/general.vim
-    name: general.vim
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/highlight.vim
-    name: highlight.vim
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/mac.vim
-    name: mac.vim
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/mapping.vim
-    name: mapping.vim
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/plugins.vim
-    name: plugins.vim
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/search.vim
-    name: search.vim
-    hash: 
-  - url: https://github.com/yuku-t/dotfiles/blob/master/vim/rc/ui.vim
-    name: ui.vim
     hash: 
   part: 
   other: 

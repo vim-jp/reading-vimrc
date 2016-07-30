@@ -5549,3 +5549,52 @@
     - thinca
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5793789089521c0718aae75d'
+- id: 213
+  date: '2016-07-30 23:00'
+  author:
+    name: yuku-t
+    url: 'https://github.com/yuku-t'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vimrc'
+    - name: behavior.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/behavior.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/behavior.vim'
+    - name: ftdetects.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/ftdetects.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/ftdetects.vim'
+    - name: general.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/general.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/general.vim'
+    - name: highlight.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/highlight.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/highlight.vim'
+    - name: mac.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/mac.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/mac.vim'
+    - name: mapping.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/mapping.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/mapping.vim'
+    - name: plugins.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/plugins.vim'
+    - name: search.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/search.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/search.vim'
+    - name: ui.vim
+      url: 'https://github.com/yuku-t/dotfiles/blob/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/ui.vim'
+      raw_url: 'https://raw.githubusercontent.com/yuku-t/dotfiles/39d8738ec0260d047655e6f67a075d89c65228fa/vim/rc/ui.vim'
+  part: null
+  other: null
+  members:
+    - KazuakiM
+    - cohama
+    - k-takata
+    - koron
+    - morinatsu
+    - ryunix
+    - thinca
+    - ujihisa
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=579cb2e080e833723ffb8b43'
