@@ -5598,3 +5598,24 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=579cb2e080e833723ffb8b43'
+- id: 214
+  date: '2016-08-06 23:00'
+  author:
+    name: murajun1978
+    url: 'https://github.com/murajun1978'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/murajun1978/dotvim/blob/1747e324a1cc244b8030fa7980bcafb66522407a/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/murajun1978/dotvim/1747e324a1cc244b8030fa7980bcafb66522407a/vimrc'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - ekureatama_twitter
+    - morinatsu
+    - rbtnn
+    - ryotako
+    - ryunix
+    - thinca
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57a5ed7ee8441a917903cc8e'

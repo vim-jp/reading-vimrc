@@ -1,12 +1,12 @@
 ---
-- id: 214
-  date: 2016-08-06 23:00
+- id: 215
+  date: 2016-08-13 23:00
   author:
-    name: murajun1978
-    url: https://github.com/murajun1978
+    name: tokuhirom
+    url: https://github.com/tokuhirom
   vimrcs:
-  - url: https://github.com/murajun1978/dotvim/blob/master/vimrc
-    name: vimrc
+  - url: https://github.com/tokuhirom/dotfiles/blob/master/.vimrc
+    name: .vimrc
     hash: 
   part: 
   other: 
