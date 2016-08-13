@@ -5619,3 +5619,22 @@
     - thinca
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57a5ed7ee8441a917903cc8e'
+- id: 215
+  date: '2016-08-13 23:00'
+  author:
+    name: tokuhirom
+    url: 'https://github.com/tokuhirom'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/tokuhirom/dotfiles/blob/7344b527a67b926bdf348b3705b602a2bdc6888e/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/tokuhirom/dotfiles/7344b527a67b926bdf348b3705b602a2bdc6888e/.vimrc'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - ekureatama_twitter
+    - ryunix
+    - thinca
+    - ujihisa
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57af27f16cd7d05c37c25e36'
