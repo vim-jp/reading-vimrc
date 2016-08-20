@@ -5638,3 +5638,25 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57af27f16cd7d05c37c25e36'
+- id: 216
+  date: '2016-08-20 23:00'
+  author:
+    name: hightman
+    url: 'https://github.com/hightman'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/hightman/vimrc/blob/bd5210beb3a2bc71b0df648bab7efb667d10c745/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/hightman/vimrc/bd5210beb3a2bc71b0df648bab7efb667d10c745/vimrc'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - U-MA
+    - ekureatama_twitter
+    - mattn
+    - morinatsu
+    - rbtnn
+    - ryunix
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57b86280ed79c5ee4f20e078'

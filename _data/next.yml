@@ -1,12 +1,12 @@
 ---
-- id: 216
-  date: 2016-08-20 23:00
+- id: 217
+  date: 2016-08-27 23:00
   author:
-    name: hightman
-    url: https://github.com/hightman
+    name: bingdian
+    url: https://github.com/bingdian
   vimrcs:
-  - url: https://github.com/hightman/vimrc/blob/master/vimrc
-    name: vimrc
+  - url: https://github.com/bingdian/vimrc/blob/master/_vimrc
+    name: _vimrc
     hash: 
   part: 
   other: 
