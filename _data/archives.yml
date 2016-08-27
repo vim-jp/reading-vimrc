@@ -5660,3 +5660,23 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57b86280ed79c5ee4f20e078'
+- id: 217
+  date: '2016-08-27 23:00'
+  author:
+    name: bingdian
+    url: 'https://github.com/bingdian'
+  vimrcs:
+    - name: _vimrc
+      url: 'https://github.com/bingdian/vimrc/blob/e1100edd61e22b796e283ee2859c66bfeb126d4b/_vimrc'
+      raw_url: 'https://raw.githubusercontent.com/bingdian/vimrc/e1100edd61e22b796e283ee2859c66bfeb126d4b/_vimrc'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - hokorobi
+    - ryotako
+    - ryunix
+    - thinca
+    - ujihisa
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57c19ce8ef7a02cf1793b1ac'
