@@ -5680,3 +5680,26 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57c19ce8ef7a02cf1793b1ac'
+- id: 218
+  date: '2016-09-03 23:00'
+  author:
+    name: Slava
+    url: 'https://github.com/Slava'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Slava/vimrc/blob/044985c62ded30bd1b9843d741b91375e02f0f00/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Slava/vimrc/044985c62ded30bd1b9843d741b91375e02f0f00/.vimrc'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - diginatu
+    - hokorobi
+    - rbtnn
+    - ryotako
+    - ryunix
+    - thinca
+    - ujihisa
+    - yaegassy_twitter
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57cad768dc3c80b559a78ffa'

@@ -1,12 +1,12 @@
 ---
-- id: 218
-  date: 2016-09-03 23:00
+- id: 219
+  date: 2016-09-10 23:00
   author:
-    name: Slava
-    url: https://github.com/Slava
+    name: feelinglucky
+    url: https://github.com/feelinglucky
   vimrcs:
-  - url: https://github.com/Slava/vimrc/blob/master/.vimrc
-    name: .vimrc
+  - url: https://github.com/feelinglucky/vimrc/blob/master/_vimrc
+    name: _vimrc
     hash: 
   part: 
   other: 
