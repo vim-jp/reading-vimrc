@@ -5703,3 +5703,22 @@
     - yaegassy_twitter
     - yoshitia_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57cad768dc3c80b559a78ffa'
+- id: 219
+  date: '2016-09-10 23:00'
+  author:
+    name: feelinglucky
+    url: 'https://github.com/feelinglucky'
+  vimrcs:
+    - name: _vimrc
+      url: 'https://github.com/feelinglucky/vimrc/blob/639a694b323d241f2d212acb1746cb298277ad46/_vimrc'
+      raw_url: 'https://raw.githubusercontent.com/feelinglucky/vimrc/639a694b323d241f2d212acb1746cb298277ad46/_vimrc'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - morinatsu
+    - ryotako
+    - ryunix
+    - thinca
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57d411ffc045e50a3686e697'

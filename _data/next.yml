@@ -1,12 +1,12 @@
 ---
-- id: 219
-  date: 2016-09-10 23:00
+- id: 220
+  date: 2016-09-17 23:00
   author:
-    name: feelinglucky
-    url: https://github.com/feelinglucky
+    name: nvie
+    url: https://github.com/nvie
   vimrcs:
-  - url: https://github.com/feelinglucky/vimrc/blob/master/_vimrc
-    name: _vimrc
+  - url: https://github.com/nvie/vimrc/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 
