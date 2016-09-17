@@ -1,11 +1,11 @@
 ---
-- id: 220
-  date: 2016-09-17 23:00
+- id: 221
+  date: 2016-09-24 23:00
   author:
-    name: nvie
-    url: https://github.com/nvie
+    name: tlhunter
+    url: https://github.com/tlhunter
   vimrcs:
-  - url: https://github.com/nvie/vimrc/blob/master/vimrc
+  - url: https://github.com/tlhunter/vimrc/blob/master/vimrc
     name: vimrc
     hash: 
   part: 

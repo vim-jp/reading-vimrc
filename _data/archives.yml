@@ -5722,3 +5722,27 @@
     - thinca
     - yoshitia_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57d411ffc045e50a3686e697'
+- id: 220
+  date: '2016-09-17 23:00'
+  author:
+    name: nvie
+    url: 'https://github.com/nvie'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/nvie/vimrc/blob/55b5348555b5a879a6a858ed356900a832f567e5/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/nvie/vimrc/55b5348555b5a879a6a858ed356900a832f567e5/vimrc'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - U-MA
+    - anekos
+    - haya14busa
+    - morinatsu
+    - rbtnn
+    - ryotako
+    - ryunix
+    - thinca
+    - ujihisa
+    - youchan
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57dd4c6b512e05f23de28de8'
