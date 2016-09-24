@@ -5746,3 +5746,24 @@
     - ujihisa
     - youchan
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57dd4c6b512e05f23de28de8'
+- id: 221
+  date: '2016-09-24 23:00'
+  author:
+    name: tlhunter
+    url: 'https://github.com/tlhunter'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/tlhunter/vimrc/blob/0ed542a3ecb6f16b2c082660875a442485115726/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/tlhunter/vimrc/0ed542a3ecb6f16b2c082660875a442485115726/vimrc'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - hujo
+    - mattn
+    - ryotako
+    - ryunix
+    - thinca
+    - ujihisa
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57e686ed4b6d7fa169bf5195'
