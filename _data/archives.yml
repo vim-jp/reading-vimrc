@@ -5767,3 +5767,25 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57e686ed4b6d7fa169bf5195'
+- id: 222
+  date: '2016-10-01 23:00'
+  author:
+    name: ruchee
+    url: 'https://github.com/ruchee'
+  vimrcs:
+    - name: _vimrc
+      url: 'https://github.com/ruchee/vimrc/blob/499745d8088e7987c44a781d001c28b46decb256/_vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ruchee/vimrc/499745d8088e7987c44a781d001c28b46decb256/_vimrc'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - U-MA
+    - hokorobi
+    - hujo
+    - rbtnn
+    - ryotako
+    - ryunix
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57efc164723d38a733d923a3'

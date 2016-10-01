@@ -1,12 +1,12 @@
 ---
-- id: 222
-  date: 2016-10-01 23:00
+- id: 223
+  date: 2016-10-08 23:00
   author:
-    name: ruchee
-    url: https://github.com/ruchee
+    name: hotoo
+    url: https://github.com/hotoo
   vimrcs:
-  - url: https://github.com/ruchee/vimrc/blob/master/_vimrc
-    name: _vimrc
+  - url: https://github.com/hotoo/vimrc/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 
