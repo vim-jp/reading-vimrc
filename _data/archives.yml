@@ -5789,3 +5789,29 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57efc164723d38a733d923a3'
+- id: 223
+  date: '2016-10-08 23:00'
+  author:
+    name: hotoo
+    url: 'https://github.com/hotoo'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/hotoo/vimrc/blob/7b3c925d37d0bdcfd07567b7226bf454a25f05da/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/hotoo/vimrc/7b3c925d37d0bdcfd07567b7226bf454a25f05da/vimrc'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - anekos
+    - diginatu
+    - kg8m
+    - mattn
+    - rbtnn
+    - ryotako
+    - ryunix
+    - thinca
+    - ujihisa
+    - y0za
+    - yoshitia_twitter
+    - yuto-sakamoto
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=57f8fbe2bb20dfad43c4222b'

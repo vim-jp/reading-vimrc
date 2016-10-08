@@ -1,12 +1,12 @@
 ---
-- id: 223
-  date: 2016-10-08 23:00
+- id: 224
+  date: 2016-10-15 23:00
   author:
-    name: hotoo
-    url: https://github.com/hotoo
+    name: ryotako
+    url: https://github.com/ryotako
   vimrcs:
-  - url: https://github.com/hotoo/vimrc/blob/master/vimrc
-    name: vimrc
+  - url: https://github.com/ryotako/dotfiles/blob/master/.vimrc
+    name: .vimrc
     hash: 
   part: 
   other: 
