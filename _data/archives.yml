@@ -5815,3 +5815,27 @@
     - yoshitia_twitter
     - yuto-sakamoto
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=57f8fbe2bb20dfad43c4222b'
+- id: 224
+  date: '2016-10-15 23:00'
+  author:
+    name: ryotako
+    url: 'https://github.com/ryotako'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/ryotako/dotfiles/blob/52b1ecb275e577dcb44db367a1f563d471c2cab0/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ryotako/dotfiles/52b1ecb275e577dcb44db367a1f563d471c2cab0/.vimrc'
+  part: null
+  other: null
+  members:
+    - U-MA
+    - diginatu
+    - hokorobi
+    - mattn
+    - rbtnn
+    - ryotako
+    - ryunix
+    - thinca
+    - ujihisa
+    - y0za
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58023665671ea7ae6c465cce'

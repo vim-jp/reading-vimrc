@@ -1,12 +1,12 @@
 ---
-- id: 224
-  date: 2016-10-15 23:00
+- id: 225
+  date: 2016-10-22 23:00
   author:
-    name: ryotako
-    url: https://github.com/ryotako
+    name: b4b4r07
+    url: https://github.com/b4b4r07
   vimrcs:
-  - url: https://github.com/ryotako/dotfiles/blob/master/.vimrc
-    name: .vimrc
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/init.vim
+    name: init.vim
     hash: 
-  part: 
+  part: "前編"
   other: 
