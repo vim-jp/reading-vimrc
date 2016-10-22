@@ -1,6 +1,6 @@
 ---
-- id: 225
-  date: 2016-10-22 23:00
+- id: 226
+  date: 2016-10-29 23:00
   author:
     name: b4b4r07
     url: https://github.com/b4b4r07
@@ -47,5 +47,5 @@
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/gui.vim
     name: gui.vim
     hash: 
-  part: "前編"
+  part: "中編"
   other: 
