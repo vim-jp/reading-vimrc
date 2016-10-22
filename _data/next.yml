@@ -5,8 +5,47 @@
     name: b4b4r07
     url: https://github.com/b4b4r07
   vimrcs:
-  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/init.vim
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/vimrc
+    name: vimrc
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/init.vim
     name: init.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/env.vim
+    name: env.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/plug.vim
+    name: plug.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/custom.vim
+    name: custom.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/dein.vim
+    name: dein.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/base.vim
+    name: base.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/func.vim
+    name: func.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/view.vim
+    name: view.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/map.vim
+    name: map.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/command.vim
+    name: command.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/utils.vim
+    name: utils.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/options.vim
+    name: options.vim
+    hash: 
+  - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/gui.vim
+    name: gui.vim
     hash: 
   part: "前編"
   other: 
