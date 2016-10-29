@@ -1,51 +1,51 @@
 ---
-- id: 226
-  date: 2016-10-29 23:00
+- id: 227
+  date: 2016-11-05 23:00
   author:
     name: b4b4r07
     url: https://github.com/b4b4r07
   vimrcs:
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/vimrc
     name: vimrc
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/init.vim
     name: init.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/env.vim
     name: env.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/plug.vim
     name: plug.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/custom.vim
     name: custom.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/dein.vim
     name: dein.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/base.vim
     name: base.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/func.vim
     name: func.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/view.vim
     name: view.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/map.vim
     name: map.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/command.vim
     name: command.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/utils.vim
     name: utils.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/options.vim
     name: options.vim
-    hash: 
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
   - url: https://github.com/b4b4r07/dotfiles/blob/master/.vim/scripts/gui.vim
     name: gui.vim
-    hash: 
-  part: "中編"
+    hash: 1498c703fc8668474dd0c9db97e7da0aec1659f7
+  part: "後編"
   other: 
