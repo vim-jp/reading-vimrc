@@ -5967,3 +5967,67 @@
     - yoshitia_twitter
     - youchan
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5814ab7b8ed1c0ff5c3fd5ab'
+- id: 227
+  date: '2016-11-05 23:00'
+  author:
+    name: b4b4r07
+    url: 'https://github.com/b4b4r07'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/vimrc'
+    - name: init.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/init.vim'
+    - name: env.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/env.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/env.vim'
+    - name: plug.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/plug.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/plug.vim'
+    - name: custom.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/custom.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/custom.vim'
+    - name: dein.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/dein.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/dein.vim'
+    - name: base.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/base.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/base.vim'
+    - name: func.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/func.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/func.vim'
+    - name: view.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/view.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/view.vim'
+    - name: map.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/map.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/map.vim'
+    - name: command.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/command.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/command.vim'
+    - name: utils.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/utils.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/utils.vim'
+    - name: options.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/options.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/options.vim'
+    - name: gui.vim
+      url: 'https://github.com/b4b4r07/dotfiles/blob/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/gui.vim'
+      raw_url: 'https://raw.githubusercontent.com/b4b4r07/dotfiles/1498c703fc8668474dd0c9db97e7da0aec1659f7/.vim/scripts/gui.vim'
+  part: 後編
+  other: null
+  members:
+    - MaxMEllon
+    - U-MA
+    - b4b4r07
+    - deris
+    - diginatu
+    - haya14busa
+    - rbtnn
+    - ryotako
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=581de5e8c2f2cf7275d2cf67'
