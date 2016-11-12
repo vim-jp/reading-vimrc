@@ -7,219 +7,219 @@
   vimrcs:
   - url: https://github.com/MaxMEllon/.vim/blob/master/.vimrc
     name: .vimrc
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/autoload/maxmellon.vim
     name: maxmellon.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/autoload/maxmellon/cdgitroot.vim
     name: cdgitroot.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/autoload/maxmellon/dirvish.vim
     name: dirvish.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/autoload/maxmellon/fzf.vim
     name: fzf.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/autoload/maxmellon/fzy.vim
     name: fzy.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/autoload/maxmellon/hier.vim
     name: hier.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/autoload/maxmellon/toggle.vim
     name: toggle.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/ftplugin/cpp.vim
     name: cpp.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/ftplugin/dirvish.vim
     name: dirvish.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/ftplugin/go.vim
     name: go.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/ftplugin/javascript.vim
     name: javascript.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/ftplugin/qf.vim
     name: qf.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/ftplugin/ruby.vim
     name: ruby.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/plugin/common-settings.vim
     name: common-settings.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/abbrev.vim
     name: abbrev.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/command.vim
     name: command.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/cui.vim
     name: cui.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/encode.vim
     name: encode.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/env.vim
     name: env.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/event.vim
     name: event.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/filetype.vim
     name: filetype.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/gui.vim
     name: gui.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/indent.vim
     name: indent.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/mapping.vim
     name: mapping.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/menu.vim
     name: menu.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/neo.vim
     name: neo.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/opt.vim
     name: opt.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plug.vim
     name: plug.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/statusline.vim
     name: statusline.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/ifplug/css.vim
     name: css.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/ifplug/cui.vim
     name: cui.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/ifplug/gui.vim
     name: gui.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/ifplug/javascript.vim
     name: javascript.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/ifplug/neo.vim
     name: neo.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/ifplug/win.vim
     name: win.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/YouCompleteMe.vim
     name: YouCompleteMe.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/caw.vim
     name: caw.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/completor.vim
     name: completor.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/deoplete-clang.vim
     name: deoplete-clang.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/emmet-vim.vim
     name: emmet-vim.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/foldCC.vim
     name: foldCC.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/fzf.vim
     name: fzf.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/incsearch.vim
     name: incsearch.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/indentLine.vim
     name: indentLine.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/lexima.vim
     name: lexima.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/lightline.vim
     name: lightline.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/neomake.vim
     name: neomake.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/splitjoin.vim
     name: splitjoin.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/surround.vim
     name: surround.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/switch.vim
     name: switch.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/undotree.vim
     name: undotree.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/unite-rails-fat.vim
     name: unite-rails-fat.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/unite-rails.vim
     name: unite-rails.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/unite.vim
     name: unite.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-anzu.vim
     name: vim-anzu.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-dirvish.vim
     name: vim-dirvish.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-easy-align.vim
     name: vim-easy-align.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-easymotion.vim
     name: vim-easymotion.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-hier.vim
     name: vim-hier.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-jsx-pretty.vim
     name: vim-jsx-pretty.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-jsx-utils.vim
     name: vim-jsx-utils.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-niceblock.vim
     name: vim-niceblock.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-operator-flashy.vim
     name: vim-operator-flashy.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-over.vim
     name: vim-over.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-quickrun.vim
     name: vim-quickrun.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-signature.vim
     name: vim-signature.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-signify.vim
     name: vim-signify.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-singleton.vim
     name: vim-singleton.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-startify.vim
     name: vim-startify.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/vim-watchdogs.vim
     name: vim-watchdogs.vim
-    hash: 
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
   - url: https://github.com/MaxMEllon/.vim/blob/master/rc/plugrc/yankround.vim
     name: yankround.vim
-    hash: 
-  part: "前編"
+    hash: f370498f74ec84c14cd3671b43d7be6572abbccd
+  part: "後編"
   other: 
