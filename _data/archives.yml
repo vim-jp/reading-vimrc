@@ -6264,3 +6264,234 @@
     - thinca
     - ttk_vim_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5827206d65485ebc6787161e'
+- id: 229
+  date: '2016-11-19 23:00'
+  author:
+    name: MaxMEllon
+    url: 'https://github.com/MaxMEllon'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/.vimrc'
+    - name: maxmellon.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon.vim'
+    - name: cdgitroot.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/cdgitroot.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/cdgitroot.vim'
+    - name: dirvish.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/dirvish.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/dirvish.vim'
+    - name: fzf.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/fzf.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/fzf.vim'
+    - name: fzy.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/fzy.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/fzy.vim'
+    - name: hier.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/hier.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/hier.vim'
+    - name: toggle.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/toggle.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/autoload/maxmellon/toggle.vim'
+    - name: cpp.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/cpp.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/cpp.vim'
+    - name: dirvish.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/dirvish.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/dirvish.vim'
+    - name: go.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/go.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/go.vim'
+    - name: javascript.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/javascript.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/javascript.vim'
+    - name: qf.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/qf.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/qf.vim'
+    - name: ruby.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/ruby.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/ftplugin/ruby.vim'
+    - name: common-settings.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/plugin/common-settings.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/plugin/common-settings.vim'
+    - name: abbrev.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/abbrev.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/abbrev.vim'
+    - name: command.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/command.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/command.vim'
+    - name: cui.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/cui.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/cui.vim'
+    - name: encode.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/encode.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/encode.vim'
+    - name: env.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/env.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/env.vim'
+    - name: event.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/event.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/event.vim'
+    - name: filetype.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/filetype.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/filetype.vim'
+    - name: gui.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/gui.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/gui.vim'
+    - name: indent.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/indent.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/indent.vim'
+    - name: mapping.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/mapping.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/mapping.vim'
+    - name: menu.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/menu.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/menu.vim'
+    - name: neo.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/neo.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/neo.vim'
+    - name: opt.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/opt.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/opt.vim'
+    - name: plug.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plug.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plug.vim'
+    - name: statusline.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/statusline.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/statusline.vim'
+    - name: css.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/css.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/css.vim'
+    - name: cui.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/cui.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/cui.vim'
+    - name: gui.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/gui.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/gui.vim'
+    - name: javascript.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/javascript.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/javascript.vim'
+    - name: neo.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/neo.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/neo.vim'
+    - name: win.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/win.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/ifplug/win.vim'
+    - name: YouCompleteMe.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/YouCompleteMe.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/YouCompleteMe.vim'
+    - name: caw.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/caw.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/caw.vim'
+    - name: completor.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/completor.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/completor.vim'
+    - name: deoplete-clang.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/deoplete-clang.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/deoplete-clang.vim'
+    - name: emmet-vim.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/emmet-vim.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/emmet-vim.vim'
+    - name: foldCC.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/foldCC.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/foldCC.vim'
+    - name: fzf.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/fzf.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/fzf.vim'
+    - name: incsearch.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/incsearch.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/incsearch.vim'
+    - name: indentLine.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/indentLine.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/indentLine.vim'
+    - name: lexima.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/lexima.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/lexima.vim'
+    - name: lightline.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/lightline.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/lightline.vim'
+    - name: neomake.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/neomake.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/neomake.vim'
+    - name: splitjoin.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/splitjoin.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/splitjoin.vim'
+    - name: surround.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/surround.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/surround.vim'
+    - name: switch.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/switch.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/switch.vim'
+    - name: undotree.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/undotree.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/undotree.vim'
+    - name: unite-rails-fat.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/unite-rails-fat.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/unite-rails-fat.vim'
+    - name: unite-rails.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/unite-rails.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/unite-rails.vim'
+    - name: unite.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/unite.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/unite.vim'
+    - name: vim-anzu.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-anzu.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-anzu.vim'
+    - name: vim-dirvish.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-dirvish.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-dirvish.vim'
+    - name: vim-easy-align.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-easy-align.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-easy-align.vim'
+    - name: vim-easymotion.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-easymotion.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-easymotion.vim'
+    - name: vim-hier.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-hier.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-hier.vim'
+    - name: vim-jsx-pretty.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-jsx-pretty.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-jsx-pretty.vim'
+    - name: vim-jsx-utils.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-jsx-utils.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-jsx-utils.vim'
+    - name: vim-niceblock.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-niceblock.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-niceblock.vim'
+    - name: vim-operator-flashy.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-operator-flashy.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-operator-flashy.vim'
+    - name: vim-over.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-over.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-over.vim'
+    - name: vim-quickrun.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-quickrun.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-quickrun.vim'
+    - name: vim-signature.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-signature.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-signature.vim'
+    - name: vim-signify.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-signify.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-signify.vim'
+    - name: vim-singleton.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-singleton.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-singleton.vim'
+    - name: vim-startify.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-startify.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-startify.vim'
+    - name: vim-watchdogs.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-watchdogs.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/vim-watchdogs.vim'
+    - name: yankround.vim
+      url: 'https://github.com/MaxMEllon/.vim/blob/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/yankround.vim'
+      raw_url: 'https://raw.githubusercontent.com/MaxMEllon/.vim/f370498f74ec84c14cd3671b43d7be6572abbccd/rc/plugrc/yankround.vim'
+  part: 後編
+  other: null
+  members:
+    - MaxMEllon
+    - b4b4r07
+    - haya14busa
+    - ryunix
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58305ae5297a180b4f134be3'
