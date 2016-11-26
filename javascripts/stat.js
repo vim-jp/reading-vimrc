@@ -279,6 +279,8 @@
         var tooltip = d3.select('body').append('div')
                         .attr('class', 'js-stat-tooltip');
 
+        var STREAK_ROW = 10
+
         var rect_style = {
             w: 15,
             h: 15,
@@ -286,11 +288,11 @@
             marting_top: 30
         };
         rect_style.get_x = function(d, i) {
-            var col = Math.ceil((i + 1) / 5);
+            var col = Math.ceil((i + 1) / STREAK_ROW);
             return margin.left + (rect_style.p + rect_style.w) * col;
         };
         rect_style.get_y = function(d, i) {
-            var row = 1 + ((i) % 5);
+            var row = 1 + ((i) % STREAK_ROW);
             return margin.top + (rect_style.p + rect_style.h) * row;
         };
         rect_style.get_color = function(archive, i) {
@@ -300,10 +302,10 @@
 
         var margin = {top: 30, right: 50, bottom: 20, left: 30},
             // width = 640 - margin.left - margin.right,
-            width = ( Math.ceil(data.length / 5) *
+            width = ( Math.ceil(data.length / STREAK_ROW) *
                       (rect_style.w + rect_style.p)
                     ) + 150 - margin.left - margin.right,
-            height = 200 - margin.top - margin.bottom;
+            height = 300 - margin.top - margin.bottom;
 
         var x = d3.scale.linear()
                   .range([0, width]).nice();
