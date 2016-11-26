@@ -6495,3 +6495,25 @@
     - ryunix
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58305ae5297a180b4f134be3'
+- id: 230
+  date: '2016-11-26 23:00'
+  author:
+    name: rnitame
+    url: 'https://github.com/rnitame'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/rnitame/dotfiles/blob/cbafa077c22da0644ea1eeb8a9fa70c841341ba4/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/rnitame/dotfiles/cbafa077c22da0644ea1eeb8a9fa70c841341ba4/vim/vimrc'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - hujo
+    - raiden325
+    - rbtnn
+    - ryotako
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58399566444b3778765b4494'

@@ -1,12 +1,15 @@
 ---
-- id: 230
-  date: 2016-11-26 23:00
+- id: 231
+  date: 2016-12-03 23:00
   author:
-    name: rnitame
-    url: https://github.com/rnitame
+    name: raiden325
+    url: https://github.com/raiden325
   vimrcs:
-  - url: https://github.com/rnitame/dotfiles/blob/master/vim/vimrc
+  - url: https://github.com/raiden325/vimrc/blob/master/vimrc
     name: vimrc
+    hash: 
+  - url: https://github.com/raiden325/vimrc/blob/master/dein.toml
+    name: dein.toml
     hash: 
   part: 
   other: 
