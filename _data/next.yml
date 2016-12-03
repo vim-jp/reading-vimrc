@@ -1,15 +1,12 @@
 ---
-- id: 231
-  date: 2016-12-03 23:00
+- id: 232
+  date: 2016-12-10 23:00
   author:
-    name: raiden325
-    url: https://github.com/raiden325
+    name: llh911001
+    url: https://github.com/llh911001
   vimrcs:
-  - url: https://github.com/raiden325/vimrc/blob/master/vimrc
-    name: vimrc
-    hash: 
-  - url: https://github.com/raiden325/vimrc/blob/master/dein.toml
-    name: dein.toml
+  - url: https://github.com/llh911001/vimrc/blob/master/.vimrc
+    name: ".vimrc"
     hash: 
   part: 
   other: 

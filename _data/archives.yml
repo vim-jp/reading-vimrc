@@ -6517,3 +6517,31 @@
     - ttk_vim_twitter
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58399566444b3778765b4494'
+- id: 231
+  date: '2016-12-03 23:00'
+  author:
+    name: raiden325
+    url: 'https://github.com/raiden325'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/raiden325/vimrc/blob/852c5d25d7e05b416b1bafe411705ba7c0c28612/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/raiden325/vimrc/852c5d25d7e05b416b1bafe411705ba7c0c28612/vimrc'
+    - name: dein.toml
+      url: 'https://github.com/raiden325/vimrc/blob/852c5d25d7e05b416b1bafe411705ba7c0c28612/dein.toml'
+      raw_url: 'https://raw.githubusercontent.com/raiden325/vimrc/852c5d25d7e05b416b1bafe411705ba7c0c28612/dein.toml'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - agatan__twitter
+    - anekos
+    - diginatu
+    - haya14busa
+    - raiden325
+    - ryotako
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5842cfdfb4ffd59e38dd4a7b'
