@@ -6545,3 +6545,24 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5842cfdfb4ffd59e38dd4a7b'
+- id: 232
+  date: '2016-12-10 23:00'
+  author:
+    name: llh911001
+    url: 'https://github.com/llh911001'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/llh911001/vimrc/blob/3f012e789f68ddd8fae8258e2066724d50c6aa04/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/llh911001/vimrc/3f012e789f68ddd8fae8258e2066724d50c6aa04/.vimrc'
+  part: null
+  other: null
+  members:
+    - anekos
+    - clariissa
+    - mattn
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - wtsnjp
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=584c0adac29531ac5d464342'
