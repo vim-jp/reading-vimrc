@@ -6566,3 +6566,29 @@
     - wtsnjp
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=584c0adac29531ac5d464342'
+- id: 233
+  date: '2016-12-17 23:00'
+  author:
+    name: wtsnjp
+    url: 'https://github.com/wtsnjp'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/wtsnjp/dotfiles/blob/6eb7ab913e4810cb716b7e9d4f4290a707a76d7f/home/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/wtsnjp/dotfiles/6eb7ab913e4810cb716b7e9d4f4290a707a76d7f/home/.vimrc'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - anekos
+    - haya14busa
+    - hokorobi
+    - hujo
+    - ryotako
+    - ryunix
+    - thinca
+    - to_hutohu_twitter
+    - ttk_vim_twitter
+    - ujihisa
+    - wtsnjp
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=585544e1af6b364a29c41e55'
