@@ -1,12 +1,9 @@
 ---
-- id: 234
-  date: 2016-12-24 23:00
+- id: 235
+  date: 2016-12-31 22:00
   author:
-    name: kan
-    url: https://github.com/kan
-  vimrcs:
-  - url: https://github.com/kan/dotfiles/blob/master/vim/.vimrc
-    name: ".vimrc"
-    hash: 
+    name: thinca
+    url: https://github.com/thinca
+  vimrcs: []
   part: 
   other: 

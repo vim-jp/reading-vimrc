@@ -6592,3 +6592,24 @@
     - wtsnjp
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=585544e1af6b364a29c41e55'
+- id: 234
+  date: '2016-12-24 23:00'
+  author:
+    name: kan
+    url: 'https://github.com/kan'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/kan/dotfiles/blob/27f55489c1890dc879f0b219f384dccabe8d9ca7/vim/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/kan/dotfiles/27f55489c1890dc879f0b219f384dccabe8d9ca7/vim/.vimrc'
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - anekos
+    - mattn
+    - raiden325
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=585e7f68c895451b7517807b'
