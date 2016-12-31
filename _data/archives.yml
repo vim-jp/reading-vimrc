@@ -6613,3 +6613,28 @@
     - ttk_vim_twitter
     - yoshitia_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=585e7f68c895451b7517807b'
+- id: 235
+  date: '2016-12-31 22:00'
+  author:
+    name: thinca
+    url: 'https://github.com/thinca'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/thinca/config/blob/21a7d5f25bfa7d6c015870808a55a65183d01485/dotfiles/dot.vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/thinca/config/21a7d5f25bfa7d6c015870808a55a65183d01485/dotfiles/dot.vim/vimrc'
+    - name: dein.vim
+      url: 'https://github.com/thinca/config/blob/21a7d5f25bfa7d6c015870808a55a65183d01485/dotfiles/dot.vim/dein.vim'
+      raw_url: 'https://raw.githubusercontent.com/thinca/config/21a7d5f25bfa7d6c015870808a55a65183d01485/dotfiles/dot.vim/dein.vim'
+  part: null
+  other: null
+  members:
+    - Jagua
+    - MaxMEllon
+    - anekos
+    - diginatu
+    - ryotako
+    - ryunix
+    - thinca
+    - todashuta
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5867abcf7a3f79ef5dbeb110'
