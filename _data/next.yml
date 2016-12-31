@@ -4,6 +4,12 @@
   author:
     name: thinca
     url: https://github.com/thinca
-  vimrcs: []
+  vimrcs:
+    - url: https://github.com/thinca/config/blob/master/dotfiles/dot.vim/vimrc
+      name: "vimrc"
+      hash:
+    - url: https://github.com/thinca/config/blob/master/dotfiles/dot.vim/dein.vim
+      name: "dein.vim"
+      hash:
   part: 
   other: 
