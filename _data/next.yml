@@ -5,50 +5,8 @@
     name: anekos
     url: https://github.com/anekos
   vimrcs:
-  - url: https://github.com/anekos/my-config/blob/master/.vimrc
-    name: ".vimrc"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/env.vim
-    name: "env.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/plug.vim
-    name: "plug.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/utils.vim
-    name: "utils.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/set.vim
-    name: "set.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/map.vim
-    name: "map.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/command.vim
-    name: "command.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/autocmd.vim
-    name: "autocmd.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/term.vim
-    name: "term.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/let.vim
-    name: "let.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/plugin/lightline.vim
-    name: "lightline.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/plugin/unite.vim
-    name: "unite.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/plugin/quickrun.vim
-    name: "quickrun.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/gui.vim
-    name: "gui.vim"
-    hash: 
-  - url: https://github.com/anekos/my-config/blob/master/.vim/part/last.vim
-    name: "last.vim"
+  - url: https://github.com/anekos/my-config/blob/master/.vim/cat.vim
+    name: "cat.vim"
     hash: 
   part: 前編
   other: 
