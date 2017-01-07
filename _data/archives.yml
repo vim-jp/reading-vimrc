@@ -6638,3 +6638,26 @@
     - todashuta
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5867abcf7a3f79ef5dbeb110'
+- id: 236
+  date: '2017-01-07 23:00'
+  author:
+    name: anekos
+    url: 'https://github.com/anekos'
+  vimrcs:
+    - name: cat.vim
+      url: 'https://github.com/anekos/my-config/blob/cf7e64c4c384ee4ae341907ded4e1a3b1fd9baa3/.vim/cat.vim'
+      raw_url: 'https://raw.githubusercontent.com/anekos/my-config/cf7e64c4c384ee4ae341907ded4e1a3b1fd9baa3/.vim/cat.vim'
+  part: 前編
+  other: null
+  members:
+    - anekos
+    - haya14busa
+    - hujo
+    - k-takata
+    - raiden325
+    - ryunix
+    - thinca
+    - to_hutohu_twitter
+    - y0za
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5870f46aaf6b364a293f923d'
