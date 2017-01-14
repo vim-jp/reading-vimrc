@@ -6661,3 +6661,26 @@
     - y0za
     - yoshitia_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5870f46aaf6b364a293f923d'
+- id: 237
+  date: '2017-01-14 23:00'
+  author:
+    name: anekos
+    url: 'https://github.com/anekos'
+  vimrcs:
+    - name: cat.vim
+      url: 'https://github.com/anekos/my-config/blob/cf7e64c4c384ee4ae341907ded4e1a3b1fd9baa3/.vim/cat.vim'
+      raw_url: 'https://raw.githubusercontent.com/anekos/my-config/cf7e64c4c384ee4ae341907ded4e1a3b1fd9baa3/.vim/cat.vim'
+  part: 中編
+  other: null
+  members:
+    - MaxMEllon
+    - anekos
+    - haya14busa
+    - mattn
+    - rbtnn
+    - ryunix
+    - scotch309
+    - thinca
+    - ttk_vim_twitter
+    - youchan
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=587a2ef0300f220a66e89613'
