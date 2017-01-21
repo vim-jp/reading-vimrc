@@ -1,12 +1,12 @@
 ---
-- id: 238
-  date: 2017-01-21 23:00
+- id: 239
+  date: 2017-01-28 23:00
   author:
-    name: anekos
-    url: https://github.com/anekos
+    name: suzuken
+    url: https://github.com/suzuken
   vimrcs:
-  - url: https://github.com/anekos/my-config/blob/master/.vim/cat.vim
-    name: "cat.vim"
-    hash: cf7e64c4c384ee4ae341907ded4e1a3b1fd9baa3
-  part: 後編
+  - url: https://github.com/suzuken/dotfiles/blob/master/vimrc
+    name: vimrc
+    hash: 
+  part: 
   other: 

@@ -6684,3 +6684,24 @@
     - ttk_vim_twitter
     - youchan
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=587a2ef0300f220a66e89613'
+- id: 238
+  date: '2017-01-21 23:00'
+  author:
+    name: anekos
+    url: 'https://github.com/anekos'
+  vimrcs:
+    - name: cat.vim
+      url: 'https://github.com/anekos/my-config/blob/cf7e64c4c384ee4ae341907ded4e1a3b1fd9baa3/.vim/cat.vim'
+      raw_url: 'https://raw.githubusercontent.com/anekos/my-config/cf7e64c4c384ee4ae341907ded4e1a3b1fd9baa3/.vim/cat.vim'
+  part: 後編
+  other: null
+  members:
+    - anekos
+    - hujo
+    - mattn
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58836973300f220a661650d7'
