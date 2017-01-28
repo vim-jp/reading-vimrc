@@ -6705,3 +6705,25 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58836973300f220a661650d7'
+- id: 239
+  date: '2017-01-28 23:00'
+  author:
+    name: suzuken
+    url: 'https://github.com/suzuken'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/suzuken/dotfiles/blob/4623b6d9de4f550c2f9f3edf944601e1c4b34cf0/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/suzuken/dotfiles/4623b6d9de4f550c2f9f3edf944601e1c4b34cf0/vimrc'
+  part: null
+  other: null
+  members:
+    - Jagua
+    - anekos
+    - k-takata
+    - raiden325
+    - ryunix
+    - scotch309
+    - thinca
+    - tkhren
+    - ttk_vim_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=588ca3e62ff29dec0649135e'
