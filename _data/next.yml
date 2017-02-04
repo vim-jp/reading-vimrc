@@ -1,12 +1,12 @@
 ---
-- id: 240
-  date: 2017-02-04 23:00
+- id: 241
+  date: 2017-02-11 23:00
   author:
-    name: valerybugakov
-    url: https://github.com/valerybugakov
+    name: youchan
+    url: https://github.com/youchan
   vimrcs:
-  - url: https://github.com/valerybugakov/dotfiles/blob/master/dots/.vimrc
-    name: ".vimrc"
+  - url: https://github.com/youchan/dotfiles/blob/master/_vimrc
+    name: _vimrc
     hash: 
   part: 
   other: 

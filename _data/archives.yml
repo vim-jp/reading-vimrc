@@ -6727,3 +6727,22 @@
     - tkhren
     - ttk_vim_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=588ca3e62ff29dec0649135e'
+- id: 240
+  date: '2017-02-04 23:00'
+  author:
+    name: valerybugakov
+    url: 'https://github.com/valerybugakov'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/valerybugakov/dotfiles/blob/2a670812fc23a0b7803b9bdc42b80d354ac707d9/dots/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/valerybugakov/dotfiles/2a670812fc23a0b7803b9bdc42b80d354ac707d9/dots/.vimrc'
+      hash: 2a670812fc23a0b7803b9bdc42b80d354ac707d9
+  part: null
+  other: null
+  members:
+    - anekos
+    - ryunix
+    - scotch309
+    - thinca
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5895e8fbca6c6eb44945948d'
