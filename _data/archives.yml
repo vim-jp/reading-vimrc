@@ -6746,3 +6746,26 @@
     - thinca
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5895e8fbca6c6eb44945948d'
+- id: 241
+  date: '2017-02-11 23:00'
+  author:
+    name: youchan
+    url: 'https://github.com/youchan'
+  vimrcs:
+    - name: _vimrc
+      url: 'https://github.com/youchan/dotfiles/blob/335d43ccc340d671b9c870f6fefa24ec894263b5/_vimrc'
+      raw_url: 'https://raw.githubusercontent.com/youchan/dotfiles/335d43ccc340d671b9c870f6fefa24ec894263b5/_vimrc'
+      hash: 335d43ccc340d671b9c870f6fefa24ec894263b5
+  part: null
+  other: null
+  members:
+    - anekos
+    - lesguillemets
+    - raiden325
+    - ryunix
+    - scotch309
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=589f18df872fc8ce6220c8ea'

@@ -1,12 +1,12 @@
 ---
-- id: 241
-  date: 2017-02-11 23:00
+- id: 242
+  date: 2017-02-18 23:00
   author:
-    name: youchan
-    url: https://github.com/youchan
+    name: vgod
+    url: https://github.com/vgod
   vimrcs:
-  - url: https://github.com/youchan/dotfiles/blob/master/_vimrc
-    name: _vimrc
+  - url: https://github.com/vgod/vimrc/blob/master/vimrc
+    name: vimrc
     hash: 
   part: 
   other: 
