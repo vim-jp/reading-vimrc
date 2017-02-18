@@ -6769,3 +6769,22 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=589f18df872fc8ce6220c8ea'
+- id: 242
+  date: '2017-02-18 23:00'
+  author:
+    name: vgod
+    url: 'https://github.com/vgod'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/vgod/vimrc/blob/8a098c2aadca0b22657064461e15596db8fcb08e/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/vgod/vimrc/8a098c2aadca0b22657064461e15596db8fcb08e/vimrc'
+      hash: 8a098c2aadca0b22657064461e15596db8fcb08e
+  part: null
+  other: null
+  members:
+    - anekos
+    - ryunix
+    - thinca
+    - wtsnjp
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58a853a1aa800ee52cb10267'

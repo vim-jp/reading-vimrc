@@ -1,12 +1,11 @@
----
-- id: 242
-  date: 2017-02-18 23:00
+- id: 243
+  date: '2017-02-25 23:00'
   author:
-    name: vgod
-    url: https://github.com/vgod
+    name: fakiyer
+    url: 'https://github.com/fakiyer'
   vimrcs:
-  - url: https://github.com/vgod/vimrc/blob/master/vimrc
-    name: vimrc
-    hash: 
-  part: 
-  other: 
+    - url: 'https://github.com/fakiyer/dotfiles/blob/master/.vimrc'
+      name: .vimrc
+      hash: null
+  part: null
+  other: null
