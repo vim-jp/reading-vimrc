@@ -53,9 +53,6 @@ title: vimrc読書会
 - 場所: オンラインのチャットルーム [Gitter (vim-jp/reading-vimrc)](https://gitter.im/vim-jp/reading-vimrc)
 
 
-場所について、第200回までは [Lingr の Vim 部屋](http://lingr.com/room/vim)を使っていました。第201回から、試験的に Gitter で開催します。
-何か問題があれば Lingr に戻る可能性もありますが、基本的には Gitter へ移行する予定です。
-
 発言するには GitHub か Twitter のアカウントを取得し、Gitter へログインする必要があります。ログが読みたいだけなら、その必要はありません(各過去の開催ページにログへのリンクがあります)。
 終了時間は特に決まっていませんが、毎回だいたい1時間くらいです。ただし、後述の通り途中参加/途中離脱OKです。
 
