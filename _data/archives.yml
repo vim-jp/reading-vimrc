@@ -6788,3 +6788,24 @@
     - wtsnjp
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58a853a1aa800ee52cb10267'
+- id: 243
+  date: '2017-02-25 23:00'
+  author:
+    name: fakiyer
+    url: 'https://github.com/fakiyer'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/fakiyer/dotfiles/blob/578927ad73091ffb1d32db47948d8306f8825f6d/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/fakiyer/dotfiles/578927ad73091ffb1d32db47948d8306f8825f6d/.vimrc'
+      hash: 578927ad73091ffb1d32db47948d8306f8825f6d
+  part: null
+  other: null
+  members:
+    - rbtnn
+    - ryunix
+    - scotch309
+    - thinca
+    - ttk_vim_twitter
+    - wtsnjp
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58b18dece961e53c7f66e8a5'
