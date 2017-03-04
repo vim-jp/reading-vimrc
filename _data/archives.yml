@@ -6809,3 +6809,24 @@
     - wtsnjp
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58b18dece961e53c7f66e8a5'
+- id: 244
+  date: '2017-3-4 23:00'
+  author:
+    name: kosukeKK
+    url: 'https://github.com/kosukeKK'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/kosukeKK/dotfiles/blob/6d23fdf4543f2b03fc0be9136192f2c94ffdc59e/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/kosukeKK/dotfiles/6d23fdf4543f2b03fc0be9136192f2c94ffdc59e/.vimrc'
+      hash: 6d23fdf4543f2b03fc0be9136192f2c94ffdc59e
+  part: null
+  other: null
+  members:
+    - anekos
+    - kashewnuts
+    - rbtnn
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58bac863f1a33b62757c1bb2'
