@@ -6830,3 +6830,26 @@
     - ttk_vim_twitter
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58bac863f1a33b62757c1bb2'
+- id: 245
+  date: '2017-3-11 23:00'
+  author:
+    name: sheerun
+    url: 'https://github.com/sheerun'
+  vimrcs:
+    - name: vimrc.vim
+      url: 'https://github.com/sheerun/vimrc/blob/ea17218a180a1a76d7458308d4f9572311acd1e4/plugin/vimrc.vim'
+      raw_url: 'https://raw.githubusercontent.com/sheerun/vimrc/ea17218a180a1a76d7458308d4f9572311acd1e4/plugin/vimrc.vim'
+      hash: ea17218a180a1a76d7458308d4f9572311acd1e4
+  part: null
+  other: null
+  members:
+    - hokorobi
+    - raiden325
+    - rbtnn
+    - ryunix
+    - scotch309
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58c402ee21d548df2cc1622e'
