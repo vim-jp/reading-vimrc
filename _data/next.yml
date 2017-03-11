@@ -1,11 +1,11 @@
-- id: 245
-  date: '2017-3-11 23:00'
+- id: 246
+  date: '2017-3-18 23:00'
   author:
-    name: sheerun
-    url: 'https://github.com/sheerun'
+    name: monnand
+    url: 'https://github.com/monnand'
   vimrcs:
-    - url: 'https://github.com/sheerun/vimrc/blob/master/plugin/vimrc.vim'
-      name: vimrc.vim
+    - url: 'https://github.com/monnand/vimrc/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
