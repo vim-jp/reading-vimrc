@@ -6853,3 +6853,26 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58c402ee21d548df2cc1622e'
+- id: 246
+  date: '2017-3-18 23:00'
+  author:
+    name: monnand
+    url: 'https://github.com/monnand'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/monnand/vimrc/blob/ac7ed1c4cef679002799e8649a8028294818ec05/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/monnand/vimrc/ac7ed1c4cef679002799e8649a8028294818ec05/.vimrc'
+      hash: ac7ed1c4cef679002799e8649a8028294818ec05
+  part: null
+  other: null
+  members:
+    - anekos
+    - bamchoh
+    - kashewnuts
+    - ryunix
+    - scotch309
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58cd3d7305a31d5a4a6f5f73'
