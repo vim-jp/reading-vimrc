@@ -6876,3 +6876,24 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58cd3d7305a31d5a4a6f5f73'
+- id: 247
+  date: '2017-3-25 23:00'
+  author:
+    name: csouls
+    url: 'https://github.com/csouls'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/csouls/dotfiles/blob/632781ebc116a74e0c785ffacc25202d6f575da2/homedot/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/csouls/dotfiles/632781ebc116a74e0c785ffacc25202d6f575da2/homedot/vimrc'
+      hash: 632781ebc116a74e0c785ffacc25202d6f575da2
+  part: null
+  other: null
+  members:
+    - anekos
+    - deris
+    - raiden325
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58d677e3b52518ed4da6f091'
