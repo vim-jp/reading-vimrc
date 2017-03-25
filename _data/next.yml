@@ -1,11 +1,14 @@
-- id: 247
-  date: '2017-3-25 23:00'
+- id: 248
+  date: '2017-4-1 23:00'
   author:
-    name: csouls
-    url: 'https://github.com/csouls'
+    name: ayapi
+    url: 'https://github.com/ayapi'
   vimrcs:
-    - url: 'https://github.com/csouls/dotfiles/blob/master/homedot/vimrc'
-      name: vimrc
+    - url: 'https://github.com/ayapi/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
-  part: null
+    - url: 'https://github.com/ayapi/dotfiles/blob/master/.gvimrc'
+      name: .gvimrc
+      hash: null
+  part: 前編
   other: null
