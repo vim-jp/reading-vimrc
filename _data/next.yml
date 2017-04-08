@@ -1,14 +1,11 @@
-- id: 249
-  date: '2017-4-8 23:00'
+- id: 250
+  date: '2017-4-15 23:00'
   author:
-    name: ayapi
-    url: 'https://github.com/ayapi'
+    name: tpope
+    url: 'https://github.com/tpope'
   vimrcs:
-    - url: 'https://github.com/ayapi/dotfiles/blob/master/.vimrc'
+    - url: 'https://github.com/tpope/tpope/blob/master/.vimrc'
       name: .vimrc
-      hash: 4d7c187b7d62f43d7ed4458927bc0f59a5cded61
-    - url: 'https://github.com/ayapi/dotfiles/blob/master/.gvimrc'
-      name: .gvimrc
-      hash: 4d7c187b7d62f43d7ed4458927bc0f59a5cded61
-  part: 後編
+      hash: null
+  part: null
   other: null
