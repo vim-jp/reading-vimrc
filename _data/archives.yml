@@ -6922,3 +6922,30 @@
     - ttk_vim_twitter
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58dfb2658e4b63533d86b3ab'
+- id: 249
+  date: '2017-4-8 23:00'
+  author:
+    name: ayapi
+    url: 'https://github.com/ayapi'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/ayapi/dotfiles/blob/4d7c187b7d62f43d7ed4458927bc0f59a5cded61/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ayapi/dotfiles/4d7c187b7d62f43d7ed4458927bc0f59a5cded61/.vimrc'
+      hash: 4d7c187b7d62f43d7ed4458927bc0f59a5cded61
+    - name: .gvimrc
+      url: 'https://github.com/ayapi/dotfiles/blob/4d7c187b7d62f43d7ed4458927bc0f59a5cded61/.gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/ayapi/dotfiles/4d7c187b7d62f43d7ed4458927bc0f59a5cded61/.gvimrc'
+      hash: 4d7c187b7d62f43d7ed4458927bc0f59a5cded61
+  part: 後編
+  other: null
+  members:
+    - anekos
+    - deris
+    - kashewnuts
+    - raiden325
+    - rbtnn
+    - rozeroze
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58e8ece37ea420cc424e3206'
