@@ -6949,3 +6949,27 @@
     - thinca
     - ttk_vim_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58e8ece37ea420cc424e3206'
+- id: 250
+  date: '2017-4-15 23:00'
+  author:
+    name: tpope
+    url: 'https://github.com/tpope'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/tpope/tpope/blob/200cedd7a692b2a5da32eeb732796d7ddf1b24ed/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/tpope/tpope/200cedd7a692b2a5da32eeb732796d7ddf1b24ed/.vimrc'
+      hash: 200cedd7a692b2a5da32eeb732796d7ddf1b24ed
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - anekos
+    - diginatu
+    - haya14busa
+    - rbtnn
+    - rozeroze
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58f2276608c00c092a82a0bb'
