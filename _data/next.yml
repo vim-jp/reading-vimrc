@@ -1,11 +1,22 @@
-- id: 251
-  date: '2017-4-22 23:00'
+- id: 252
+  date: '2017-4-29 23:00'
   author:
-    name: dbarnett
-    url: 'https://github.com/dbarnett'
+    name: nelstrom
+    url: 'https://github.com/nelstrom'
   vimrcs:
-    - url: 'https://github.com/dbarnett/dotfiles/blob/master/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/nelstrom/dotfiles/blob/master/vimrc'
+      name: vimrc
+      hash: null
+    - url: 'https://github.com/nelstrom/dotfiles/blob/master/gvimrc'
+      name: gvimrc
+      hash: null
+    - url: >-
+        https://github.com/nelstrom/dotfiles/blob/master/vim/after/plugin/denite.vim
+      name: denite.vim
+      hash: null
+    - url: >-
+        https://github.com/nelstrom/dotfiles/blob/master/vim/after/plugin/tabular_extra.vim
+      name: tabular_extra.vim
       hash: null
   part: null
   other: null
