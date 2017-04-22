@@ -7,6 +7,9 @@
     - url: 'https://github.com/nelstrom/dotfiles/blob/master/vimrc'
       name: vimrc
       hash: null
+    - url: 'https://github.com/nelstrom/dotfiles/blob/master/packages.vim'
+      name: packages.vim
+      hash: null
     - url: 'https://github.com/nelstrom/dotfiles/blob/master/gvimrc'
       name: gvimrc
       hash: null
