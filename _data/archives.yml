@@ -6973,3 +6973,23 @@
     - ttk_vim_twitter
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58f2276608c00c092a82a0bb'
+- id: 251
+  date: '2017-4-22 23:00'
+  author:
+    name: dbarnett
+    url: 'https://github.com/dbarnett'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/dbarnett/dotfiles/blob/2627fc02cfe0111433d464317a8f648a133cc4fc/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/dbarnett/dotfiles/2627fc02cfe0111433d464317a8f648a133cc4fc/.vimrc'
+      hash: 2627fc02cfe0111433d464317a8f648a133cc4fc
+  part: null
+  other: null
+  members:
+    - k-takata
+    - rozeroze
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=58fb61e33e27cac331b2b99d'
