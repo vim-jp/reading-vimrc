@@ -6993,3 +6993,38 @@
     - ttk_vim_twitter
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=58fb61e33e27cac331b2b99d'
+- id: 252
+  date: '2017-4-29 23:00'
+  author:
+    name: nelstrom
+    url: 'https://github.com/nelstrom'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/nelstrom/dotfiles/blob/e808c42ff535146e72817d8c4e8515c69494b6a2/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/nelstrom/dotfiles/e808c42ff535146e72817d8c4e8515c69494b6a2/vimrc'
+      hash: e808c42ff535146e72817d8c4e8515c69494b6a2
+    - name: packages.vim
+      url: 'https://github.com/nelstrom/dotfiles/blob/e808c42ff535146e72817d8c4e8515c69494b6a2/packages.vim'
+      raw_url: 'https://raw.githubusercontent.com/nelstrom/dotfiles/e808c42ff535146e72817d8c4e8515c69494b6a2/packages.vim'
+      hash: e808c42ff535146e72817d8c4e8515c69494b6a2
+    - name: gvimrc
+      url: 'https://github.com/nelstrom/dotfiles/blob/e808c42ff535146e72817d8c4e8515c69494b6a2/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/nelstrom/dotfiles/e808c42ff535146e72817d8c4e8515c69494b6a2/gvimrc'
+      hash: e808c42ff535146e72817d8c4e8515c69494b6a2
+    - name: denite.vim
+      url: 'https://github.com/nelstrom/dotfiles/blob/e808c42ff535146e72817d8c4e8515c69494b6a2/vim/after/plugin/denite.vim'
+      raw_url: 'https://raw.githubusercontent.com/nelstrom/dotfiles/e808c42ff535146e72817d8c4e8515c69494b6a2/vim/after/plugin/denite.vim'
+      hash: e808c42ff535146e72817d8c4e8515c69494b6a2
+    - name: tabular_extra.vim
+      url: 'https://github.com/nelstrom/dotfiles/blob/e808c42ff535146e72817d8c4e8515c69494b6a2/vim/after/plugin/tabular_extra.vim'
+      raw_url: 'https://raw.githubusercontent.com/nelstrom/dotfiles/e808c42ff535146e72817d8c4e8515c69494b6a2/vim/after/plugin/tabular_extra.vim'
+      hash: e808c42ff535146e72817d8c4e8515c69494b6a2
+  part: null
+  other: null
+  members:
+    - k-takata
+    - raiden325
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59049c6e8bb56c2d11f51bbc'
