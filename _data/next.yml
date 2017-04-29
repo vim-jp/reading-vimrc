@@ -1,25 +1,11 @@
-- id: 252
-  date: '2017-4-29 23:00'
+- id: 253
+  date: '2017-5-6 23:00'
   author:
-    name: nelstrom
-    url: 'https://github.com/nelstrom'
+    name: humiaozuzu
+    url: 'https://github.com/humiaozuzu'
   vimrcs:
-    - url: 'https://github.com/nelstrom/dotfiles/blob/master/vimrc'
+    - url: 'https://github.com/humiaozuzu/dot-vimrc/blob/master/vimrc'
       name: vimrc
-      hash: null
-    - url: 'https://github.com/nelstrom/dotfiles/blob/master/packages.vim'
-      name: packages.vim
-      hash: null
-    - url: 'https://github.com/nelstrom/dotfiles/blob/master/gvimrc'
-      name: gvimrc
-      hash: null
-    - url: >-
-        https://github.com/nelstrom/dotfiles/blob/master/vim/after/plugin/denite.vim
-      name: denite.vim
-      hash: null
-    - url: >-
-        https://github.com/nelstrom/dotfiles/blob/master/vim/after/plugin/tabular_extra.vim
-      name: tabular_extra.vim
       hash: null
   part: null
   other: null
