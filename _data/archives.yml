@@ -7028,3 +7028,23 @@
     - thinca
     - ttk_vim_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59049c6e8bb56c2d11f51bbc'
+- id: 253
+  date: '2017-5-6 23:00'
+  author:
+    name: humiaozuzu
+    url: 'https://github.com/humiaozuzu'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/humiaozuzu/dot-vimrc/blob/1d8dc6188c61c3c8eca4937d75172453784f6306/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/humiaozuzu/dot-vimrc/1d8dc6188c61c3c8eca4937d75172453784f6306/vimrc'
+      hash: 1d8dc6188c61c3c8eca4937d75172453784f6306
+  part: null
+  other: null
+  members:
+    - k-takata
+    - ptigwe
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=590dd6e033e9ee771c7d117b'
