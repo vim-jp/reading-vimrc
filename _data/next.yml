@@ -1,11 +1,11 @@
-- id: 254
-  date: '2017-5-13 23:00'
+- id: 255
+  date: '2017-5-20 23:00'
   author:
-    name: yogsototh
-    url: 'https://github.com/yogsototh'
+    name: kazu9su
+    url: 'https://github.com/kazu9su'
   vimrcs:
-    - url: 'https://github.com/yogsototh/vimrc/blob/master/vimrc'
-      name: vimrc
+    - url: 'https://github.com/kazu9su/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
