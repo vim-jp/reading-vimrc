@@ -7048,3 +7048,21 @@
     - ttk_vim_twitter
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=590dd6e033e9ee771c7d117b'
+- id: 254
+  date: '2017-5-13 23:00'
+  author:
+    name: yogsototh
+    url: 'https://github.com/yogsototh'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/yogsototh/vimrc/blob/9ef2734a0d1ddd26dbff79c134d401717a4b3e06/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/yogsototh/vimrc/9ef2734a0d1ddd26dbff79c134d401717a4b3e06/vimrc'
+      hash: 9ef2734a0d1ddd26dbff79c134d401717a4b3e06
+  part: null
+  other: null
+  members:
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=591711c8c4d73f445aa21751'
