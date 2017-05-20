@@ -7066,3 +7066,25 @@
     - ttk_vim_twitter
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=591711c8c4d73f445aa21751'
+- id: 255
+  date: '2017-5-20 23:00'
+  author:
+    name: kazu9su
+    url: 'https://github.com/kazu9su'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/kazu9su/dotfiles/blob/aff230b151533e1cd1cc9d60cf5ee418c5192abf/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/kazu9su/dotfiles/aff230b151533e1cd1cc9d60cf5ee418c5192abf/.vimrc'
+      hash: aff230b151533e1cd1cc9d60cf5ee418c5192abf
+  part: null
+  other: null
+  members:
+    - anekos
+    - mattn
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+    - wtsnjp
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59204be5c4d73f445ac731ab'
