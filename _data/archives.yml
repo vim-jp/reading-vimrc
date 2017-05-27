@@ -7088,3 +7088,29 @@
     - wtsnjp
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59204be5c4d73f445ac731ab'
+- id: 256
+  date: '2017-5-27 23:00'
+  author:
+    name: mrkn
+    url: 'https://github.com/mrkn'
+  vimrcs:
+    - name: dot.vimrc
+      url: 'https://github.com/mrkn/config/blob/e565ec8a8dc1ad641d1be8568b5956cf990a8f1c/vim/dot.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/mrkn/config/e565ec8a8dc1ad641d1be8568b5956cf990a8f1c/vim/dot.vimrc'
+      hash: e565ec8a8dc1ad641d1be8568b5956cf990a8f1c
+    - name: dot.gvimrc
+      url: 'https://github.com/mrkn/config/blob/e565ec8a8dc1ad641d1be8568b5956cf990a8f1c/vim/dot.gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/mrkn/config/e565ec8a8dc1ad641d1be8568b5956cf990a8f1c/vim/dot.gvimrc'
+      hash: e565ec8a8dc1ad641d1be8568b5956cf990a8f1c
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - mattn
+    - raa0121
+    - rbtnn
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59298662fcbbe1891c4e21a2'
