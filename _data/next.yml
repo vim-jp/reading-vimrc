@@ -1,14 +1,11 @@
-- id: 256
-  date: '2017-5-27 23:00'
+- id: 257
+  date: '2017-6-3 23:00'
   author:
-    name: mrkn
-    url: 'https://github.com/mrkn'
+    name: sabotenpillow
+    url: 'https://github.com/sabotenpillow'
   vimrcs:
-    - url: 'https://github.com/mrkn/config/blob/master/vim/dot.vimrc'
-      name: dot.vimrc
-      hash: null
-    - url: 'https://github.com/mrkn/config/blob/master/vim/dot.gvimrc'
-      name: dot.gvimrc
+    - url: 'https://github.com/sabotenpillow/.vim/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
