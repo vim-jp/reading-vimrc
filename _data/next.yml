@@ -1,11 +1,27 @@
-- id: 257
-  date: '2017-6-3 23:00'
+- id: 258
+  date: '2017-6-10 23:00'
   author:
-    name: sabotenpillow
-    url: 'https://github.com/sabotenpillow'
+    name: zelphir
+    url: 'https://github.com/zelphir'
   vimrcs:
-    - url: 'https://github.com/sabotenpillow/.vim/blob/master/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/zelphir/.dotfiles/blob/master/neovim/init.vim'
+      name: init.vim
+      hash: null
+    - url: 'https://github.com/zelphir/.dotfiles/blob/master/neovim/settings.vim'
+      name: settings.vim
+      hash: null
+    - url: 'https://github.com/zelphir/.dotfiles/blob/master/neovim/maps.vim'
+      name: maps.vim
+      hash: null
+    - url: 'https://github.com/zelphir/.dotfiles/blob/master/neovim/plugins.vim'
+      name: plugins.vim
+      hash: null
+    - url: >-
+        https://github.com/zelphir/.dotfiles/blob/master/neovim/plugins_settings.vim
+      name: plugins_settings.vim
+      hash: null
+    - url: 'https://github.com/zelphir/.dotfiles/blob/master/neovim/theme.vim'
+      name: theme.vim
       hash: null
   part: null
   other: null
