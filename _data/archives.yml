@@ -7114,3 +7114,25 @@
     - ttk_vim_twitter
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59298662fcbbe1891c4e21a2'
+- id: 257
+  date: '2017-6-3 23:00'
+  author:
+    name: sabotenpillow
+    url: 'https://github.com/sabotenpillow'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/sabotenpillow/.vim/blob/59afc1f76191be12b3079da62bb08b751b33337b/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/sabotenpillow/.vim/59afc1f76191be12b3079da62bb08b751b33337b/.vimrc'
+      hash: 59afc1f76191be12b3079da62bb08b751b33337b
+  part: null
+  other: null
+  members:
+    - deris
+    - diginatu
+    - raiden325
+    - rbtnn
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5932c0fff31c8ced0cfcbe03'
