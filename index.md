@@ -96,6 +96,7 @@ title: vimrc読書会
 - [rbtnn](https://github.com/rbtnn) (Twitter: [@rbtnn](https://twitter.com/rbtnn))
 - [haya14busa](https://github.com/haya14busa) (Twitter: [@haya14busa](https://twitter.com/haya14busa))
 - [ryunix](https://github.com/ryunix) (Twitter: [@ryunix](https://twitter.com/ryunix))
+- [Tatsuki](https://github.com/Tatsuki-I) (Twitter: [@ttk_vim](https://twitter.com/ttk_vim))
 
 運営者はいつでも募集中です。お気軽に声をかけてください！
 
