@@ -7136,3 +7136,43 @@
     - ttk_vim_twitter
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5932c0fff31c8ced0cfcbe03'
+- id: 258
+  date: '2017-6-10 23:00'
+  author:
+    name: zelphir
+    url: 'https://github.com/zelphir'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/zelphir/.dotfiles/blob/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/zelphir/.dotfiles/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/init.vim'
+      hash: 0307b5307ffd1c98099aa7ab94241b21f99a9a8e
+    - name: settings.vim
+      url: 'https://github.com/zelphir/.dotfiles/blob/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/settings.vim'
+      raw_url: 'https://raw.githubusercontent.com/zelphir/.dotfiles/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/settings.vim'
+      hash: 0307b5307ffd1c98099aa7ab94241b21f99a9a8e
+    - name: maps.vim
+      url: 'https://github.com/zelphir/.dotfiles/blob/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/maps.vim'
+      raw_url: 'https://raw.githubusercontent.com/zelphir/.dotfiles/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/maps.vim'
+      hash: 0307b5307ffd1c98099aa7ab94241b21f99a9a8e
+    - name: plugins.vim
+      url: 'https://github.com/zelphir/.dotfiles/blob/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/zelphir/.dotfiles/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/plugins.vim'
+      hash: 0307b5307ffd1c98099aa7ab94241b21f99a9a8e
+    - name: plugins_settings.vim
+      url: 'https://github.com/zelphir/.dotfiles/blob/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/plugins_settings.vim'
+      raw_url: 'https://raw.githubusercontent.com/zelphir/.dotfiles/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/plugins_settings.vim'
+      hash: 0307b5307ffd1c98099aa7ab94241b21f99a9a8e
+    - name: theme.vim
+      url: 'https://github.com/zelphir/.dotfiles/blob/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/theme.vim'
+      raw_url: 'https://raw.githubusercontent.com/zelphir/.dotfiles/0307b5307ffd1c98099aa7ab94241b21f99a9a8e/neovim/theme.vim'
+      hash: 0307b5307ffd1c98099aa7ab94241b21f99a9a8e
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - rbtnn
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=593bfb68d83c50560cf562a3'
