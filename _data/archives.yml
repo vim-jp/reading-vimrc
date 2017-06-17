@@ -7176,3 +7176,78 @@
     - ttk_vim_twitter
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=593bfb68d83c50560cf562a3'
+- id: 259
+  date: '2017-6-17 23:00'
+  author:
+    name: mgoldchild
+    url: 'https://github.com/mgoldchild'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/.vimrc'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.bundle
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.bundle'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.bundle'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.common
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.common'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.common'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.syntax
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.syntax'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.syntax'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.theme
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.theme'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.theme'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.apperance
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.apperance'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.apperance'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.icons
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.icons'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.icons'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.tree
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.tree'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.tree'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.finder
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.finder'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.finder'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.completion
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.completion'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.completion'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.keymapping
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.keymapping'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.keymapping'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.misc
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.misc'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.misc'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.statusbar
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.statusbar'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.statusbar'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.snippets
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.snippets'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.snippets'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+    - name: .vimrc.tagbar
+      url: 'https://github.com/mgoldchild/dotfiles/blob/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.tagbar'
+      raw_url: 'https://raw.githubusercontent.com/mgoldchild/dotfiles/6ec3c031d7e49a7557359f0fe888b808f06e80d3/vim/.vimrc.tagbar'
+      hash: 6ec3c031d7e49a7557359f0fe888b808f06e80d3
+  part: null
+  other: null
+  members:
+    - deris
+    - diginatu
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=594535ea31f589c64fb7b96f'
