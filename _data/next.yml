@@ -1,53 +1,11 @@
-- id: 259
-  date: '2017-6-17 23:00'
+- id: 260
+  date: '2017-6-24 23:00'
   author:
-    name: mgoldchild
-    url: 'https://github.com/mgoldchild'
+    name: Julian
+    url: 'https://github.com/Julian'
   vimrcs:
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/.vimrc'
+    - url: 'https://github.com/Julian/dotfiles/blob/master/.vimrc'
       name: .vimrc
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.bundle'
-      name: .vimrc.bundle
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.common'
-      name: .vimrc.common
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.syntax'
-      name: .vimrc.syntax
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.theme'
-      name: .vimrc.theme
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.apperance'
-      name: .vimrc.apperance
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.icons'
-      name: .vimrc.icons
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.tree'
-      name: .vimrc.tree
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.finder'
-      name: .vimrc.finder
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.completion'
-      name: .vimrc.completion
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.keymapping'
-      name: .vimrc.keymapping
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.misc'
-      name: .vimrc.misc
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.statusbar'
-      name: .vimrc.statusbar
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.snippets'
-      name: .vimrc.snippets
-      hash: null
-    - url: 'https://github.com/mgoldchild/dotfiles/blob/master/vim/.vimrc.tagbar'
-      name: .vimrc.tagbar
       hash: null
   part: null
   other: null
