@@ -7251,3 +7251,20 @@
     - thinca
     - ttk_vim_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=594535ea31f589c64fb7b96f'
+- id: 260
+  date: '2017-6-24 23:00'
+  author:
+    name: Julian
+    url: 'https://github.com/Julian'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Julian/dotfiles/blob/a97dd78fb1aed11dc925701d1c310160ba06b794/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Julian/dotfiles/a97dd78fb1aed11dc925701d1c310160ba06b794/.vimrc'
+      hash: a97dd78fb1aed11dc925701d1c310160ba06b794
+  part: null
+  other: null
+  members:
+    - rbtnn
+    - ryunix
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=594e707176a757f8089f0f34'
