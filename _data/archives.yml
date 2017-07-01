@@ -7268,3 +7268,23 @@
     - ryunix
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=594e707176a757f8089f0f34'
+- id: 261
+  date: '2017-7-1 23:00'
+  author:
+    name: Tatsuki-I
+    url: 'https://github.com/Tatsuki-I'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Tatsuki-I/vimrc/blob/9dba07fffa64eeaef7c6bb637500ad18a2a36bc5/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Tatsuki-I/vimrc/9dba07fffa64eeaef7c6bb637500ad18a2a36bc5/.vimrc'
+      hash: 9dba07fffa64eeaef7c6bb637500ad18a2a36bc5
+  part: null
+  other: null
+  members:
+    - diginatu
+    - rbtnn
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5957ab013230e14f3a140fa2'
