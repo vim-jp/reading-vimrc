@@ -7312,3 +7312,24 @@
     - y0za
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5960e5983230e14f3a3aa51e'
+- id: 263
+  date: '2017-7-15 23:00'
+  author:
+    name: emkae
+    url: 'https://github.com/emkae'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/emkae/vimfiles/blob/d9367037b950e620dbe46e25b0a4c20dea1f26f7/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/emkae/vimfiles/d9367037b950e620dbe46e25b0a4c20dea1f26f7/.vimrc'
+      hash: d9367037b950e620dbe46e25b0a4c20dea1f26f7
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - deris
+    - rbtnn
+    - ryunix
+    - thinca
+    - ujihisa
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=596a1febc101bc4e3a899cee'
