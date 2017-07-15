@@ -1,11 +1,39 @@
-- id: 263
-  date: '2017-7-15 23:00'
+- id: 264
+  date: '2017-7-22 23:00'
   author:
-    name: emkae
-    url: 'https://github.com/emkae'
+    name: shiotomo
+    url: 'https://github.com/shiotomo'
   vimrcs:
-    - url: 'https://github.com/emkae/vimfiles/blob/master/.vimrc'
+    - url: 'https://github.com/shiotomo/.vim/blob/master/.vimrc'
       name: .vimrc
+      hash: null
+    - url: 'https://github.com/shiotomo/.vim/blob/master/vimshell.vim'
+      name: vimshell.vim
+      hash: null
+    - url: 'https://github.com/shiotomo/.vim/blob/master/autoload/init/color.vim'
+      name: color.vim
+      hash: null
+    - url: >-
+        https://github.com/shiotomo/.vim/blob/master/autoload/init/completion.vim
+      name: completion.vim
+      hash: null
+    - url: 'https://github.com/shiotomo/.vim/blob/master/autoload/init/help.vim'
+      name: help.vim
+      hash: null
+    - url: 'https://github.com/shiotomo/.vim/blob/master/autoload/init/html.vim'
+      name: html.vim
+      hash: null
+    - url: 'https://github.com/shiotomo/.vim/blob/master/autoload/init/indent.vim'
+      name: indent.vim
+      hash: null
+    - url: 'https://github.com/shiotomo/.vim/blob/master/autoload/init/map.vim'
+      name: map.vim
+      hash: null
+    - url: 'https://github.com/shiotomo/.vim/blob/master/autoload/init/ruby.vim'
+      name: ruby.vim
+      hash: null
+    - url: 'https://github.com/shiotomo/.vim/blob/master/autoload/init/set.vim'
+      name: set.vim
       hash: null
   part: null
   other: null
