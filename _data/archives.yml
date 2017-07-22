@@ -7333,3 +7333,56 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=596a1febc101bc4e3a899cee'
+- id: 264
+  date: '2017-7-22 23:00'
+  author:
+    name: shiotomo
+    url: 'https://github.com/shiotomo'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/.vimrc'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: vimshell.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/vimshell.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/vimshell.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: color.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/color.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/color.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: completion.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/completion.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/completion.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: help.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/help.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/help.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: html.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/html.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/html.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: indent.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/indent.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/indent.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: map.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/map.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/map.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: ruby.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/ruby.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/ruby.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+    - name: set.vim
+      url: 'https://github.com/shiotomo/.vim/blob/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/set.vim'
+      raw_url: 'https://raw.githubusercontent.com/shiotomo/.vim/15221caae4e406703cd5c207404a136e39a3f713/autoload/init/set.vim'
+      hash: 15221caae4e406703cd5c207404a136e39a3f713
+  part: null
+  other: null
+  members:
+    - mattn
+    - ryunix
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59735a64329651f46eb12d9c'
