@@ -13,7 +13,7 @@ title: 過去の開催 - vimrc読書会
 </tr>
 </thead>
 <tbody>
-{% for archive in site.data.archives %}
+{% for archive in site.data.archives reversed %}
   {% if archive.id < 10 %}
     {% assign htmlname = archive.id | prepend: '00'  %}
   {% elsif archive.id < 100 %}
