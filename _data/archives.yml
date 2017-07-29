@@ -7386,3 +7386,24 @@
     - ryunix
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59735a64329651f46eb12d9c'
+- id: 265
+  date: '2017-7-29 23:00'
+  author:
+    name: hfm
+    url: 'https://github.com/hfm'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/hfm/.vim/blob/fdb9746ce4abdefecd8188d00657b92b7e7e222c/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/fdb9746ce4abdefecd8188d00657b92b7e7e222c/vimrc'
+      hash: fdb9746ce4abdefecd8188d00657b92b7e7e222c
+    - name: plugins.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/fdb9746ce4abdefecd8188d00657b92b7e7e222c/plugins.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/fdb9746ce4abdefecd8188d00657b92b7e7e222c/plugins.rc.vim'
+      hash: fdb9746ce4abdefecd8188d00657b92b7e7e222c
+  part: null
+  other: null
+  members:
+    - ryunix
+    - thinca
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=597c94e5329651f46ed27c1e'
