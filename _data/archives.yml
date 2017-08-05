@@ -7407,3 +7407,27 @@
     - thinca
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=597c94e5329651f46ed27c1e'
+- id: 266
+  date: '2017-8-5 23:00'
+  author:
+    name: hfuCN
+    url: 'https://github.com/hfuCN'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/hfuCN/vimrc/blob/4f0cae192867f8caf9881cf6bd4779b0978ae942/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/hfuCN/vimrc/4f0cae192867f8caf9881cf6bd4779b0978ae942/vimrc'
+      hash: 4f0cae192867f8caf9881cf6bd4779b0978ae942
+  part: null
+  other: null
+  members:
+    - diginatu
+    - k-takata
+    - mattn
+    - rbtnn
+    - rytkmt
+    - ryunix
+    - thinca
+    - ttk_vim_twitter
+    - ujihisa
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5985cf654bcd78af56177b94'
