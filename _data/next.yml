@@ -1,38 +1,89 @@
-- id: 267
-  date: '2017-8-12 23:00'
+- id: 268
+  date: '2017-8-19 23:00'
   author:
-    name: Iruyan-Zak
-    url: 'https://github.com/Iruyan-Zak'
+    name: lighttiger2505
+    url: 'https://github.com/lighttiger2505'
   vimrcs:
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/lighttiger2505/.dotfiles/blob/master/vim/vimrc'
+      name: vimrc
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/common.vimrc'
-      name: common.vimrc
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/dein.rc.vim
+      name: dein.rc.vim
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/dein.vimrc'
-      name: dein.vimrc
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/mappings.rc.vim
+      name: mappings.rc.vim
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/appearance.vimrc'
-      name: appearance.vimrc
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/options.rc.vim
+      name: options.rc.vim
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/CL_buffer.vimrc'
-      name: CL_buffer.vimrc
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/filetype.rc.vim
+      name: filetype.rc.vim
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/binding.vimrc'
-      name: binding.vimrc
+    - url: 'https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/dein.toml'
+      name: dein.toml
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/edit.vimrc'
-      name: edit.vimrc
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/dein_frontend.toml
+      name: dein_frontend.toml
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/file.vimrc'
-      name: file.vimrc
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/dein_go.toml
+      name: dein_go.toml
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/filetype.vimrc'
-      name: filetype.vimrc
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/dein_lazy.toml
+      name: dein_lazy.toml
       hash: null
-    - url: 'https://github.com/Iruyan-Zak/dotfiles/blob/master/.vim/functions.vimrc'
-      name: functions.vimrc
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/dein_neo.toml
+      name: dein_neo.toml
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/dein_python.toml
+      name: dein_python.toml
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/airline.rc.vim
+      name: airline.rc.vim
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/ale.rc.vim
+      name: ale.rc.vim
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/denite.rc.vim
+      name: denite.rc.vim
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/deoplete.rc.vim
+      name: deoplete.rc.vim
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/neocomplete.rc.vim
+      name: neocomplete.rc.vim
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/neosnippet.rc.vim
+      name: neosnippet.rc.vim
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/openbrowser.rc.vim
+      name: openbrowser.rc.vim
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/unite.rc.vim
+      name: unite.rc.vim
+      hash: null
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/vim/rc/plugins/vimquickrun.rc.vim
+      name: vimquickrun.rc.vim
+      hash: null
+    - url: 'https://github.com/lighttiger2505/.dotfiles/blob/master/.gvimrc'
+      name: .gvimrc
       hash: null
   part: null
   other: null
