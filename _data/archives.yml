@@ -7431,3 +7431,60 @@
     - ujihisa
     - yoshitia_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5985cf654bcd78af56177b94'
+- id: 267
+  date: '2017-8-12 23:00'
+  author:
+    name: Iruyan-Zak
+    url: 'https://github.com/Iruyan-Zak'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: common.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/common.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/common.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: dein.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/dein.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/dein.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: appearance.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/appearance.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/appearance.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: CL_buffer.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/CL_buffer.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/CL_buffer.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: binding.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/binding.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/binding.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: edit.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/edit.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/edit.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: file.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/file.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/file.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: filetype.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/filetype.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/filetype.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+    - name: functions.vimrc
+      url: 'https://github.com/Iruyan-Zak/dotfiles/blob/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/functions.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Iruyan-Zak/dotfiles/9de14c7f3a7521a0a8553537430fbb64a3eafe07/.vim/functions.vimrc'
+      hash: 9de14c7f3a7521a0a8553537430fbb64a3eafe07
+  part: null
+  other: null
+  members:
+    - lesguillemets
+    - lighttiger2505
+    - mityu
+    - thinca
+    - ttk_vim_twitter
+    - wtsnjp
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=598f0a3f19147ac323155cc1'
