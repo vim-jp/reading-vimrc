@@ -7488,3 +7488,105 @@
     - wtsnjp
     - yoshitia_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=598f0a3f19147ac323155cc1'
+- id: 268
+  date: '2017-8-19 23:00'
+  author:
+    name: lighttiger2505
+    url: 'https://github.com/lighttiger2505'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/vimrc'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: dein.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: mappings.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/mappings.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/mappings.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: options.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/options.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/options.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: filetype.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/filetype.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/filetype.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: dein.toml
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein.toml'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein.toml'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: dein_frontend.toml
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_frontend.toml'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_frontend.toml'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: dein_go.toml
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_go.toml'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_go.toml'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: dein_lazy.toml
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_lazy.toml'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_lazy.toml'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: dein_neo.toml
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_neo.toml'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_neo.toml'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: dein_python.toml
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_python.toml'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/dein_python.toml'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: airline.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/airline.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/airline.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: ale.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/ale.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/ale.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: denite.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/denite.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/denite.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: deoplete.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/deoplete.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/deoplete.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: neocomplete.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/neocomplete.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/neocomplete.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: neosnippet.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/neosnippet.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/neosnippet.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: openbrowser.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/openbrowser.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/openbrowser.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: unite.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/unite.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/unite.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: vimquickrun.rc.vim
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/vimquickrun.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/vim/rc/plugins/vimquickrun.rc.vim'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+    - name: .gvimrc
+      url: 'https://github.com/lighttiger2505/.dotfiles/blob/b88e0f5811e93846c667b334df9b75dc3a865a53/.gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/lighttiger2505/.dotfiles/b88e0f5811e93846c667b334df9b75dc3a865a53/.gvimrc'
+      hash: b88e0f5811e93846c667b334df9b75dc3a865a53
+  part: null
+  other: null
+  members:
+    - lighttiger2505
+    - mattn
+    - mityu
+    - raa0121
+    - rytkmt
+    - ryunix
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=599844f6a7b406262da632b6'
