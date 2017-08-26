@@ -1,11 +1,14 @@
-- id: 269
-  date: '2017-8-26 23:00'
+- id: 270
+  date: '2017-9-2 23:00'
   author:
-    name: Yatsuku
-    url: 'https://github.com/Yatsuku'
+    name: bchretien
+    url: 'https://github.com/bchretien'
   vimrcs:
-    - url: 'https://github.com/Yatsuku/Dotfiles/blob/master/.vim/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/bchretien/dotfiles/blob/master/editor/vimrc'
+      name: vimrc
       hash: null
-  part: null
+    - url: 'https://github.com/bchretien/dotfiles/blob/master/editor/vimrc.plugins'
+      name: vimrc.plugins
+      hash: null
+  part: 前編
   other: null
