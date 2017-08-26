@@ -7590,3 +7590,25 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=599844f6a7b406262da632b6'
+- id: 269
+  date: '2017-8-26 23:00'
+  author:
+    name: Yatsuku
+    url: 'https://github.com/Yatsuku'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Yatsuku/Dotfiles/blob/88ba38e4e5e3bc479b4257ec5f8636a941714657/.vim/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Yatsuku/Dotfiles/88ba38e4e5e3bc479b4257ec5f8636a941714657/.vim/.vimrc'
+      hash: 88ba38e4e5e3bc479b4257ec5f8636a941714657
+  part: null
+  other: null
+  members:
+    - deris
+    - lighttiger2505
+    - mattn
+    - ryunix
+    - tamy0612
+    - thinca
+    - ujihisa
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59a17f239acddb2407cf5942'
