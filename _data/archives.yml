@@ -7612,3 +7612,27 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59a17f239acddb2407cf5942'
+- id: 270
+  date: '2017-9-2 23:00'
+  author:
+    name: bchretien
+    url: 'https://github.com/bchretien'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/bchretien/dotfiles/blob/8874dcac6630e29b0f1d62eb2d95211c174b3519/editor/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/bchretien/dotfiles/8874dcac6630e29b0f1d62eb2d95211c174b3519/editor/vimrc'
+      hash: 8874dcac6630e29b0f1d62eb2d95211c174b3519
+    - name: vimrc.plugins
+      url: 'https://github.com/bchretien/dotfiles/blob/8874dcac6630e29b0f1d62eb2d95211c174b3519/editor/vimrc.plugins'
+      raw_url: 'https://raw.githubusercontent.com/bchretien/dotfiles/8874dcac6630e29b0f1d62eb2d95211c174b3519/editor/vimrc.plugins'
+      hash: 8874dcac6630e29b0f1d62eb2d95211c174b3519
+  part: 前編
+  other: null
+  members:
+    - Ry_o____twitter
+    - hujo
+    - k-takata
+    - lighttiger2505
+    - ryunix
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59aab963614889d475b2e856'
