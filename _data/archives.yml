@@ -7659,3 +7659,24 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59b3f84066c1c7c477309438'
+- id: 272
+  date: '2017-9-16 23:00'
+  author:
+    name: bchretien
+    url: 'https://github.com/bchretien'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/bchretien/dotfiles/blob/8874dcac6630e29b0f1d62eb2d95211c174b3519/editor/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/bchretien/dotfiles/8874dcac6630e29b0f1d62eb2d95211c174b3519/editor/vimrc'
+      hash: 8874dcac6630e29b0f1d62eb2d95211c174b3519
+    - name: vimrc.plugins
+      url: 'https://github.com/bchretien/dotfiles/blob/8874dcac6630e29b0f1d62eb2d95211c174b3519/editor/vimrc.plugins'
+      raw_url: 'https://raw.githubusercontent.com/bchretien/dotfiles/8874dcac6630e29b0f1d62eb2d95211c174b3519/editor/vimrc.plugins'
+      hash: 8874dcac6630e29b0f1d62eb2d95211c174b3519
+  part: 後編
+  other: null
+  members:
+    - k-takata
+    - ryunix
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59bd2e8ebc464729743f6a65'
