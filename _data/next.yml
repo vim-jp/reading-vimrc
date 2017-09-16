@@ -1,16 +1,11 @@
-- id: 272
-  date: '2017-9-16 23:00'
+- id: 273
+  date: '2017-9-23 23:00'
   author:
-    name: bchretien
-    url: 'https://github.com/bchretien'
+    name: jgilchrist
+    url: 'https://github.com/jgilchrist'
   vimrcs:
-    - url: >-
-        https://github.com/bchretien/dotfiles/blob/master/editor/vimrc
+    - url: 'https://github.com/jgilchrist/dotfiles/blob/master/vim/.vim/vimrc'
       name: vimrc
-      hash: 8874dcac6630e29b0f1d62eb2d95211c174b3519
-    - url: >-
-        https://github.com/bchretien/dotfiles/blob/master/editor/vimrc.plugins
-      name: vimrc.plugins
-      hash: 8874dcac6630e29b0f1d62eb2d95211c174b3519
-  part: 後編
+      hash: null
+  part: null
   other: null
