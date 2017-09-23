@@ -1,11 +1,11 @@
-- id: 273
-  date: '2017-9-23 23:00'
+- id: 274
+  date: '2017-9-30 23:00'
   author:
-    name: jgilchrist
-    url: 'https://github.com/jgilchrist'
+    name: thawk
+    url: 'https://github.com/thawk'
   vimrcs:
-    - url: 'https://github.com/jgilchrist/dotfiles/blob/master/vim/.vim/vimrc'
+    - url: 'https://github.com/thawk/dotvim/blob/master/vimrc'
       name: vimrc
       hash: null
-  part: null
+  part: 前編
   other: null
