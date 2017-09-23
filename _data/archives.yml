@@ -7680,3 +7680,22 @@
     - ryunix
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59bd2e8ebc464729743f6a65'
+- id: 273
+  date: '2017-9-23 23:00'
+  author:
+    name: jgilchrist
+    url: 'https://github.com/jgilchrist'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/jgilchrist/dotfiles/blob/5f48e1c20c4ce0e90b5b37e259521bf47ab3837c/vim/.vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/jgilchrist/dotfiles/5f48e1c20c4ce0e90b5b37e259521bf47ab3837c/vim/.vim/vimrc'
+      hash: 5f48e1c20c4ce0e90b5b37e259521bf47ab3837c
+  part: null
+  other: null
+  members:
+    - k-takata
+    - mattn
+    - ryunix
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59c6691ecfeed2eb6540eaa0'
