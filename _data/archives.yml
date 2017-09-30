@@ -7699,3 +7699,23 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59c6691ecfeed2eb6540eaa0'
+- id: 274
+  date: '2017-9-30 23:00'
+  author:
+    name: thawk
+    url: 'https://github.com/thawk'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/thawk/dotvim/blob/721f2d4ca39bf5be341907eaab1e86ba236408bb/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/thawk/dotvim/721f2d4ca39bf5be341907eaab1e86ba236408bb/vimrc'
+      hash: 721f2d4ca39bf5be341907eaab1e86ba236408bb
+  part: 前編
+  other: null
+  members:
+    - homedm
+    - k-takata
+    - ryunix
+    - thinca
+    - wtsnjp
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59cfa370f7299e8f538f8a95'
