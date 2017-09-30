@@ -1,11 +1,12 @@
-- id: 274
-  date: '2017-9-30 23:00'
+- id: 275
+  date: '2017-10-7 23:00'
   author:
     name: thawk
     url: 'https://github.com/thawk'
   vimrcs:
-    - url: 'https://github.com/thawk/dotvim/blob/master/vimrc'
+    - url: >-
+        https://github.com/thawk/dotvim/blob/721f2d4ca39bf5be341907eaab1e86ba236408bb/vimrc
       name: vimrc
-      hash: null
-  part: 前編
+      hash: 721f2d4ca39bf5be341907eaab1e86ba236408bb
+  part: 中編
   other: null
