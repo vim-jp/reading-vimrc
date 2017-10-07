@@ -7719,3 +7719,22 @@
     - wtsnjp
     - yoshitia_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59cfa370f7299e8f538f8a95'
+- id: 275
+  date: '2017-10-7 23:00'
+  author:
+    name: thawk
+    url: 'https://github.com/thawk'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/thawk/dotvim/blob/721f2d4ca39bf5be341907eaab1e86ba236408bb/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/thawk/dotvim/721f2d4ca39bf5be341907eaab1e86ba236408bb/vimrc'
+      hash: 721f2d4ca39bf5be341907eaab1e86ba236408bb
+  part: 中編
+  other: null
+  members:
+    - MaxMEllon
+    - deris
+    - ryunix
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59d8dfb001110b723189a822'
