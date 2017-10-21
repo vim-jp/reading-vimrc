@@ -7757,3 +7757,34 @@
     - y0za
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59e21911f7299e8f53e8376f'
+- id: 277
+  date: '2017-10-21 23:00'
+  author:
+    name: amix
+    url: 'https://github.com/amix'
+  vimrcs:
+    - name: basic.vim
+      url: 'https://github.com/amix/vimrc/blob/7fc202ec8895c564c10940a21af357d6c0665368/vimrcs/basic.vim'
+      raw_url: 'https://raw.githubusercontent.com/amix/vimrc/7fc202ec8895c564c10940a21af357d6c0665368/vimrcs/basic.vim'
+      hash: 7fc202ec8895c564c10940a21af357d6c0665368
+    - name: extended.vim
+      url: 'https://github.com/amix/vimrc/blob/7fc202ec8895c564c10940a21af357d6c0665368/vimrcs/extended.vim'
+      raw_url: 'https://raw.githubusercontent.com/amix/vimrc/7fc202ec8895c564c10940a21af357d6c0665368/vimrcs/extended.vim'
+      hash: 7fc202ec8895c564c10940a21af357d6c0665368
+    - name: filetypes.vim
+      url: 'https://github.com/amix/vimrc/blob/7fc202ec8895c564c10940a21af357d6c0665368/vimrcs/filetypes.vim'
+      raw_url: 'https://raw.githubusercontent.com/amix/vimrc/7fc202ec8895c564c10940a21af357d6c0665368/vimrcs/filetypes.vim'
+      hash: 7fc202ec8895c564c10940a21af357d6c0665368
+    - name: plugins_config.vim
+      url: 'https://github.com/amix/vimrc/blob/7fc202ec8895c564c10940a21af357d6c0665368/vimrcs/plugins_config.vim'
+      raw_url: 'https://raw.githubusercontent.com/amix/vimrc/7fc202ec8895c564c10940a21af357d6c0665368/vimrcs/plugins_config.vim'
+      hash: 7fc202ec8895c564c10940a21af357d6c0665368
+  part: null
+  other: null
+  members:
+    - mattn
+    - rbtnn
+    - thinca
+    - yamachaaan
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59eb52f732e080696e0a6e22'
