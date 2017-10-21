@@ -1,20 +1,11 @@
-- id: 277
-  date: '2017-10-21 23:00'
+- id: 278
+  date: '2017-10-28 23:00'
   author:
-    name: amix
-    url: 'https://github.com/amix'
+    name: patrickdappollonio
+    url: 'https://github.com/patrickdappollonio'
   vimrcs:
-    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim'
-      name: basic.vim
-      hash: null
-    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/extended.vim'
-      name: extended.vim
-      hash: null
-    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/filetypes.vim'
-      name: filetypes.vim
-      hash: null
-    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/plugins_config.vim'
-      name: plugins_config.vim
+    - url: 'https://github.com/patrickdappollonio/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
