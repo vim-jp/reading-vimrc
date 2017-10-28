@@ -1,11 +1,11 @@
-- id: 278
-  date: '2017-10-28 23:00'
+- id: 279
+  date: '2017-11-4 23:00'
   author:
-    name: patrickdappollonio
-    url: 'https://github.com/patrickdappollonio'
+    name: fatih
+    url: 'https://github.com/fatih'
   vimrcs:
-    - url: 'https://github.com/patrickdappollonio/dotfiles/blob/master/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/fatih/dotfiles/blob/master/vimrc'
+      name: vimrc
       hash: null
   part: null
   other: null
