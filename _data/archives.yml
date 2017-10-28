@@ -7788,3 +7788,23 @@
     - yamachaaan
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59eb52f732e080696e0a6e22'
+- id: 278
+  date: '2017-10-28 23:00'
+  author:
+    name: patrickdappollonio
+    url: 'https://github.com/patrickdappollonio'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/patrickdappollonio/dotfiles/blob/1292ed44c8364cacf52d36f8a2f972d8184f0ec6/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/patrickdappollonio/dotfiles/1292ed44c8364cacf52d36f8a2f972d8184f0ec6/.vimrc'
+      hash: 1292ed44c8364cacf52d36f8a2f972d8184f0ec6
+  part: null
+  other: null
+  members:
+    - rbtnn
+    - thinca
+    - ujihisa
+    - wtsnjp
+    - xuanduc987_twitter
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59f48d77e44c43700a8b43f4'
