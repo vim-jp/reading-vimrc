@@ -7808,3 +7808,24 @@
     - xuanduc987_twitter
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59f48d77e44c43700a8b43f4'
+- id: 279
+  date: '2017-11-4 23:00'
+  author:
+    name: fatih
+    url: 'https://github.com/fatih'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/fatih/dotfiles/blob/f753f57dde31f6b3743a03933d97c5c39c8c09f8/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/fatih/dotfiles/f753f57dde31f6b3743a03933d97c5c39c8c09f8/vimrc'
+      hash: f753f57dde31f6b3743a03933d97c5c39c8c09f8
+  part: null
+  other: null
+  members:
+    - MaxMEllon
+    - bamchoh
+    - thinca
+    - ujihisa
+    - xuanduc987_twitter
+    - y0za
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=59fdcb085a1758ed0f8a3afa'
