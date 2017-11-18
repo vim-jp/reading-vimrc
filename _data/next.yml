@@ -1,50 +1,60 @@
-- id: 281
-  date: '2017-11-18 23:00'
+- id: 282
+  date: '2017-11-25 23:00'
   author:
     name: uplus
     url: 'https://github.com/uplus'
   vimrcs:
-    - url: 'https://github.com/uplus/vimrc/blob/master/vimrc'
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/vimrc
       name: vimrc
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/dein.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/dein.vim
       name: dein.vim
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/opts.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/opts.vim
       name: opts.vim
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/function.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/function.vim
       name: function.vim
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/keymap.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/keymap.vim
       name: keymap.vim
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/highlights.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/highlights.vim
       name: highlights.vim
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/cmds.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/cmds.vim
       name: cmds.vim
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/autocmds.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autocmds.vim
       name: autocmds.vim
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/autoload/vimrc.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/vimrc.vim
       name: vimrc.vim
-      hash: null
-    - url: 'https://github.com/uplus/vimrc/blob/master/autoload/gf/ext.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - url: >-
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/gf/ext.vim
       name: ext.vim
-      hash: null
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
     - url: >-
-        https://github.com/uplus/vimrc/blob/master/autoload/lightline/colorscheme/mellow.vim
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/lightline/colorscheme/mellow.vim
       name: mellow.vim
-      hash: null
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
     - url: >-
-        https://github.com/uplus/vimrc/blob/master/autoload/lightline/colorscheme/refreshing.vim
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/lightline/colorscheme/refreshing.vim
       name: refreshing.vim
-      hash: null
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
     - url: >-
-        https://github.com/uplus/vimrc/blob/master/autoload/quickrun/runner/terminal.vim
+        https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/quickrun/runner/terminal.vim
       name: terminal.vim
-      hash: null
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
   part: 後編
   other: null
