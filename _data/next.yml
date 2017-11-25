@@ -1,60 +1,11 @@
-- id: 282
-  date: '2017-11-25 23:00'
+- id: 283
+  date: '2017-12-2 23:00'
   author:
-    name: uplus
-    url: 'https://github.com/uplus'
+    name: bongoman
+    url: 'https://github.com/bongoman'
   vimrcs:
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/vimrc
+    - url: 'https://github.com/bongoman/vim/blob/master/vimrc'
       name: vimrc
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/dein.vim
-      name: dein.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/opts.vim
-      name: opts.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/function.vim
-      name: function.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/keymap.vim
-      name: keymap.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/highlights.vim
-      name: highlights.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/cmds.vim
-      name: cmds.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/autocmds.vim
-      name: autocmds.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/autoload/vimrc.vim
-      name: vimrc.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/autoload/gf/ext.vim
-      name: ext.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/autoload/lightline/colorscheme/mellow.vim
-      name: mellow.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/autoload/lightline/colorscheme/refreshing.vim
-      name: refreshing.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-    - url: >-
-        https://github.com/uplus/vimrc/blob/master/autoload/quickrun/runner/terminal.vim
-      name: terminal.vim
-      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-  part: 後編
+      hash: null
+  part: null
   other: null
