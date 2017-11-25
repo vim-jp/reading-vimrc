@@ -7915,3 +7915,69 @@
     - warugaki_k_k_twitter
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a103ce0cc1d527f6b873c66'
+- id: 282
+  date: '2017-11-25 23:00'
+  author:
+    name: uplus
+    url: 'https://github.com/uplus'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/vimrc'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: dein.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/dein.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/dein.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: opts.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/opts.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/opts.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: function.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/function.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/function.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: keymap.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/keymap.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/keymap.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: highlights.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/highlights.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/highlights.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: cmds.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/cmds.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/cmds.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: autocmds.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autocmds.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/autocmds.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: vimrc.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/vimrc.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/vimrc.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: ext.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/gf/ext.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/gf/ext.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: mellow.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/lightline/colorscheme/mellow.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/lightline/colorscheme/mellow.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: refreshing.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/lightline/colorscheme/refreshing.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/lightline/colorscheme/refreshing.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+    - name: terminal.vim
+      url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/quickrun/runner/terminal.vim'
+      raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/autoload/quickrun/runner/terminal.vim'
+      hash: 50ee9d755c433985328a709dd03480fdb67c79dc
+  part: 後編
+  other: null
+  members:
+    - mattn
+    - thinca
+    - y0za
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a1977b4df09362e6750896b'
