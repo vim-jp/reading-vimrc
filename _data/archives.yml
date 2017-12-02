@@ -7981,3 +7981,27 @@
     - y0za
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a1977b4df09362e6750896b'
+- id: 283
+  date: '2017-12-2 23:00'
+  author:
+    name: bongoman
+    url: 'https://github.com/bongoman'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/bongoman/vim/blob/621d4910c357eebb461039dde2f4e8e756b01c8a/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/bongoman/vim/621d4910c357eebb461039dde2f4e8e756b01c8a/vimrc'
+      hash: 621d4910c357eebb461039dde2f4e8e756b01c8a
+  part: null
+  other: null
+  members:
+    - bamchoh
+    - k-takata
+    - mattn
+    - raiden325
+    - thinca
+    - xuanduc987
+    - yaegassy
+    - yassu
+    - ysaito8015
+    - yuki_ycino_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a22b1e071ad3f873658cf18'
