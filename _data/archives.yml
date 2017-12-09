@@ -8005,3 +8005,23 @@
     - ysaito8015
     - yuki_ycino_twitter
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a22b1e071ad3f873658cf18'
+- id: 284
+  date: '2017-12-9 23:00'
+  author:
+    name: xuanduc987
+    url: 'https://github.com/xuanduc987'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/xuanduc987/dot-file/blob/edf53dd2a334905caec8e00c3326edcbbcc08475/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/xuanduc987/dot-file/edf53dd2a334905caec8e00c3326edcbbcc08475/vim/vimrc'
+      hash: edf53dd2a334905caec8e00c3326edcbbcc08475
+  part: null
+  other: null
+  members:
+    - dohq
+    - homedm
+    - mityu
+    - thinca
+    - xuanduc987
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a2bf4763a80a84b5bd804ec'
