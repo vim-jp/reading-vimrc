@@ -8025,3 +8025,21 @@
     - xuanduc987
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a2bf4763a80a84b5bd804ec'
+- id: 285
+  date: '2017-12-16 23:00'
+  author:
+    name: Mathiasb17
+    url: 'https://github.com/Mathiasb17'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/Mathiasb17/mathias/blob/f3ad028eafcc56ddd4d72019cb6a1818e456d099/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/Mathiasb17/mathias/f3ad028eafcc56ddd4d72019cb6a1818e456d099/.config/nvim/init.vim'
+      hash: f3ad028eafcc56ddd4d72019cb6a1818e456d099
+  part: null
+  other: null
+  members:
+    - dohq
+    - hokorobi
+    - thinca
+    - xuanduc987
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a3526fe232e79134d58b9c2'
