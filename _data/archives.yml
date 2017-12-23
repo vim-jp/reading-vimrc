@@ -7830,7 +7830,7 @@
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=59fdcb085a1758ed0f8a3afa'
 - id: 280
-  date: '2017-11-10 23:00'
+  date: '2017-11-11 23:00'
   author:
     name: uplus
     url: 'https://github.com/uplus'
@@ -7839,7 +7839,7 @@
       url: 'https://github.com/uplus/vimrc/blob/50ee9d755c433985328a709dd03480fdb67c79dc/vimrc'
       raw_url: 'https://raw.githubusercontent.com/uplus/vimrc/50ee9d755c433985328a709dd03480fdb67c79dc/vimrc'
       hash: 50ee9d755c433985328a709dd03480fdb67c79dc
-  part: null
+  part: 前編
   other: null
   members:
     - hokorobi
