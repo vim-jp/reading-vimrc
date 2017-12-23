@@ -1,11 +1,11 @@
-- id: 286
-  date: '2017-12-23 23:00'
+- id: 287
+  date: '2017-12-30 23:00'
   author:
-    name: izifortune
-    url: 'https://github.com/izifortune'
+    name: Zepprix
+    url: 'https://github.com/Zepprix'
   vimrcs:
-    - url: 'https://github.com/izifortune/dotfiles/blob/master/.config/nvim/init.vim'
-      name: init.vim
+    - url: 'https://github.com/Zepprix/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
