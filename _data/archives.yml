@@ -8043,3 +8043,21 @@
     - thinca
     - xuanduc987
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a3526fe232e79134d58b9c2'
+- id: 286
+  date: '2017-12-23 23:00'
+  author:
+    name: izifortune
+    url: 'https://github.com/izifortune'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/izifortune/dotfiles/blob/01c766a8d128f64e7f0b679d6e7c781a42b580fc/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/izifortune/dotfiles/01c766a8d128f64e7f0b679d6e7c781a42b580fc/.config/nvim/init.vim'
+      hash: 01c766a8d128f64e7f0b679d6e7c781a42b580fc
+  part: null
+  other: null
+  members:
+    - dohq
+    - rbtnn
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a3e616b232e79134d843230'
