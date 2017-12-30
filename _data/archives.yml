@@ -8061,3 +8061,25 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a3e616b232e79134d843230'
+- id: 287
+  date: '2017-12-30 23:00'
+  author:
+    name: Zepprix
+    url: 'https://github.com/Zepprix'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Zepprix/dotfiles/blob/b24df21ed8f70f301af645b95e087e153ecc1215/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Zepprix/dotfiles/b24df21ed8f70f301af645b95e087e153ecc1215/.vimrc'
+      hash: b24df21ed8f70f301af645b95e087e153ecc1215
+  part: null
+  other: null
+  members:
+    - Zepprix
+    - bamchoh
+    - dohq
+    - mattn
+    - thinca
+    - ujihisa
+    - wtsnjp
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a479be284fb74b9401c0a93'
