@@ -8083,3 +8083,26 @@
     - wtsnjp
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a479be284fb74b9401c0a93'
+- id: 288
+  date: '2018-01-06 23:00'
+  author:
+    name: thinca
+    url: 'https://github.com/thinca'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/thinca/config/blob/a4e481ac387c2bb3d24263501c595acc3887c221/dotfiles/dot.vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/thinca/config/a4e481ac387c2bb3d24263501c595acc3887c221/dotfiles/dot.vim/vimrc'
+      hash: a4e481ac387c2bb3d24263501c595acc3887c221
+    - name: dein.vim
+      url: 'https://github.com/thinca/config/blob/a4e481ac387c2bb3d24263501c595acc3887c221/dotfiles/dot.vim/dein.vim'
+      raw_url: 'https://raw.githubusercontent.com/thinca/config/a4e481ac387c2bb3d24263501c595acc3887c221/dotfiles/dot.vim/dein.vim'
+      hash: a4e481ac387c2bb3d24263501c595acc3887c221
+  part: null
+  other: null
+  members:
+    - Warashi
+    - callmekohei
+    - lesguillemets
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a50d6670505ad8b45c01597'
