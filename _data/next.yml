@@ -1,14 +1,11 @@
-- id: 288
-  date: '2018-01-06 23:00'
+- id: 289
+  date: '2018-01-13 23:00'
   author:
-    name: thinca
-    url: 'https://github.com/thinca'
+    name: pfrcks
+    url: 'https://github.com/pfrcks'
   vimrcs:
-    - url: 'https://github.com/thinca/config/blob/master/dotfiles/dot.vim/vimrc'
+    - url: 'https://github.com/pfrcks/dotfiles/blob/master/vimrc'
       name: vimrc
-      hash: null
-    - url: 'https://github.com/thinca/config/blob/master/dotfiles/dot.vim/dein.vim'
-      name: dein.vim
       hash: null
   part: null
   other: null
