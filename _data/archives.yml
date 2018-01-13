@@ -8106,3 +8106,19 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a50d6670505ad8b45c01597'
+- id: 289
+  date: '2018-01-13 23:00'
+  author:
+    name: pfrcks
+    url: 'https://github.com/pfrcks'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/pfrcks/dotfiles/blob/8667bb4102df7e6000c434690a3f8b7bd49a8ff4/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/pfrcks/dotfiles/8667bb4102df7e6000c434690a3f8b7bd49a8ff4/vimrc'
+      hash: 8667bb4102df7e6000c434690a3f8b7bd49a8ff4
+  part: null
+  other: null
+  members:
+    - dohq
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a5a11256117191e615ef8e6'
