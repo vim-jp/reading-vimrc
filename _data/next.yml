@@ -1,10 +1,10 @@
-- id: 289
-  date: '2018-01-13 23:00'
+- id: 290
+  date: '2018-01-20 23:00'
   author:
-    name: pfrcks
-    url: 'https://github.com/pfrcks'
+    name: jsatk
+    url: 'https://github.com/jsatk'
   vimrcs:
-    - url: 'https://github.com/pfrcks/dotfiles/blob/master/vimrc'
+    - url: 'https://github.com/jsatk/dotfiles/blob/master/vimrc'
       name: vimrc
       hash: null
   part: null
