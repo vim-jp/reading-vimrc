@@ -8122,3 +8122,23 @@
     - dohq
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a5a11256117191e615ef8e6'
+- id: 290
+  date: '2018-01-20 23:00'
+  author:
+    name: jsatk
+    url: 'https://github.com/jsatk'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/jsatk/dotfiles/blob/9c74e9176745c51f45e7a0fe992cb441461b65ba/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/jsatk/dotfiles/9c74e9176745c51f45e7a0fe992cb441461b65ba/vimrc'
+      hash: 9c74e9176745c51f45e7a0fe992cb441461b65ba
+  part: null
+  other: null
+  members:
+    - callmekohei
+    - dohq
+    - k-takata
+    - thinca
+    - tyru
+    - xuanduc987
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a634b699cdc721e4fa6d2b4'
