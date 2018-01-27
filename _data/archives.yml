@@ -8142,3 +8142,22 @@
     - tyru
     - xuanduc987
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a634b699cdc721e4fa6d2b4'
+- id: 291
+  date: '2018-01-27 23:00'
+  author:
+    name: jsatk
+    url: 'https://github.com/jsatk'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/jsatk/dotfiles/blob/9c74e9176745c51f45e7a0fe992cb441461b65ba/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/jsatk/dotfiles/9c74e9176745c51f45e7a0fe992cb441461b65ba/vimrc'
+      hash: 9c74e9176745c51f45e7a0fe992cb441461b65ba
+  part: 後編
+  other: null
+  members:
+    - lighttiger2505
+    - thinca
+    - tyru
+    - ujihisa
+    - xuanduc987
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a6c87ef19147ac3231c254b'
