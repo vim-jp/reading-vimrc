@@ -8161,3 +8161,24 @@
     - ujihisa
     - xuanduc987
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a6c87ef19147ac3231c254b'
+- id: 292
+  date: '2018-02-03 23:00'
+  author:
+    name: darookee
+    url: 'https://github.com/darookee'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/darookee/dotfiles/blob/2c11a0d322c04c549d13d9cacb282d1e44a5a3c7/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/darookee/dotfiles/2c11a0d322c04c549d13d9cacb282d1e44a5a3c7/vimrc'
+      hash: 2c11a0d322c04c549d13d9cacb282d1e44a5a3c7
+  part: null
+  other: null
+  members:
+    - anekos
+    - dohq
+    - hokorobi
+    - thinca
+    - tyru
+    - ujihisa
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a75c0c219147ac3231c6fd1'
