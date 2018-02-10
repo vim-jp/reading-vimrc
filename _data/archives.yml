@@ -8182,3 +8182,20 @@
     - ujihisa
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a75c0c219147ac3231c6fd1'
+- id: 293
+  date: '2018-02-10 23:00'
+  author:
+    name: zoopp
+    url: 'https://github.com/zoopp'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/zoopp/dotfiles/blob/9a521bbe7f155dee1bef04bfbf4304164bc6a608/neovim/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/zoopp/dotfiles/9a521bbe7f155dee1bef04bfbf4304164bc6a608/neovim/.config/nvim/init.vim'
+      hash: 9a521bbe7f155dee1bef04bfbf4304164bc6a608
+  part: null
+  other: null
+  members:
+    - anekos
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a7efb59b3c4a0d376066562'
