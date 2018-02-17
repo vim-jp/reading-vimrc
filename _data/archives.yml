@@ -8199,3 +8199,21 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a7efb59b3c4a0d376066562'
+- id: 294
+  date: '2018-02-17 23:00'
+  author:
+    name: sethwoodworth
+    url: 'https://github.com/sethwoodworth'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/sethwoodworth/config-neovim/blob/59a7b2d2b0548800b0d89ee23179de8c0fde2e18/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/sethwoodworth/config-neovim/59a7b2d2b0548800b0d89ee23179de8c0fde2e18/init.vim'
+      hash: 59a7b2d2b0548800b0d89ee23179de8c0fde2e18
+  part: null
+  other: null
+  members:
+    - thinca
+    - ujihisa
+    - y0za
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a8835662dfcfffd2b2a779c'
