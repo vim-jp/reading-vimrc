@@ -8217,3 +8217,54 @@
     - y0za
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a8835662dfcfffd2b2a779c'
+- id: 295
+  date: '2018-02-24 23:00'
+  author:
+    name: hfm
+    url: 'https://github.com/hfm'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/vimrc'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+    - name: plugins.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.vim'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+    - name: ctrlp.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/ctrlp.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/ctrlp.rc.vim'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+    - name: lightline.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/lightline.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/lightline.rc.vim'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+    - name: memolist.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/memolist.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/memolist.rc.vim'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+    - name: neocomplete.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/neocomplete.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/neocomplete.rc.vim'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+    - name: neosnippet.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/neosnippet.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/neosnippet.rc.vim'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+    - name: quickrun.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/quickrun.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/quickrun.rc.vim'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+    - name: watchdogs.rc.vim
+      url: 'https://github.com/hfm/.vim/blob/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/watchdogs.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/hfm/.vim/ed345b438154aeecad2f2667aaa08d0c480bada4/plugins.rc.d/watchdogs.rc.vim'
+      hash: ed345b438154aeecad2f2667aaa08d0c480bada4
+  part: null
+  other: null
+  members:
+    - hokorobi
+    - thinca
+    - ujihisa
+    - wtsnjp
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a916ff0a2194eb80da93603'
