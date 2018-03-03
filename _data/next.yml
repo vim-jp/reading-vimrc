@@ -1,11 +1,11 @@
-- id: 296
-  date: '2018-03-03 23:00'
+- id: 297
+  date: '2018-03-10 23:00'
   author:
-    name: dohq
-    url: 'https://github.com/dohq'
+    name: acepukas
+    url: 'https://github.com/acepukas'
   vimrcs:
-    - url: 'https://github.com/dohq/dotfiles/blob/master/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/acepukas/dotfiles/blob/master/vim/vimrc'
+      name: vimrc
       hash: null
   part: null
   other: null
