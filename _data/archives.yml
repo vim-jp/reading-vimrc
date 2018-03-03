@@ -8268,3 +8268,23 @@
     - wtsnjp
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a916ff0a2194eb80da93603'
+- id: 296
+  date: '2018-03-03 23:00'
+  author:
+    name: dohq
+    url: 'https://github.com/dohq'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/dohq/dotfiles/blob/a4380cf1d6ac9154ed09374463f5b9124a48858e/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/dohq/dotfiles/a4380cf1d6ac9154ed09374463f5b9124a48858e/.vimrc'
+      hash: a4380cf1d6ac9154ed09374463f5b9124a48858e
+  part: null
+  other: null
+  members:
+    - dohq
+    - k-takata
+    - mattn
+    - thinca
+    - ujihisa
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a9aaa6f3fe1be3704c9609c'
