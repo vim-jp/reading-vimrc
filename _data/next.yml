@@ -7,5 +7,13 @@
     - url: 'https://github.com/acepukas/dotfiles/blob/master/vim/vimrc'
       name: vimrc
       hash: null
+    - url: >-
+        https://github.com/acepukas/dotfiles/blob/master/vim/plugin/plugin_config.vim
+      name: plugin_config.vim
+      hash: null
+    - url: >-
+        https://github.com/acepukas/dotfiles/blob/master/vim/plugin/lightline_config.vim
+      name: lightline_config.vim
+      hash: null
   part: null
   other: null
