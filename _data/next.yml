@@ -1,19 +1,14 @@
-- id: 297
-  date: '2018-03-10 23:00'
+- id: 298
+  date: '2018-03-17 23:00'
   author:
-    name: acepukas
-    url: 'https://github.com/acepukas'
+    name: ueaner
+    url: 'https://github.com/ueaner'
   vimrcs:
-    - url: 'https://github.com/acepukas/dotfiles/blob/master/vim/vimrc'
+    - url: 'https://github.com/ueaner/vimrc/blob/master/vimrc'
       name: vimrc
       hash: null
-    - url: >-
-        https://github.com/acepukas/dotfiles/blob/master/vim/plugin/plugin_config.vim
-      name: plugin_config.vim
-      hash: null
-    - url: >-
-        https://github.com/acepukas/dotfiles/blob/master/vim/plugin/lightline_config.vim
-      name: lightline_config.vim
+    - url: 'https://github.com/ueaner/vimrc/blob/master/gvimrc'
+      name: gvimrc
       hash: null
   part: null
   other: null
