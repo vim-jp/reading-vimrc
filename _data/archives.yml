@@ -8288,3 +8288,30 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5a9aaa6f3fe1be3704c9609c'
+- id: 297
+  date: '2018-03-10 23:00'
+  author:
+    name: acepukas
+    url: 'https://github.com/acepukas'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/acepukas/dotfiles/blob/32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/acepukas/dotfiles/32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc/vim/vimrc'
+      hash: 32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc
+    - name: plugin_config.vim
+      url: 'https://github.com/acepukas/dotfiles/blob/32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc/vim/plugin/plugin_config.vim'
+      raw_url: 'https://raw.githubusercontent.com/acepukas/dotfiles/32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc/vim/plugin/plugin_config.vim'
+      hash: 32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc
+    - name: lightline_config.vim
+      url: 'https://github.com/acepukas/dotfiles/blob/32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc/vim/plugin/lightline_config.vim'
+      raw_url: 'https://raw.githubusercontent.com/acepukas/dotfiles/32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc/vim/plugin/lightline_config.vim'
+      hash: 32ead4b6ed9b9ef1143cb6b0d6f4460a6b2005bc
+  part: null
+  other: null
+  members:
+    - dohq
+    - lighttiger2505
+    - thinca
+    - ujihisa
+    - ysaito8015
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5aa3e4f5e4d1c63604e408ab'
