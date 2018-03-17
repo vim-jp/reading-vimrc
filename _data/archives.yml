@@ -8315,3 +8315,24 @@
     - ujihisa
     - ysaito8015
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5aa3e4f5e4d1c63604e408ab'
+- id: 298
+  date: '2018-03-17 23:00'
+  author:
+    name: ueaner
+    url: 'https://github.com/ueaner'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/ueaner/vimrc/blob/080f1f87941eef801e87750e8b95b99544d0d15a/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ueaner/vimrc/080f1f87941eef801e87750e8b95b99544d0d15a/vimrc'
+      hash: 080f1f87941eef801e87750e8b95b99544d0d15a
+    - name: gvimrc
+      url: 'https://github.com/ueaner/vimrc/blob/080f1f87941eef801e87750e8b95b99544d0d15a/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/ueaner/vimrc/080f1f87941eef801e87750e8b95b99544d0d15a/gvimrc'
+      hash: 080f1f87941eef801e87750e8b95b99544d0d15a
+  part: null
+  other: null
+  members:
+    - dohq
+    - thinca
+    - y0za
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5aad1f67bb1018b37af52152'
