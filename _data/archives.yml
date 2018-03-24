@@ -8336,3 +8336,41 @@
     - thinca
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5aad1f67bb1018b37af52152'
+- id: 299
+  date: '2018-03-24 23:00'
+  author:
+    name: k1sul1
+    url: 'https://github.com/k1sul1'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/k1sul1/.dotfiles/blob/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/k1sul1/.dotfiles/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.config/nvim/init.vim'
+      hash: f0ccd43bbe6b711fe633390748eb6a53cb2376a7
+    - name: init.vimrc
+      url: 'https://github.com/k1sul1/.dotfiles/blob/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/init.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/k1sul1/.dotfiles/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/init.vimrc'
+      hash: f0ccd43bbe6b711fe633390748eb6a53cb2376a7
+    - name: theme.vimrc
+      url: 'https://github.com/k1sul1/.dotfiles/blob/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/theme.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/k1sul1/.dotfiles/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/theme.vimrc'
+      hash: f0ccd43bbe6b711fe633390748eb6a53cb2376a7
+    - name: plugins.vimrc
+      url: 'https://github.com/k1sul1/.dotfiles/blob/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/plugins.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/k1sul1/.dotfiles/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/plugins.vimrc'
+      hash: f0ccd43bbe6b711fe633390748eb6a53cb2376a7
+    - name: general.vimrc
+      url: 'https://github.com/k1sul1/.dotfiles/blob/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/general.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/k1sul1/.dotfiles/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/general.vimrc'
+      hash: f0ccd43bbe6b711fe633390748eb6a53cb2376a7
+    - name: mappings.vimrc
+      url: 'https://github.com/k1sul1/.dotfiles/blob/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/mappings.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/k1sul1/.dotfiles/f0ccd43bbe6b711fe633390748eb6a53cb2376a7/.vim/config/mappings.vimrc'
+      hash: f0ccd43bbe6b711fe633390748eb6a53cb2376a7
+  part: null
+  other: null
+  members:
+    - dohq
+    - rbtnn
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ab65a537685a046389cf8b6'
