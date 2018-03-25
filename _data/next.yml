@@ -1,29 +1,14 @@
-- id: 299
-  date: '2018-03-24 23:00'
+- id: 300
+  date: '2018-03-31 23:00'
   author:
-    name: k1sul1
-    url: 'https://github.com/k1sul1'
+    name: diegoholiveira
+    url: 'https://github.com/diegoholiveira'
   vimrcs:
-    - url: 'https://github.com/k1sul1/.dotfiles/blob/master/.config/nvim/init.vim'
-      name: init.vim
+    - url: 'https://github.com/diegoholiveira/dotfiles/blob/master/vim/vimrc'
+      name: vimrc
       hash: null
-    - url: 'https://github.com/k1sul1/.dotfiles/blob/master/.vim/config/init.vimrc'
-      name: init.vimrc
-      hash: null
-    - url: 'https://github.com/k1sul1/.dotfiles/blob/master/.vim/config/theme.vimrc'
-      name: theme.vimrc
-      hash: null
-    - url: >-
-        https://github.com/k1sul1/.dotfiles/blob/master/.vim/config/plugins.vimrc
-      name: plugins.vimrc
-      hash: null
-    - url: >-
-        https://github.com/k1sul1/.dotfiles/blob/master/.vim/config/general.vimrc
-      name: general.vimrc
-      hash: null
-    - url: >-
-        https://github.com/k1sul1/.dotfiles/blob/master/.vim/config/mappings.vimrc
-      name: mappings.vimrc
+    - url: 'https://github.com/diegoholiveira/dotfiles/blob/master/vim/gvimrc'
+      name: gvimrc
       hash: null
   part: null
   other: null
