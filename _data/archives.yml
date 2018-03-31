@@ -8374,3 +8374,28 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ab65a537685a046389cf8b6'
+- id: 300
+  date: '2018-03-31 23:00'
+  author:
+    name: diegoholiveira
+    url: 'https://github.com/diegoholiveira'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/diegoholiveira/dotfiles/blob/8f84ac6ba2cf62f49e8e0c0eadc75d2e709f851e/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/diegoholiveira/dotfiles/8f84ac6ba2cf62f49e8e0c0eadc75d2e709f851e/vim/vimrc'
+      hash: 8f84ac6ba2cf62f49e8e0c0eadc75d2e709f851e
+    - name: gvimrc
+      url: 'https://github.com/diegoholiveira/dotfiles/blob/8f84ac6ba2cf62f49e8e0c0eadc75d2e709f851e/vim/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/diegoholiveira/dotfiles/8f84ac6ba2cf62f49e8e0c0eadc75d2e709f851e/vim/gvimrc'
+      hash: 8f84ac6ba2cf62f49e8e0c0eadc75d2e709f851e
+  part: null
+  other: null
+  members:
+    - dohq
+    - lighttiger2505
+    - quasikuu
+    - rbtnn
+    - rozeroze
+    - tamy0612
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5abf948192f5d620577ce80b'
