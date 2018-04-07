@@ -1,11 +1,15 @@
-- id: 301
-  date: '2018-04-07 23:00'
+- id: 302
+  date: '2018-04-14 23:00'
   author:
-    name: urbainvaes
-    url: 'https://github.com/urbainvaes'
+    name: AdnoC
+    url: 'https://github.com/AdnoC'
   vimrcs:
-    - url: 'https://github.com/urbainvaes/dotfiles/blob/master/vim/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/AdnoC/Dotfiles/blob/vimrc-review/vim/init.vim'
+      name: init.vim
       hash: null
-  part: null
+    - url: >-
+        https://github.com/AdnoC/Dotfiles/blob/vimrc-review/vim/.vimrc_plugin.vim
+      name: .vimrc_plugin.vim
+      hash: null
+  part: 前編
   other: null
