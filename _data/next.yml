@@ -1,19 +1,20 @@
-- id: 302
-  date: '2018-04-14 23:00'
+- id: 303
+  date: '2018-04-21 23:00'
   author:
     name: AdnoC
     url: 'https://github.com/AdnoC'
   vimrcs:
-    - url: 'https://github.com/AdnoC/Dotfiles/blob/master/vim/symlink..vimrc'
-      name: 'symlink..vimrc'
-      hash: null
     - url: >-
-        https://github.com/AdnoC/Dotfiles/blob/master/vim/symlink..vimrc_plugin
-      name: 'symlink..vimrc_plugin'
-      hash: null
+        https://github.com/AdnoC/Dotfiles/blob/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink..vimrc
+      name: symlink..vimrc
+      hash: 1a6ada896c9787f3665b7865e21715f75c20cd19
     - url: >-
-        https://github.com/AdnoC/Dotfiles/blob/master/vim/symlink.ginit.vim
-      name: 'symlink.ginit.vim'
-      hash: null
-  part: 前編
+        https://github.com/AdnoC/Dotfiles/blob/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink..vimrc_plugin
+      name: symlink..vimrc_plugin
+      hash: 1a6ada896c9787f3665b7865e21715f75c20cd19
+    - url: >-
+        https://github.com/AdnoC/Dotfiles/blob/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink.ginit.vim
+      name: symlink.ginit.vim
+      hash: 1a6ada896c9787f3665b7865e21715f75c20cd19
+  part: 中編
   other: null
