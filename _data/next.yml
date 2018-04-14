@@ -4,12 +4,16 @@
     name: AdnoC
     url: 'https://github.com/AdnoC'
   vimrcs:
-    - url: 'https://github.com/AdnoC/Dotfiles/blob/vimrc-review/vim/init.vim'
-      name: init.vim
+    - url: 'https://github.com/AdnoC/Dotfiles/blob/master/vim/symlink..vimrc'
+      name: 'symlink..vimrc'
       hash: null
     - url: >-
-        https://github.com/AdnoC/Dotfiles/blob/vimrc-review/vim/.vimrc_plugin.vim
-      name: .vimrc_plugin.vim
+        https://github.com/AdnoC/Dotfiles/blob/master/vim/symlink..vimrc_plugin
+      name: 'symlink..vimrc_plugin'
+      hash: null
+    - url: >-
+        https://github.com/AdnoC/Dotfiles/blob/master/vim/symlink.ginit.vim
+      name: 'symlink.ginit.vim'
       hash: null
   part: 前編
   other: null
