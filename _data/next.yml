@@ -1,5 +1,5 @@
-- id: 303
-  date: '2018-04-21 23:00'
+- id: 304
+  date: '2018-04-28 23:00'
   author:
     name: AdnoC
     url: 'https://github.com/AdnoC'
@@ -16,5 +16,5 @@
         https://github.com/AdnoC/Dotfiles/blob/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink.ginit.vim
       name: symlink.ginit.vim
       hash: 1a6ada896c9787f3665b7865e21715f75c20cd19
-  part: 中編
+  part: 後編
   other: null
