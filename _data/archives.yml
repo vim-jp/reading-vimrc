@@ -8475,3 +8475,28 @@
     - ujihisa
     - y0za
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5adb43e87685a046389dcfc7'
+- id: 304
+  date: '2018-04-28 23:00'
+  author:
+    name: AdnoC
+    url: 'https://github.com/AdnoC'
+  vimrcs:
+    - name: symlink..vimrc
+      url: 'https://github.com/AdnoC/Dotfiles/blob/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink..vimrc'
+      raw_url: 'https://raw.githubusercontent.com/AdnoC/Dotfiles/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink..vimrc'
+      hash: 1a6ada896c9787f3665b7865e21715f75c20cd19
+    - name: symlink..vimrc_plugin
+      url: 'https://github.com/AdnoC/Dotfiles/blob/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink..vimrc_plugin'
+      raw_url: 'https://raw.githubusercontent.com/AdnoC/Dotfiles/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink..vimrc_plugin'
+      hash: 1a6ada896c9787f3665b7865e21715f75c20cd19
+    - name: symlink.ginit.vim
+      url: 'https://github.com/AdnoC/Dotfiles/blob/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink.ginit.vim'
+      raw_url: 'https://raw.githubusercontent.com/AdnoC/Dotfiles/1a6ada896c9787f3665b7865e21715f75c20cd19/vim/symlink.ginit.vim'
+      hash: 1a6ada896c9787f3665b7865e21715f75c20cd19
+  part: 後編
+  other: null
+  members:
+    - anekos
+    - quasikuu
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ae47e6b5d7286b43a794990'
