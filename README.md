@@ -1,7 +1,7 @@
 vimrc読書会まとめ
 ==================
 
-http://vim-jp.org/reading-vimrc/
+https://vim-jp.org/reading-vimrc/
 
 
 :memo: 更新手順
