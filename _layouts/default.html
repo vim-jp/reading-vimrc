@@ -3,9 +3,9 @@ layout: base
 ---
 <div id="title">
   {% if page.url == '/index.html' %}
-      <a href="{{ site.github.url }}/{{ page.url | remove_first:'/' | replace:'index.html','' }}"><h1><img src="/reading-vimrc/images/logo.png" alt="vimrc読書会" /></h1></a>
+      <a href="{{ site.github.url | replace: 'http://', '//' }}/{{ page.url | remove_first:'/' | replace:'index.html','' }}"><h1><img src="/reading-vimrc/images/logo.png" alt="vimrc読書会" /></h1></a>
   {% else %}
-      <a href="{{ site.github.url }}/{{ page.url | remove_first:'/' }}"><h1><img src="/reading-vimrc/images/logo.png" alt="vimrc読書会" /></h1></a>
+      <a href="{{ site.github.url | replace: 'http://', '//' }}/{{ page.url | remove_first:'/' }}"><h1><img src="/reading-vimrc/images/logo.png" alt="vimrc読書会" /></h1></a>
   {% endif %}
   <p></p>
   <hr>

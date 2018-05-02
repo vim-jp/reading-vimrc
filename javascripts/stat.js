@@ -46,7 +46,7 @@
                 $location.path('/u/' + $scope.user_query);
             };
 
-            $http({method: 'GET', url: '{{ site.github.url }}/json/archives.json'})
+            $http({method: 'GET', url: "{{ site.github.url | replace: 'http://', '//' }}/json/archives.json"})
                 .success(function(data, status, headers, config) {
                     Members.init(data);
                     $scope.users = Members.members;
@@ -107,7 +107,7 @@
     app.controller('ParticipationRank', ['$scope', '$http', function($scope, $http) {
         $scope.members = [];
 
-        $http({method: 'GET', url: '{{ site.github.url }}/json/archives.json'})
+        $http({method: 'GET', url: "{{ site.github.url | replace: 'http://', '//' }}/json/archives.json"})
             .success(function(data, status, headers, config) {
                 Members.init(data);
                 $scope.members = Members.members;
