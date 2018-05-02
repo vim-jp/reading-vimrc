@@ -2,7 +2,7 @@
 layout: base
 ---
 <div id="title">
-  <a href="{{ site.github.url }}/{{ page.url | remove_first:'/' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
+  <a href="{{ site.github.url | replace: 'http://', '//' }}/{{ page.url | remove_first:'/' }}"><h1>{% if page.title %}{{ page.title }}{% endif %}</h1></a>
   <p></p>
   <hr>
 </div>
