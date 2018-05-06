@@ -1,11 +1,11 @@
-- id: 305
-  date: '2018-05-05 23:00'
+- id: 306
+  date: '2018-05-12 23:00'
   author:
-    name: GosuSan
-    url: 'https://github.com/GosuSan'
+    name: reireias
+    url: 'https://github.com/reireias'
   vimrcs:
-    - url: 'https://github.com/GosuSan/vimconfig/blob/master/vimrc'
-      name: vimrc
+    - url: 'https://github.com/reireias/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
