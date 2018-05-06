@@ -8500,3 +8500,20 @@
     - quasikuu
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ae47e6b5d7286b43a794990'
+- id: 305
+  date: '2018-05-05 23:00'
+  author:
+    name: GosuSan
+    url: 'https://github.com/GosuSan'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/GosuSan/vimconfig/blob/98c84d9a6d249422f424542b5cc1b142ba4dceeb/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/GosuSan/vimconfig/98c84d9a6d249422f424542b5cc1b142ba4dceeb/vimrc'
+      hash: 98c84d9a6d249422f424542b5cc1b142ba4dceeb
+  part: null
+  other: null
+  members:
+    - anekos
+    - kuuote
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5aedb7d459cb265bfc83f8b0'
