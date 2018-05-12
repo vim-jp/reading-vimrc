@@ -8517,3 +8517,21 @@
     - kuuote
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5aedb7d459cb265bfc83f8b0'
+- id: 306
+  date: '2018-05-12 23:00'
+  author:
+    name: reireias
+    url: 'https://github.com/reireias'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/reireias/dotfiles/blob/6aeb1abe3efb4b87f3d27173b0599808e45ce919/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/reireias/dotfiles/6aeb1abe3efb4b87f3d27173b0599808e45ce919/.vimrc'
+      hash: 6aeb1abe3efb4b87f3d27173b0599808e45ce919
+  part: null
+  other: null
+  members:
+    - anekos
+    - hokorobi
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5af6f364f04ce53632d07c7d'
