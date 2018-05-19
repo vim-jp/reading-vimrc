@@ -8535,3 +8535,27 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5af6f364f04ce53632d07c7d'
+- id: 307
+  date: '2018-05-19 23:00'
+  author:
+    name: hananana
+    url: 'https://github.com/hananana'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/hananana/dotfiles/blob/318df502f6f10fda6e3ca1ff5e0e7a3ed5053ec8/src/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/hananana/dotfiles/318df502f6f10fda6e3ca1ff5e0e7a3ed5053ec8/src/vimrc'
+      hash: 318df502f6f10fda6e3ca1ff5e0e7a3ed5053ec8
+    - name: gvimrc
+      url: 'https://github.com/hananana/dotfiles/blob/318df502f6f10fda6e3ca1ff5e0e7a3ed5053ec8/src/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/hananana/dotfiles/318df502f6f10fda6e3ca1ff5e0e7a3ed5053ec8/src/gvimrc'
+      hash: 318df502f6f10fda6e3ca1ff5e0e7a3ed5053ec8
+  part: null
+  other: null
+  members:
+    - anekos
+    - callmekohei
+    - hokorobi
+    - kuuote
+    - lighttiger2505
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b002dea4b9c3e259cc24a26'
