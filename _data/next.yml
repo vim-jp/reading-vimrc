@@ -1,14 +1,11 @@
-- id: 307
-  date: '2018-05-19 23:00'
+- id: 308
+  date: '2018-05-26 23:00'
   author:
-    name: hananana
-    url: 'https://github.com/hananana'
+    name: Buhrietoe
+    url: 'https://github.com/Buhrietoe'
   vimrcs:
-    - url: 'https://github.com/hananana/dotfiles/blob/master/src/vimrc'
-      name: vimrc
-      hash: null
-    - url: 'https://github.com/hananana/dotfiles/blob/master/src/gvimrc'
-      name: gvimrc
+    - url: 'https://github.com/Buhrietoe/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
