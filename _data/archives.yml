@@ -8559,3 +8559,20 @@
     - lighttiger2505
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b002dea4b9c3e259cc24a26'
+- id: 308
+  date: '2018-05-26 23:00'
+  author:
+    name: Buhrietoe
+    url: 'https://github.com/Buhrietoe'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Buhrietoe/dotfiles/blob/5464b30f6dcad7b407b9ba7a6b317660aded8b42/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Buhrietoe/dotfiles/5464b30f6dcad7b407b9ba7a6b317660aded8b42/.vimrc'
+      hash: 5464b30f6dcad7b407b9ba7a6b317660aded8b42
+  part: null
+  other: null
+  members:
+    - anekos
+    - kuuote
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b09687bba1a351a68c6cf63'
