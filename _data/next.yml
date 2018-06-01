@@ -4,7 +4,7 @@
     name: Emiller88
     url: 'https://github.com/Emiller88'
   vimrcs:
-    - url: 'https://github.com/Emiller88/dotfiles/blob/master/.vimrc'
+    - url: 'https://github.com/Emiller88/dotfiles/blob/master/editor/vim/.vimrc'
       name: .vimrc
       hash: null
   part: null
