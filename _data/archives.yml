@@ -8576,3 +8576,22 @@
     - kuuote
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b09687bba1a351a68c6cf63'
+- id: 309
+  date: '2018-06-02 23:00'
+  author:
+    name: Emiller88
+    url: 'https://github.com/Emiller88'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Emiller88/dotfiles/blob/8f32b30a9a5223ae2fb7e4be2d75644100f72e7a/editor/vim/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Emiller88/dotfiles/8f32b30a9a5223ae2fb7e4be2d75644100f72e7a/editor/vim/.vimrc'
+      hash: 8f32b30a9a5223ae2fb7e4be2d75644100f72e7a
+  part: null
+  other: null
+  members:
+    - anekos
+    - hokorobi
+    - kuuote
+    - mityu
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b12a58199fa7f4c063c51dd'
