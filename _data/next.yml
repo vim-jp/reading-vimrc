@@ -1,11 +1,11 @@
-- id: 309
-  date: '2018-06-02 23:00'
+- id: 310
+  date: '2018-06-09 23:00'
   author:
-    name: Emiller88
-    url: 'https://github.com/Emiller88'
+    name: justinmk
+    url: 'https://github.com/justinmk'
   vimrcs:
-    - url: 'https://github.com/Emiller88/dotfiles/blob/master/editor/vim/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/justinmk/config/blob/master/.config/nvim/init.vim'
+      name: init.vim
       hash: null
-  part: null
+  part: 前編
   other: null
