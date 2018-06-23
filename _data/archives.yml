@@ -8632,3 +8632,23 @@
     - kuuote
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b2519751ee2d149ecc752f9'
+- id: 312
+  date: '2018-06-23 23:00'
+  author:
+    name: justinmk
+    url: 'https://github.com/justinmk'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/justinmk/config/blob/ef5a0b7756aa5010a5a14dfb91b8c16053e1a5e7/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/justinmk/config/ef5a0b7756aa5010a5a14dfb91b8c16053e1a5e7/.config/nvim/init.vim'
+      hash: ef5a0b7756aa5010a5a14dfb91b8c16053e1a5e7
+  part: 後編
+  other: null
+  members:
+    - anekos
+    - kuuote
+    - rbtnn
+    - thinca
+    - ujihisa
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b2e52717e41a20914a1b277'
