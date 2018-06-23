@@ -1,12 +1,14 @@
-- id: 312
-  date: '2018-06-23 23:00'
+- id: 313
+  date: '2018-06-30 23:00'
   author:
-    name: justinmk
-    url: 'https://github.com/justinmk'
+    name: ujihisa
+    url: 'https://github.com/ujihisa'
   vimrcs:
-    - url: >-
-        https://github.com/justinmk/config/blob/ef5a0b7756aa5010a5a14dfb91b8c16053e1a5e7/.config/nvim/init.vim
-      name: init.vim
-      hash: ef5a0b7756aa5010a5a14dfb91b8c16053e1a5e7
-  part: 後編
+    - url: 'https://github.com/ujihisa/config/blob/master/_vimrc'
+      name: _vimrc
+      hash: null
+    - url: 'https://github.com/ujihisa/config/blob/master/_gvimrc'
+      name: _gvimrc
+      hash: null
+  part: 前編
   other: null
