@@ -1,14 +1,16 @@
-- id: 313
-  date: '2018-06-30 23:00'
+- id: 314
+  date: '2018-07-07 23:00'
   author:
     name: ujihisa
     url: 'https://github.com/ujihisa'
   vimrcs:
-    - url: 'https://github.com/ujihisa/config/blob/master/_vimrc'
+    - url: >-
+        https://github.com/ujihisa/config/blob/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_vimrc
       name: _vimrc
-      hash: null
-    - url: 'https://github.com/ujihisa/config/blob/master/_gvimrc'
+      hash: 2244bc5870f3c4eed0587f71f81662a7a3dd4b85
+    - url: >-
+        https://github.com/ujihisa/config/blob/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_gvimrc
       name: _gvimrc
-      hash: null
-  part: 前編
+      hash: 2244bc5870f3c4eed0587f71f81662a7a3dd4b85
+  part: 中編
   other: null
