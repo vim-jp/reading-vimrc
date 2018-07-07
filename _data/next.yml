@@ -1,5 +1,5 @@
-- id: 314
-  date: '2018-07-07 23:00'
+- id: 315
+  date: '2018-07-14 23:00'
   author:
     name: ujihisa
     url: 'https://github.com/ujihisa'
@@ -12,5 +12,5 @@
         https://github.com/ujihisa/config/blob/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_gvimrc
       name: _gvimrc
       hash: 2244bc5870f3c4eed0587f71f81662a7a3dd4b85
-  part: 中編
+  part: 後編
   other: null
