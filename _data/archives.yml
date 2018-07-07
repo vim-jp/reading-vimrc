@@ -8675,3 +8675,26 @@
     - mityu
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b378ce8e2d42269e37f9840'
+- id: 314
+  date: '2018-07-07 23:00'
+  author:
+    name: ujihisa
+    url: 'https://github.com/ujihisa'
+  vimrcs:
+    - name: _vimrc
+      url: 'https://github.com/ujihisa/config/blob/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ujihisa/config/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_vimrc'
+      hash: 2244bc5870f3c4eed0587f71f81662a7a3dd4b85
+    - name: _gvimrc
+      url: 'https://github.com/ujihisa/config/blob/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/ujihisa/config/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_gvimrc'
+      hash: 2244bc5870f3c4eed0587f71f81662a7a3dd4b85
+  part: 中編
+  other: null
+  members:
+    - callmekohei
+    - hujo
+    - kuuote
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b40c76989db5e701ca998f9'
