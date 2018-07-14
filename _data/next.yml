@@ -1,16 +1,11 @@
-- id: 315
-  date: '2018-07-14 23:00'
+- id: 316
+  date: '2018-07-21 23:00'
   author:
-    name: ujihisa
-    url: 'https://github.com/ujihisa'
+    name: pocke
+    url: 'https://github.com/pocke'
   vimrcs:
-    - url: >-
-        https://github.com/ujihisa/config/blob/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_vimrc
-      name: _vimrc
-      hash: 2244bc5870f3c4eed0587f71f81662a7a3dd4b85
-    - url: >-
-        https://github.com/ujihisa/config/blob/2244bc5870f3c4eed0587f71f81662a7a3dd4b85/_gvimrc
-      name: _gvimrc
-      hash: 2244bc5870f3c4eed0587f71f81662a7a3dd4b85
-  part: 後編
+    - url: 'https://github.com/pocke/dotfiles/blob/master/.vimrc'
+      name: .vimrc
+      hash: null
+  part: 前編
   other: null
