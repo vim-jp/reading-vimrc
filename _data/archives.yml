@@ -8720,3 +8720,22 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b4a0431b6b6632c7f1b2d96'
+- id: 316
+  date: '2018-07-21 23:00'
+  author:
+    name: pocke
+    url: 'https://github.com/pocke'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/pocke/dotfiles/blob/9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/pocke/dotfiles/9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d/.vimrc'
+      hash: 9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d
+  part: 前編
+  other: null
+  members:
+    - hokorobi
+    - kuuote
+    - pocke
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b533c6bd1d684710786d936'
