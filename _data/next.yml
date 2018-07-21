@@ -1,11 +1,12 @@
-- id: 316
-  date: '2018-07-21 23:00'
+- id: 317
+  date: '2018-07-28 23:00'
   author:
     name: pocke
     url: 'https://github.com/pocke'
   vimrcs:
-    - url: 'https://github.com/pocke/dotfiles/blob/master/.vimrc'
+    - url: >-
+        https://github.com/pocke/dotfiles/blob/9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d/.vimrc
       name: .vimrc
-      hash: null
-  part: 前編
+      hash: 9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d
+  part: 中編
   other: null
