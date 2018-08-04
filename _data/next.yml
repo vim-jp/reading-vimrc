@@ -1,12 +1,14 @@
-- id: 318
-  date: '2018-08-04 23:00'
+- id: 319
+  date: '2018-08-11 23:00'
   author:
-    name: pocke
-    url: 'https://github.com/pocke'
+    name: cocopon
+    url: 'https://github.com/cocopon'
   vimrcs:
-    - url: >-
-        https://github.com/pocke/dotfiles/blob/9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d/.vimrc
+    - url: 'https://github.com/cocopon/dotfiles/blob/master/.vimrc'
       name: .vimrc
-      hash: 9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d
-  part: 後編
+      hash: null
+    - url: 'https://github.com/cocopon/dotfiles/blob/master/.gvimrc'
+      name: .gvimrc
+      hash: null
+  part: 前編
   other: null
