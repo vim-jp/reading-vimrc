@@ -8757,3 +8757,21 @@
     - thinca
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b5c76ead33a5529e4f340e5'
+- id: 318
+  date: '2018-08-04 23:00'
+  author:
+    name: pocke
+    url: 'https://github.com/pocke'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/pocke/dotfiles/blob/9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/pocke/dotfiles/9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d/.vimrc'
+      hash: 9bbd515a52ae1953a6c48a1bbf2260c3c231ca0d
+  part: 後編
+  other: null
+  members:
+    - pocke
+    - rbtnn
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b65b164c79ebc1ae7a89954'
