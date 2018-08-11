@@ -8775,3 +8775,25 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b65b164c79ebc1ae7a89954'
+- id: 319
+  date: '2018-08-11 23:00'
+  author:
+    name: cocopon
+    url: 'https://github.com/cocopon'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/cocopon/dotfiles/blob/29c720860abaed2a909c78f1f240af0dc7e2b5dc/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/cocopon/dotfiles/29c720860abaed2a909c78f1f240af0dc7e2b5dc/.vimrc'
+      hash: 29c720860abaed2a909c78f1f240af0dc7e2b5dc
+    - name: .gvimrc
+      url: 'https://github.com/cocopon/dotfiles/blob/29c720860abaed2a909c78f1f240af0dc7e2b5dc/.gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/cocopon/dotfiles/29c720860abaed2a909c78f1f240af0dc7e2b5dc/.gvimrc'
+      hash: 29c720860abaed2a909c78f1f240af0dc7e2b5dc
+  part: 前編
+  other: null
+  members:
+    - bamchoh
+    - cocopon
+    - mattn
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b6eebf85054ab1410e4a412'
