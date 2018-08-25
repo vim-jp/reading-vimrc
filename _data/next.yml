@@ -1,11 +1,14 @@
-- id: 321
-  date: '2018-08-25 23:00'
+- id: 322
+  date: '2018-09-01 23:00'
   author:
-    name: crowell
-    url: 'https://github.com/crowell'
+    name: bdd
+    url: 'https://github.com/bdd'
   vimrcs:
-    - url: 'https://github.com/crowell/dotfiles/blob/master/vimrc'
+    - url: 'https://github.com/bdd/.vim/blob/master/vimrc'
       name: vimrc
+      hash: null
+    - url: 'https://github.com/bdd/.vim/blob/master/gvimrc'
+      name: gvimrc
       hash: null
   part: null
   other: null
