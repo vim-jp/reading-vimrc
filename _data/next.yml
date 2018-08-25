@@ -1,16 +1,11 @@
-- id: 320
-  date: '2018-08-18 23:00'
+- id: 321
+  date: '2018-08-25 23:00'
   author:
-    name: cocopon
-    url: 'https://github.com/cocopon'
+    name: crowell
+    url: 'https://github.com/crowell'
   vimrcs:
-    - url: >-
-        https://github.com/cocopon/dotfiles/blob/29c720860abaed2a909c78f1f240af0dc7e2b5dc/.vimrc
-      name: .vimrc
-      hash: 29c720860abaed2a909c78f1f240af0dc7e2b5dc
-    - url: >-
-        https://github.com/cocopon/dotfiles/blob/29c720860abaed2a909c78f1f240af0dc7e2b5dc/.gvimrc
-      name: .gvimrc
-      hash: 29c720860abaed2a909c78f1f240af0dc7e2b5dc
-  part: 後編
+    - url: 'https://github.com/crowell/dotfiles/blob/master/vimrc'
+      name: vimrc
+      hash: null
+  part: null
   other: null
