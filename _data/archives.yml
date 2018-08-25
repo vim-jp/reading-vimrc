@@ -8821,3 +8821,19 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b782673157b9d34efa4a584'
+- id: 321
+  date: '2018-08-25 23:00'
+  author:
+    name: crowell
+    url: 'https://github.com/crowell'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/crowell/dotfiles/blob/3fc0a19d764af61708330d9cacc90fe18530c731/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/crowell/dotfiles/3fc0a19d764af61708330d9cacc90fe18530c731/vimrc'
+      hash: 3fc0a19d764af61708330d9cacc90fe18530c731
+  part: null
+  other: null
+  members:
+    - kg8m
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b8160e5f5402f32aa8d6c60'
