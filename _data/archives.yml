@@ -8837,3 +8837,23 @@
     - kg8m
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b8160e5f5402f32aa8d6c60'
+- id: 322
+  date: '2018-09-01 23:00'
+  author:
+    name: bdd
+    url: 'https://github.com/bdd'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/bdd/.vim/blob/25e0ad3a1527d557b3cfa805cf7e399195e66efa/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/bdd/.vim/25e0ad3a1527d557b3cfa805cf7e399195e66efa/vimrc'
+      hash: 25e0ad3a1527d557b3cfa805cf7e399195e66efa
+    - name: gvimrc
+      url: 'https://github.com/bdd/.vim/blob/25e0ad3a1527d557b3cfa805cf7e399195e66efa/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/bdd/.vim/25e0ad3a1527d557b3cfa805cf7e399195e66efa/gvimrc'
+      hash: 25e0ad3a1527d557b3cfa805cf7e399195e66efa
+  part: null
+  other: null
+  members:
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b8a9b6594f8164c17cbe787'
