@@ -8857,3 +8857,27 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b8a9b6594f8164c17cbe787'
+- id: 323
+  date: '2018-09-08 23:00'
+  author:
+    name: GosuSan
+    url: 'https://github.com/GosuSan'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/GosuSan/vimconfig/blob/98c84d9a6d249422f424542b5cc1b142ba4dceeb/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/GosuSan/vimconfig/98c84d9a6d249422f424542b5cc1b142ba4dceeb/vimrc'
+      hash: 98c84d9a6d249422f424542b5cc1b142ba4dceeb
+  part: null
+  other: null
+  members:
+    - anekos
+    - kg8m
+    - kuuote
+    - mattn
+    - rbtnn
+    - takets_twitter
+    - thinca
+    - ujihisa
+    - yoshitia_twitter
+    - yuki-ycino
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b93d5e1ef1aba74637995ae'
