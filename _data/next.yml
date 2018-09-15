@@ -1,10 +1,10 @@
-- id: 324
-  date: '2018-09-15 23:00'
+- id: 325
+  date: '2018-09-22 23:00'
   author:
-    name: dabio
-    url: 'https://github.com/dabio'
+    name: ngrande
+    url: 'https://github.com/ngrande'
   vimrcs:
-    - url: 'https://github.com/dabio/dotfiles/blob/master/.vim/vimrc'
+    - url: 'https://github.com/ngrande/vim/blob/master/vimrc'
       name: vimrc
       hash: null
   part: null
