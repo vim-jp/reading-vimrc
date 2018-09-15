@@ -8881,3 +8881,25 @@
     - yoshitia_twitter
     - yuki-ycino
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b93d5e1ef1aba74637995ae'
+- id: 324
+  date: '2018-09-15 23:00'
+  author:
+    name: dabio
+    url: 'https://github.com/dabio'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/dabio/dotfiles/blob/53de19fec1455fd406073b19cd078b8bd761ce88/.vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/dabio/dotfiles/53de19fec1455fd406073b19cd078b8bd761ce88/.vim/vimrc'
+      hash: 53de19fec1455fd406073b19cd078b8bd761ce88
+  part: null
+  other: null
+  members:
+    - anekos
+    - bamchoh
+    - k-takata
+    - mityu
+    - rbtnn
+    - takets_twitter
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b9d1086fd7157257791ec00'
