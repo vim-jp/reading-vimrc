@@ -8903,3 +8903,25 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5b9d1086fd7157257791ec00'
+- id: 325
+  date: '2018-09-22 23:00'
+  author:
+    name: ngrande
+    url: 'https://github.com/ngrande'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/ngrande/vim/blob/554c3dc3f9239bd0d94817c2753eb6447a6f8bf4/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ngrande/vim/554c3dc3f9239bd0d94817c2753eb6447a6f8bf4/vimrc'
+      hash: 554c3dc3f9239bd0d94817c2753eb6447a6f8bf4
+  part: null
+  other: null
+  members:
+    - anekos
+    - bamchoh
+    - kg8m
+    - kuuote
+    - rbtnn
+    - thinca
+    - tyru
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ba64b26fbe23c730fa63926'
