@@ -8925,3 +8925,25 @@
     - tyru
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ba64b26fbe23c730fa63926'
+- id: 326
+  date: '2018-09-29 23:00'
+  author:
+    name: aramisgithub
+    url: 'https://github.com/aramisgithub'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/aramisgithub/dotfiles/blob/a6e7cab09cf414add888fa147a2849544cb67f09/files/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/aramisgithub/dotfiles/a6e7cab09cf414add888fa147a2849544cb67f09/files/vim/vimrc'
+      hash: a6e7cab09cf414add888fa147a2849544cb67f09
+  part: null
+  other: null
+  members:
+    - anekos
+    - hokorobi
+    - kuuote
+    - mityu
+    - rbtnn
+    - thinca
+    - ujihisa
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5baf857bef4afc4f28f2cace'
