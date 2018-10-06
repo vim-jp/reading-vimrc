@@ -8947,3 +8947,21 @@
     - ujihisa
     - wtsnjp
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5baf857bef4afc4f28f2cace'
+- id: 327
+  date: '2018-10-06 23:00'
+  author:
+    name: eshkrab
+    url: 'https://github.com/eshkrab'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/eshkrab/dotfiles/blob/6e22ae5a9f772a441f6fe988c25aa7f3228adb1c/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/eshkrab/dotfiles/6e22ae5a9f772a441f6fe988c25aa7f3228adb1c/vimrc'
+      hash: 6e22ae5a9f772a441f6fe988c25aa7f3228adb1c
+  part: null
+  other: null
+  members:
+    - anekos
+    - hokorobi
+    - thinca
+    - wtsnjp
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5bb8c00bef194f6e08b0302e'
