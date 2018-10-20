@@ -1,11 +1,38 @@
-- id: 329
-  date: '2018-10-20 23:00'
+- id: 330
+  date: '2018-10-27 23:00'
   author:
-    name: Valeyard1
-    url: 'https://github.com/Valeyard1'
+    name: Akin909
+    url: 'https://github.com/Akin909'
   vimrcs:
-    - url: 'https://github.com/Valeyard1/dotfiles/blob/master/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/Akin909/Dotfiles/blob/master/vim/init.vim'
+      name: init.vim
+      hash: null
+    - url: 'https://github.com/Akin909/Dotfiles/blob/master/vim/configs/plugins.vim'
+      name: plugins.vim
+      hash: null
+    - url: 'https://github.com/Akin909/Dotfiles/blob/master/vim/configs/general.vim'
+      name: general.vim
+      hash: null
+    - url: >-
+        https://github.com/Akin909/Dotfiles/blob/master/vim/configs/highlight.vim
+      name: highlight.vim
+      hash: null
+    - url: 'https://github.com/Akin909/Dotfiles/blob/master/vim/configs/mappings.vim'
+      name: mappings.vim
+      hash: null
+    - url: >-
+        https://github.com/Akin909/Dotfiles/blob/master/vim/configs/autocommands.vim
+      name: autocommands.vim
+      hash: null
+    - url: >-
+        https://github.com/Akin909/Dotfiles/blob/master/vim/configs/open-changed-files.vim
+      name: open-changed-files.vim
+      hash: null
+    - url: 'https://github.com/Akin909/Dotfiles/blob/master/vim/gui/oni.vim'
+      name: oni.vim
+      hash: null
+    - url: 'https://github.com/Akin909/Dotfiles/blob/master/vim/autoload/lib.vim'
+      name: lib.vim
       hash: null
   part: null
   other: null
