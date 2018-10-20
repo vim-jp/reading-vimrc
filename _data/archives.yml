@@ -8986,3 +8986,23 @@
     - tyru
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5bc1fa6bc7bf7c36620560ff'
+- id: 329
+  date: '2018-10-20 23:00'
+  author:
+    name: Valeyard1
+    url: 'https://github.com/Valeyard1'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Valeyard1/dotfiles/blob/fb2d430f7e90e8478fa6e8e7fd0ef1cc69930276/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Valeyard1/dotfiles/fb2d430f7e90e8478fa6e8e7fd0ef1cc69930276/.vimrc'
+      hash: fb2d430f7e90e8478fa6e8e7fd0ef1cc69930276
+  part: null
+  other: null
+  members:
+    - anekos
+    - k-takata
+    - rbtnn
+    - thinca
+    - tyru
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5bcb34ebae7be9401689b21e'
