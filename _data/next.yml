@@ -1,5 +1,5 @@
-- id: 332
-  date: '2018-11-10 23:00'
+- id: 333
+  date: '2018-11-17 23:00'
   author:
     name: Akin909
     url: 'https://github.com/Akin909'
@@ -40,5 +40,5 @@
         https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/autoload/lib.vim
       name: lib.vim
       hash: ee774ce0f0ce591e852e207e209c95ae3811f388
-  part: 後編
+  part: 完結編
   other: null
