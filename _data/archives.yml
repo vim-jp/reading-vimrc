@@ -9158,3 +9158,53 @@
     - thinca
     - tyru
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5be6e49d4270441b178ec900'
+- id: 333
+  date: '2018-11-17 23:00'
+  author:
+    name: Akin909
+    url: 'https://github.com/Akin909'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/init.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+    - name: plugins.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/plugins.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+    - name: general.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/general.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/general.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+    - name: highlight.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/highlight.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/highlight.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+    - name: mappings.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/mappings.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/mappings.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+    - name: autocommands.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/autocommands.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/autocommands.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+    - name: open-changed-files.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/open-changed-files.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/configs/open-changed-files.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+    - name: oni.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/gui/oni.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/gui/oni.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+    - name: lib.vim
+      url: 'https://github.com/Akin909/Dotfiles/blob/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/autoload/lib.vim'
+      raw_url: 'https://raw.githubusercontent.com/Akin909/Dotfiles/ee774ce0f0ce591e852e207e209c95ae3811f388/vim/autoload/lib.vim'
+      hash: ee774ce0f0ce591e852e207e209c95ae3811f388
+  part: 完結編
+  other: null
+  members:
+    - kuuote
+    - rbtnn
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5bf01f002ef5b06e407e85ad'
