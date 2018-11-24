@@ -1,14 +1,11 @@
-- id: 334
-  date: '2018-11-24 23:00'
+- id: 335
+  date: '2018-12-01 23:00'
   author:
-    name: okuramasafumi
-    url: 'https://github.com/okuramasafumi'
+    name: eric-price
+    url: 'https://github.com/eric-price'
   vimrcs:
-    - url: 'https://github.com/okuramasafumi/dotfiles/blob/master/vim/vimrc'
-      name: vimrc
-      hash: null
-    - url: 'https://github.com/okuramasafumi/dotfiles/blob/master/vim/gvimrc'
-      name: gvimrc
+    - url: 'https://github.com/eric-price/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
