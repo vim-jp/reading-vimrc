@@ -9208,3 +9208,26 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5bf01f002ef5b06e407e85ad'
+- id: 334
+  date: '2018-11-24 23:00'
+  author:
+    name: okuramasafumi
+    url: 'https://github.com/okuramasafumi'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/okuramasafumi/dotfiles/blob/6fd00a1cfa85d568c214f28b552ff010605819e0/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/okuramasafumi/dotfiles/6fd00a1cfa85d568c214f28b552ff010605819e0/vim/vimrc'
+      hash: 6fd00a1cfa85d568c214f28b552ff010605819e0
+    - name: gvimrc
+      url: 'https://github.com/okuramasafumi/dotfiles/blob/6fd00a1cfa85d568c214f28b552ff010605819e0/vim/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/okuramasafumi/dotfiles/6fd00a1cfa85d568c214f28b552ff010605819e0/vim/gvimrc'
+      hash: 6fd00a1cfa85d568c214f28b552ff010605819e0
+  part: null
+  other: null
+  members:
+    - callmekohei
+    - mattn
+    - thinca
+    - ujihisa
+    - yysaki
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5bf96336f048fa10511700c8'
