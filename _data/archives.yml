@@ -9234,3 +9234,20 @@
     - ujihisa
     - yysaki
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5bf96336f048fa10511700c8'
+- id: 335
+  date: '2018-12-01 23:00'
+  author:
+    name: eric-price
+    url: 'https://github.com/eric-price'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/eric-price/dotfiles/blob/774032f0942c218f9e87878e72701c43c353b167/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/eric-price/dotfiles/774032f0942c218f9e87878e72701c43c353b167/.vimrc'
+      hash: 774032f0942c218f9e87878e72701c43c353b167
+  part: null
+  other: null
+  members:
+    - mityu
+    - rbtnn
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c02950ba6c29a1037c86055'
