@@ -1,12 +1,11 @@
-- id: 336
-  date: '2018-12-08 23:00'
+- id: 337
+  date: '2018-12-15 23:00'
   author:
-    name: zaquestion
-    url: 'https://github.com/zaquestion'
+    name: mopp
+    url: 'https://github.com/mopp'
   vimrcs:
-    - url: >-
-        https://github.com/zaquestion/dotfiles/blob/master/home/zaq/.config/nvim/init.vim
-      name: init.vim
+    - url: 'https://github.com/mopp/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
-  part: null
+  part: 前編
   other: null
