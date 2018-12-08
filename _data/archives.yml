@@ -9251,3 +9251,23 @@
     - rbtnn
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c02950ba6c29a1037c86055'
+- id: 336
+  date: '2018-12-08 23:00'
+  author:
+    name: zaquestion
+    url: 'https://github.com/zaquestion'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/zaquestion/dotfiles/blob/7a34d300d1ecfbca7d22fe9f8476ec5804e425a2/home/zaq/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/zaquestion/dotfiles/7a34d300d1ecfbca7d22fe9f8476ec5804e425a2/home/zaq/.config/nvim/init.vim'
+      hash: 7a34d300d1ecfbca7d22fe9f8476ec5804e425a2
+  part: null
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - anekos
+    - lighttiger2505
+    - nick11033_twitter
+    - takets_twitter
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c0bce798336e22a7dfeb2b1'
