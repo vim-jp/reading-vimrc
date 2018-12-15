@@ -1,11 +1,12 @@
-- id: 337
-  date: '2018-12-15 23:00'
+- id: 338
+  date: '2018-12-22 23:00'
   author:
     name: mopp
     url: 'https://github.com/mopp'
   vimrcs:
-    - url: 'https://github.com/mopp/dotfiles/blob/master/.vimrc'
+    - url: >-
+        https://github.com/mopp/dotfiles/blob/529e0757f22066576b6958f1698164ef72d911d3/.vimrc
       name: .vimrc
-      hash: null
-  part: 前編
+      hash: 529e0757f22066576b6958f1698164ef72d911d3
+  part: 後編
   other: null
