@@ -9271,3 +9271,26 @@
     - takets_twitter
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c0bce798336e22a7dfeb2b1'
+- id: 337
+  date: '2018-12-15 23:00'
+  author:
+    name: mopp
+    url: 'https://github.com/mopp'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/mopp/dotfiles/blob/529e0757f22066576b6958f1698164ef72d911d3/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/mopp/dotfiles/529e0757f22066576b6958f1698164ef72d911d3/.vimrc'
+      hash: 529e0757f22066576b6958f1698164ef72d911d3
+  part: 前編
+  other: null
+  members:
+    - anekos
+    - hokorobi
+    - kuuote
+    - mattn
+    - mopp
+    - nick11033_twitter
+    - thinca
+    - ujihisa
+    - yoshitia_twitter
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c1508f994d8cd0b9cca2fec'
