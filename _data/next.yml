@@ -7,5 +7,31 @@
     - url: 'https://github.com/astrorobot110/myvimrc/blob/master/vimrc'
       name: vimrc
       hash: null
+    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/gvimrc'
+      name: gvimrc
+      hash: null
+    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/base.vim'
+      name: base.vim
+      hash: null
+    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/config.vim'
+      name: config.vim
+      hash: null
+    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/insert.vim'
+      name: insert.vim
+      hash: null
+    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/netrw.vim'
+      name: netrw.vim
+      hash: null
+    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/plugin.vim'
+      name: plugin.vim
+      hash: null
+    - url: >-
+        https://github.com/astrorobot110/myvimrc/blob/master/vim-plug/vim-plug.conf.vim
+      name: vim-plug.conf.vim
+      hash: null
+    - url: >-
+        https://github.com/astrorobot110/myvimrc/blob/master/vim-plug/lightline.conf.vim
+      name: lightline.conf.vim
+      hash: null
   part: null
   other: null
