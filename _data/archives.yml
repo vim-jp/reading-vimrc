@@ -9311,3 +9311,56 @@
     - mopp
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c1e4365d945b96882dbdc2d'
+- id: 339
+  date: '2018-12-29 23:00'
+  author:
+    name: astrorobot110
+    url: 'https://github.com/astrorobot110'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/vimrc'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+    - name: gvimrc
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/gvimrc'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+    - name: base.vim
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/keymap/base.vim'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/keymap/base.vim'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+    - name: config.vim
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/keymap/config.vim'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/keymap/config.vim'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+    - name: insert.vim
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/keymap/insert.vim'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/keymap/insert.vim'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+    - name: netrw.vim
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/keymap/netrw.vim'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/keymap/netrw.vim'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+    - name: plugin.vim
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/keymap/plugin.vim'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/keymap/plugin.vim'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+    - name: vim-plug.conf.vim
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/vim-plug/vim-plug.conf.vim'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/vim-plug/vim-plug.conf.vim'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+    - name: lightline.conf.vim
+      url: 'https://github.com/astrorobot110/myvimrc/blob/ab18c57badf7a51581e850ec9096b037df57a221/vim-plug/lightline.conf.vim'
+      raw_url: 'https://raw.githubusercontent.com/astrorobot110/myvimrc/ab18c57badf7a51581e850ec9096b037df57a221/vim-plug/lightline.conf.vim'
+      hash: ab18c57badf7a51581e850ec9096b037df57a221
+  part: null
+  other: null
+  members:
+    - anekos
+    - hekisai_417_twitter
+    - kuuote
+    - nick11033_twitter
+    - rbtnn
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c277e020b7fc97caab96c41'
