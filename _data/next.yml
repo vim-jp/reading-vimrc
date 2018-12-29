@@ -1,37 +1,11 @@
-- id: 339
-  date: '2018-12-29 23:00'
+- id: 340
+  date: '2019-01-05 23:00'
   author:
-    name: astrorobot110
-    url: 'https://github.com/astrorobot110'
+    name: yaasita
+    url: 'https://github.com/yaasita'
   vimrcs:
-    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/vimrc'
-      name: vimrc
-      hash: null
-    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/gvimrc'
-      name: gvimrc
-      hash: null
-    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/base.vim'
-      name: base.vim
-      hash: null
-    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/config.vim'
-      name: config.vim
-      hash: null
-    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/insert.vim'
-      name: insert.vim
-      hash: null
-    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/netrw.vim'
-      name: netrw.vim
-      hash: null
-    - url: 'https://github.com/astrorobot110/myvimrc/blob/master/keymap/plugin.vim'
-      name: plugin.vim
-      hash: null
-    - url: >-
-        https://github.com/astrorobot110/myvimrc/blob/master/vim-plug/vim-plug.conf.vim
-      name: vim-plug.conf.vim
-      hash: null
-    - url: >-
-        https://github.com/astrorobot110/myvimrc/blob/master/vim-plug/lightline.conf.vim
-      name: lightline.conf.vim
+    - url: 'https://github.com/yaasita/myvimrc/blob/master/plugin/myvimrc.vim'
+      name: myvimrc.vim
       hash: null
   part: null
   other: null
