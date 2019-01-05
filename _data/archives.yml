@@ -9364,3 +9364,20 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c277e020b7fc97caab96c41'
+- id: 340
+  date: '2019-01-05 23:00'
+  author:
+    name: yaasita
+    url: 'https://github.com/yaasita'
+  vimrcs:
+    - name: myvimrc.vim
+      url: 'https://github.com/yaasita/myvimrc/blob/3ae49f82ba9f8ca370fd51ca16404796a888e7bd/plugin/myvimrc.vim'
+      raw_url: 'https://raw.githubusercontent.com/yaasita/myvimrc/3ae49f82ba9f8ca370fd51ca16404796a888e7bd/plugin/myvimrc.vim'
+      hash: 3ae49f82ba9f8ca370fd51ca16404796a888e7bd
+  part: null
+  other: null
+  members:
+    - mityu
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c30b86e3cf6c35a84956ae8'
