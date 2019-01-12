@@ -1,11 +1,11 @@
-- id: 340
-  date: '2019-01-05 23:00'
+- id: 341
+  date: '2019-01-12 23:00'
   author:
-    name: yaasita
-    url: 'https://github.com/yaasita'
+    name: rouxbuciu
+    url: 'https://github.com/rouxbuciu'
   vimrcs:
-    - url: 'https://github.com/yaasita/myvimrc/blob/master/plugin/myvimrc.vim'
-      name: myvimrc.vim
+    - url: 'https://github.com/rouxbuciu/toolBox/blob/master/vimrc'
+      name: vimrc
       hash: null
   part: null
   other: null
