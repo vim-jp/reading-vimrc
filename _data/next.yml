@@ -4,8 +4,8 @@
     name: rouxbuciu
     url: 'https://github.com/rouxbuciu'
   vimrcs:
-    - url: 'https://github.com/rouxbuciu/toolBox/blob/master/vimrc'
-      name: vimrc
+    - url: 'https://github.com/rouxbuciu/dotfiles/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
