@@ -9381,3 +9381,28 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c30b86e3cf6c35a84956ae8'
+- id: 341
+  date: '2019-01-12 23:00'
+  author:
+    name: rouxbuciu
+    url: 'https://github.com/rouxbuciu'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/rouxbuciu/dotfiles/blob/e27a465508e63652da9b6f28d5c0fa3be9cd47cd/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/rouxbuciu/dotfiles/e27a465508e63652da9b6f28d5c0fa3be9cd47cd/.vimrc'
+      hash: e27a465508e63652da9b6f28d5c0fa3be9cd47cd
+  part: null
+  other: null
+  members:
+    - Cj-bc
+    - Hansyo
+    - mityu
+    - nick11033_twitter
+    - rbtnn
+    - ryuichi1208
+    - skanehira
+    - sylba2050
+    - thinca
+    - ujihisa
+    - yysaki
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c39f44b35350772cf1cff22'
