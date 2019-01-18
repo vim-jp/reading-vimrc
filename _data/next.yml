@@ -1,11 +1,17 @@
-- id: 341
-  date: '2019-01-12 23:00'
+- id: 342
+  date: '2019-01-19 23:00'
   author:
-    name: rouxbuciu
-    url: 'https://github.com/rouxbuciu'
+    name: skanehira
+    url: 'https://github.com/skanehira'
   vimrcs:
-    - url: 'https://github.com/rouxbuciu/dotfiles/blob/master/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/skanehira/dotfiles/blob/master/mac/vim/vimrc'
+      name: vimrc
+      hash: null
+    - url: 'https://github.com/skanehira/dotfiles/blob/master/mac/vim/dein.toml'
+      name: dein.toml
+      hash: null
+    - url: 'https://github.com/skanehira/dotfiles/blob/master/mac/vim/dein_lazy.toml'
+      name: dein_lazy.toml
       hash: null
   part: null
   other: null
