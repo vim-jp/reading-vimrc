@@ -9406,3 +9406,37 @@
     - ujihisa
     - yysaki
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c39f44b35350772cf1cff22'
+- id: 342
+  date: '2019-01-19 23:00'
+  author:
+    name: skanehira
+    url: 'https://github.com/skanehira'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/skanehira/dotfiles/blob/a3d163da033aa8fea73f1d3c9a8729186194a659/mac/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/skanehira/dotfiles/a3d163da033aa8fea73f1d3c9a8729186194a659/mac/vim/vimrc'
+      hash: a3d163da033aa8fea73f1d3c9a8729186194a659
+    - name: dein.toml
+      url: 'https://github.com/skanehira/dotfiles/blob/a3d163da033aa8fea73f1d3c9a8729186194a659/mac/vim/dein.toml'
+      raw_url: 'https://raw.githubusercontent.com/skanehira/dotfiles/a3d163da033aa8fea73f1d3c9a8729186194a659/mac/vim/dein.toml'
+      hash: a3d163da033aa8fea73f1d3c9a8729186194a659
+    - name: dein_lazy.toml
+      url: 'https://github.com/skanehira/dotfiles/blob/a3d163da033aa8fea73f1d3c9a8729186194a659/mac/vim/dein_lazy.toml'
+      raw_url: 'https://raw.githubusercontent.com/skanehira/dotfiles/a3d163da033aa8fea73f1d3c9a8729186194a659/mac/vim/dein_lazy.toml'
+      hash: a3d163da033aa8fea73f1d3c9a8729186194a659
+  part: null
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - jiro4989
+    - kuuote
+    - lighttiger2505
+    - mattn
+    - mityu
+    - nick11033_twitter
+    - rbtnn
+    - ryuichi1208
+    - skanehira
+    - thinca
+    - yysaki
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c432d7b8318994524152d77'
