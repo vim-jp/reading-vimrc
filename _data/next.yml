@@ -1,17 +1,20 @@
-- id: 342
-  date: '2019-01-19 23:00'
+- id: 343
+  date: '2019-01-26 23:00'
   author:
-    name: skanehira
-    url: 'https://github.com/skanehira'
+    name: amix
+    url: 'https://github.com/amix'
   vimrcs:
-    - url: 'https://github.com/skanehira/dotfiles/blob/master/mac/vim/vimrc'
-      name: vimrc
+    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim'
+      name: basic.vim
       hash: null
-    - url: 'https://github.com/skanehira/dotfiles/blob/master/mac/vim/dein.toml'
-      name: dein.toml
+    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/extended.vim'
+      name: extended.vim
       hash: null
-    - url: 'https://github.com/skanehira/dotfiles/blob/master/mac/vim/dein_lazy.toml'
-      name: dein_lazy.toml
+    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/filetypes.vim'
+      name: filetypes.vim
+      hash: null
+    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/plugins_config.vim'
+      name: plugins_config.vim
       hash: null
   part: null
   other: null
