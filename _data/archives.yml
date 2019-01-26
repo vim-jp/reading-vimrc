@@ -9440,3 +9440,37 @@
     - thinca
     - yysaki
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c432d7b8318994524152d77'
+- id: 343
+  date: '2019-01-26 23:00'
+  author:
+    name: amix
+    url: 'https://github.com/amix'
+  vimrcs:
+    - name: basic.vim
+      url: 'https://github.com/amix/vimrc/blob/1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a/vimrcs/basic.vim'
+      raw_url: 'https://raw.githubusercontent.com/amix/vimrc/1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a/vimrcs/basic.vim'
+      hash: 1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a
+    - name: extended.vim
+      url: 'https://github.com/amix/vimrc/blob/1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a/vimrcs/extended.vim'
+      raw_url: 'https://raw.githubusercontent.com/amix/vimrc/1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a/vimrcs/extended.vim'
+      hash: 1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a
+    - name: filetypes.vim
+      url: 'https://github.com/amix/vimrc/blob/1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a/vimrcs/filetypes.vim'
+      raw_url: 'https://raw.githubusercontent.com/amix/vimrc/1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a/vimrcs/filetypes.vim'
+      hash: 1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a
+    - name: plugins_config.vim
+      url: 'https://github.com/amix/vimrc/blob/1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a/vimrcs/plugins_config.vim'
+      raw_url: 'https://raw.githubusercontent.com/amix/vimrc/1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a/vimrcs/plugins_config.vim'
+      hash: 1d42b6301371a9f2e0c1c54ef7af50d4a9c7f91a
+  part: null
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - kuuote
+    - mattn
+    - nick11033_twitter
+    - rbtnn
+    - skanehira
+    - thinca
+    - youchan
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c4c67f593fe7d5ac0f33a2c'
