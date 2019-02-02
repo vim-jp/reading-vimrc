@@ -1,20 +1,11 @@
-- id: 343
-  date: '2019-01-26 23:00'
+- id: 344
+  date: '2019-02-02 23:00'
   author:
-    name: amix
-    url: 'https://github.com/amix'
+    name: kinbiko
+    url: 'https://github.com/kinbiko'
   vimrcs:
-    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim'
-      name: basic.vim
-      hash: null
-    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/extended.vim'
-      name: extended.vim
-      hash: null
-    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/filetypes.vim'
-      name: filetypes.vim
-      hash: null
-    - url: 'https://github.com/amix/vimrc/blob/master/vimrcs/plugins_config.vim'
-      name: plugins_config.vim
+    - url: 'https://github.com/kinbiko/dotfiles/blob/master/vimrc'
+      name: vimrc
       hash: null
   part: null
   other: null
