@@ -9474,3 +9474,26 @@
     - thinca
     - youchan
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c4c67f593fe7d5ac0f33a2c'
+- id: 344
+  date: '2019-02-02 23:00'
+  author:
+    name: kinbiko
+    url: 'https://github.com/kinbiko'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/kinbiko/dotfiles/blob/ae5b6574823a39945776add82bc8075f02570e3e/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/kinbiko/dotfiles/ae5b6574823a39945776add82bc8075f02570e3e/vimrc'
+      hash: ae5b6574823a39945776add82bc8075f02570e3e
+  part: null
+  other: null
+  members:
+    - Cj-bc
+    - IamnotHayato_twitter
+    - lighttiger2505
+    - nick11033_twitter
+    - rbtnn
+    - skanehira
+    - tamago324
+    - thinca
+    - yaegassy
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c55a2849221b9382d0237eb'
