@@ -9497,3 +9497,22 @@
     - thinca
     - yaegassy
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c55a2849221b9382d0237eb'
+- id: 345
+  date: '2019-02-09 23:00'
+  author:
+    name: tlhunter
+    url: 'https://github.com/tlhunter'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/tlhunter/vimrc/blob/11a69d20aecaadfb320ebc24ec6f97d0b4105e3c/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/tlhunter/vimrc/11a69d20aecaadfb320ebc24ec6f97d0b4105e3c/vimrc'
+      hash: 11a69d20aecaadfb320ebc24ec6f97d0b4105e3c
+  part: null
+  other: null
+  members:
+    - kuuote
+    - mityu
+    - nick11033_twitter
+    - rbtnn
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c5edd0f7502282258d0fb03'
