@@ -1,46 +1,48 @@
-- id: 346
-  date: '2019-02-16 23:00'
+- id: 347
+  date: '2019-02-23 23:00'
   author:
     name: p1xelHer0
     url: 'https://github.com/p1xelHer0'
   vimrcs:
-    - url: 'https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/.vimrc'
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/.vimrc
       name: .vimrc
-      hash: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
     - url: >-
-        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/plugins.vim
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/plugins.vim
       name: plugins.vim
-      hash: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
     - url: >-
-        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/settings.vim
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/settings.vim
       name: settings.vim
-      hash: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
     - url: >-
-        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/settings.plugins.vim
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/settings.plugins.vim
       name: settings.plugins.vim
-      hash: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
     - url: >-
-        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/mappings.vim
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/mappings.vim
       name: mappings.vim
-      hash: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
     - url: >-
-        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/mappings.plugins.vim
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/mappings.plugins.vim
       name: mappings.plugins.vim
-      hash: null
-    - url: 'https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/ui.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.vim
       name: ui.vim
-      hash: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
     - url: >-
-        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/ui.statusline.vim
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.statusline.vim
       name: ui.statusline.vim
-      hash: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
     - url: >-
-        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/ui.plugins.vim
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.plugins.vim
       name: ui.plugins.vim
-      hash: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
     - url: >-
-        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/commands.vim
+        https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/commands.vim
       name: commands.vim
-      hash: null
-  part: null
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+  part: 後編
   other: null
