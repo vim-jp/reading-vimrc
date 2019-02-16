@@ -1,11 +1,46 @@
-- id: 345
-  date: '2019-02-09 23:00'
+- id: 346
+  date: '2019-02-16 23:00'
   author:
-    name: tlhunter
-    url: 'https://github.com/tlhunter'
+    name: p1xelHer0
+    url: 'https://github.com/p1xelHer0'
   vimrcs:
-    - url: 'https://github.com/tlhunter/vimrc/blob/master/vimrc'
-      name: vimrc
+    - url: 'https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/.vimrc'
+      name: .vimrc
+      hash: null
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/plugins.vim
+      name: plugins.vim
+      hash: null
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/settings.vim
+      name: settings.vim
+      hash: null
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/settings.plugins.vim
+      name: settings.plugins.vim
+      hash: null
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/mappings.vim
+      name: mappings.vim
+      hash: null
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/mappings.plugins.vim
+      name: mappings.plugins.vim
+      hash: null
+    - url: 'https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/ui.vim'
+      name: ui.vim
+      hash: null
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/ui.statusline.vim
+      name: ui.statusline.vim
+      hash: null
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/ui.plugins.vim
+      name: ui.plugins.vim
+      hash: null
+    - url: >-
+        https://github.com/p1xelHer0/dotfiles/blob/master/conf/neovim/commands.vim
+      name: commands.vim
       hash: null
   part: null
   other: null
