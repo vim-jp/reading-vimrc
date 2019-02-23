@@ -9570,3 +9570,59 @@
     - rbtnn
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c68176badf6cb0b2ccbcff4'
+- id: 347
+  date: '2019-02-23 23:00'
+  author:
+    name: p1xelHer0
+    url: 'https://github.com/p1xelHer0'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/.vimrc'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: plugins.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/plugins.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: settings.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/settings.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/settings.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: settings.plugins.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/settings.plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/settings.plugins.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: mappings.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/mappings.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/mappings.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: mappings.plugins.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/mappings.plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/mappings.plugins.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: ui.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: ui.statusline.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.statusline.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.statusline.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: ui.plugins.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/ui.plugins.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+    - name: commands.vim
+      url: 'https://github.com/p1xelHer0/dotfiles/blob/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/commands.vim'
+      raw_url: 'https://raw.githubusercontent.com/p1xelHer0/dotfiles/9142c7c503e960183da21d01ebdff9bbd369185e/conf/neovim/commands.vim'
+      hash: 9142c7c503e960183da21d01ebdff9bbd369185e
+  part: 後編
+  other: null
+  members:
+    - hokorobi
+    - mityu
+    - nick11033_twitter
+    - rbtnn
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c7151f0ab952d30857b13dc'
