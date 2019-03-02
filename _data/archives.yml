@@ -9626,3 +9626,24 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c7151f0ab952d30857b13dc'
+- id: 348
+  date: '2019-03-02 23:00'
+  author:
+    name: p1v0t
+    url: 'https://github.com/p1v0t'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/p1v0t/dotfiles/blob/0276bdd0c93a13391fb8f9386392cdfea7c1269b/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/p1v0t/dotfiles/0276bdd0c93a13391fb8f9386392cdfea7c1269b/.vimrc'
+      hash: 0276bdd0c93a13391fb8f9386392cdfea7c1269b
+  part: null
+  other: null
+  members:
+    - Hansyo
+    - mattn
+    - mityu
+    - nick11033_twitter
+    - thinca
+    - tsuyoshicho
+    - yaegassy
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c7a8c69cbebcf784a29e8a2'
