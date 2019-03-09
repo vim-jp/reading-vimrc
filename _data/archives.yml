@@ -9647,3 +9647,25 @@
     - tsuyoshicho
     - yaegassy
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c7a8c69cbebcf784a29e8a2'
+- id: 349
+  date: '2019-03-09 23:00'
+  author:
+    name: aoyama-val
+    url: 'https://github.com/aoyama-val'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/aoyama-val/dot/blob/6d5143a2e62c28d60c775f0414ec00f51bee069f/etc/.vim/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/aoyama-val/dot/6d5143a2e62c28d60c775f0414ec00f51bee069f/etc/.vim/.vimrc'
+      hash: 6d5143a2e62c28d60c775f0414ec00f51bee069f
+  part: 前編
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - hokorobi
+    - mityu
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - wtsnjp
+    - yaegassy
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c83c6e6bf7990126e760159'
