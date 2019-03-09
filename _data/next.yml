@@ -1,10 +1,10 @@
-- id: 348
-  date: '2019-03-02 23:00'
+- id: 349
+  date: '2019-03-09 23:00'
   author:
-    name: p1v0t
-    url: 'https://github.com/p1v0t'
+    name: aoyama-val
+    url: 'https://github.com/aoyama-val'
   vimrcs:
-    - url: 'https://github.com/p1v0t/dotfiles/blob/master/.vimrc'
+    - url: 'https://github.com/aoyama-val/dot/blob/master/etc/.vim/.vimrc'
       name: .vimrc
       hash: null
   part: null
