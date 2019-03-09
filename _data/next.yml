@@ -1,11 +1,12 @@
-- id: 349
-  date: '2019-03-09 23:00'
+- id: 350
+  date: '2019-03-16 23:00'
   author:
     name: aoyama-val
     url: 'https://github.com/aoyama-val'
   vimrcs:
-    - url: 'https://github.com/aoyama-val/dot/blob/master/etc/.vim/.vimrc'
+    - url: >-
+        https://github.com/aoyama-val/dot/blob/6d5143a2e62c28d60c775f0414ec00f51bee069f/etc/.vim/.vimrc
       name: .vimrc
-      hash: null
-  part: 前編
+      hash: 6d5143a2e62c28d60c775f0414ec00f51bee069f
+  part: 中編
   other: null
