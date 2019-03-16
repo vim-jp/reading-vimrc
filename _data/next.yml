@@ -1,5 +1,5 @@
-- id: 350
-  date: '2019-03-16 23:00'
+- id: 351
+  date: '2019-03-23 23:00'
   author:
     name: aoyama-val
     url: 'https://github.com/aoyama-val'
@@ -8,5 +8,5 @@
         https://github.com/aoyama-val/dot/blob/6d5143a2e62c28d60c775f0414ec00f51bee069f/etc/.vim/.vimrc
       name: .vimrc
       hash: 6d5143a2e62c28d60c775f0414ec00f51bee069f
-  part: 中編
+  part: 後編
   other: null
