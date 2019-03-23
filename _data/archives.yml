@@ -9690,3 +9690,24 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c8d032a8126720abcf1591c'
+- id: 351
+  date: '2019-03-23 23:00'
+  author:
+    name: aoyama-val
+    url: 'https://github.com/aoyama-val'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/aoyama-val/dot/blob/6d5143a2e62c28d60c775f0414ec00f51bee069f/etc/.vim/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/aoyama-val/dot/6d5143a2e62c28d60c775f0414ec00f51bee069f/etc/.vim/.vimrc'
+      hash: 6d5143a2e62c28d60c775f0414ec00f51bee069f
+  part: 後編
+  other: null
+  members:
+    - gollira108_twitter
+    - kuuote
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - ujihisa
+    - yysaki
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c963bf949fdaa0d8102054a'
