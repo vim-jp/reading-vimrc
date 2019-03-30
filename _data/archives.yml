@@ -9711,3 +9711,23 @@
     - ujihisa
     - yysaki
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c963bf949fdaa0d8102054a'
+- id: 352
+  date: '2019-03-30 23:00'
+  author:
+    name: hrsh7th
+    url: 'https://github.com/hrsh7th'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/hrsh7th/dotfiles/blob/7973e5aaa444bef498d8286db4b13b933602f23f/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/hrsh7th/dotfiles/7973e5aaa444bef498d8286db4b13b933602f23f/nvim/init.vim'
+      hash: 7973e5aaa444bef498d8286db4b13b933602f23f
+  part: null
+  other: null
+  members:
+    - hokorobi
+    - kuuote
+    - mityu
+    - nick11033_twitter
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c9f766a7ecbdc29cacee753'
