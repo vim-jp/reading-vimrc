@@ -9731,3 +9731,23 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5c9f766a7ecbdc29cacee753'
+- id: 353
+  date: '2019-04-06 23:00'
+  author:
+    name: hrsh7th
+    url: 'https://github.com/hrsh7th'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/hrsh7th/dotfiles/blob/7973e5aaa444bef498d8286db4b13b933602f23f/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/hrsh7th/dotfiles/7973e5aaa444bef498d8286db4b13b933602f23f/nvim/init.vim'
+      hash: 7973e5aaa444bef498d8286db4b13b933602f23f
+  part: 後編
+  other: null
+  members:
+    - kuuote
+    - mattn
+    - mityu
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ca8b0e6016a930a4572e12e'
