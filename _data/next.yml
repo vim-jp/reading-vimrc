@@ -1,12 +1,11 @@
-- id: 353
-  date: '2019-04-06 23:00'
+- id: 354
+  date: '2019-04-13 23:00'
   author:
-    name: hrsh7th
-    url: 'https://github.com/hrsh7th'
+    name: atomiyama
+    url: 'https://github.com/atomiyama'
   vimrcs:
-    - url: >-
-        https://github.com/hrsh7th/dotfiles/blob/7973e5aaa444bef498d8286db4b13b933602f23f/nvim/init.vim
+    - url: 'https://github.com/atomiyama/dotfiles/blob/master/.config/nvim/init.vim'
       name: init.vim
-      hash: 7973e5aaa444bef498d8286db4b13b933602f23f
-  part: 後編
+      hash: null
+  part: null
   other: null
