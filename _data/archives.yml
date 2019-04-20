@@ -9768,3 +9768,22 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cb1ebd720fbe911eeab99fb'
+- id: 355
+  date: '2019-04-20 23:00'
+  author:
+    name: vladovidiu
+    url: 'https://github.com/vladovidiu'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/vladovidiu/dotfiles/blob/a3c6fa6899d2055c0857d0d3055e8658bdbde7e7/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/vladovidiu/dotfiles/a3c6fa6899d2055c0857d0d3055e8658bdbde7e7/nvim/init.vim'
+      hash: a3c6fa6899d2055c0857d0d3055e8658bdbde7e7
+  part: null
+  other: null
+  members:
+    - akiyosi
+    - rbtnn
+    - skanehira
+    - tennashi
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cbb2607b489bb6ed7961253'
