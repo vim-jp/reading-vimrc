@@ -1,10 +1,10 @@
-- id: 355
-  date: '2019-04-20 23:00'
+- id: 356
+  date: '2019-04-27 23:00'
   author:
-    name: vladovidiu
-    url: 'https://github.com/vladovidiu'
+    name: tennashi
+    url: 'https://github.com/tennashi'
   vimrcs:
-    - url: 'https://github.com/vladovidiu/dotfiles/blob/master/nvim/init.vim'
+    - url: 'https://github.com/tennashi/dotfiles/blob/master/config/nvim/init.vim'
       name: init.vim
       hash: null
   part: null
