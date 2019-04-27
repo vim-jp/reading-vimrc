@@ -9787,3 +9787,20 @@
     - tennashi
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cbb2607b489bb6ed7961253'
+- id: 356
+  date: '2019-04-27 23:00'
+  author:
+    name: tennashi
+    url: 'https://github.com/tennashi'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/tennashi/dotfiles/blob/7f54a351444421cb2bf57de783be9989a185152d/config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/tennashi/dotfiles/7f54a351444421cb2bf57de783be9989a185152d/config/nvim/init.vim'
+      hash: 7f54a351444421cb2bf57de783be9989a185152d
+  part: null
+  other: null
+  members:
+    - tennashi
+    - thinca
+    - ujihisa
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cc46070b489bb6ed7d455c2'
