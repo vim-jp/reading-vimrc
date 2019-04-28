@@ -1,11 +1,11 @@
-- id: 356
-  date: '2019-04-27 23:00'
+- id: 357
+  date: '2019-05-04 23:00'
   author:
-    name: tennashi
-    url: 'https://github.com/tennashi'
+    name: wataash
+    url: 'https://github.com/wataash'
   vimrcs:
-    - url: 'https://github.com/tennashi/dotfiles/blob/master/config/nvim/init.vim'
-      name: init.vim
+    - url: 'https://github.com/wataash/dotfiles/blob/master/.vimrc.git'
+      name: .vimrc.git
       hash: null
   part: null
   other: null
