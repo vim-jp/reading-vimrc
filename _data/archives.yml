@@ -9804,3 +9804,24 @@
     - thinca
     - ujihisa
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cc46070b489bb6ed7d455c2'
+- id: 357
+  date: '2019-05-04 23:00'
+  author:
+    name: wataash
+    url: 'https://github.com/wataash'
+  vimrcs:
+    - name: .vimrc.git
+      url: 'https://github.com/wataash/dotfiles/blob/f2128ecdb43d3c504d2b4749a6ef6c127aeb9c8e/.vimrc.git'
+      raw_url: 'https://raw.githubusercontent.com/wataash/dotfiles/f2128ecdb43d3c504d2b4749a6ef6c127aeb9c8e/.vimrc.git'
+      hash: f2128ecdb43d3c504d2b4749a6ef6c127aeb9c8e
+  part: null
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - k-takata
+    - kuuote
+    - mityu
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ccd9bc4990feb45184fbb7d'
