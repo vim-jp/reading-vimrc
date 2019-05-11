@@ -1,11 +1,11 @@
-- id: 357
-  date: '2019-05-04 23:00'
+- id: 358
+  date: '2019-05-11 23:00'
   author:
-    name: wataash
-    url: 'https://github.com/wataash'
+    name: rinx
+    url: 'https://github.com/rinx'
   vimrcs:
-    - url: 'https://github.com/wataash/dotfiles/blob/master/.vimrc.git'
-      name: .vimrc.git
+    - url: 'https://github.com/rinx/dotfiles/blob/master/vimrc'
+      name: vimrc
       hash: null
-  part: null
+  part: 前編
   other: null
