@@ -9844,3 +9844,23 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cd6d56cf251e60ffa63b2f8'
+- id: 359
+  date: '2019-05-18 23:00'
+  author:
+    name: rinx
+    url: 'https://github.com/rinx'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/rinx/dotfiles/blob/06ce02e687527feafbc9175121380895ad71961b/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/rinx/dotfiles/06ce02e687527feafbc9175121380895ad71961b/vimrc'
+      hash: 06ce02e687527feafbc9175121380895ad71961b
+  part: 中編
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - akiyosi
+    - rbtnn
+    - rinx
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ce01005509b1035c76d6c1a'
