@@ -1,5 +1,5 @@
-- id: 359
-  date: '2019-05-18 23:00'
+- id: 360
+  date: '2019-05-25 23:00'
   author:
     name: rinx
     url: 'https://github.com/rinx'
@@ -8,5 +8,5 @@
         https://github.com/rinx/dotfiles/blob/06ce02e687527feafbc9175121380895ad71961b/vimrc
       name: vimrc
       hash: 06ce02e687527feafbc9175121380895ad71961b
-  part: 中編
+  part: 後編
   other: null
