@@ -9888,3 +9888,22 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ce94a95879f4478c7dd7946'
+- id: 361
+  date: '2019-06-01 23:00'
+  author:
+    name: risto24
+    url: 'https://github.com/risto24'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/risto24/vim-setting/blob/9af9307c1dd8914e73957c1848cba13bded5f242/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/risto24/vim-setting/9af9307c1dd8914e73957c1848cba13bded5f242/vimrc'
+      hash: 9af9307c1dd8914e73957c1848cba13bded5f242
+  part: null
+  other: null
+  members:
+    - kuuote
+    - mityu
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cf28527702b7e5e760fe6a8'
