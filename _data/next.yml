@@ -1,11 +1,11 @@
-- id: 361
-  date: '2019-06-01 23:00'
+- id: 362
+  date: '2019-06-08 23:00'
   author:
-    name: risto24
-    url: 'https://github.com/risto24'
+    name: CharlesGueunet
+    url: 'https://github.com/CharlesGueunet'
   vimrcs:
-    - url: 'https://github.com/risto24/vim-setting/blob/master/vimrc'
-      name: vimrc
+    - url: 'https://github.com/CharlesGueunet/vimmic/blob/master/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
