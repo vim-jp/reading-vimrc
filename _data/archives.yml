@@ -9907,3 +9907,20 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cf28527702b7e5e760fe6a8'
+- id: 362
+  date: '2019-06-08 23:00'
+  author:
+    name: CharlesGueunet
+    url: 'https://github.com/CharlesGueunet'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/CharlesGueunet/vimmic/blob/0bcb0c93809ab4c1990f8a00d02603a814a3fae2/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/CharlesGueunet/vimmic/0bcb0c93809ab4c1990f8a00d02603a814a3fae2/.vimrc'
+      hash: 0bcb0c93809ab4c1990f8a00d02603a814a3fae2
+  part: null
+  other: null
+  members:
+    - mattn
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cfbbfa66fc5846bab832aad'
