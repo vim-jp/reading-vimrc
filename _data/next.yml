@@ -1,11 +1,12 @@
-- id: 362
-  date: '2019-06-08 23:00'
+- id: 363
+  date: '2019-06-15 23:00'
   author:
-    name: CharlesGueunet
-    url: 'https://github.com/CharlesGueunet'
+    name: tsuyoshicho
+    url: 'https://github.com/tsuyoshicho'
   vimrcs:
-    - url: 'https://github.com/CharlesGueunet/vimmic/blob/master/.vimrc'
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/reading-20190609/.vimrc
       name: .vimrc
       hash: null
-  part: null
+  part: 前編
   other: null
