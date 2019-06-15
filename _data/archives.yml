@@ -9924,3 +9924,22 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5cfbbfa66fc5846bab832aad'
+- id: 363
+  date: '2019-06-15 23:00'
+  author:
+    name: tsuyoshicho
+    url: 'https://github.com/tsuyoshicho'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/tsuyoshicho/vimrc-reading/blob/reading-20190609/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/b4c904e4101b1b4734f57eecb8ff523458a5baf6/.vimrc'
+      hash: b4c904e4101b1b4734f57eecb8ff523458a5baf6
+  part: 前編
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - kuuote
+    - tennashi
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d04fa2afbcc305cc47633f5'
