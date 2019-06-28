@@ -1,12 +1,11 @@
-- id: 364
-  date: '2019-06-22 23:00'
+- id: 365
+  date: '2019-06-29 23:00'
   author:
-    name: tsuyoshicho
-    url: 'https://github.com/tsuyoshicho'
+    name: systarou
+    url: 'https://github.com/systarou'
   vimrcs:
-    - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/reading-20190609/.vimrc
+    - url: 'https://github.com/systarou/dotfiles/blob/master/.vimrc'
       name: .vimrc
       hash: null
-  part: 後編
+  part: null
   other: null
