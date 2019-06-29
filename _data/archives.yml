@@ -9962,3 +9962,21 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d0e34721e35ef14b69b4885'
+- id: 365
+  date: '2019-06-29 23:00'
+  author:
+    name: systarou
+    url: 'https://github.com/systarou'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/systarou/dotfiles/blob/146d1bc6d5d0d876d8240b0f9474a2f33302d3df/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/systarou/dotfiles/146d1bc6d5d0d876d8240b0f9474a2f33302d3df/.vimrc'
+      hash: 146d1bc6d5d0d876d8240b0f9474a2f33302d3df
+  part: null
+  other: null
+  members:
+    - get_me_power_twitter
+    - mityu
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d176eec4db9b92ce36e1b9c'
