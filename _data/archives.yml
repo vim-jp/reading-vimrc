@@ -9980,3 +9980,21 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d176eec4db9b92ce36e1b9c'
+- id: 366
+  date: '2019-07-06 23:00'
+  author:
+    name: kazukazuinaina
+    url: 'https://github.com/kazukazuinaina'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/kazukazuinaina/dotfiles/blob/cd7e0e4a8a9147a13754117337f1c4ce121d1e31/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/kazukazuinaina/dotfiles/cd7e0e4a8a9147a13754117337f1c4ce121d1e31/.vimrc'
+      hash: cd7e0e4a8a9147a13754117337f1c4ce121d1e31
+  part: null
+  other: null
+  members:
+    - get_me_power_twitter
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d20a9aded8ed058b593756d'
