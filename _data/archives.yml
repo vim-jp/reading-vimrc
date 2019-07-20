@@ -10016,3 +10016,22 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d29e452202bb93f00976e21'
+- id: 368
+  date: '2019-07-20 23:00'
+  author:
+    name: Tumbler
+    url: 'https://github.com/Tumbler'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/Tumbler/dotfiles/blob/3e1b5fafe74425b9c5edf91d0d736c55c732d97d/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Tumbler/dotfiles/3e1b5fafe74425b9c5edf91d0d736c55c732d97d/.vimrc'
+      hash: 3e1b5fafe74425b9c5edf91d0d736c55c732d97d
+  part: 前編
+  other: null
+  members:
+    - kuuote
+    - mityu
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d331e6409580b7bbb763474'
