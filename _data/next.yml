@@ -1,11 +1,11 @@
-- id: 367
-  date: '2019-07-13 23:00'
+- id: 368
+  date: '2019-07-20 23:00'
   author:
-    name: Kaminari-Y
-    url: 'https://github.com/Kaminari-Y'
+    name: Tumbler
+    url: 'https://github.com/Tumbler'
   vimrcs:
-    - url: 'https://github.com/Kaminari-Y/dotfiles/blob/master/home/.vimrc'
+    - url: 'https://github.com/Tumbler/dotfiles/blob/master/.vimrc'
       name: .vimrc
       hash: null
-  part: null
+  part: 前編
   other: null
