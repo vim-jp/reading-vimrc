@@ -1,5 +1,5 @@
-- id: 369
-  date: '2019-07-27 23:00'
+- id: 370
+  date: '2019-08-03 23:00'
   author:
     name: Tumbler
     url: 'https://github.com/Tumbler'
@@ -8,5 +8,5 @@
         https://github.com/Tumbler/dotfiles/blob/3e1b5fafe74425b9c5edf91d0d736c55c732d97d/.vimrc
       name: .vimrc
       hash: 3e1b5fafe74425b9c5edf91d0d736c55c732d97d
-  part: 中編
+  part: 後編
   other: null
