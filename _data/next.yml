@@ -1,12 +1,27 @@
-- id: 370
-  date: '2019-08-03 23:00'
+- id: 371
+  date: '2019-08-10 23:00'
   author:
-    name: Tumbler
-    url: 'https://github.com/Tumbler'
+    name: 0Delta
+    url: 'https://github.com/0Delta'
   vimrcs:
-    - url: >-
-        https://github.com/Tumbler/dotfiles/blob/3e1b5fafe74425b9c5edf91d0d736c55c732d97d/.vimrc
+    - url: 'https://github.com/0Delta/vimrc/blob/master/.vimrc'
       name: .vimrc
-      hash: 3e1b5fafe74425b9c5edf91d0d736c55c732d97d
-  part: 後編
+      hash: null
+    - url: 'https://github.com/0Delta/vimrc/blob/master/.vim/ftdetect/review.vim'
+      name: review.vim
+      hash: null
+    - url: >-
+        https://github.com/0Delta/vimrc/blob/master/.vim/after/ftdetect/vimdocja.vim
+      name: vimdocja.vim
+      hash: null
+    - url: 'https://github.com/0Delta/vimrc/blob/master/.vim/rc/dein.toml'
+      name: dein.toml
+      hash: null
+    - url: 'https://github.com/0Delta/vimrc/blob/master/.vim/rc/dein_lazy.toml'
+      name: dein_lazy.toml
+      hash: null
+    - url: 'https://github.com/0Delta/vimrc/blob/master/.vim/rc/go.toml'
+      name: go.toml
+      hash: null
+  part: null
   other: null
