@@ -10068,3 +10068,42 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d45937d26e27324460c2f1d'
+- id: 371
+  date: '2019-08-10 23:00'
+  author:
+    name: 0Delta
+    url: 'https://github.com/0Delta'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/0Delta/vimrc/blob/98abbcde5005caa5c89f2e44739d4719492eda8f/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/0Delta/vimrc/98abbcde5005caa5c89f2e44739d4719492eda8f/.vimrc'
+      hash: 98abbcde5005caa5c89f2e44739d4719492eda8f
+    - name: review.vim
+      url: 'https://github.com/0Delta/vimrc/blob/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/ftdetect/review.vim'
+      raw_url: 'https://raw.githubusercontent.com/0Delta/vimrc/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/ftdetect/review.vim'
+      hash: 98abbcde5005caa5c89f2e44739d4719492eda8f
+    - name: vimdocja.vim
+      url: 'https://github.com/0Delta/vimrc/blob/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/after/ftdetect/vimdocja.vim'
+      raw_url: 'https://raw.githubusercontent.com/0Delta/vimrc/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/after/ftdetect/vimdocja.vim'
+      hash: 98abbcde5005caa5c89f2e44739d4719492eda8f
+    - name: dein.toml
+      url: 'https://github.com/0Delta/vimrc/blob/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/rc/dein.toml'
+      raw_url: 'https://raw.githubusercontent.com/0Delta/vimrc/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/rc/dein.toml'
+      hash: 98abbcde5005caa5c89f2e44739d4719492eda8f
+    - name: dein_lazy.toml
+      url: 'https://github.com/0Delta/vimrc/blob/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/rc/dein_lazy.toml'
+      raw_url: 'https://raw.githubusercontent.com/0Delta/vimrc/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/rc/dein_lazy.toml'
+      hash: 98abbcde5005caa5c89f2e44739d4719492eda8f
+    - name: go.toml
+      url: 'https://github.com/0Delta/vimrc/blob/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/rc/go.toml'
+      raw_url: 'https://raw.githubusercontent.com/0Delta/vimrc/98abbcde5005caa5c89f2e44739d4719492eda8f/.vim/rc/go.toml'
+      hash: 98abbcde5005caa5c89f2e44739d4719492eda8f
+  part: null
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - mityu
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d4ecdf2bb5364334c08a495'
