@@ -10145,3 +10145,25 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d6142f0a498b672378ac13e'
+- id: 374
+  date: '2019-08-31 23:00'
+  author:
+    name: skanehira
+    url: 'https://github.com/skanehira'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/skanehira/dotfiles/blob/968b82dacd49282ffd97a4b8ddad9c0e0c8212ea/mac/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/skanehira/dotfiles/968b82dacd49282ffd97a4b8ddad9c0e0c8212ea/mac/vim/vimrc'
+      hash: 968b82dacd49282ffd97a4b8ddad9c0e0c8212ea
+  part: 後編
+  other: null
+  members:
+    - IMOKURI
+    - k-takata
+    - kazukazuinaina
+    - kg8m
+    - mattn
+    - thinca
+    - tsuyoshicho
+    - tyru
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d6a7f6c7b263a4c9c88b18d'
