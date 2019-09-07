@@ -1,12 +1,12 @@
-- id: 375
-  date: '2019-09-07 23:00'
+- id: 376
+  date: '2019-09-14 23:00'
   author:
     name: tyru
     url: 'https://github.com/tyru'
   vimrcs:
     - url: >-
-        https://github.com/tyru/config/blob/master/home/volt/rc/default/vimrc.vim
+        https://github.com/tyru/config/blob/3e16b655e3dea14d55c4fbc6f41ec314e3480c5c/home/volt/rc/default/vimrc.vim
       name: vimrc.vim
-      hash: null
-  part: 前編
+      hash: 3e16b655e3dea14d55c4fbc6f41ec314e3480c5c
+  part: 中編
   other: null
