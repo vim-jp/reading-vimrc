@@ -10222,3 +10222,21 @@
     - hokorobi
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d862ce8a7a5cc47332ee3dd'
+- id: 378
+  date: '2019-09-28 23:00'
+  author:
+    name: lilydjwg
+    url: 'https://github.com/lilydjwg'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/lilydjwg/dotvim/blob/97181e6a5d1d21a02b85800e1b7081cc1aae8e9d/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/lilydjwg/dotvim/97181e6a5d1d21a02b85800e1b7081cc1aae8e9d/vimrc'
+      hash: 97181e6a5d1d21a02b85800e1b7081cc1aae8e9d
+  part: null
+  other: null
+  members:
+    - IamnotHayato_twitter
+    - hokorobi
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d8f679c66c8b4512231a225'
