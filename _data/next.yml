@@ -1,11 +1,12 @@
-- id: 378
-  date: '2019-09-28 23:00'
+- id: 379
+  date: '2019-10-05 23:00'
   author:
     name: lilydjwg
     url: 'https://github.com/lilydjwg'
   vimrcs:
-    - url: 'https://github.com/lilydjwg/dotvim/blob/master/vimrc'
+    - url: >-
+        https://github.com/lilydjwg/dotvim/blob/97181e6a5d1d21a02b85800e1b7081cc1aae8e9d/vimrc
       name: vimrc
-      hash: null
-  part: null
+      hash: 97181e6a5d1d21a02b85800e1b7081cc1aae8e9d
+  part: 中編
   other: null
