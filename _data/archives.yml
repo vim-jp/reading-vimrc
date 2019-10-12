@@ -10261,3 +10261,21 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5d98a1e8e8de6f3ca044031a'
+- id: 380
+  date: '2019-10-12 23:00'
+  author:
+    name: lilydjwg
+    url: 'https://github.com/lilydjwg'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/lilydjwg/dotvim/blob/97181e6a5d1d21a02b85800e1b7081cc1aae8e9d/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/lilydjwg/dotvim/97181e6a5d1d21a02b85800e1b7081cc1aae8e9d/vimrc'
+      hash: 97181e6a5d1d21a02b85800e1b7081cc1aae8e9d
+  part: 後編
+  other: null
+  members:
+    - kuuote
+    - lilydjwg
+    - rbtnn
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5da1dc7489acff6ff5e25247'
