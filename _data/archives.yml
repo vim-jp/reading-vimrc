@@ -10279,3 +10279,19 @@
     - rbtnn
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5da1dc7489acff6ff5e25247'
+- id: 381
+  date: '2019-10-19 23:00'
+  author:
+    name: xengineer
+    url: 'https://github.com/xengineer'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/xengineer/dotfiles/blob/21bdc2485b8c69104d2f14949bde1a34e49f1b22/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/xengineer/dotfiles/21bdc2485b8c69104d2f14949bde1a34e49f1b22/vimrc'
+      hash: 21bdc2485b8c69104d2f14949bde1a34e49f1b22
+  part: null
+  other: null
+  members:
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dab1706fa637359fca82a07'
