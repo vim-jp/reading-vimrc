@@ -1,11 +1,11 @@
-- id: 381
-  date: '2019-10-19 23:00'
+- id: 382
+  date: '2019-10-26 23:00'
   author:
-    name: xengineer
-    url: 'https://github.com/xengineer'
+    name: hattya
+    url: 'https://github.com/hattya'
   vimrcs:
-    - url: 'https://github.com/xengineer/dotfiles/blob/master/vimrc'
+    - url: 'https://github.com/hattya/dotfiles/blob/master/master/vimfiles/vimrc'
       name: vimrc
       hash: null
-  part: null
+  part: 前編
   other: null
