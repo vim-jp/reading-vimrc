@@ -1,11 +1,12 @@
-- id: 382
-  date: '2019-10-26 23:00'
+- id: 383
+  date: '2019-11-02 23:00'
   author:
     name: hattya
     url: 'https://github.com/hattya'
   vimrcs:
-    - url: 'https://github.com/hattya/dotfiles/blob/master/master/vimfiles/vimrc'
+    - url: >-
+        https://github.com/hattya/dotfiles/blob/60587bf5735c7358c1b465ea1a2015d94714c6fd/master/vimfiles/vimrc
       name: vimrc
-      hash: null
-  part: 前編
+      hash: 60587bf5735c7358c1b465ea1a2015d94714c6fd
+  part: 中編
   other: null
