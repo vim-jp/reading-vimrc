@@ -1,5 +1,5 @@
-- id: 383
-  date: '2019-11-02 23:00'
+- id: 384
+  date: '2019-11-09 23:00'
   author:
     name: hattya
     url: 'https://github.com/hattya'
@@ -8,5 +8,5 @@
         https://github.com/hattya/dotfiles/blob/60587bf5735c7358c1b465ea1a2015d94714c6fd/master/vimfiles/vimrc
       name: vimrc
       hash: 60587bf5735c7358c1b465ea1a2015d94714c6fd
-  part: 中編
+  part: 後編
   other: null
