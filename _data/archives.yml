@@ -10330,3 +10330,20 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dbd8cd214d55a3785bf7704'
+- id: 384
+  date: '2019-11-09 23:00'
+  author:
+    name: hattya
+    url: 'https://github.com/hattya'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/hattya/dotfiles/blob/60587bf5735c7358c1b465ea1a2015d94714c6fd/master/vimfiles/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/hattya/dotfiles/60587bf5735c7358c1b465ea1a2015d94714c6fd/master/vimfiles/vimrc'
+      hash: 60587bf5735c7358c1b465ea1a2015d94714c6fd
+  part: 後編
+  other: null
+  members:
+    - higashi000
+    - tennashi
+    - thinca
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dc6c68350010612b289ee0e'
