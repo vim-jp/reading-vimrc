@@ -10347,3 +10347,25 @@
     - tennashi
     - thinca
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dc6c68350010612b289ee0e'
+- id: 385
+  date: '2019-11-16 23:00'
+  author:
+    name: muramount
+    url: 'https://github.com/muramount'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/muramount/conf_files/blob/f75277bc4cc1db3a1f0a712e8efab6f3747e41d6/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/muramount/conf_files/f75277bc4cc1db3a1f0a712e8efab6f3747e41d6/.vimrc'
+      hash: f75277bc4cc1db3a1f0a712e8efab6f3747e41d6
+  part: null
+  other: null
+  members:
+    - akiyosi
+    - higashi000
+    - mattn
+    - rbtnn
+    - takets_twitter
+    - thinca
+    - tsuyoshicho
+    - tyru
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dd00109add5717a881b7164'
