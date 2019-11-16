@@ -1,12 +1,11 @@
-- id: 384
-  date: '2019-11-09 23:00'
+- id: 385
+  date: '2019-11-16 23:00'
   author:
-    name: hattya
-    url: 'https://github.com/hattya'
+    name: muramount
+    url: 'https://github.com/muramount'
   vimrcs:
-    - url: >-
-        https://github.com/hattya/dotfiles/blob/60587bf5735c7358c1b465ea1a2015d94714c6fd/master/vimfiles/vimrc
-      name: vimrc
-      hash: 60587bf5735c7358c1b465ea1a2015d94714c6fd
-  part: 後編
+    - url: 'https://github.com/muramount/conf_files/blob/master/.vimrc'
+      name: .vimrc
+      hash: null
+  part: null
   other: null
