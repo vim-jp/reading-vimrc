@@ -10369,3 +10369,24 @@
     - tsuyoshicho
     - tyru
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dd00109add5717a881b7164'
+- id: 386
+  date: '2019-11-23 23:00'
+  author:
+    name: sakunyo
+    url: 'https://github.com/sakunyo'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/sakunyo/misc/blob/f0fd8c30f8b84a00c967bf85249430b41c42ec03/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/sakunyo/misc/f0fd8c30f8b84a00c967bf85249430b41c42ec03/.vimrc'
+      hash: f0fd8c30f8b84a00c967bf85249430b41c42ec03
+  part: null
+  other: null
+  members:
+    - higashi000
+    - mattn
+    - rbtnn
+    - tennashi
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dd93bd91bf5192e668e6c5c'
