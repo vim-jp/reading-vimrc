@@ -10390,3 +10390,22 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dd93bd91bf5192e668e6c5c'
+- id: 387
+  date: '2019-11-30 23:00'
+  author:
+    name: jspitkin
+    url: 'https://github.com/jspitkin'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/jspitkin/dot-files/blob/2c756f2a2f7f80236328382f0f23380ac0225173/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/jspitkin/dot-files/2c756f2a2f7f80236328382f0f23380ac0225173/.vimrc'
+      hash: 2c756f2a2f7f80236328382f0f23380ac0225173
+  part: null
+  other: null
+  members:
+    - mattn
+    - tennashi
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5de2761b5506624598421ed7'
