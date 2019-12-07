@@ -10409,3 +10409,23 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5de2761b5506624598421ed7'
+- id: 388
+  date: '2019-12-07 23:00'
+  author:
+    name: non258
+    url: 'https://github.com/non258'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/non258/dotfiles/blob/ef41bb930cc882a3aedf3c459b541ae8f31e3ee1/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/non258/dotfiles/ef41bb930cc882a3aedf3c459b541ae8f31e3ee1/nvim/init.vim'
+      hash: ef41bb930cc882a3aedf3c459b541ae8f31e3ee1
+  part: null
+  other: null
+  members:
+    - Inazuma_110_twitter
+    - akiyosi
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5debb088550662459884909a'
