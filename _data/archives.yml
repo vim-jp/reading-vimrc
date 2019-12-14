@@ -10429,3 +10429,21 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5debb088550662459884909a'
+- id: 389
+  date: '2019-12-14 23:00'
+  author:
+    name: takasuka
+    url: 'https://github.com/takasuka'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/takasuka/Settings/blob/3a72188e54ce78ac3f32b6f7100ca617483c6ed2/dotfiles/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/takasuka/Settings/3a72188e54ce78ac3f32b6f7100ca617483c6ed2/dotfiles/.vimrc'
+      hash: 3a72188e54ce78ac3f32b6f7100ca617483c6ed2
+  part: null
+  other: null
+  members:
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5df4eb00ac14cc652c814fdd'
