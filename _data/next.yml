@@ -1,11 +1,11 @@
-- id: 388
-  date: '2019-12-07 23:00'
+- id: 389
+  date: '2019-12-14 23:00'
   author:
-    name: non258
-    url: 'https://github.com/non258'
+    name: takasuka
+    url: 'https://github.com/takasuka'
   vimrcs:
-    - url: 'https://github.com/non258/dotfiles/blob/master/nvim/init.vim'
-      name: init.vim
+    - url: 'https://github.com/takasuka/Settings/blob/master/dotfiles/.vimrc'
+      name: .vimrc
       hash: null
   part: null
   other: null
