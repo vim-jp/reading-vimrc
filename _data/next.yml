@@ -1,11 +1,11 @@
-- id: 389
-  date: '2019-12-14 23:00'
+- id: 390
+  date: '2019-12-21 23:00'
   author:
-    name: takasuka
-    url: 'https://github.com/takasuka'
+    name: bitoku
+    url: 'https://github.com/bitoku'
   vimrcs:
-    - url: 'https://github.com/takasuka/Settings/blob/master/dotfiles/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/bitoku/dotfiles/blob/master/vimrc'
+      name: vimrc
       hash: null
   part: null
   other: null
