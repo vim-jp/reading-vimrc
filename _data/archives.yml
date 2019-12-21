@@ -10447,3 +10447,24 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5df4eb00ac14cc652c814fdd'
+- id: 390
+  date: '2019-12-21 23:00'
+  author:
+    name: bitoku
+    url: 'https://github.com/bitoku'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/bitoku/dotfiles/blob/8e6287999abdf84d4cc55695f75911bf3d5555c4/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/bitoku/dotfiles/8e6287999abdf84d4cc55695f75911bf3d5555c4/vimrc'
+      hash: 8e6287999abdf84d4cc55695f75911bf3d5555c4
+  part: null
+  other: null
+  members:
+    - hokorobi
+    - kg8m
+    - mattn
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dfe25aad2dadb3893552eac'
