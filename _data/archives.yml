@@ -10468,3 +10468,24 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5dfe25aad2dadb3893552eac'
+- id: 391
+  date: '2019-12-28 23:00'
+  author:
+    name: fuqunaga
+    url: 'https://github.com/fuqunaga'
+  vimrcs:
+    - name: vimrc
+      url: 'https://gist.github.com/fuqunaga/878369fbe3c34aa14d2e063f2be84816'
+      raw_url: 'https://gist.githubusercontent.com/fuqunaga/878369fbe3c34aa14d2e063f2be84816/raw/cb9320048efc6079f1f2995f21bfcaf6a7c8adb5/.vimrc'
+      hash: cb9320048efc6079f1f2995f21bfcaf6a7c8adb5
+  part: null
+  other: null
+  members:
+    - mattn
+    - monaqa
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - tyru
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e0760442d574c7d1ed03c54'
