@@ -1,11 +1,11 @@
-- id: 391
-  date: '2019-12-28 23:00'
+- id: 392
+  date: '2020-01-04 23:00'
   author:
-    name: fuqunaga
-    url: 'https://gist.github.com/fuqunaga'
+    name: choplin
+    url: 'https://github.com/choplin'
   vimrcs:
-    - url: 'https://gist.github.com/fuqunaga/878369fbe3c34aa14d2e063f2be84816'
-      name: 878369fbe3c34aa14d2e063f2be84816
+    - url: 'https://github.com/choplin/dotfiles/blob/master/_vimrc'
+      name: _vimrc
       hash: null
-  part: null
+  part: 前編
   other: null
