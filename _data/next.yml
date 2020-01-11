@@ -1,5 +1,5 @@
-- id: 393
-  date: '2020-01-11 23:00'
+- id: 394
+  date: '2020-01-18 23:00'
   author:
     name: choplin
     url: 'https://github.com/choplin'
@@ -8,5 +8,5 @@
         https://github.com/choplin/dotfiles/blob/fc3db2708762b024f38cdcd96e60827641f814a4/_vimrc
       name: _vimrc
       hash: fc3db2708762b024f38cdcd96e60827641f814a4
-  part: 中編
+  part: 後編
   other: null
