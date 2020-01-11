@@ -10511,3 +10511,21 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e109a8b6dda2430feca13b4'
+- id: 393
+  date: '2020-01-11 23:00'
+  author:
+    name: choplin
+    url: 'https://github.com/choplin'
+  vimrcs:
+    - name: _vimrc
+      url: 'https://github.com/choplin/dotfiles/blob/fc3db2708762b024f38cdcd96e60827641f814a4/_vimrc'
+      raw_url: 'https://raw.githubusercontent.com/choplin/dotfiles/fc3db2708762b024f38cdcd96e60827641f814a4/_vimrc'
+      hash: fc3db2708762b024f38cdcd96e60827641f814a4
+  part: 中編
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e19d4f8b720fa5b3cf6c3b3'
