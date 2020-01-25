@@ -1,11 +1,12 @@
-- id: 395
-  date: '2020-01-25 23:00'
+- id: 396
+  date: '2020-02-01 23:00'
   author:
     name: martin-svk
     url: 'https://github.com/martin-svk'
   vimrcs:
-    - url: 'https://github.com/martin-svk/dot-files/blob/master/neovim/init.vim'
+    - url: >-
+        https://github.com/martin-svk/dot-files/blob/e9833e0dadd7724d8e9f5e721309d5817656ea67/neovim/init.vim
       name: init.vim
-      hash: null
-  part: 前編
+      hash: e9833e0dadd7724d8e9f5e721309d5817656ea67
+  part: 中編
   other: null
