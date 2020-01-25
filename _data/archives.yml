@@ -10547,3 +10547,22 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e230f9cc7647778a5e5279a'
+- id: 395
+  date: '2020-01-25 23:00'
+  author:
+    name: martin-svk
+    url: 'https://github.com/martin-svk'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/martin-svk/dot-files/blob/e9833e0dadd7724d8e9f5e721309d5817656ea67/neovim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/martin-svk/dot-files/e9833e0dadd7724d8e9f5e721309d5817656ea67/neovim/init.vim'
+      hash: e9833e0dadd7724d8e9f5e721309d5817656ea67
+  part: 前編
+  other: null
+  members:
+    - astrorobot110
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutaro-n
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e2c4a054c3dae24f5e8feea'
