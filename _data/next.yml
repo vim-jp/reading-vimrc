@@ -1,11 +1,17 @@
-- id: 398
-  date: '2020-02-15 23:00'
+- id: 399
+  date: '2020-02-22 23:00'
   author:
-    name: S035779
-    url: 'https://github.com/S035779'
+    name: cohama
+    url: 'https://github.com/cohama'
   vimrcs:
-    - url: 'https://github.com/S035779/dotfiles/blob/master/.vimrc'
-      name: .vimrc
+    - url: 'https://github.com/cohama/.vim/blob/master/init.vim'
+      name: init.vim
       hash: null
-  part: null
+    - url: 'https://github.com/cohama/.vim/blob/master/dein.toml'
+      name: dein.toml
+      hash: null
+    - url: 'https://github.com/cohama/.vim/blob/master/.min.vimrc'
+      name: .min.vimrc
+      hash: null
+  part: 前編
   other: null
