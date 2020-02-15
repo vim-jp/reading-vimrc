@@ -10609,3 +10609,24 @@
     - xuanduc987
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e3ebf00f3718e705dedb8e7'
+- id: 398
+  date: '2020-02-15 23:00'
+  author:
+    name: S035779
+    url: 'https://github.com/S035779'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/S035779/dotfiles/blob/63e6fdde8e98aa73dff44cece155383866921ebd/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/S035779/dotfiles/63e6fdde8e98aa73dff44cece155383866921ebd/.vimrc'
+      hash: 63e6fdde8e98aa73dff44cece155383866921ebd
+  part: null
+  other: null
+  members:
+    - kuuote
+    - mattn
+    - monaqa
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e47f9b7b401eb68a57c7d4c'
