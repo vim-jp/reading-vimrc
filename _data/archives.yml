@@ -10630,3 +10630,32 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e47f9b7b401eb68a57c7d4c'
+- id: 399
+  date: '2020-02-22 23:00'
+  author:
+    name: cohama
+    url: 'https://github.com/cohama'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/cohama/.vim/blob/26304cf85810192a03b34dba149acd80a975d1d1/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/cohama/.vim/26304cf85810192a03b34dba149acd80a975d1d1/init.vim'
+      hash: 26304cf85810192a03b34dba149acd80a975d1d1
+    - name: dein.toml
+      url: 'https://github.com/cohama/.vim/blob/26304cf85810192a03b34dba149acd80a975d1d1/dein.toml'
+      raw_url: 'https://raw.githubusercontent.com/cohama/.vim/26304cf85810192a03b34dba149acd80a975d1d1/dein.toml'
+      hash: 26304cf85810192a03b34dba149acd80a975d1d1
+    - name: .min.vimrc
+      url: 'https://github.com/cohama/.vim/blob/26304cf85810192a03b34dba149acd80a975d1d1/.min.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/cohama/.vim/26304cf85810192a03b34dba149acd80a975d1d1/.min.vimrc'
+      hash: 26304cf85810192a03b34dba149acd80a975d1d1
+  part: 前編
+  other: null
+  members:
+    - cohama
+    - kuuote
+    - monaqa
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e513403b662483a875a1854'
