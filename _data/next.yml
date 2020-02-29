@@ -1,20 +1,17 @@
-- id: 400
-  date: '2020-02-29 23:00'
+- id: 401
+  date: '2020-03-07 23:00'
   author:
-    name: cohama
-    url: 'https://github.com/cohama'
+    name: mnishz
+    url: 'https://github.com/mnishz'
   vimrcs:
-    - url: >-
-        https://github.com/cohama/.vim/blob/26304cf85810192a03b34dba149acd80a975d1d1/init.vim
-      name: init.vim
-      hash: 26304cf85810192a03b34dba149acd80a975d1d1
-    - url: >-
-        https://github.com/cohama/.vim/blob/26304cf85810192a03b34dba149acd80a975d1d1/dein.toml
-      name: dein.toml
-      hash: 26304cf85810192a03b34dba149acd80a975d1d1
-    - url: >-
-        https://github.com/cohama/.vim/blob/26304cf85810192a03b34dba149acd80a975d1d1/.min.vimrc
-      name: .min.vimrc
-      hash: 26304cf85810192a03b34dba149acd80a975d1d1
-  part: 後編
+    - url: 'https://github.com/mnishz/dotfiles/blob/master/.vimrc'
+      name: .vimrc
+      hash: null
+    - url: 'https://github.com/mnishz/dotfiles/blob/master/plugins.vim'
+      name: plugins.vim
+      hash: null
+    - url: 'https://github.com/mnishz/dotfiles/blob/master/.gvimrc'
+      name: .gvimrc
+      hash: null
+  part: null
   other: null
