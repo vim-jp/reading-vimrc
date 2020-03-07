@@ -1,17 +1,20 @@
-- id: 401
-  date: '2020-03-07 23:00'
+- id: 402
+  date: '2020-03-14 23:00'
   author:
     name: mnishz
     url: 'https://github.com/mnishz'
   vimrcs:
-    - url: 'https://github.com/mnishz/dotfiles/blob/master/.vimrc'
+    - url: >-
+        https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/.vimrc
       name: .vimrc
-      hash: null
-    - url: 'https://github.com/mnishz/dotfiles/blob/master/plugins.vim'
+      hash: 0673fc0ecb85501787cc0c002303456e068f3374
+    - url: >-
+        https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/plugins.vim
       name: plugins.vim
-      hash: null
-    - url: 'https://github.com/mnishz/dotfiles/blob/master/.gvimrc'
+      hash: 0673fc0ecb85501787cc0c002303456e068f3374
+    - url: >-
+        https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/.gvimrc
       name: .gvimrc
-      hash: null
-  part: null
+      hash: 0673fc0ecb85501787cc0c002303456e068f3374
+  part: 後編
   other: null
