@@ -10716,3 +10716,31 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e63a90a8011bb652afb3b9f'
+- id: 402
+  date: '2020-03-14 23:00'
+  author:
+    name: mnishz
+    url: 'https://github.com/mnishz'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/mnishz/dotfiles/0673fc0ecb85501787cc0c002303456e068f3374/.vimrc'
+      hash: 0673fc0ecb85501787cc0c002303456e068f3374
+    - name: plugins.vim
+      url: 'https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/mnishz/dotfiles/0673fc0ecb85501787cc0c002303456e068f3374/plugins.vim'
+      hash: 0673fc0ecb85501787cc0c002303456e068f3374
+    - name: .gvimrc
+      url: 'https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/.gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/mnishz/dotfiles/0673fc0ecb85501787cc0c002303456e068f3374/.gvimrc'
+      hash: 0673fc0ecb85501787cc0c002303456e068f3374
+  part: 後編
+  other: null
+  members:
+    - IMOKURI
+    - kuuote
+    - monaqa
+    - skanehira
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e6ce375c5c6b744e2104ed2'
