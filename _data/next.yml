@@ -1,20 +1,47 @@
-- id: 402
-  date: '2020-03-14 23:00'
+- id: 403
+  date: '2020-03-21 23:00'
   author:
-    name: mnishz
-    url: 'https://github.com/mnishz'
+    name: LumaKernel
+    url: 'https://github.com/LumaKernel'
   vimrcs:
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/init.vim'
+      name: init.vim
+      hash: null
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/option-basic.vim'
+      name: option-basic.vim
+      hash: null
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/mapping.vim'
+      name: mapping.vim
+      hash: null
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/dein-setting.vim'
+      name: dein-setting.vim
+      hash: null
     - url: >-
-        https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/.vimrc
-      name: .vimrc
-      hash: 0673fc0ecb85501787cc0c002303456e068f3374
+        https://github.com/LumaKernel/dotfiles/blob/master/vim/show-whitespace.vim
+      name: show-whitespace.vim
+      hash: null
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/openapps.vim'
+      name: openapps.vim
+      hash: null
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/colors.vim'
+      name: colors.vim
+      hash: null
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/gvim.vim'
+      name: gvim.vim
+      hash: null
     - url: >-
-        https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/plugins.vim
-      name: plugins.vim
-      hash: 0673fc0ecb85501787cc0c002303456e068f3374
+        https://github.com/LumaKernel/dotfiles/blob/master/vim/setup-powershell.vim
+      name: setup-powershell.vim
+      hash: null
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/cpp.vim'
+      name: cpp.vim
+      hash: null
     - url: >-
-        https://github.com/mnishz/dotfiles/blob/0673fc0ecb85501787cc0c002303456e068f3374/.gvimrc
-      name: .gvimrc
-      hash: 0673fc0ecb85501787cc0c002303456e068f3374
-  part: 後編
+        https://github.com/LumaKernel/dotfiles/blob/master/vim/competitive-programming.vim
+      name: competitive-programming.vim
+      hash: null
+    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/vimscript.vim'
+      name: vimscript.vim
+      hash: null
+  part: 前編
   other: null
