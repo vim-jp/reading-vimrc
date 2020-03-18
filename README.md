@@ -1,3 +1,5 @@
+![vimrc読書会 ロゴ](images/logo.png)
+
 # vimrc読書会まとめ
 
 https://vim-jp.org/reading-vimrc/
