@@ -1,11 +1,9 @@
-vimrc読書会まとめ
-==================
+# vimrc読書会まとめ
 
 https://vim-jp.org/reading-vimrc/
 
 
-:memo: 更新手順
----------------
+## :memo: 更新手順
 
 Gitter 上の bot で更新できます。
 
@@ -19,8 +17,7 @@ Gitter 上の bot で更新できます。
 3. 完了 :tada:
 
 
-:book: Wiki更新手順
------------------------------
+## :book: Wiki更新手順
 
 bot からリクエストを追加できます。
 
