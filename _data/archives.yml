@@ -10744,3 +10744,68 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e6ce375c5c6b744e2104ed2'
+- id: 403
+  date: '2020-03-21 23:00'
+  author:
+    name: LumaKernel
+    url: 'https://github.com/LumaKernel'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/init.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: option-basic.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/option-basic.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/option-basic.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: mapping.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/mapping.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/mapping.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: dein-setting.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/dein-setting.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/dein-setting.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: show-whitespace.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/show-whitespace.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/show-whitespace.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: openapps.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/openapps.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/openapps.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: colors.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/colors.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/colors.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: gvim.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/gvim.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/gvim.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: setup-powershell.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/setup-powershell.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/setup-powershell.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: cpp.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/cpp.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/cpp.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: competitive-programming.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/competitive-programming.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/competitive-programming.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - name: vimscript.vim
+      url: 'https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/vimscript.vim'
+      raw_url: 'https://raw.githubusercontent.com/LumaKernel/dotfiles/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/vimscript.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+  part: 前編
+  other: null
+  members:
+    - astrorobot110
+    - kuuote
+    - mityu
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e761df741f2ab3f843a8a03'
