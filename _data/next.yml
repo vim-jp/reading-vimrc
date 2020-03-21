@@ -1,47 +1,56 @@
-- id: 403
-  date: '2020-03-21 23:00'
+- id: 404
+  date: '2020-03-28 23:00'
   author:
     name: LumaKernel
     url: 'https://github.com/LumaKernel'
   vimrcs:
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/init.vim'
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/init.vim
       name: init.vim
-      hash: null
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/option-basic.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/option-basic.vim
       name: option-basic.vim
-      hash: null
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/mapping.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/mapping.vim
       name: mapping.vim
-      hash: null
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/dein-setting.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/dein-setting.vim
       name: dein-setting.vim
-      hash: null
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
     - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/master/vim/show-whitespace.vim
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/show-whitespace.vim
       name: show-whitespace.vim
-      hash: null
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/openapps.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/openapps.vim
       name: openapps.vim
-      hash: null
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/colors.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/colors.vim
       name: colors.vim
-      hash: null
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/gvim.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/gvim.vim
       name: gvim.vim
-      hash: null
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
     - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/master/vim/setup-powershell.vim
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/setup-powershell.vim
       name: setup-powershell.vim
-      hash: null
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/cpp.vim'
-      name: cpp.vim
-      hash: null
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
     - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/master/vim/competitive-programming.vim
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/cpp.vim
+      name: cpp.vim
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/competitive-programming.vim
       name: competitive-programming.vim
-      hash: null
-    - url: 'https://github.com/LumaKernel/dotfiles/blob/master/vim/vimscript.vim'
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+    - url: >-
+        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/vimscript.vim
       name: vimscript.vim
-      hash: null
-  part: 前編
+      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
+  part: 中編
   other: null
