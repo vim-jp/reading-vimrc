@@ -1,5 +1,5 @@
-- id: 404
-  date: '2020-03-28 23:00'
+- id: 405
+  date: '2020-04-04 23:00'
   author:
     name: LumaKernel
     url: 'https://github.com/LumaKernel'
@@ -52,5 +52,5 @@
         https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/vimscript.vim
       name: vimscript.vim
       hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-  part: 中編
+  part: 後編
   other: null
