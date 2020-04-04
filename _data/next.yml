@@ -1,56 +1,17 @@
-- id: 405
-  date: '2020-04-04 23:00'
+- id: 406
+  date: '2020-04-11 23:00'
   author:
-    name: LumaKernel
-    url: 'https://github.com/LumaKernel'
+    name: dkarter
+    url: 'https://github.com/dkarter'
   vimrcs:
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/init.vim
-      name: init.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/option-basic.vim
-      name: option-basic.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/mapping.vim
-      name: mapping.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/dein-setting.vim
-      name: dein-setting.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/show-whitespace.vim
-      name: show-whitespace.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/openapps.vim
-      name: openapps.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/colors.vim
-      name: colors.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/gvim.vim
-      name: gvim.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/setup-powershell.vim
-      name: setup-powershell.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/cpp.vim
-      name: cpp.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/competitive-programming.vim
-      name: competitive-programming.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-    - url: >-
-        https://github.com/LumaKernel/dotfiles/blob/8fa7d556421ea3e57df9cbc6010ec1139f882fb4/vim/vimscript.vim
-      name: vimscript.vim
-      hash: 8fa7d556421ea3e57df9cbc6010ec1139f882fb4
-  part: 後編
+    - url: 'https://github.com/dkarter/dotfiles/blob/master/vimrc'
+      name: vimrc
+      hash: null
+    - url: 'https://github.com/dkarter/dotfiles/blob/master/vimrc.bundles'
+      name: vimrc.bundles
+      hash: null
+    - url: 'https://github.com/dkarter/dotfiles/blob/master/gvimrc'
+      name: gvimrc
+      hash: null
+  part: 前編
   other: null
