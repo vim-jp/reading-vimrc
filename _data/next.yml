@@ -1,17 +1,20 @@
-- id: 406
-  date: '2020-04-11 23:00'
+- id: 407
+  date: '2020-04-18 23:00'
   author:
     name: dkarter
     url: 'https://github.com/dkarter'
   vimrcs:
-    - url: 'https://github.com/dkarter/dotfiles/blob/master/vimrc'
+    - url: >-
+        https://github.com/dkarter/dotfiles/blob/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/vimrc
       name: vimrc
-      hash: null
-    - url: 'https://github.com/dkarter/dotfiles/blob/master/vimrc.bundles'
+      hash: ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6
+    - url: >-
+        https://github.com/dkarter/dotfiles/blob/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/vimrc.bundles
       name: vimrc.bundles
-      hash: null
-    - url: 'https://github.com/dkarter/dotfiles/blob/master/gvimrc'
+      hash: ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6
+    - url: >-
+        https://github.com/dkarter/dotfiles/blob/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/gvimrc
       name: gvimrc
-      hash: null
-  part: 前編
+      hash: ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6
+  part: 中編
   other: null
