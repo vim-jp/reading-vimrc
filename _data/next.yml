@@ -1,5 +1,5 @@
-- id: 407
-  date: '2020-04-18 23:00'
+- id: 408
+  date: '2020-04-25 23:00'
   author:
     name: dkarter
     url: 'https://github.com/dkarter'
@@ -16,5 +16,5 @@
         https://github.com/dkarter/dotfiles/blob/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/gvimrc
       name: gvimrc
       hash: ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6
-  part: 中編
+  part: 後編
   other: null
