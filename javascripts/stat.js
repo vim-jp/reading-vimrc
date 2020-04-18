@@ -143,7 +143,7 @@
     };
 
     /* d3 */
-    var ARCHIVE_URL_TEMPLATE = '/reading-vimrc/archive/';
+    var ARCHIVE_URL_TEMPLATE = '{{ site.baseurl }}/archive/';
 
     // Helper
 
