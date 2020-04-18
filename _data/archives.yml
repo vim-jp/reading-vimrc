@@ -10964,3 +10964,30 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e91cf3238198d56a1964ac2'
+- id: 407
+  date: '2020-04-18 23:00'
+  author:
+    name: dkarter
+    url: 'https://github.com/dkarter'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/dkarter/dotfiles/blob/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/dkarter/dotfiles/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/vimrc'
+      hash: ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6
+    - name: vimrc.bundles
+      url: 'https://github.com/dkarter/dotfiles/blob/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/vimrc.bundles'
+      raw_url: 'https://raw.githubusercontent.com/dkarter/dotfiles/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/vimrc.bundles'
+      hash: ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6
+    - name: gvimrc
+      url: 'https://github.com/dkarter/dotfiles/blob/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/dkarter/dotfiles/ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6/gvimrc'
+      hash: ecef0c25bc52b0e2f0b4a215a5cd30085e0c4ce6
+  part: 中編
+  other: null
+  members:
+    - kuuote
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5e9b07fa2ff88975b42dd406'
