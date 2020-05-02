@@ -11019,3 +11019,37 @@
     - yuki-ycino
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ea442753ea9b172a48c735a'
+- id: 409
+  date: '2020-05-02 23:00'
+  author:
+    name: kuuote
+    url: 'https://github.com/kuuote'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/kuuote/dotvim/adcfa4e6430845630b2536d7592124970b108116/vimrc'
+      hash: adcfa4e6430845630b2536d7592124970b108116
+    - name: gvimrc
+      url: 'https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/kuuote/dotvim/adcfa4e6430845630b2536d7592124970b108116/gvimrc'
+      hash: adcfa4e6430845630b2536d7592124970b108116
+    - name: vimrc.vim
+      url: 'https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/autoload/vimrc.vim'
+      raw_url: 'https://raw.githubusercontent.com/kuuote/dotvim/adcfa4e6430845630b2536d7592124970b108116/autoload/vimrc.vim'
+      hash: adcfa4e6430845630b2536d7592124970b108116
+    - name: vimrc_cat.vim
+      url: 'https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/vimrc_cat.vim'
+      raw_url: 'https://raw.githubusercontent.com/kuuote/dotvim/adcfa4e6430845630b2536d7592124970b108116/vimrc_cat.vim'
+      hash: adcfa4e6430845630b2536d7592124970b108116
+  part: 前編
+  other: null
+  members:
+    - astrorobot110
+    - hokorobi
+    - k-takata
+    - kuuote
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ead7ce39f0c955d7d9d668a'
