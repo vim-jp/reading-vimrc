@@ -1,20 +1,24 @@
-- id: 409
-  date: '2020-05-02 23:00'
+- id: 410
+  date: '2020-05-09 23:00'
   author:
     name: kuuote
     url: 'https://github.com/kuuote'
   vimrcs:
-    - url: 'https://github.com/kuuote/dotvim/blob/master/vimrc'
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/vimrc
       name: vimrc
-      hash: null
-    - url: 'https://github.com/kuuote/dotvim/blob/master/gvimrc'
+      hash: adcfa4e6430845630b2536d7592124970b108116
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/gvimrc
       name: gvimrc
-      hash: null
-    - url: 'https://github.com/kuuote/dotvim/blob/master/autoload/vimrc.vim'
+      hash: adcfa4e6430845630b2536d7592124970b108116
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/autoload/vimrc.vim
       name: vimrc.vim
-      hash: null
-    - url: 'https://github.com/kuuote/dotvim/blob/master/vimrc_cat.vim'
+      hash: adcfa4e6430845630b2536d7592124970b108116
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/vimrc_cat.vim
       name: vimrc_cat.vim
-      hash: null
-  part: 前編
+      hash: adcfa4e6430845630b2536d7592124970b108116
+  part: 中編
   other: null
