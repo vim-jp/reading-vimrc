@@ -1,5 +1,5 @@
-- id: 410
-  date: '2020-05-09 23:00'
+- id: 411
+  date: '2020-05-16 23:00'
   author:
     name: kuuote
     url: 'https://github.com/kuuote'
@@ -20,5 +20,5 @@
         https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/vimrc_cat.vim
       name: vimrc_cat.vim
       hash: adcfa4e6430845630b2536d7592124970b108116
-  part: 中編
+  part: 後編
   other: null
