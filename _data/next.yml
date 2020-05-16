@@ -1,24 +1,15 @@
-- id: 411
-  date: '2020-05-16 23:00'
+- id: 412
+  date: '2020-05-23 23:00'
   author:
-    name: kuuote
-    url: 'https://github.com/kuuote'
+    name: yukiycino-dotfiles
+    url: 'https://github.com/yukiycino-dotfiles'
   vimrcs:
+    - url: 'https://github.com/yukiycino-dotfiles/dotfiles/blob/master/.vimrc'
+      name: .vimrc
+      hash: null
     - url: >-
-        https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/vimrc
-      name: vimrc
-      hash: adcfa4e6430845630b2536d7592124970b108116
-    - url: >-
-        https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/gvimrc
-      name: gvimrc
-      hash: adcfa4e6430845630b2536d7592124970b108116
-    - url: >-
-        https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/autoload/vimrc.vim
-      name: vimrc.vim
-      hash: adcfa4e6430845630b2536d7592124970b108116
-    - url: >-
-        https://github.com/kuuote/dotvim/blob/adcfa4e6430845630b2536d7592124970b108116/vimrc_cat.vim
-      name: vimrc_cat.vim
-      hash: adcfa4e6430845630b2536d7592124970b108116
-  part: 後編
+        https://github.com/yukiycino-dotfiles/dotfiles/blob/master/.vim/coc-settings.json
+      name: coc-settings.json
+      hash: null
+  part: 前編
   other: null
