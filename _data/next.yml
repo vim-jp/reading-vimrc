@@ -1,15 +1,16 @@
-- id: 412
-  date: '2020-05-23 23:00'
+- id: 413
+  date: '2020-05-30 23:00'
   author:
     name: yukiycino-dotfiles
     url: 'https://github.com/yukiycino-dotfiles'
   vimrcs:
-    - url: 'https://github.com/yukiycino-dotfiles/dotfiles/blob/master/.vimrc'
-      name: .vimrc
-      hash: null
     - url: >-
-        https://github.com/yukiycino-dotfiles/dotfiles/blob/master/.vim/coc-settings.json
+        https://github.com/yukiycino-dotfiles/dotfiles/blob/ff76abc26557f3158b10cf5bedc92767fad4877d/.vimrc
+      name: .vimrc
+      hash: ff76abc26557f3158b10cf5bedc92767fad4877d
+    - url: >-
+        https://github.com/yukiycino-dotfiles/dotfiles/blob/ff76abc26557f3158b10cf5bedc92767fad4877d/.vim/coc-settings.json
       name: coc-settings.json
-      hash: null
-  part: 前編
+      hash: ff76abc26557f3158b10cf5bedc92767fad4877d
+  part: 中編
   other: null
