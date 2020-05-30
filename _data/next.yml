@@ -1,5 +1,5 @@
-- id: 413
-  date: '2020-05-30 23:00'
+- id: 414
+  date: '2020-06-06 23:00'
   author:
     name: yukiycino-dotfiles
     url: 'https://github.com/yukiycino-dotfiles'
@@ -12,5 +12,5 @@
         https://github.com/yukiycino-dotfiles/dotfiles/blob/ff76abc26557f3158b10cf5bedc92767fad4877d/.vim/coc-settings.json
       name: coc-settings.json
       hash: ff76abc26557f3158b10cf5bedc92767fad4877d
-  part: 中編
+  part: 後編
   other: null
