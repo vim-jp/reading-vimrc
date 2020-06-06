@@ -1,16 +1,28 @@
-- id: 414
-  date: '2020-06-06 23:00'
+- id: 415
+  date: '2020-06-13 23:00'
   author:
-    name: yukiycino-dotfiles
-    url: 'https://github.com/yukiycino-dotfiles'
+    name: monaqa
+    url: 'https://github.com/monaqa'
   vimrcs:
     - url: >-
-        https://github.com/yukiycino-dotfiles/dotfiles/blob/ff76abc26557f3158b10cf5bedc92767fad4877d/.vimrc
-      name: .vimrc
-      hash: ff76abc26557f3158b10cf5bedc92767fad4877d
+        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/init.vim
+      name: init.vim
+      hash: null
     - url: >-
-        https://github.com/yukiycino-dotfiles/dotfiles/blob/ff76abc26557f3158b10cf5bedc92767fad4877d/.vim/coc-settings.json
+        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugin-settings.vim
+      name: plugin-settings.vim
+      hash: null
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/coc-settings.json
       name: coc-settings.json
-      hash: ff76abc26557f3158b10cf5bedc92767fad4877d
-  part: 後編
+      hash: null
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugins/rc/dein.toml
+      name: dein.toml
+      hash: null
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugins/rc/dein_lazy.toml
+      name: dein_lazy.toml
+      hash: null
+  part: 前編
   other: null
