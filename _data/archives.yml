@@ -11172,3 +11172,28 @@
     - yuki-ycino
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ed2674c4c9b0f060d334268'
+- id: 414
+  date: '2020-06-06 23:00'
+  author:
+    name: yukiycino-dotfiles
+    url: 'https://github.com/yukiycino-dotfiles'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/yukiycino-dotfiles/dotfiles/blob/ff76abc26557f3158b10cf5bedc92767fad4877d/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/yukiycino-dotfiles/dotfiles/ff76abc26557f3158b10cf5bedc92767fad4877d/.vimrc'
+      hash: ff76abc26557f3158b10cf5bedc92767fad4877d
+    - name: coc-settings.json
+      url: 'https://github.com/yukiycino-dotfiles/dotfiles/blob/ff76abc26557f3158b10cf5bedc92767fad4877d/.vim/coc-settings.json'
+      raw_url: 'https://raw.githubusercontent.com/yukiycino-dotfiles/dotfiles/ff76abc26557f3158b10cf5bedc92767fad4877d/.vim/coc-settings.json'
+      hash: ff76abc26557f3158b10cf5bedc92767fad4877d
+  part: 後編
+  other: null
+  members:
+    - hokorobi
+    - kuuote
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5edba18489941d051a488aa2'
