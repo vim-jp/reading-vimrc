@@ -5,24 +5,24 @@
     url: 'https://github.com/monaqa'
   vimrcs:
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/init.vim
+        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/init.vim
       name: init.vim
-      hash: null
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugin-settings.vim
+        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugin-settings.vim
       name: plugin-settings.vim
-      hash: null
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/coc-settings.json
+        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/coc-settings.json
       name: coc-settings.json
-      hash: null
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugins/rc/dein.toml
+        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugins/rc/dein.toml
       name: dein.toml
-      hash: null
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugins/rc/dein_lazy.toml
+        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugins/rc/dein_lazy.toml
       name: dein_lazy.toml
-      hash: null
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
   part: 中編
   other: null
