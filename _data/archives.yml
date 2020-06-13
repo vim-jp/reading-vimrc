@@ -11197,3 +11197,40 @@
     - yuki-ycino
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5edba18489941d051a488aa2'
+- id: 415
+  date: '2020-06-13 23:00'
+  author:
+    name: monaqa
+    url: 'https://github.com/monaqa'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/monaqa/dotfiles/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/init.vim'
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
+    - name: plugin-settings.vim
+      url: 'https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugin-settings.vim'
+      raw_url: 'https://raw.githubusercontent.com/monaqa/dotfiles/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugin-settings.vim'
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
+    - name: coc-settings.json
+      url: 'https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/coc-settings.json'
+      raw_url: 'https://raw.githubusercontent.com/monaqa/dotfiles/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/coc-settings.json'
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
+    - name: dein.toml
+      url: 'https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugins/rc/dein.toml'
+      raw_url: 'https://raw.githubusercontent.com/monaqa/dotfiles/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugins/rc/dein.toml'
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
+    - name: dein_lazy.toml
+      url: 'https://github.com/monaqa/dotfiles/blob/vimrc-reading/.config/nvim/plugins/rc/dein_lazy.toml'
+      raw_url: 'https://raw.githubusercontent.com/monaqa/dotfiles/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugins/rc/dein_lazy.toml'
+      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
+  part: 前編
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - ujihisa
+    - yuki-ycino
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ee4df22ef5c1c28f01ed8b7'
