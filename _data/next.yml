@@ -1,5 +1,5 @@
-- id: 416
-  date: '2020-06-20 23:00'
+- id: 417
+  date: '2020-06-27 23:00'
   author:
     name: monaqa
     url: 'https://github.com/monaqa'
@@ -24,5 +24,5 @@
         https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugins/rc/dein_lazy.toml
       name: dein_lazy.toml
       hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
-  part: 中編
+  part: 後編
   other: null
