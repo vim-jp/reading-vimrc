@@ -1,28 +1,44 @@
-- id: 417
-  date: '2020-06-27 23:00'
+- id: 418
+  date: '2020-07-04 23:00'
   author:
-    name: monaqa
-    url: 'https://github.com/monaqa'
+    name: lambdalisue
+    url: 'https://github.com/lambdalisue'
   vimrcs:
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/init.vim
+    - url: 'https://github.com/lambdalisue/dotfiles/blob/master/nvim/init.vim'
       name: init.vim
-      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
+      hash: null
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugin-settings.vim
-      name: plugin-settings.vim
-      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/coc-settings.json
+        https://github.com/lambdalisue/dotfiles/blob/master/nvim/coc-settings.json
       name: coc-settings.json
-      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
+      hash: null
+    - url: 'https://github.com/lambdalisue/dotfiles/blob/master/nvim/minpack.vim'
+      name: minpack.vim
+      hash: null
+    - url: 'https://github.com/lambdalisue/dotfiles/blob/master/nvim/filetype.vim'
+      name: filetype.vim
+      hash: null
+    - url: 'https://github.com/lambdalisue/dotfiles/blob/master/nvim/ginit.vim'
+      name: ginit.vim
+      hash: null
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugins/rc/dein.toml
-      name: dein.toml
-      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
+        https://github.com/lambdalisue/dotfiles/blob/master/nvim/plugin.d/coc.vim
+      name: coc.vim
+      hash: null
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/32f70b3f92d75eaab07a33f8bf28ee17927476e8/.config/nvim/plugins/rc/dein_lazy.toml
-      name: dein_lazy.toml
-      hash: 32f70b3f92d75eaab07a33f8bf28ee17927476e8
-  part: 後編
+        https://github.com/lambdalisue/dotfiles/blob/master/nvim/plugin.d/fern.vim
+      name: fern.vim
+      hash: null
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/master/nvim/plugin.d/gina.vim
+      name: gina.vim
+      hash: null
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/master/nvim/plugin.d/quickrun.vim
+      name: quickrun.vim
+      hash: null
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/master/nvim/after/ftplugin/help.vim
+      name: help.vim
+      hash: null
+  part: 前編
   other: null
