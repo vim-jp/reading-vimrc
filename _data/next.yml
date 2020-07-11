@@ -1,5 +1,5 @@
-- id: 419
-  date: '2020-07-11 23:00'
+- id: 420
+  date: '2020-07-18 23:00'
   author:
     name: lambdalisue
     url: 'https://github.com/lambdalisue'
@@ -44,5 +44,5 @@
         https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/after/ftplugin/help.vim
       hash: 02549431364232b051cc8bdb5b124e9e75256a6b
       name: help.vim
-  part: 中編
+  part: 後編
   other: null
