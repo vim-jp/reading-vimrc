@@ -11421,3 +11421,59 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f09c5ebc7d15f7d0f874e1e'
+- id: 420
+  date: '2020-07-18 23:00'
+  author:
+    name: lambdalisue
+    url: 'https://github.com/lambdalisue'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/init.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: coc-settings.json
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/coc-settings.json'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/coc-settings.json'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: minpack.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/minpack.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/minpack.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: filetype.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/filetype.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/filetype.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: ginit.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/ginit.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/ginit.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: coc.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/plugin.d/coc.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/plugin.d/coc.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: fern.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/plugin.d/fern.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/plugin.d/fern.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: gina.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/plugin.d/gina.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/plugin.d/gina.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: quickrun.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/plugin.d/quickrun.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/plugin.d/quickrun.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+    - name: help.vim
+      url: 'https://github.com/lambdalisue/dotfiles/blob/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/after/ftplugin/help.vim'
+      raw_url: 'https://raw.githubusercontent.com/lambdalisue/dotfiles/02549431364232b051cc8bdb5b124e9e75256a6b/nvim/after/ftplugin/help.vim'
+      hash: 02549431364232b051cc8bdb5b124e9e75256a6b
+  part: 後編
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - ngtkana
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f13006518ddba6ef5e07888'
