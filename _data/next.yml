@@ -1,41 +1,52 @@
-- id: 421
-  date: '2020-07-25 23:00'
+- id: 422
+  date: '2020-08-01 23:00'
   author:
     name: chemzqm
     url: 'https://github.com/chemzqm'
   vimrcs:
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/.vimrc'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/.vimrc
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: .vimrc
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/abbr.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/abbr.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: abbr.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/autocmd.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/autocmd.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: autocmd.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/command.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/command.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: command.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/general.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/general.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: general.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/leadermap.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/leadermap.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: leadermap.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/neovim.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/neovim.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: neovim.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/plugin.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/plugin.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: plugin.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/remap.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/remap.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: remap.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/statusline.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/statusline.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: statusline.vim
-    - url: 'https://github.com/chemzqm/vimrc/blob/master/tabline.vim'
-      hash: null
+    - url: >-
+        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/tabline.vim
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
       name: tabline.vim
-  part: 前編
+  part: 後編
   other: null
