@@ -11540,3 +11540,66 @@
     - yuki-ycino
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f1c3ae5bc41f3681723aa9a'
+- id: 422
+  date: '2020-08-01 23:00'
+  author:
+    name: chemzqm
+    url: 'https://github.com/chemzqm'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/.vimrc'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: abbr.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/abbr.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/abbr.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: autocmd.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/autocmd.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/autocmd.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: command.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/command.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/command.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: general.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/general.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/general.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: leadermap.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/leadermap.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/leadermap.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: neovim.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/neovim.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/neovim.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: plugin.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/plugin.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/plugin.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: remap.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/remap.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/remap.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: statusline.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/statusline.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/statusline.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+    - name: tabline.vim
+      url: 'https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/tabline.vim'
+      raw_url: 'https://raw.githubusercontent.com/chemzqm/vimrc/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/tabline.vim'
+      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
+  part: 後編
+  other: null
+  members:
+    - Ryutooooo
+    - biosugar0
+    - kato-k
+    - kuuote
+    - monaqa
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f25756f6334d26a7e6a08b6'
