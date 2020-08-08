@@ -1,52 +1,80 @@
-- id: 422
-  date: '2020-08-01 23:00'
+- id: 423
+  date: '2020-08-08 23:00'
   author:
-    name: chemzqm
-    url: 'https://github.com/chemzqm'
+    name: h-michael
+    url: 'https://github.com/h-michael'
   vimrcs:
+    - url: 'https://github.com/h-michael/dotfiles/blob/master/.vim/vimrc'
+      hash: null
+      name: vimrc
+    - url: 'https://github.com/h-michael/dotfiles/blob/master/.vim/init.vim'
+      hash: null
+      name: init.vim
+    - url: 'https://github.com/h-michael/dotfiles/blob/master/.vim/rc/vimrc'
+      hash: null
+      name: vimrc
+    - url: 'https://github.com/h-michael/dotfiles/blob/master/.vim/rc/init.rc.vim'
+      hash: null
+      name: init.rc.vim
+    - url: 'https://github.com/h-michael/dotfiles/blob/master/.vim/rc/options.rc.vim'
+      hash: null
+      name: options.rc.vim
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/.vimrc
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: .vimrc
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/mappings.rc.vim
+      hash: null
+      name: mappings.rc.vim
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/abbr.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: abbr.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/filetype.rc.vim
+      hash: null
+      name: filetype.rc.vim
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/autocmd.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: autocmd.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/encoding.rc.vim
+      hash: null
+      name: encoding.rc.vim
+    - url: 'https://github.com/h-michael/dotfiles/blob/master/.vim/rc/unix.rc.vim'
+      hash: null
+      name: unix.rc.vim
+    - url: 'https://github.com/h-michael/dotfiles/blob/master/.vim/rc/neovim.rc.vim'
+      hash: null
+      name: neovim.rc.vim
+    - url: 'https://github.com/h-michael/dotfiles/blob/master/.vim/rc/gui.rc.vim'
+      hash: null
+      name: gui.rc.vim
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/command.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: command.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/plugins/default.rc.toml
+      hash: null
+      name: default.rc.toml
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/general.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: general.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/plugins/lazy.rc.toml
+      hash: null
+      name: lazy.rc.toml
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/leadermap.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: leadermap.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/plugins/nvim_lsp.rc.toml
+      hash: null
+      name: nvim_lsp.rc.toml
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/neovim.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: neovim.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/plugins/ftplugin.rc.toml
+      hash: null
+      name: ftplugin.rc.toml
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/plugin.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: plugin.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/plugins/dein.rc.vim
+      hash: null
+      name: dein.rc.vim
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/remap.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: remap.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/plugins/config/vim-go.rc.vim
+      hash: null
+      name: vim-go.rc.vim
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/statusline.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: statusline.vim
+        https://github.com/h-michael/dotfiles/blob/master/.vim/rc/plugins/removed.rc.toml
+      hash: null
+      name: removed.rc.toml
     - url: >-
-        https://github.com/chemzqm/vimrc/blob/64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177/tabline.vim
-      hash: 64f4cdfc1b0dff85b9bfac3e3ca0a9bf0e99f177
-      name: tabline.vim
-  part: 後編
+        https://github.com/h-michael/dotfiles/blob/master/.vim/lua/vim_extension.lua
+      hash: null
+      name: vim_extension.lua
+    - url: >-
+        https://github.com/h-michael/dotfiles/blob/master/.vim/autoload/vimrc.vim
+      hash: null
+      name: vimrc.vim
+  part: 前編
   other: null
