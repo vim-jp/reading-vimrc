@@ -1,5 +1,5 @@
-- id: 424
-  date: '2020-08-15 23:00'
+- id: 425
+  date: '2020-08-22 23:00'
   author:
     name: h-michael
     url: 'https://github.com/h-michael'
@@ -84,5 +84,5 @@
         https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/autoload/vimrc.vim
       hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
       name: vimrc.vim
-  part: 中編
+  part: 後編
   other: null
