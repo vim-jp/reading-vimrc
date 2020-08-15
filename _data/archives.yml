@@ -11700,3 +11700,98 @@
     - yoshio15
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f2eb05579da21426f20565a'
+- id: 424
+  date: '2020-08-15 23:00'
+  author:
+    name: h-michael
+    url: 'https://github.com/h-michael'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/vimrc'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: init.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/init.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: vimrc
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/vimrc'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: init.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/init.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/init.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: options.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/options.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/options.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: mappings.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/mappings.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/mappings.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: filetype.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/filetype.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/filetype.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: encoding.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/encoding.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/encoding.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: unix.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/unix.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/unix.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: neovim.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/neovim.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/neovim.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: gui.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/gui.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/gui.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: default.rc.toml
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/default.rc.toml'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/default.rc.toml'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: lazy.rc.toml
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/lazy.rc.toml'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/lazy.rc.toml'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: nvim_lsp.rc.toml
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/nvim_lsp.rc.toml'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/nvim_lsp.rc.toml'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: ftplugin.rc.toml
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/ftplugin.rc.toml'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/ftplugin.rc.toml'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: dein.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/dein.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/dein.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: vim-go.rc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/config/vim-go.rc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/config/vim-go.rc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: removed.rc.toml
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/removed.rc.toml'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/rc/plugins/removed.rc.toml'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: vim_extension.lua
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/lua/vim_extension.lua'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/lua/vim_extension.lua'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+    - name: vimrc.vim
+      url: 'https://github.com/h-michael/dotfiles/blob/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/autoload/vimrc.vim'
+      raw_url: 'https://raw.githubusercontent.com/h-michael/dotfiles/aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3/.vim/autoload/vimrc.vim'
+      hash: aa0ae42ab181207bc18e2d6d8ffdd909f5b4b8f3
+  part: 中編
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f37ea66a1190a2e95f414b3'
