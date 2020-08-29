@@ -11889,3 +11889,25 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f4124e349148b41c965ea1e'
+- id: 426
+  date: '2020-08-29 23:00'
+  author:
+    name: psprint
+    url: 'https://github.com/psprint'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/psprint/dotfiles/blob/1b2719758320495b2b627c23efad6dd2a7d9e5c2/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/psprint/dotfiles/1b2719758320495b2b627c23efad6dd2a7d9e5c2/.vimrc'
+      hash: 1b2719758320495b2b627c23efad6dd2a7d9e5c2
+  part: null
+  other: null
+  members:
+    - Shougo
+    - kuuote
+    - mattn
+    - mirachan010
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f4a5f6cec534f584fcc6619'
