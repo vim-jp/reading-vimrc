@@ -11911,3 +11911,23 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f4a5f6cec534f584fcc6619'
+- id: 427
+  date: '2020-09-05 23:00'
+  author:
+    name: bfredl
+    url: 'https://github.com/bfredl'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/bfredl/dotfiles/blob/f67029d2aa5482615ac0ad8b64e03270c72a64c7/.vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/bfredl/dotfiles/f67029d2aa5482615ac0ad8b64e03270c72a64c7/.vim/vimrc'
+      hash: f67029d2aa5482615ac0ad8b64e03270c72a64c7
+  part: null
+  other: null
+  members:
+    - hakehash
+    - hokorobi
+    - kuuote
+    - monaqa
+    - thinca
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f5399f8ddc2d041c0edea32'
