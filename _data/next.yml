@@ -1,11 +1,11 @@
-- id: 426
-  date: '2020-08-29 23:00'
+- id: 427
+  date: '2020-09-05 23:00'
   author:
-    name: psprint
-    url: 'https://github.com/psprint'
+    name: bfredl
+    url: 'https://github.com/bfredl'
   vimrcs:
-    - url: 'https://github.com/psprint/dotfiles/blob/master/.vimrc'
+    - url: 'https://github.com/bfredl/dotfiles/blob/master/.vim/vimrc'
       hash: null
-      name: .vimrc
+      name: vimrc
   part: null
   other: null
