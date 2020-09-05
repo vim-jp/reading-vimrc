@@ -1,11 +1,12 @@
-- id: 427
-  date: '2020-09-05 23:00'
+- id: 428
+  date: '2020-09-12 23:00'
   author:
-    name: bfredl
-    url: 'https://github.com/bfredl'
+    name: leeren
+    url: 'https://github.com/leeren'
   vimrcs:
-    - url: 'https://github.com/bfredl/dotfiles/blob/master/.vim/vimrc'
-      hash: null
-      name: vimrc
+    - url: >-
+        https://github.com/leeren/dotfiles/blob/7f4088c1cb87b168910b06da5b6d0350cfbf7230/vim/.vimrc
+      hash: 7f4088c1cb87b168910b06da5b6d0350cfbf7230
+      name: .vimrc
   part: null
   other: null
