@@ -11931,3 +11931,23 @@
     - thinca
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f5399f8ddc2d041c0edea32'
+- id: 428
+  date: '2020-09-12 23:00'
+  author:
+    name: leeren
+    url: 'https://github.com/leeren'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/leeren/dotfiles/blob/7f4088c1cb87b168910b06da5b6d0350cfbf7230/vim/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/leeren/dotfiles/7f4088c1cb87b168910b06da5b6d0350cfbf7230/vim/.vimrc'
+      hash: 7f4088c1cb87b168910b06da5b6d0350cfbf7230
+  part: null
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - raehik
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f5cd4addf4af236f901cc53'
