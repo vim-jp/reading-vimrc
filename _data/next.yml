@@ -1,12 +1,14 @@
-- id: 428
-  date: '2020-09-12 23:00'
+- id: 429
+  date: '2020-09-19 23:00'
   author:
-    name: leeren
-    url: 'https://github.com/leeren'
+    name: Xuyuanp
+    url: 'https://github.com/Xuyuanp'
   vimrcs:
-    - url: >-
-        https://github.com/leeren/dotfiles/blob/7f4088c1cb87b168910b06da5b6d0350cfbf7230/vim/.vimrc
-      hash: 7f4088c1cb87b168910b06da5b6d0350cfbf7230
-      name: .vimrc
+    - url: 'https://github.com/Xuyuanp/vimrc/blob/master/vimrc'
+      hash: null
+      name: vimrc
+    - url: 'https://github.com/Xuyuanp/vimrc/blob/master/init.vim'
+      hash: null
+      name: init.vim
   part: null
   other: null
