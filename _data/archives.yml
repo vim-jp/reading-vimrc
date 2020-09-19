@@ -11951,3 +11951,27 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f5cd4addf4af236f901cc53'
+- id: 429
+  date: '2020-09-19 23:00'
+  author:
+    name: Xuyuanp
+    url: 'https://github.com/Xuyuanp'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/Xuyuanp/vimrc/blob/f6712c1040c660ce486410accde9f6ba609a20ee/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/Xuyuanp/vimrc/f6712c1040c660ce486410accde9f6ba609a20ee/vimrc'
+      hash: f6712c1040c660ce486410accde9f6ba609a20ee
+    - name: init.vim
+      url: 'https://github.com/Xuyuanp/vimrc/blob/f6712c1040c660ce486410accde9f6ba609a20ee/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/Xuyuanp/vimrc/f6712c1040c660ce486410accde9f6ba609a20ee/init.vim'
+      hash: f6712c1040c660ce486410accde9f6ba609a20ee
+  part: null
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - raa0121
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f660f16f51808513b532e8e'
