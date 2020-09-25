@@ -1,14 +1,11 @@
-- id: 429
-  date: '2020-09-19 23:00'
+- id: 430
+  date: '2020-09-26 23:00'
   author:
-    name: Xuyuanp
-    url: 'https://github.com/Xuyuanp'
+    name: wass88
+    url: 'https://github.com/wass88'
   vimrcs:
-    - url: 'https://github.com/Xuyuanp/vimrc/blob/master/vimrc'
+    - url: 'https://github.com/wass88/dotfiles/blob/master/.vimrc'
       hash: null
-      name: vimrc
-    - url: 'https://github.com/Xuyuanp/vimrc/blob/master/init.vim'
-      hash: null
-      name: init.vim
+      name: .vimrc
   part: null
   other: null
