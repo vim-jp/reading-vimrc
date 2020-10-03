@@ -11998,3 +11998,24 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f6f49774002c640b5eac82c'
+- id: 431
+  date: '2020-10-03 23:00'
+  author:
+    name: wass88
+    url: 'https://github.com/wass88'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/wass88/dotfiles/blob/62ad8bca0a494c45294164fb9df27ee440b23e87/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/wass88/dotfiles/62ad8bca0a494c45294164fb9df27ee440b23e87/.vimrc'
+      hash: 62ad8bca0a494c45294164fb9df27ee440b23e87
+  part: 後編
+  other: null
+  members:
+    - higashi000
+    - kuuote
+    - monaqa
+    - tamago324
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f7883e3d30fff6aaf348e77'
