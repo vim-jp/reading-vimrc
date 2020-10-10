@@ -5,115 +5,115 @@
     url: 'https://github.com/tjdevries'
   vimrcs:
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/init.vim
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/init.vim
       hash: null
       name: init.vim
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/ginit.vim
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/ginit.vim
       hash: null
       name: ginit.vim
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/autoload/tj.vim
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/autoload/tj.vim
       hash: null
       name: tj.vim
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/_other_colors.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/_other_colors.lua
       hash: null
       name: _other_colors.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/custom/diagnostics.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/custom/diagnostics.lua
       hash: null
       name: diagnostics.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/custom/floating_text.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/custom/floating_text.lua
       hash: null
       name: floating_text.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/custom/functional.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/custom/functional.lua
       hash: null
       name: functional.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/custom/inspector.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/custom/inspector.lua
       hash: null
       name: inspector.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/custom/lsp_override.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/custom/lsp_override.lua
       hash: null
       name: lsp_override.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/custom/mappings.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/custom/mappings.lua
       hash: null
       name: mappings.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/find_require.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/find_require.lua
       hash: null
       name: find_require.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/init.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/init.lua
       hash: null
       name: init.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/inspect.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/inspect.lua
       hash: null
       name: inspect.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/lsp_config.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/lsp_config.lua
       hash: null
       name: lsp_config.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/nvim_lsp/sourcegraph_ts.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/nvim_lsp/sourcegraph_ts.lua
       hash: null
       name: sourcegraph_ts.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/plugins.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/plugins.lua
       hash: null
       name: plugins.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/reload.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/reload.lua
       hash: null
       name: reload.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/completion.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/completion.lua
       hash: null
       name: completion.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/lsp_extensions.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/lsp_extensions.lua
       hash: null
       name: lsp_extensions.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/lsp_status.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/lsp_status.lua
       hash: null
       name: lsp_status.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/nvim_dev.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/nvim_dev.lua
       hash: null
       name: nvim_dev.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/plenary.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/plenary.lua
       hash: null
       name: plenary.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/repl.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/repl.lua
       hash: null
       name: repl.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/snippets.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/snippets.lua
       hash: null
       name: snippets.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/statusline.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/statusline.lua
       hash: null
       name: statusline.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/telescope.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/telescope.lua
       hash: null
       name: telescope.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/lua/tj/treesitter.lua
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/lua/tj/treesitter.lua
       hash: null
       name: treesitter.lua
     - url: >-
-        https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/plugin/keymaps.vim
+        https://github.com/tjdevries/config_manager/blob/master/xdg_config/nvim/plugin/keymaps.vim
       hash: null
       name: keymaps.vim
   part: 前編
