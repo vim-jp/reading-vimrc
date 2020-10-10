@@ -12019,3 +12019,133 @@
     - tsuyoshicho
     - yuki-ycino
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f7883e3d30fff6aaf348e77'
+- id: 432
+  date: '2020-10-10 23:00'
+  author:
+    name: tjdevries
+    url: 'https://github.com/tjdevries'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/init.vim'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: ginit.vim
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/ginit.vim'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/ginit.vim'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: tj.vim
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/autoload/tj.vim'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/autoload/tj.vim'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: _other_colors.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/_other_colors.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/_other_colors.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: diagnostics.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/diagnostics.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/diagnostics.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: floating_text.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/floating_text.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/floating_text.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: functional.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/functional.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/functional.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: inspector.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/inspector.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/inspector.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: lsp_override.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/lsp_override.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/lsp_override.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: mappings.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/mappings.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/custom/mappings.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: find_require.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/find_require.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/find_require.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: init.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/init.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/init.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: inspect.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/inspect.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/inspect.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: lsp_config.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/lsp_config.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/lsp_config.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: sourcegraph_ts.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/nvim_lsp/sourcegraph_ts.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/nvim_lsp/sourcegraph_ts.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: plugins.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/plugins.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/plugins.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: reload.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/reload.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/reload.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: completion.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/completion.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/completion.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: lsp_extensions.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/lsp_extensions.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/lsp_extensions.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: lsp_status.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/lsp_status.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/lsp_status.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: nvim_dev.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/nvim_dev.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/nvim_dev.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: plenary.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/plenary.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/plenary.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: repl.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/repl.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/repl.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: snippets.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/snippets.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/snippets.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: statusline.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/statusline.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/statusline.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: telescope.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/telescope.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/telescope.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: treesitter.lua
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/treesitter.lua'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/lua/tj/treesitter.lua'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+    - name: keymaps.vim
+      url: 'https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/plugin/keymaps.vim'
+      raw_url: 'https://raw.githubusercontent.com/tjdevries/config_manager/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/plugin/keymaps.vim'
+      hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
+  part: 前編
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - rbtnn
+    - tamago324
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f81c1ff07361f0cc6424862'
