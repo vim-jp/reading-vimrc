@@ -1,5 +1,5 @@
-- id: 433
-  date: '2020-10-17 23:00'
+- id: 434
+  date: '2020-10-24 23:00'
   author:
     name: tjdevries
     url: 'https://github.com/tjdevries'
@@ -116,5 +116,5 @@
         https://github.com/tjdevries/config_manager/blob/31bae890cedb0025e99c10c7e8be5520a0d5472b/xdg_config/nvim/plugin/keymaps.vim
       hash: 31bae890cedb0025e99c10c7e8be5520a0d5472b
       name: keymaps.vim
-  part: 中編
+  part: 後編
   other: null
