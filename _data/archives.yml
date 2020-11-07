@@ -12424,3 +12424,91 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5f9d6e03b86f640704216e70'
+- id: 436
+  date: '2020-11-07 23:00'
+  author:
+    name: TornaxO7
+    url: 'https://github.com/TornaxO7'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/init.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: vifm.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/vifm.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/vifm.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: airline.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/airline.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/airline.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: tagbar.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/tagbar.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/tagbar.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: syntastic.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/syntastic.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/syntastic.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: quickrunner.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/quickrunner.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/quickrunner.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: coc.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/coc.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/coc.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: simpylfold.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/simpylfold.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/simpylfold.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: whichkey.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/whichkey.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/whichkey.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: vm_multiline.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/vm_multiline.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/vm_multiline.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: ultisnips.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/ultisnips.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/ultisnips.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: vimspector.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/vimspector.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/vimspector.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: indentation.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/indentation.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/plugins/indentation.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: mappings.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/mappings.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/mappings.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: settings.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/settings.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/settings.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: colorscheme.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/colorscheme.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/colorscheme.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+    - name: autocmds.vim
+      url: 'https://github.com/TornaxO7/my_configs/blob/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/autocmds.vim'
+      raw_url: 'https://raw.githubusercontent.com/TornaxO7/my_configs/7bab856b4b9956a0101236e28644e56ebc03fcf0/nvim/autocmds.vim'
+      hash: 7bab856b4b9956a0101236e28644e56ebc03fcf0
+  part: null
+  other: null
+  members:
+    - IMOKURI
+    - kuuote
+    - mattn
+    - monaqa
+    - rbtnn
+    - tamago324
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fa6a867d5a5a635f2a837db'
