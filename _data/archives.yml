@@ -12512,3 +12512,25 @@
     - yuki-ycino
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fa6a867d5a5a635f2a837db'
+- id: 437
+  date: '2020-11-14 23:00'
+  author:
+    name: woefe
+    url: 'https://github.com/woefe'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/woefe/dotfiles/blob/fde7cfc879415acb47459d1865ce823c7f563aa6/nvim/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/woefe/dotfiles/fde7cfc879415acb47459d1865ce823c7f563aa6/nvim/.config/nvim/init.vim'
+      hash: fde7cfc879415acb47459d1865ce823c7f563aa6
+  part: null
+  other: null
+  members:
+    - kato-k
+    - kuuote
+    - monaqa
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fafe2e974152347c233e18c'
