@@ -1,69 +1,11 @@
-- id: 436
-  date: '2020-11-07 23:00'
+- id: 437
+  date: '2020-11-14 23:00'
   author:
-    name: TornaxO7
-    url: 'https://github.com/TornaxO7'
+    name: woefe
+    url: 'https://github.com/woefe'
   vimrcs:
-    - url: 'https://github.com/TornaxO7/my_configs/blob/master/nvim/init.vim'
+    - url: 'https://github.com/woefe/dotfiles/blob/master/nvim/.config/nvim/init.vim'
       hash: null
       name: init.vim
-    - url: 'https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/vifm.vim'
-      hash: null
-      name: vifm.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/airline.vim
-      hash: null
-      name: airline.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/tagbar.vim
-      hash: null
-      name: tagbar.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/syntastic.vim
-      hash: null
-      name: syntastic.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/quickrunner.vim
-      hash: null
-      name: quickrunner.vim
-    - url: 'https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/coc.vim'
-      hash: null
-      name: coc.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/simpylfold.vim
-      hash: null
-      name: simpylfold.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/whichkey.vim
-      hash: null
-      name: whichkey.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/vm_multiline.vim
-      hash: null
-      name: vm_multiline.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/ultisnips.vim
-      hash: null
-      name: ultisnips.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/vimspector.vim
-      hash: null
-      name: vimspector.vim
-    - url: >-
-        https://github.com/TornaxO7/my_configs/blob/master/nvim/plugins/indentation.vim
-      hash: null
-      name: indentation.vim
-    - url: 'https://github.com/TornaxO7/my_configs/blob/master/nvim/mappings.vim'
-      hash: null
-      name: mappings.vim
-    - url: 'https://github.com/TornaxO7/my_configs/blob/master/nvim/settings.vim'
-      hash: null
-      name: settings.vim
-    - url: 'https://github.com/TornaxO7/my_configs/blob/master/nvim/colorscheme.vim'
-      hash: null
-      name: colorscheme.vim
-    - url: 'https://github.com/TornaxO7/my_configs/blob/master/nvim/autocmds.vim'
-      hash: null
-      name: autocmds.vim
   part: null
   other: null
