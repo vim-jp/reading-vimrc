@@ -12534,3 +12534,21 @@
     - yuki-ycino
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fafe2e974152347c233e18c'
+- id: 438
+  date: '2020-11-21 23:00'
+  author:
+    name: mattboehm
+    url: 'https://github.com/mattboehm'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/mattboehm/dotfiles/blob/6142a13f879e8f33aaf0e1cf5a9c36068ea16d0a/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/mattboehm/dotfiles/6142a13f879e8f33aaf0e1cf5a9c36068ea16d0a/vim/vimrc'
+      hash: 6142a13f879e8f33aaf0e1cf5a9c36068ea16d0a
+  part: null
+  other: null
+  members:
+    - kuuote
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fb91d62abf6a739a6a83221'
