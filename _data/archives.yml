@@ -12552,3 +12552,24 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fb91d62abf6a739a6a83221'
+- id: 439
+  date: '2020-11-28 23:00'
+  author:
+    name: jeremyckahn
+    url: 'https://github.com/jeremyckahn'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/jeremyckahn/dotfiles/blob/82b4d03945fff596600ac2c95d17b0af27ca52af/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/jeremyckahn/dotfiles/82b4d03945fff596600ac2c95d17b0af27ca52af/.vimrc'
+      hash: 82b4d03945fff596600ac2c95d17b0af27ca52af
+  part: null
+  other: null
+  members:
+    - kuuote
+    - rbtnn
+    - tamago324
+    - thinca
+    - tsuyoshicho
+    - yuki-ycino
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fc257e49cdc3e0d754823c4'
