@@ -1,10 +1,10 @@
-- id: 439
-  date: '2020-11-28 23:00'
+- id: 440
+  date: '2020-12-05 23:00'
   author:
-    name: jeremyckahn
-    url: 'https://github.com/jeremyckahn'
+    name: GGCristo
+    url: 'https://github.com/GGCristo'
   vimrcs:
-    - url: 'https://github.com/jeremyckahn/dotfiles/blob/master/.vimrc'
+    - url: 'https://github.com/GGCristo/dotfiles/blob/master/.vimrc'
       hash: null
       name: .vimrc
   part: null
