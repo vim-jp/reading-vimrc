@@ -12592,3 +12592,24 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fcb9273e979833582f0e731'
+- id: 441
+  date: '2020-12-12 23:00'
+  author:
+    name: tristanchase
+    url: 'https://github.com/tristanchase'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/tristanchase/dotfiles/blob/1c75c19e9dee21fab683ff8cb78659af67ee70d7/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/tristanchase/dotfiles/1c75c19e9dee21fab683ff8cb78659af67ee70d7/vimrc'
+      hash: 1c75c19e9dee21fab683ff8cb78659af67ee70d7
+  part: null
+  other: null
+  members:
+    - kuuote
+    - mirachan010
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - ujihisa
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5fd4ccec67034a3e9003a0e6'
