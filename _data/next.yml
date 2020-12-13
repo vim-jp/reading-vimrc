@@ -1,11 +1,57 @@
-- id: 441
-  date: '2020-12-12 23:00'
+- id: 442
+  date: '2020-12-19 23:00'
   author:
-    name: tristanchase
-    url: 'https://github.com/tristanchase'
+    name: yutakatay
+    url: 'https://github.com/yutakatay'
   vimrcs:
-    - url: 'https://github.com/tristanchase/dotfiles/blob/master/vimrc'
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vimrc'
       hash: null
-      name: vimrc
+      name: .vimrc
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/master/.vim/autoload/vimrc.vim
+      hash: null
+      name: vimrc.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/init.vim'
+      hash: null
+      name: init.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/base.vim'
+      hash: null
+      name: base.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/base.nvim'
+      hash: null
+      name: base.nvim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/display.vim'
+      hash: null
+      name: display.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/statusline.vim'
+      hash: null
+      name: statusline.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/pluginlist.vim'
+      hash: null
+      name: pluginlist.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/keyconfig.vim'
+      hash: null
+      name: keyconfig.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/mappings.vim'
+      hash: null
+      name: mappings.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/command.vim'
+      hash: null
+      name: command.vim
+    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/autocmd.vim'
+      hash: null
+      name: autocmd.vim
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/pluginconfig.vim
+      hash: null
+      name: pluginconfig.vim
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/vscode-neovim/mappings.vim
+      hash: null
+      name: mappings.vim
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/vscode-neovim/options.vim
+      hash: null
+      name: options.vim
   part: null
   other: null
