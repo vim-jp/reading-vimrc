@@ -1,57 +1,68 @@
-- id: 442
-  date: '2020-12-19 23:00'
+- id: 443
+  date: '2020-12-26 23:00'
   author:
     name: yutakatay
     url: 'https://github.com/yutakatay'
   vimrcs:
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vimrc'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vimrc
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: .vimrc
     - url: >-
-        https://github.com/yutakatay/dotfiles/blob/master/.vim/autoload/vimrc.vim
-      hash: null
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/autoload/vimrc.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: vimrc.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/init.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/init.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: init.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/base.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/base.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: base.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/base.nvim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/base.nvim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: base.nvim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/display.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/display.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: display.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/statusline.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/statusline.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: statusline.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/pluginlist.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/pluginlist.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: pluginlist.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/keyconfig.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/keyconfig.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: keyconfig.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/mappings.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/mappings.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: mappings.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/command.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/command.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: command.vim
-    - url: 'https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/autocmd.vim'
-      hash: null
+    - url: >-
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/autocmd.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: autocmd.vim
     - url: >-
-        https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/pluginconfig.vim
-      hash: null
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/pluginconfig.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: pluginconfig.vim
     - url: >-
-        https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/vscode-neovim/mappings.vim
-      hash: null
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/vscode-neovim/mappings.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: mappings.vim
     - url: >-
-        https://github.com/yutakatay/dotfiles/blob/master/.vim/rc/vscode-neovim/options.vim
-      hash: null
+        https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/vscode-neovim/options.vim
+      hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: options.vim
-  part: 前編
+  part: 中編
   other: null
