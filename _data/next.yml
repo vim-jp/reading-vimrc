@@ -1,5 +1,5 @@
-- id: 443
-  date: '2020-12-26 23:00'
+- id: 444
+  date: '2021-01-02 23:00'
   author:
     name: yutakatay
     url: 'https://github.com/yutakatay'
@@ -64,5 +64,5 @@
         https://github.com/yutakatay/dotfiles/blob/2638989072a0cc9678e9c2fc4b5eafee4619d271/.vim/rc/vscode-neovim/options.vim
       hash: 2638989072a0cc9678e9c2fc4b5eafee4619d271
       name: options.vim
-  part: 中編
+  part: 後編
   other: null
