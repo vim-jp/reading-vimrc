@@ -12845,3 +12845,26 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ff07c8dac9d8e7463e6e78e'
+- id: 445
+  date: '2021-01-09 23:00'
+  author:
+    name: ulwlu
+    url: 'https://github.com/ulwlu'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/ulwlu/dotfiles/blob/6def3480e147654d7200e1310a9be35d5b2960a3/dotfiles/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ulwlu/dotfiles/6def3480e147654d7200e1310a9be35d5b2960a3/dotfiles/.vimrc'
+      hash: 6def3480e147654d7200e1310a9be35d5b2960a3
+  part: null
+  other: null
+  members:
+    - kuuote
+    - mirachan010
+    - monaqa
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - xuanduc987
+    - yuki-ycino
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ff9b72881c55b09c7f91c1f'
