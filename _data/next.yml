@@ -1,11 +1,31 @@
-- id: 446
-  date: '2021-01-16 23:00'
+- id: 447
+  date: '2021-01-23 23:00'
   author:
-    name: aonemd
-    url: 'https://github.com/aonemd'
+    name: takker99
+    url: 'https://github.com/takker99'
   vimrcs:
-    - url: 'https://github.com/aonemd/aaku/blob/master/vim/vimrc'
+    - url: 'https://github.com/takker99/dotfiles/blob/develop/nvim/init.vim'
       hash: null
-      name: vimrc
-  part: null
+      name: init.vim
+    - url: >-
+        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/init/basic.vim
+      hash: null
+      name: basic.vim
+    - url: >-
+        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/init/mapping.vim
+      hash: null
+      name: mapping.vim
+    - url: >-
+        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/init/plugins.vim
+      hash: null
+      name: plugins.vim
+    - url: >-
+        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/toml/lazy/vim-easymotion.toml
+      hash: null
+      name: vim-easymotion.toml
+    - url: >-
+        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/toml/lightline.vim.toml
+      hash: null
+      name: lightline.vim.toml
+  part: 前編
   other: null
