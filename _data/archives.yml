@@ -12868,3 +12868,23 @@
     - yuki-ycino
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=5ff9b72881c55b09c7f91c1f'
+- id: 446
+  date: '2021-01-16 23:00'
+  author:
+    name: aonemd
+    url: 'https://github.com/aonemd'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/aonemd/aaku/blob/0455967a9eae4abc7d66c6d2ce8059580d4b3cc5/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/aonemd/aaku/0455967a9eae4abc7d66c6d2ce8059580d4b3cc5/vim/vimrc'
+      hash: 0455967a9eae4abc7d66c6d2ce8059580d4b3cc5
+  part: null
+  other: null
+  members:
+    - kuuote
+    - peacock0803sz
+    - takker99
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=6002f19c91e9b71badddac4f'
