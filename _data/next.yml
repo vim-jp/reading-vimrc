@@ -1,11 +1,11 @@
-- id: 445
-  date: '2021-01-09 23:00'
+- id: 446
+  date: '2021-01-16 23:00'
   author:
-    name: ulwlu
-    url: 'https://github.com/ulwlu'
+    name: aonemd
+    url: 'https://github.com/aonemd'
   vimrcs:
-    - url: 'https://github.com/ulwlu/dotfiles/blob/master/dotfiles/.vimrc'
+    - url: 'https://github.com/aonemd/aaku/blob/master/vim/vimrc'
       hash: null
-      name: .vimrc
+      name: vimrc
   part: null
   other: null
