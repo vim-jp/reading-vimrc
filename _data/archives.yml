@@ -12888,3 +12888,42 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=6002f19c91e9b71badddac4f'
+- id: 447
+  date: '2021-01-23 23:00'
+  author:
+    name: takker99
+    url: 'https://github.com/takker99'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/takker99/dotfiles/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/init.vim'
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
+    - name: basic.vim
+      url: 'https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/basic.vim'
+      raw_url: 'https://raw.githubusercontent.com/takker99/dotfiles/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/basic.vim'
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
+    - name: mapping.vim
+      url: 'https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/mapping.vim'
+      raw_url: 'https://raw.githubusercontent.com/takker99/dotfiles/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/mapping.vim'
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
+    - name: plugins.vim
+      url: 'https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/plugins.vim'
+      raw_url: 'https://raw.githubusercontent.com/takker99/dotfiles/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/plugins.vim'
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
+    - name: vim-easymotion.toml
+      url: 'https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/toml/lazy/vim-easymotion.toml'
+      raw_url: 'https://raw.githubusercontent.com/takker99/dotfiles/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/toml/lazy/vim-easymotion.toml'
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
+    - name: lightline.vim.toml
+      url: 'https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/toml/lightline.vim.toml'
+      raw_url: 'https://raw.githubusercontent.com/takker99/dotfiles/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/toml/lightline.vim.toml'
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
+  part: 前編
+  other: null
+  members:
+    - kuuote
+    - obcat
+    - takker99
+    - thinca
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=600c2bf636db01248a9853f0'
