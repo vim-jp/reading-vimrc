@@ -1,32 +1,12 @@
-- id: 448
-  date: '2021-01-30 23:00'
+- id: 449
+  date: '2021-02-06 23:00'
   author:
-    name: takker99
-    url: 'https://github.com/takker99'
+    name: peacock0803sz
+    url: 'https://github.com/peacock0803sz'
   vimrcs:
     - url: >-
-        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/init.vim
-      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/init.vim
+      hash: null
       name: init.vim
-    - url: >-
-        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/basic.vim
-      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
-      name: basic.vim
-    - url: >-
-        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/mapping.vim
-      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
-      name: mapping.vim
-    - url: >-
-        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/plugins.vim
-      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
-      name: plugins.vim
-    - url: >-
-        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/toml/lazy/vim-easymotion.toml
-      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
-      name: vim-easymotion.toml
-    - url: >-
-        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/toml/lightline.vim.toml
-      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
-      name: lightline.vim.toml
-  part: 後編
+  part: null
   other: null
