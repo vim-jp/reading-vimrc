@@ -1,31 +1,32 @@
-- id: 447
-  date: '2021-01-23 23:00'
+- id: 448
+  date: '2021-01-30 23:00'
   author:
     name: takker99
     url: 'https://github.com/takker99'
   vimrcs:
-    - url: 'https://github.com/takker99/dotfiles/blob/develop/nvim/init.vim'
-      hash: null
+    - url: >-
+        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/init.vim
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
       name: init.vim
     - url: >-
-        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/init/basic.vim
-      hash: null
+        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/basic.vim
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
       name: basic.vim
     - url: >-
-        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/init/mapping.vim
-      hash: null
+        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/mapping.vim
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
       name: mapping.vim
     - url: >-
-        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/init/plugins.vim
-      hash: null
+        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/init/plugins.vim
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
       name: plugins.vim
     - url: >-
-        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/toml/lazy/vim-easymotion.toml
-      hash: null
+        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/toml/lazy/vim-easymotion.toml
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
       name: vim-easymotion.toml
     - url: >-
-        https://github.com/takker99/dotfiles/blob/develop/nvim/userautoload/toml/lightline.vim.toml
-      hash: null
+        https://github.com/takker99/dotfiles/blob/9ebeede1a43f7900c4c35e2d1af4c0468565bee9/nvim/userautoload/toml/lightline.vim.toml
+      hash: 9ebeede1a43f7900c4c35e2d1af4c0468565bee9
       name: lightline.vim.toml
-  part: 前編
+  part: 後編
   other: null
