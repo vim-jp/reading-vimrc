@@ -12967,3 +12967,24 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=601567dc9fa6765ef8e85099'
+- id: 449
+  date: '2021-02-06 23:00'
+  author:
+    name: peacock0803sz
+    url: 'https://github.com/peacock0803sz'
+  vimrcs:
+    - name: init.vim
+      url: 'https://github.com/peacock0803sz/dotfiles/blob/80eb4c06beb4c5bcd64befbb64c2d8531e608183/.config/nvim/init.vim'
+      raw_url: 'https://raw.githubusercontent.com/peacock0803sz/dotfiles/80eb4c06beb4c5bcd64befbb64c2d8531e608183/.config/nvim/init.vim'
+      hash: 80eb4c06beb4c5bcd64befbb64c2d8531e608183
+  part: null
+  other: null
+  members:
+    - kuuote
+    - obcat
+    - peacock0803sz
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+    - yutaro-n
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=601ea112428d9727dd5c86ff'
