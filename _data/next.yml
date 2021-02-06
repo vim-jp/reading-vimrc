@@ -1,12 +1,26 @@
-- id: 449
-  date: '2021-02-06 23:00'
+- id: 450
+  date: '2021-02-13 23:00'
   author:
-    name: peacock0803sz
-    url: 'https://github.com/peacock0803sz'
+    name: obcat
+    url: 'https://github.com/obcat'
   vimrcs:
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/init.vim
+    - url: 'https://github.com/obcat/dotfiles/blob/main/home/.vimrc'
       hash: null
-      name: init.vim
+      name: .vimrc
+    - url: 'https://github.com/obcat/dotfiles/blob/main/home/.gvimrc'
+      hash: null
+      name: .gvimrc
+    - url: >-
+        https://github.com/obcat/dotfiles/blob/main/home/.vim/autoload/statusline.vim
+      hash: null
+      name: statusline.vim
+    - url: >-
+        https://github.com/obcat/dotfiles/blob/main/home/.vim/autoload/tabline.vim
+      hash: null
+      name: tabline.vim
+    - url: >-
+        https://github.com/obcat/dotfiles/blob/main/home/.vim/autoload/foldtext.vim
+      hash: null
+      name: foldtext.vim
   part: null
   other: null
