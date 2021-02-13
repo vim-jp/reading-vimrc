@@ -12988,3 +12988,43 @@
     - yutakatay
     - yutaro-n
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=601ea112428d9727dd5c86ff'
+- id: 450
+  date: '2021-02-13 23:00'
+  author:
+    name: obcat
+    url: 'https://github.com/obcat'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/obcat/dotfiles/blob/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/obcat/dotfiles/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.vimrc'
+      hash: 4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7
+    - name: .gvimrc
+      url: 'https://github.com/obcat/dotfiles/blob/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/obcat/dotfiles/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.gvimrc'
+      hash: 4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7
+    - name: statusline.vim
+      url: 'https://github.com/obcat/dotfiles/blob/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.vim/autoload/statusline.vim'
+      raw_url: 'https://raw.githubusercontent.com/obcat/dotfiles/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.vim/autoload/statusline.vim'
+      hash: 4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7
+    - name: tabline.vim
+      url: 'https://github.com/obcat/dotfiles/blob/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.vim/autoload/tabline.vim'
+      raw_url: 'https://raw.githubusercontent.com/obcat/dotfiles/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.vim/autoload/tabline.vim'
+      hash: 4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7
+    - name: foldtext.vim
+      url: 'https://github.com/obcat/dotfiles/blob/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.vim/autoload/foldtext.vim'
+      raw_url: 'https://raw.githubusercontent.com/obcat/dotfiles/4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7/home/.vim/autoload/foldtext.vim'
+      hash: 4cb7c129608b4d72b8edf52a9e5abfe1fe0985e7
+  part: null
+  other: null
+  members:
+    - KosukeMizuno
+    - Shougo
+    - kuuote
+    - mirachan010
+    - monaqa
+    - obcat
+    - takker99
+    - thinca
+    - tsuyoshicho
+    - yutakatay
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=6027db708031c8234bdbb982'
