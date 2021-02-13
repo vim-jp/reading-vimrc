@@ -1,26 +1,17 @@
-- id: 450
-  date: '2021-02-13 23:00'
+- id: 451
+  date: '2021-02-20 23:00'
   author:
-    name: obcat
-    url: 'https://github.com/obcat'
+    name: airblade
+    url: 'https://github.com/airblade'
   vimrcs:
-    - url: 'https://github.com/obcat/dotfiles/blob/main/home/.vimrc'
+    - url: 'https://github.com/airblade/dotvim/blob/master/vimrc'
       hash: null
-      name: .vimrc
-    - url: 'https://github.com/obcat/dotfiles/blob/main/home/.gvimrc'
+      name: vimrc
+    - url: 'https://github.com/airblade/dotvim/blob/master/gvimrc'
       hash: null
-      name: .gvimrc
-    - url: >-
-        https://github.com/obcat/dotfiles/blob/main/home/.vim/autoload/statusline.vim
+      name: gvimrc
+    - url: 'https://github.com/airblade/dotvim/blob/master/plugins'
       hash: null
-      name: statusline.vim
-    - url: >-
-        https://github.com/obcat/dotfiles/blob/main/home/.vim/autoload/tabline.vim
-      hash: null
-      name: tabline.vim
-    - url: >-
-        https://github.com/obcat/dotfiles/blob/main/home/.vim/autoload/foldtext.vim
-      hash: null
-      name: foldtext.vim
+      name: plugins
   part: null
   other: null
