@@ -13028,3 +13028,30 @@
     - tsuyoshicho
     - yutakatay
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=6027db708031c8234bdbb982'
+- id: 451
+  date: '2021-02-20 23:00'
+  author:
+    name: airblade
+    url: 'https://github.com/airblade'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/airblade/dotvim/blob/edad9fe8793b7c9266039b4cf85272a9b10cd9cb/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/airblade/dotvim/edad9fe8793b7c9266039b4cf85272a9b10cd9cb/vimrc'
+      hash: edad9fe8793b7c9266039b4cf85272a9b10cd9cb
+    - name: gvimrc
+      url: 'https://github.com/airblade/dotvim/blob/edad9fe8793b7c9266039b4cf85272a9b10cd9cb/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/airblade/dotvim/edad9fe8793b7c9266039b4cf85272a9b10cd9cb/gvimrc'
+      hash: edad9fe8793b7c9266039b4cf85272a9b10cd9cb
+    - name: plugins
+      url: 'https://github.com/airblade/dotvim/blob/edad9fe8793b7c9266039b4cf85272a9b10cd9cb/plugins'
+      raw_url: 'https://raw.githubusercontent.com/airblade/dotvim/edad9fe8793b7c9266039b4cf85272a9b10cd9cb/plugins'
+      hash: edad9fe8793b7c9266039b4cf85272a9b10cd9cb
+  part: null
+  other: null
+  members:
+    - Shougo
+    - kuuote
+    - obcat
+    - thinca
+    - tsuyoshicho
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=603115fc7ba8124e54799916'
