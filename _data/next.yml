@@ -1,20 +1,42 @@
-- id: 452
-  date: '2021-02-27 23:00'
+- id: 453
+  date: '2021-03-06 23:00'
   author:
-    name: hashue
-    url: 'https://github.com/hashue'
+    name: tsuyoshicho
+    url: 'https://github.com/tsuyoshicho'
   vimrcs:
-    - url: 'https://github.com/hashue/dotfiles/blob/master/vim/vimrc'
+    - url: 'https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vimrc'
       hash: null
-      name: vimrc
-    - url: 'https://github.com/hashue/dotfiles/blob/master/vim/plugin.vim'
+      name: .vimrc
+    - url: 'https://github.com/tsuyoshicho/vimrc-reading/blob/master/.gvimrc'
       hash: null
-      name: plugin.vim
-    - url: 'https://github.com/hashue/dotfiles/blob/master/vim/editor.vim'
+      name: .gvimrc
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/colorscheme.toml
       hash: null
-      name: editor.vim
-    - url: 'https://github.com/hashue/dotfiles/blob/master/vim/keymap.vim'
+      name: colorscheme.toml
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/dein.toml
       hash: null
-      name: keymap.vim
+      name: dein.toml
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/dein_lazy.toml
+      hash: null
+      name: dein_lazy.toml
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/nvim.toml
+      hash: null
+      name: nvim.toml
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/nvim_lazy.toml
+      hash: null
+      name: nvim_lazy.toml
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/vim.toml
+      hash: null
+      name: vim.toml
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/vim_lazy.toml
+      hash: null
+      name: vim_lazy.toml
   part: null
   other: null
