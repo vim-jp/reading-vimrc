@@ -13055,3 +13055,38 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=603115fc7ba8124e54799916'
+- id: 452
+  date: '2021-02-27 23:00'
+  author:
+    name: hashue
+    url: 'https://github.com/hashue'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/hashue/dotfiles/blob/752fe17dc6288eb925e974256879626264132b32/vim/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/hashue/dotfiles/752fe17dc6288eb925e974256879626264132b32/vim/vimrc'
+      hash: 752fe17dc6288eb925e974256879626264132b32
+    - name: plugin.vim
+      url: 'https://github.com/hashue/dotfiles/blob/752fe17dc6288eb925e974256879626264132b32/vim/plugin.vim'
+      raw_url: 'https://raw.githubusercontent.com/hashue/dotfiles/752fe17dc6288eb925e974256879626264132b32/vim/plugin.vim'
+      hash: 752fe17dc6288eb925e974256879626264132b32
+    - name: editor.vim
+      url: 'https://github.com/hashue/dotfiles/blob/752fe17dc6288eb925e974256879626264132b32/vim/editor.vim'
+      raw_url: 'https://raw.githubusercontent.com/hashue/dotfiles/752fe17dc6288eb925e974256879626264132b32/vim/editor.vim'
+      hash: 752fe17dc6288eb925e974256879626264132b32
+    - name: keymap.vim
+      url: 'https://github.com/hashue/dotfiles/blob/752fe17dc6288eb925e974256879626264132b32/vim/keymap.vim'
+      raw_url: 'https://raw.githubusercontent.com/hashue/dotfiles/752fe17dc6288eb925e974256879626264132b32/vim/keymap.vim'
+      hash: 752fe17dc6288eb925e974256879626264132b32
+  part: null
+  other: null
+  members:
+    - KaskKazu_twitter
+    - KosukeMizuno
+    - k-takata
+    - kuuote
+    - mattn
+    - monaqa
+    - thinca
+    - tsuyoshicho
+    - yutkat
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=603a5064e8267a46f2de0e13'
