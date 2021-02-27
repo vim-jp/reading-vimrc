@@ -1,17 +1,20 @@
-- id: 451
-  date: '2021-02-20 23:00'
+- id: 452
+  date: '2021-02-27 23:00'
   author:
-    name: airblade
-    url: 'https://github.com/airblade'
+    name: hashue
+    url: 'https://github.com/hashue'
   vimrcs:
-    - url: 'https://github.com/airblade/dotvim/blob/master/vimrc'
+    - url: 'https://github.com/hashue/dotfiles/blob/master/vim/vimrc'
       hash: null
       name: vimrc
-    - url: 'https://github.com/airblade/dotvim/blob/master/gvimrc'
+    - url: 'https://github.com/hashue/dotfiles/blob/master/vim/plugin.vim'
       hash: null
-      name: gvimrc
-    - url: 'https://github.com/airblade/dotvim/blob/master/plugins'
+      name: plugin.vim
+    - url: 'https://github.com/hashue/dotfiles/blob/master/vim/editor.vim'
       hash: null
-      name: plugins
+      name: editor.vim
+    - url: 'https://github.com/hashue/dotfiles/blob/master/vim/keymap.vim'
+      hash: null
+      name: keymap.vim
   part: null
   other: null
