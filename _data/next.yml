@@ -1,42 +1,44 @@
-- id: 453
-  date: '2021-03-06 23:00'
+- id: 454
+  date: '2021-03-13 23:00'
   author:
     name: tsuyoshicho
     url: 'https://github.com/tsuyoshicho'
   vimrcs:
-    - url: 'https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vimrc'
-      hash: null
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vimrc
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: .vimrc
-    - url: 'https://github.com/tsuyoshicho/vimrc-reading/blob/master/.gvimrc'
-      hash: null
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.gvimrc
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: .gvimrc
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/colorscheme.toml
-      hash: null
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/colorscheme.toml
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: colorscheme.toml
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/dein.toml
-      hash: null
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/dein.toml
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: dein.toml
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/dein_lazy.toml
-      hash: null
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/dein_lazy.toml
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: dein_lazy.toml
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/nvim.toml
-      hash: null
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/nvim.toml
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: nvim.toml
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/nvim_lazy.toml
-      hash: null
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/nvim_lazy.toml
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: nvim_lazy.toml
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/vim.toml
-      hash: null
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/vim.toml
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: vim.toml
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/vim_lazy.toml
-      hash: null
+        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/vim_lazy.toml
+      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
       name: vim_lazy.toml
-  part: null
+  part: 中編
   other: null
