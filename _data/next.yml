@@ -1,44 +1,39 @@
-- id: 455
-  date: '2021-03-20 23:00'
+- id: 456
+  date: '2021-03-27 23:00'
   author:
-    name: tsuyoshicho
-    url: 'https://github.com/tsuyoshicho'
+    name: antonk52
+    url: 'https://github.com/antonk52'
   vimrcs:
-    - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vimrc
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
+    - url: 'https://github.com/antonk52/dot-files/blob/master/.vimrc'
+      hash: null
       name: .vimrc
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.gvimrc
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
-      name: .gvimrc
+        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/flow.vim
+      hash: null
+      name: flow.vim
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/colorscheme.toml
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
-      name: colorscheme.toml
+        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/fold.vim
+      hash: null
+      name: fold.vim
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/dein.toml
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
-      name: dein.toml
+        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/gitignore.vim
+      hash: null
+      name: gitignore.vim
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/dein_lazy.toml
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
-      name: dein_lazy.toml
+        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/jest.vim
+      hash: null
+      name: jest.vim
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/nvim.toml
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
-      name: nvim.toml
+        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/markdown.vim
+      hash: null
+      name: markdown.vim
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/nvim_lazy.toml
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
-      name: nvim_lazy.toml
+        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/todo.vim
+      hash: null
+      name: todo.vim
     - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/vim.toml
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
-      name: vim.toml
-    - url: >-
-        https://github.com/tsuyoshicho/vimrc-reading/blob/7451171f07e88d6d1dcd73deb792aff115d2c94e/.vim/rc/vim_lazy.toml
-      hash: 7451171f07e88d6d1dcd73deb792aff115d2c94e
-      name: vim_lazy.toml
-  part: 後編
+        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/typescript.vim
+      hash: null
+      name: typescript.vim
+  part: null
   other: null
