@@ -13250,3 +13250,52 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=6055fffcad83ec3d7d41804d'
+- id: 456
+  date: '2021-03-27 23:00'
+  author:
+    name: antonk52
+    url: 'https://github.com/antonk52'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/antonk52/dot-files/blob/c8993b613a7c33572a1f0ab117c147688725677e/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/antonk52/dot-files/c8993b613a7c33572a1f0ab117c147688725677e/.vimrc'
+      hash: c8993b613a7c33572a1f0ab117c147688725677e
+    - name: flow.vim
+      url: 'https://github.com/antonk52/dot-files/blob/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/flow.vim'
+      raw_url: 'https://raw.githubusercontent.com/antonk52/dot-files/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/flow.vim'
+      hash: c8993b613a7c33572a1f0ab117c147688725677e
+    - name: fold.vim
+      url: 'https://github.com/antonk52/dot-files/blob/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/fold.vim'
+      raw_url: 'https://raw.githubusercontent.com/antonk52/dot-files/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/fold.vim'
+      hash: c8993b613a7c33572a1f0ab117c147688725677e
+    - name: gitignore.vim
+      url: 'https://github.com/antonk52/dot-files/blob/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/gitignore.vim'
+      raw_url: 'https://raw.githubusercontent.com/antonk52/dot-files/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/gitignore.vim'
+      hash: c8993b613a7c33572a1f0ab117c147688725677e
+    - name: jest.vim
+      url: 'https://github.com/antonk52/dot-files/blob/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/jest.vim'
+      raw_url: 'https://raw.githubusercontent.com/antonk52/dot-files/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/jest.vim'
+      hash: c8993b613a7c33572a1f0ab117c147688725677e
+    - name: markdown.vim
+      url: 'https://github.com/antonk52/dot-files/blob/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/markdown.vim'
+      raw_url: 'https://raw.githubusercontent.com/antonk52/dot-files/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/markdown.vim'
+      hash: c8993b613a7c33572a1f0ab117c147688725677e
+    - name: todo.vim
+      url: 'https://github.com/antonk52/dot-files/blob/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/todo.vim'
+      raw_url: 'https://raw.githubusercontent.com/antonk52/dot-files/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/todo.vim'
+      hash: c8993b613a7c33572a1f0ab117c147688725677e
+    - name: typescript.vim
+      url: 'https://github.com/antonk52/dot-files/blob/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/typescript.vim'
+      raw_url: 'https://raw.githubusercontent.com/antonk52/dot-files/c8993b613a7c33572a1f0ab117c147688725677e/.vim/autoload/antonk52/typescript.vim'
+      hash: c8993b613a7c33572a1f0ab117c147688725677e
+  part: null
+  other: null
+  members:
+    - hashue
+    - kuuote
+    - obcat
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - yutkat
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=605f3a68ac0fd631ca965166'
