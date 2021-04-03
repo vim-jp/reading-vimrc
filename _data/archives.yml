@@ -13299,3 +13299,29 @@
     - tsuyoshicho
     - yutkat
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=605f3a68ac0fd631ca965166'
+- id: 457
+  date: '2021-04-03 23:00'
+  author:
+    name: ompugao
+    url: 'https://github.com/ompugao'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/ompugao/vim-bundle/blob/074e7b22320ad4bfba4da5516e53b498ace35a89/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ompugao/vim-bundle/074e7b22320ad4bfba4da5516e53b498ace35a89/vimrc'
+      hash: 074e7b22320ad4bfba4da5516e53b498ace35a89
+    - name: gvimrc
+      url: 'https://github.com/ompugao/vim-bundle/blob/074e7b22320ad4bfba4da5516e53b498ace35a89/gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/ompugao/vim-bundle/074e7b22320ad4bfba4da5516e53b498ace35a89/gvimrc'
+      hash: 074e7b22320ad4bfba4da5516e53b498ace35a89
+  part: null
+  other: null
+  members:
+    - hashue
+    - kuuote
+    - monaqa
+    - obcat
+    - tamago324
+    - thinca
+    - tsuyoshicho
+    - yutkat
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=6068752156ddab18d7289f58'
