@@ -1,39 +1,14 @@
-- id: 456
-  date: '2021-03-27 23:00'
+- id: 457
+  date: '2021-04-03 23:00'
   author:
-    name: antonk52
-    url: 'https://github.com/antonk52'
+    name: ompugao
+    url: 'https://github.com/ompugao'
   vimrcs:
-    - url: 'https://github.com/antonk52/dot-files/blob/master/.vimrc'
+    - url: 'https://github.com/ompugao/vim-bundle/blob/master/vimrc'
       hash: null
-      name: .vimrc
-    - url: >-
-        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/flow.vim
+      name: vimrc
+    - url: 'https://github.com/ompugao/vim-bundle/blob/master/gvimrc'
       hash: null
-      name: flow.vim
-    - url: >-
-        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/fold.vim
-      hash: null
-      name: fold.vim
-    - url: >-
-        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/gitignore.vim
-      hash: null
-      name: gitignore.vim
-    - url: >-
-        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/jest.vim
-      hash: null
-      name: jest.vim
-    - url: >-
-        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/markdown.vim
-      hash: null
-      name: markdown.vim
-    - url: >-
-        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/todo.vim
-      hash: null
-      name: todo.vim
-    - url: >-
-        https://github.com/antonk52/dot-files/blob/master/.vim/autoload/antonk52/typescript.vim
-      hash: null
-      name: typescript.vim
+      name: gvimrc
   part: null
   other: null
