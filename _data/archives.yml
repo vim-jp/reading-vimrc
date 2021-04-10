@@ -13325,3 +13325,27 @@
     - tsuyoshicho
     - yutkat
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=6068752156ddab18d7289f58'
+- id: 458
+  date: '2021-04-10 23:00'
+  author:
+    name: jiroshin
+    url: 'https://github.com/jiroshin'
+  vimrcs:
+    - name: .vimrc
+      url: 'https://github.com/jiroshin/dotfiles/blob/10ef94f7dde5d71391116fb35a3eb5e8f51821fd/vim/.vimrc'
+      raw_url: 'https://raw.githubusercontent.com/jiroshin/dotfiles/10ef94f7dde5d71391116fb35a3eb5e8f51821fd/vim/.vimrc'
+      hash: 10ef94f7dde5d71391116fb35a3eb5e8f51821fd
+  part: null
+  other: null
+  members:
+    - hokorobi
+    - kato-k
+    - kuuote
+    - mityu
+    - monaqa
+    - obcat
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - yutkat
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=6071af8006e2e024e84554e7'
