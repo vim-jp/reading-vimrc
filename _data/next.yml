@@ -1,14 +1,11 @@
-- id: 457
-  date: '2021-04-03 23:00'
+- id: 458
+  date: '2021-04-10 23:00'
   author:
-    name: ompugao
-    url: 'https://github.com/ompugao'
+    name: jiroshin
+    url: 'https://github.com/jiroshin'
   vimrcs:
-    - url: 'https://github.com/ompugao/vim-bundle/blob/master/vimrc'
+    - url: 'https://github.com/jiroshin/dotfiles/blob/master/vim/.vimrc'
       hash: null
-      name: vimrc
-    - url: 'https://github.com/ompugao/vim-bundle/blob/master/gvimrc'
-      hash: null
-      name: gvimrc
+      name: .vimrc
   part: null
   other: null
