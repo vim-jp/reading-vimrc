@@ -1,11 +1,65 @@
-- id: 458
-  date: '2021-04-10 23:00'
+- id: 459
+  date: '2021-04-17 23:00'
   author:
-    name: jiroshin
-    url: 'https://github.com/jiroshin'
+    name: lymslive
+    url: 'https://github.com/lymslive'
   vimrcs:
-    - url: 'https://github.com/jiroshin/dotfiles/blob/master/vim/.vimrc'
+    - url: 'https://github.com/lymslive/dotvim/blob/master/vimrc'
       hash: null
-      name: .vimrc
-  part: null
+      name: vimrc
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/_event.vim'
+      hash: null
+      name: _event.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/_remap.vim'
+      hash: null
+      name: _remap.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/_setting.vim'
+      hash: null
+      name: _setting.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/ex.vim'
+      hash: null
+      name: ex.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/fulled.vim'
+      hash: null
+      name: fulled.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/gvim.vim'
+      hash: null
+      name: gvim.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/minied.vim'
+      hash: null
+      name: minied.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/nvim.vim'
+      hash: null
+      name: nvim.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/spvim.vim'
+      hash: null
+      name: spvim.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/vcide.vim'
+      hash: null
+      name: vcide.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/vi.vim'
+      hash: null
+      name: vi.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/vim-log.vim'
+      hash: null
+      name: vim-log.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/vim-note.vim'
+      hash: null
+      name: vim-note.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/vim.vim'
+      hash: null
+      name: vim.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/start/visql.vim'
+      hash: null
+      name: visql.vim
+    - url: 'https://github.com/lymslive/dotvim/blob/master/vimrc.7'
+      hash: null
+      name: vimrc.7
+    - url: 'https://github.com/lymslive/dotvim/blob/master/vimrc.qt'
+      hash: null
+      name: vimrc.qt
+    - url: 'https://github.com/lymslive/dotvim/blob/master/vimrc.vscode'
+      hash: null
+      name: vimrc.vscode
+  part: 前編
   other: null
