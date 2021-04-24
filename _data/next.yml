@@ -1,5 +1,5 @@
-- id: 460
-  date: '2021-04-24 23:00'
+- id: 461
+  date: '2021-05-01 23:00'
   author:
     name: lymslive
     url: 'https://github.com/lymslive'
@@ -80,5 +80,5 @@
         https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/vimrc.vscode
       hash: f61b521c8540521c241484e263399cdd63fb3473
       name: vimrc.vscode
-  part: 中編
+  part: 後編
   other: null
