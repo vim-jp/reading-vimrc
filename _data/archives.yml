@@ -13536,3 +13536,95 @@
     - thinca
     - tsuyoshicho
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=60842491a2ac0d38e7d6ece9'
+- id: 461
+  date: '2021-05-01 23:00'
+  author:
+    name: lymslive
+    url: 'https://github.com/lymslive'
+  vimrcs:
+    - name: vimrc
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/vimrc'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/vimrc'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: _event.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/_event.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/_event.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: _remap.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/_remap.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/_remap.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: _setting.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/_setting.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/_setting.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: ex.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/ex.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/ex.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: fulled.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/fulled.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/fulled.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: gvim.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/gvim.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/gvim.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: minied.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/minied.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/minied.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: nvim.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/nvim.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/nvim.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: spvim.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/spvim.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/spvim.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: vcide.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/vcide.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/vcide.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: vi.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/vi.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/vi.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: vim-log.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/vim-log.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/vim-log.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: vim-note.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/vim-note.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/vim-note.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: vim.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/vim.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/vim.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: visql.vim
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/start/visql.vim'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/start/visql.vim'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: vimrc.7
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/vimrc.7'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/vimrc.7'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: vimrc.qt
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/vimrc.qt'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/vimrc.qt'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+    - name: vimrc.vscode
+      url: 'https://github.com/lymslive/dotvim/blob/f61b521c8540521c241484e263399cdd63fb3473/vimrc.vscode'
+      raw_url: 'https://raw.githubusercontent.com/lymslive/dotvim/f61b521c8540521c241484e263399cdd63fb3473/vimrc.vscode'
+      hash: f61b521c8540521c241484e263399cdd63fb3473
+  part: 後編
+  other: null
+  members:
+    - kato-k
+    - kuuote
+    - mityu
+    - thinca
+    - tsuyoshicho
+    - yutkat
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=608d5eef31d2306a0e854eb6'
