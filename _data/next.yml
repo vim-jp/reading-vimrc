@@ -1,14 +1,16 @@
-- id: 462
-  date: '2021-05-08 23:00'
+- id: 463
+  date: '2021-05-15 23:00'
   author:
     name: ujihisa
     url: 'https://github.com/ujihisa'
   vimrcs:
-    - url: 'https://github.com/ujihisa/config/blob/master/_vimrc'
-      hash: null
+    - url: >-
+        https://github.com/ujihisa/config/blob/dc95c0a8b8be6722a98dd9acd916271fa507d25d/_vimrc
+      hash: dc95c0a8b8be6722a98dd9acd916271fa507d25d
       name: _vimrc
-    - url: 'https://github.com/ujihisa/config/blob/master/_gvimrc'
-      hash: null
+    - url: >-
+        https://github.com/ujihisa/config/blob/dc95c0a8b8be6722a98dd9acd916271fa507d25d/_gvimrc
+      hash: dc95c0a8b8be6722a98dd9acd916271fa507d25d
       name: _gvimrc
-  part: 前編
+  part: 中編
   other: null
