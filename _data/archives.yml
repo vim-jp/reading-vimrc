@@ -13685,3 +13685,30 @@
     - ujihisa
     - yutkat
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=609fd425416d8734b94929f0'
+- id: 464
+  date: '2021-05-22 23:00'
+  author:
+    name: ujihisa
+    url: 'https://github.com/ujihisa'
+  vimrcs:
+    - name: _vimrc
+      url: 'https://github.com/ujihisa/config/blob/dc95c0a8b8be6722a98dd9acd916271fa507d25d/_vimrc'
+      raw_url: 'https://raw.githubusercontent.com/ujihisa/config/dc95c0a8b8be6722a98dd9acd916271fa507d25d/_vimrc'
+      hash: dc95c0a8b8be6722a98dd9acd916271fa507d25d
+    - name: _gvimrc
+      url: 'https://github.com/ujihisa/config/blob/dc95c0a8b8be6722a98dd9acd916271fa507d25d/_gvimrc'
+      raw_url: 'https://raw.githubusercontent.com/ujihisa/config/dc95c0a8b8be6722a98dd9acd916271fa507d25d/_gvimrc'
+      hash: dc95c0a8b8be6722a98dd9acd916271fa507d25d
+  part: 後編
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - obcat
+    - peacock0803sz
+    - thinca
+    - tsuyoshicho
+    - ujihisa
+    - yuki-yano
+    - yutkat
+  log: 'https://gitter.im/vim-jp/reading-vimrc?at=60a90e6345c2185a5ee2db58'
