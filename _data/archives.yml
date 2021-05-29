@@ -13712,3 +13712,27 @@
     - yuki-yano
     - yutkat
   log: 'https://gitter.im/vim-jp/reading-vimrc?at=60a90e6345c2185a5ee2db58'
+- id: 465
+  date: 2021-05-29 23:00
+  author:
+    name: kato-k
+    url: https://github.com/kato-k
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/kato-k/dotfiles/blob/5ea47516f3b9f5a425c827a1ebd859beb2ad4835/vimrc
+      raw_url: https://raw.githubusercontent.com/kato-k/dotfiles/5ea47516f3b9f5a425c827a1ebd859beb2ad4835/vimrc
+      hash: 5ea47516f3b9f5a425c827a1ebd859beb2ad4835
+  part: null
+  other: null
+  members:
+    - KosukeMizuno
+    - hashue
+    - kato-k
+    - koutag
+    - kuuote
+    - peacock0803sz
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+    - yuki-yano
+  log: https://gitter.im/vim-jp/reading-vimrc?at=60b24914bdecf719a087c6d5
