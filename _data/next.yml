@@ -1,41 +1,11 @@
 - id: 465
-  date: '2021-05-29 23:00'
+  date: 2021-05-29 23:00
   author:
     name: kato-k
-    url: 'https://github.com/kato-k'
+    url: https://github.com/kato-k
   vimrcs:
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vimrc'
+    - url: https://github.com/kato-k/dotfiles/blob/master/vimrc
       hash: null
       name: vimrc
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/init.vim'
-      hash: null
-      name: init.vim
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/general.vim'
-      hash: null
-      name: general.vim
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/functions.vim'
-      hash: null
-      name: functions.vim
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/keymap.vim'
-      hash: null
-      name: keymap.vim
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/plugin.vim'
-      hash: null
-      name: plugin.vim
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/deinrc/general.toml'
-      hash: null
-      name: general.toml
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/deinrc/dein_lazy.toml'
-      hash: null
-      name: dein_lazy.toml
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/deinrc/lsp.toml'
-      hash: null
-      name: lsp.toml
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/deinrc/ferm.toml'
-      hash: null
-      name: ferm.toml
-    - url: 'https://github.com/kato-k/dotfiles/blob/master/vim/deinrc/color.toml'
-      hash: null
-      name: color.toml
   part: null
   other: null
