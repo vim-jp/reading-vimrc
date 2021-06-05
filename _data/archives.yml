@@ -13736,3 +13736,34 @@
     - tsuyoshicho
     - yuki-yano
   log: https://gitter.im/vim-jp/reading-vimrc?at=60b24914bdecf719a087c6d5
+- id: 466
+  date: 2021-06-05 23:00
+  author:
+    name: sheepla
+    url: https://github.com/sheepla
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/sheepla/dotfiles/blob/083652aef8c3b1357d0b77c1960d158467e7f2fb/.vimrc
+      raw_url: https://raw.githubusercontent.com/sheepla/dotfiles/083652aef8c3b1357d0b77c1960d158467e7f2fb/.vimrc
+      hash: 083652aef8c3b1357d0b77c1960d158467e7f2fb
+    - name: ginit.vim
+      url: https://github.com/sheepla/dotfiles/blob/083652aef8c3b1357d0b77c1960d158467e7f2fb/.config/nvim/ginit.vim
+      raw_url: https://raw.githubusercontent.com/sheepla/dotfiles/083652aef8c3b1357d0b77c1960d158467e7f2fb/.config/nvim/ginit.vim
+      hash: 083652aef8c3b1357d0b77c1960d158467e7f2fb
+  part: null
+  other: null
+  members:
+    - KosukeMizuno
+    - _starnak_twitter
+    - kato-k
+    - koutarn
+    - kuuote
+    - mirachan010
+    - mityu
+    - monaqa
+    - obcat
+    - riq0h
+    - thinca
+    - tsuyoshicho
+    - yuki-yano
+  log: https://gitter.im/vim-jp/reading-vimrc?at=60bb83629cc69444a020717d
