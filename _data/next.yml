@@ -1,14 +1,212 @@
-- id: 466
-  date: 2021-06-05 23:00
+- id: 467
+  date: 2021-06-12 23:00
   author:
-    name: sheepla
-    url: https://github.com/sheepla
+    name: koutarn
+    url: https://github.com/koutarn
   vimrcs:
-    - url: https://github.com/sheepla/dotfiles/blob/master/.vimrc
+    - url: https://github.com/koutarn/dotfile/blob/master/.vimrc
       hash: null
       name: .vimrc
-    - url: https://github.com/sheepla/dotfiles/blob/master/.config/nvim/ginit.vim
+    - url: https://github.com/koutarn/dotfile/blob/master/.vim/_config/000-main.vim
       hash: null
-      name: ginit.vim
-  part: null
+      name: 000-main.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/001-keybind.vim
+      hash: null
+      name: 001-keybind.vim
+    - url: https://github.com/koutarn/dotfile/blob/master/.vim/_config/002-path.vim
+      hash: null
+      name: 002-path.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/100-plugin-load.vim
+      hash: null
+      name: 100-plugin-load.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/101-tabular.vim
+      hash: null
+      name: 101-tabular.vim
+    - url: https://github.com/koutarn/dotfile/blob/master/.vim/_config/105-coc.vim
+      hash: null
+      name: 105-coc.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/107-bookmarks.vim
+      hash: null
+      name: 107-bookmarks.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/110-textobj-function.vim
+      hash: null
+      name: 110-textobj-function.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/111-operator-replace.vim
+      hash: null
+      name: 111-operator-replace.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/112-visual-mutil.vim
+      hash: null
+      name: 112-visual-mutil.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/113-preview-markdown.vim
+      hash: null
+      name: 113-preview-markdown.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/114-lightline.vim
+      hash: null
+      name: 114-lightline.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/115-tokyonight.vim
+      hash: null
+      name: 115-tokyonight.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/116-fern-renderer.vim
+      hash: null
+      name: 116-fern-renderer.vim
+    - url: https://github.com/koutarn/dotfile/blob/master/.vim/_config/117-fern.vim
+      hash: null
+      name: 117-fern.vim
+    - url: https://github.com/koutarn/dotfile/blob/master/.vim/_config/119-eskk.vim
+      hash: null
+      name: 119-eskk.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/120-TwitVim.vim
+      hash: null
+      name: 120-TwitVim.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/121-open-browser.vim
+      hash: null
+      name: 121-open-browser.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/124-sandwich.vim
+      hash: null
+      name: 124-sandwich.vim
+    - url: https://github.com/koutarn/dotfile/blob/master/.vim/_config/125-Gina.vim
+      hash: null
+      name: 125-Gina.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/126-onedark.vim
+      hash: null
+      name: 126-onedark.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/127-glyph-palette.vim
+      hash: null
+      name: 127-glyph-palette.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/128-fern-mapping-project-top.vim
+      hash: null
+      name: 128-fern-mapping-project-top.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/129-fern-mapping-fzf.vim
+      hash: null
+      name: 129-fern-mapping-fzf.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/130-nvim-treesitter.vim
+      hash: null
+      name: 130-nvim-treesitter.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/131-nvim-biscuits.vim
+      hash: null
+      name: 131-nvim-biscuits.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/132-nvim-ts-rainbow.vim
+      hash: null
+      name: 132-nvim-ts-rainbow.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/133-floaterm.vim
+      hash: null
+      name: 133-floaterm.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/134-barbar.vim
+      hash: null
+      name: 134-barbar.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/135-vim-indent-guides.vim
+      hash: null
+      name: 135-vim-indent-guides.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/136-vim-ambicmd.vim
+      hash: null
+      name: 136-vim-ambicmd.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/137-vim-qfreplace.vim
+      hash: null
+      name: 137-vim-qfreplace.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/138-which-key.vim
+      hash: null
+      name: 138-which-key.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/139-fern-preview.vim
+      hash: null
+      name: 139-fern-preview.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/140-vim-findent.vim
+      hash: null
+      name: 140-vim-findent.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/141-vim-gfm-syntax.vim
+      hash: null
+      name: 141-vim-gfm-syntax.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/142-vim-quickhl.vim
+      hash: null
+      name: 142-vim-quickhl.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/143-vim-table-mode.vim
+      hash: null
+      name: 143-vim-table-mode.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/144-translator.vim
+      hash: null
+      name: 144-translator.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/145-vista.vim
+      hash: null
+      name: 145-vista.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/146-smart-cursor.vim
+      hash: null
+      name: 146-smart-cursor.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/147-nvim-bqf.vim
+      hash: null
+      name: 147-nvim-bqf.vim
+    - url: https://github.com/koutarn/dotfile/blob/master/.vim/_config/148-dial.vim
+      hash: null
+      name: 148-dial.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/149-nvim-hlslens.vim
+      hash: null
+      name: 149-nvim-hlslens.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/150-nvim-ts-context-commentstring.vim
+      hash: null
+      name: 150-nvim-ts-context-commentstring.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/151-kommentary.vim
+      hash: null
+      name: 151-kommentary.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/_config/153-todo-comments.vim
+      hash: null
+      name: 153-todo-comments.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/after/ftplugin/help.vim
+      hash: null
+      name: help.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/after/ftplugin/markdown.vim
+      hash: null
+      name: markdown.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/after/ftplugin/qf.vim
+      hash: null
+      name: qf.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/filetype.vim
+      hash: null
+      name: filetype.vim
+    - url: >-
+        https://github.com/koutarn/dotfile/blob/master/.vim/coc-settings.json
+      hash: null
+      name: coc-settings.json
+  part: 前編
   other: null
