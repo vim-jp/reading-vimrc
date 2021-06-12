@@ -5,6 +5,10 @@
     url: https://github.com/koutarn
   vimrcs:
     - url: >-
+        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vimrc
+      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
+      name: .vimrc
+    - url: >-
         https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/init.vim
       hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
       name: init.vim
@@ -209,7 +213,7 @@
       hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
       name: 148-dial.vim
     - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/149-nvim-hlsl
+        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/149-nvim-hlslens.vim
       hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
       name: 149-nvim-hlsl
     - url: >-
