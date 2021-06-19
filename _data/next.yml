@@ -1,5 +1,5 @@
-- id: 468
-  date: 2021-06-19 23:00
+- id: 469
+  date: 2021-06-26 23:00
   author:
     name: koutarn
     url: https://github.com/koutarn
@@ -215,7 +215,7 @@
     - url: >-
         https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/149-nvim-hlslens.vim
       hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 149-nvim-hlsl
+      name: 149-nvim-hlslens.vim
     - url: >-
         https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/150-nvim-ts-context-commentstring.vim
       hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
@@ -256,5 +256,5 @@
         https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/160-quickrun.vim
       hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
       name: 160-quickrun.vim
-  part: 中編
+  part: 後編
   other: null
