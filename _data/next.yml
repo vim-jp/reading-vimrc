@@ -1,260 +1,59 @@
-- id: 469
-  date: 2021-06-26 23:00
+- id: 470
+  date: 2021-07-03 23:00
   author:
-    name: koutarn
-    url: https://github.com/koutarn
+    name: monaqa
+    url: https://github.com/monaqa
   vimrcs:
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vimrc
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: .vimrc
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/init.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
+    - url: https://github.com/monaqa/dotfiles/blob/master/.config/nvim/init.vim
+      hash: null
       name: init.vim
     - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/cheatsheet
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: cheatsheet
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/plugin_beforeload.vim
+      hash: null
+      name: plugin_beforeload.vim
     - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/coc-settings.json
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: coc-settings.json
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/minpac.vim
+      hash: null
+      name: minpac.vim
     - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/filetype.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/plugin.vim
+      hash: null
+      name: plugin.vim
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/option.vim
+      hash: null
+      name: option.vim
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/keymap.vim
+      hash: null
+      name: keymap.vim
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/abbr.vim
+      hash: null
+      name: abbr.vim
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/autocmd.vim
+      hash: null
+      name: autocmd.vim
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/command.vim
+      hash: null
+      name: command.vim
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/filetype.vim
+      hash: null
       name: filetype.vim
     - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/after/ftplugin/help.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: help.vim
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/plugin.lua
+      hash: null
+      name: plugin.lua
     - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/after/ftplugin/markdown.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: markdown.vim
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/coc-settings.json
+      hash: null
+      name: coc-settings.json
     - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/after/ftplugin/qf.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: qf.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/000-main.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 000-main.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/001-util-function.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 001-util-function.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/002-command.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 002-command.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/003-keybind.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 003-keybind.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/100-plugin-load.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 100-plugin-load.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/101-tabular.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 101-tabular.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/102-coc.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 102-coc.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/103-i3config.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 103-i3config.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/104-bookmarks.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 104-bookmarks.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/105-textobj-function.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 105-textobj-function.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/111-operator-replace.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 111-operator-replace.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/112-visual-mutil.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 112-visual-mutil.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/113-preview-markdown.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 113-preview-markdown.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/114-lightline.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 114-lightline.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/116-fern-renderer.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 116-fern-renderer.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/117-fern.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 117-fern.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/119-eskk.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 119-eskk.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/120-TwitVim.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 120-TwitVim.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/121-open-browser.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 121-open-browser.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/124-sandwich.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 124-sandwich.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/125-Gina.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 125-Gina.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/126-onedark.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 126-onedark.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/127-glyph-palette.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 127-glyph-palette.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/128-fern-mapping-project-top.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 128-fern-mapping-project-top.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/129-fern-mapping-fzf.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 129-fern-mapping-fzf.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/130-nvim-treesitter.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 130-nvim-treesitter.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/131-nvim-biscuits.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 131-nvim-biscuits.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/132-nvim-ts-rainbow.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 132-nvim-ts-rainbow.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/133-floaterm.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 133-floaterm.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/134-barbar.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 134-barbar.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/135-vim-indent-guides.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 135-vim-indent-guides.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/136-vim-ambicmd.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 136-vim-ambicmd.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/137-vim-qfreplace.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 137-vim-qfreplace.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/138-which-key.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 138-which-key.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/139-fern-preview.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 139-fern-preview.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/140-vim-findent.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 140-vim-findent.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/141-vim-gfm-syntax.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 141-vim-gfm-syntax.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/142-vim-quickhl.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 142-vim-quickhl.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/143-vim-table-mode.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 143-vim-table-mode.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/144-translator.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 144-translator.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/145-vista.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 145-vista.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/146-smart-cursor.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 146-smart-cursor.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/147-nvim-bqf.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 147-nvim-bqf.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/148-dial.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 148-dial.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/149-nvim-hlslens.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 149-nvim-hlslens.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/150-nvim-ts-context-commentstring.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 150-nvim-ts-context-commentstring.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/151-kommentary.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 151-kommentary.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/153-todo-comments.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 153-todo-comments.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/154-nvim-spectre.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 154-nvim-spectre.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/155-vim-cheatsheet.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 155-vim-cheatsheet.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/156-nvim-dap.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 156-nvim-dap.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/157-nvim-dap-ui.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 157-nvim-dap-ui.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/158-DAPInstall.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 158-DAPInstall.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/159-aho-backup.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 159-aho-backup.vim
-    - url: >-
-        https://github.com/koutarn/dotfile/blob/b4f11451f1547cedab051ca547b2f1cc208e0a06/.vim/_config/160-quickrun.vim
-      hash: b4f11451f1547cedab051ca547b2f1cc208e0a06
-      name: 160-quickrun.vim
-  part: 後編
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/scripts/resource/monaqa.txt
+      hash: null
+      name: monaqa.txt
+  part: 前編
   other: null
