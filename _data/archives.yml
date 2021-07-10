@@ -14637,3 +14637,73 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=60e0712df862a72a30e8d393
+- id: 471
+  date: 2021-07-10 23:00
+  author:
+    name: monaqa
+    url: https://github.com/monaqa
+  vimrcs:
+    - name: init.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/init.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: plugin_beforeload.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin_beforeload.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin_beforeload.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: minpac.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/minpac.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/minpac.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: plugin.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: option.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/option.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/option.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: keymap.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/keymap.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/keymap.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: abbr.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/abbr.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/abbr.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: autocmd.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/autocmd.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/autocmd.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: command.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/command.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/command.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: filetype.vim
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/filetype.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/filetype.vim
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: plugin.lua
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin.lua
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: coc-settings.json
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/coc-settings.json
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - name: monaqa.txt
+      url: https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/resource/monaqa.txt
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/resource/monaqa.txt
+      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+  part: 中編
+  other: null
+  members:
+    - _gz23__twitter
+    - kuuote
+    - mirachan010
+    - mityu
+    - monaqa
+    - obcat
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=60e9a869f1274d5e503efae3
