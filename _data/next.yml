@@ -1,5 +1,5 @@
-- id: 471
-  date: 2021-07-10 23:00
+- id: 472
+  date: 2021-07-17 23:00
   author:
     name: monaqa
     url: https://github.com/monaqa
@@ -56,5 +56,5 @@
         https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/resource/monaqa.txt
       hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
       name: monaqa.txt
-  part: 中編
+  part: 後編
   other: null
