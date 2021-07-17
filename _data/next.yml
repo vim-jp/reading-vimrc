@@ -1,60 +1,32 @@
-- id: 472
-  date: 2021-07-17 23:00
+- id: 473
+  date: 2021-07-24 23:00
   author:
-    name: monaqa
-    url: https://github.com/monaqa
+    name: woodyZootopia
+    url: https://github.com/woodyZootopia
   vimrcs:
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/init.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - url: https://github.com/woodyZootopia/nvim/blob/master/init.vim
+      hash: null
       name: init.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin_beforeload.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: plugin_beforeload.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/minpac.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: minpac.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: plugin.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/option.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: option.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/keymap.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: keymap.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/abbr.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: abbr.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/autocmd.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
+    - url: https://github.com/woodyZootopia/nvim/blob/master/dein.vim
+      hash: null
+      name: dein.vim
+    - url: https://github.com/woodyZootopia/nvim/blob/master/set.vim
+      hash: null
+      name: set.vim
+    - url: https://github.com/woodyZootopia/nvim/blob/master/mapping.vim
+      hash: null
+      name: mapping.vim
+    - url: https://github.com/woodyZootopia/nvim/blob/master/lsp.vim
+      hash: null
+      name: lsp.vim
+    - url: https://github.com/woodyZootopia/nvim/blob/master/autocmd.vim
+      hash: null
       name: autocmd.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/command.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: command.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/filetype.vim
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: filetype.vim
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/plugin.lua
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: plugin.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/coc-settings.json
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: coc-settings.json
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/424b0ab2d7623005f4b79544570b0f07a76e921a/.config/nvim/scripts/resource/monaqa.txt
-      hash: 424b0ab2d7623005f4b79544570b0f07a76e921a
-      name: monaqa.txt
-  part: 後編
+    - url: https://github.com/woodyZootopia/nvim/blob/master/mark.vim
+      hash: null
+      name: mark.vim
+    - url: https://github.com/woodyZootopia/nvim/blob/master/autocmd_eskk.vim
+      hash: null
+      name: autocmd_eskk.vim
+  part: 前編
   other: null
