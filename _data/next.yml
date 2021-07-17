@@ -28,5 +28,11 @@
     - url: https://github.com/woodyZootopia/nvim/blob/master/autocmd_eskk.vim
       hash: null
       name: autocmd_eskk.vim
+    - url: https://github.com/woodyZootopia/nvim/blob/master/toml/dein.toml
+      hash: null
+      name: dein.toml
+    - url: https://github.com/woodyZootopia/nvim/blob/master/toml/dein_lazy.toml
+      hash: null
+      name: dein_lazy.toml
   part: 前編
   other: null
