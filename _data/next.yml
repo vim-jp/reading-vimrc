@@ -33,9 +33,9 @@
       hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: mark.vim
     - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/autocmd_eskk.vim
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/autocmd_fcitx.vim
       hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: autocmd_eskk.vim
+      name: autocmd_fcitx.vim
     - url: >-
         https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/toml/dein.toml
       hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
