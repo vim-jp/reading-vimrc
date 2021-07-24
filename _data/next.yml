@@ -1,38 +1,48 @@
-- id: 473
-  date: 2021-07-24 23:00
+- id: 474
+  date: 2021-07-31 23:00
   author:
     name: woodyZootopia
     url: https://github.com/woodyZootopia
   vimrcs:
-    - url: https://github.com/woodyZootopia/nvim/blob/master/init.vim
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/init.vim
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: init.vim
-    - url: https://github.com/woodyZootopia/nvim/blob/master/dein.vim
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/dein.vim
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: dein.vim
-    - url: https://github.com/woodyZootopia/nvim/blob/master/set.vim
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/set.vim
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: set.vim
-    - url: https://github.com/woodyZootopia/nvim/blob/master/mapping.vim
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/mapping.vim
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: mapping.vim
-    - url: https://github.com/woodyZootopia/nvim/blob/master/lsp.vim
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/lsp.vim
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: lsp.vim
-    - url: https://github.com/woodyZootopia/nvim/blob/master/autocmd.vim
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/autocmd.vim
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: autocmd.vim
-    - url: https://github.com/woodyZootopia/nvim/blob/master/mark.vim
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/mark.vim
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: mark.vim
-    - url: https://github.com/woodyZootopia/nvim/blob/master/autocmd_eskk.vim
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/autocmd_eskk.vim
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: autocmd_eskk.vim
-    - url: https://github.com/woodyZootopia/nvim/blob/master/toml/dein.toml
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/toml/dein.toml
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: dein.toml
-    - url: https://github.com/woodyZootopia/nvim/blob/master/toml/dein_lazy.toml
-      hash: null
+    - url: >-
+        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/toml/dein_lazy.toml
+      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
       name: dein_lazy.toml
-  part: 前編
+  part: 中編
   other: null
