@@ -1,48 +1,14 @@
-- id: 475
-  date: 2021-08-07 23:00
+- id: 476
+  date: 2021-08-14 23:00
   author:
-    name: woodyZootopia
-    url: https://github.com/woodyZootopia
+    name: cocopon
+    url: https://github.com/cocopon
   vimrcs:
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/init.vim
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: init.vim
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/dein.vim
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: dein.vim
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/set.vim
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: set.vim
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/mapping.vim
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: mapping.vim
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/lsp.vim
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: lsp.vim
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/autocmd.vim
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: autocmd.vim
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/mark.vim
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: mark.vim
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/autocmd_fcitx.vim
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: autocmd_fcitx.vim
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/toml/dein.toml
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: dein.toml
-    - url: >-
-        https://github.com/woodyZootopia/nvim/blob/fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3/toml/dein_lazy.toml
-      hash: fe6f74e4d0f10bb4d6f6e838857bd75621e3a4d3
-      name: dein_lazy.toml
-  part: 後編
+    - url: https://github.com/cocopon/dotfiles/blob/main/.vimrc
+      hash: null
+      name: .vimrc
+    - url: https://github.com/cocopon/dotfiles/blob/main/.gvimrc
+      hash: null
+      name: .gvimrc
+  part: null
   other: null
