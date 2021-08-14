@@ -14946,3 +14946,25 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=610e91e18fc359158c5a5bc4
+- id: 476
+  date: 2021-08-14 23:00
+  author:
+    name: cocopon
+    url: https://github.com/cocopon
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/cocopon/dotfiles/blob/59732a7398f1c7b2754050d86eaad1320ac9c386/.vimrc
+      raw_url: https://raw.githubusercontent.com/cocopon/dotfiles/59732a7398f1c7b2754050d86eaad1320ac9c386/.vimrc
+      hash: 59732a7398f1c7b2754050d86eaad1320ac9c386
+    - name: .gvimrc
+      url: https://github.com/cocopon/dotfiles/blob/59732a7398f1c7b2754050d86eaad1320ac9c386/.gvimrc
+      raw_url: https://raw.githubusercontent.com/cocopon/dotfiles/59732a7398f1c7b2754050d86eaad1320ac9c386/.gvimrc
+      hash: 59732a7398f1c7b2754050d86eaad1320ac9c386
+  part: null
+  other: null
+  members:
+    - kuuote
+    - monaqa
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=6117cc64025d436054cd2f28
