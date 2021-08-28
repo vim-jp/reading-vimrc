@@ -15271,3 +15271,306 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=6121080ee2e2ad3a069d48c0
+- id: 478
+  date: 2021-08-28 23:00
+  author:
+    name: ik5
+    url: https://github.com/ik5
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: init.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/init.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/init.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 000-mkdir.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/pre_configrc.d/000-mkdir.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/pre_configrc.d/000-mkdir.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 000-plugins.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/000-plugins.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/000-plugins.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 001-commands.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/001-commands.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/001-commands.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 001-functions.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/001-functions.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/001-functions.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 001-settings.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/001-settings.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/001-settings.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 002-colorscheme.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/002-colorscheme.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/002-colorscheme.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 003-keymap-general.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/003-keymap-general.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/003-keymap-general.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 003-keymap-rtl.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/003-keymap-rtl.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/003-keymap-rtl.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 005-terminal.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/005-terminal.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/005-terminal.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-airline.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-airline.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-airline.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-ale.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ale.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ale.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-bufexplorer.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-bufexplorer.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-bufexplorer.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-clever-f.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-clever-f.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-clever-f.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-coc.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-coc.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-coc.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-ctrlfs.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ctrlfs.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ctrlfs.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-denite.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-denite.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-denite.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-deoplete.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-deoplete.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-deoplete.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-echodoc.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-echodoc.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-echodoc.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-elm-vim.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-elm-vim.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-elm-vim.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-emmet.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-emmet.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-emmet.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-far.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-far.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-far.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-fugitive.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-fugitive.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-fugitive.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-gitgutter.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-gitgutter.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-gitgutter.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-gitv.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-gitv.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-gitv.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-html5.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-html5.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-html5.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-indentline.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-indentline.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-indentline.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-jedi-vim.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-jedi-vim.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-jedi-vim.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-language-client-neovim.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-language-client-neovim.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-language-client-neovim.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-matchup.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-matchup.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-matchup.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-mucomplete.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-mucomplete.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-mucomplete.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-neoformat.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-neoformat.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-neoformat.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-nerdcommander.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-nerdcommander.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-nerdcommander.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-nerdtree.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-nerdtree.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-nerdtree.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-netrw.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-netrw.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-netrw.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-pgsql.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-pgsql.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-pgsql.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-polyglot.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-polyglot.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-polyglot.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-python-mode.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-python-mode.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-python-mode.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-ripgrep.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ripgrep.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ripgrep.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-ruby.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ruby.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ruby.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-rust.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-rust.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-rust.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-snipmate.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-snipmate.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-snipmate.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-splitjoin.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-splitjoin.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-splitjoin.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-supertab.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-supertab.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-supertab.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-tabular.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tabular.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tabular.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-tagbar.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tagbar.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tagbar.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-tasklist.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tasklist.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tasklist.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-tcomment.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tcomment.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tcomment.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-tmux-complete.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tmux-complete.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-tmux-complete.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-turn-for-vim.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-turn-for-vim.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-turn-for-vim.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-ultisnips.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ultisnips.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-ultisnips.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-undotree.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-undotree.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-undotree.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-viewdoc.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-viewdoc.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-viewdoc.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-conflicted.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-conflicted.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-conflicted.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-fixmyjs.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-fixmyjs.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-fixmyjs.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-gitgutter.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-gitgutter.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-gitgutter.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-go.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-go.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-go.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-grammarous.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-grammarous.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-grammarous.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-highlightedyank.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-highlightedyank.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-highlightedyank.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-javascript.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-javascript.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-javascript.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-jsx.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-jsx.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-jsx.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-markdown.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-markdown.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-markdown.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-tagged-template.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-tagged-template.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-tagged-template.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-tshark.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-tshark.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-tshark.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-twiggy.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-twiggy.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-twiggy.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-vim-vue.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-vue.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-vim-vue.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 020-webdevicons.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-webdevicons.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/020-webdevicons.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 030-omnicomplete.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/030-omnicomplete.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/030-omnicomplete.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 031-filetypes.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/031-filetypes.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/031-filetypes.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 032-folding.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/032-folding.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/032-folding.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+    - name: 999-finish.vim
+      url: https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/999-finish.vim
+      raw_url: https://raw.githubusercontent.com/ik5/dotvim/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/999-finish.vim
+      hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
+  part: 中編
+  other: null
+  members:
+    - Omochice
+    - kuuote
+    - thinca
+    - tsuyoshicho
+    - yuki-yano
+  log: https://gitter.im/vim-jp/reading-vimrc?at=612a418a5cfd665e52f51eca
