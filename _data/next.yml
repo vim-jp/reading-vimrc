@@ -1,5 +1,5 @@
-- id: 478
-  date: 2021-08-28 23:00
+- id: 479
+  date: 2021-09-04 23:00
   author:
     name: ik5
     url: https://github.com/ik5
@@ -292,5 +292,5 @@
         https://github.com/ik5/dotvim/blob/c65cca247a109df3f1cc8e87be537a4ae06db1c1/vimrc.d/999-finish.vim
       hash: c65cca247a109df3f1cc8e87be537a4ae06db1c1
       name: 999-finish.vim
-  part: 中編
+  part: 後編
   other: null
