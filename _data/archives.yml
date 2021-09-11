@@ -15879,3 +15879,67 @@
     - tsuyoshicho
     - yuki-yano
   log: https://gitter.im/vim-jp/reading-vimrc?at=61337c001179346966fc1704
+- id: 480
+  date: 2021-09-11 23:00
+  author:
+    name: nicknisi
+    url: https://github.com/nicknisi
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/init.lua
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: coc-settings.json
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/coc-settings.json
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: functions.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/autoload/functions.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/autoload/functions.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: git.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/git.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/git.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: help.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/help.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: html.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/html.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/html.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: javascript.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/javascript.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/javascript.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: markdown.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/markdown.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: ruby.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/ruby.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/ruby.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: typescript.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/typescript.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/typescript.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: vim.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/ftplugin/vim.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+    - name: markdown.vim
+      url: https://github.com/nicknisi/dotfiles/blob/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/syntax/markdown.vim
+      raw_url: https://raw.githubusercontent.com/nicknisi/dotfiles/913fa262741d84deda352930448cfbee4f8434a8/config/nvim/syntax/markdown.vim
+      hash: 913fa262741d84deda352930448cfbee4f8434a8
+  part: null
+  other: null
+  members:
+    - KosukeMizuno
+    - err931
+    - gamoutatsumi
+    - isanasan
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=613cb6668065e87a8ed97357
