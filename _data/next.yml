@@ -7,6 +7,15 @@
     - url: https://github.com/nicknisi/dotfiles/blob/master/config/nvim/init.lua
       hash: null
       name: init.lua
+    - url: https://github.com/nicknisi/dotfiles/blob/master/config/nvim/lua/colors.lua
+      hash: null
+      name: colors.lua
+    - url: https://github.com/nicknisi/dotfiles/blob/master/config/nvim/lua/globals.lua
+      hash: null
+      name: globals.lua
+    - url: https://github.com/nicknisi/dotfiles/blob/master/config/nvim/lua/utils.lua
+      hash: null
+      name: utils.lua
     - url: >-
         https://github.com/nicknisi/dotfiles/blob/master/config/nvim/coc-settings.json
       hash: null
