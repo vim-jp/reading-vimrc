@@ -1,64 +1,80 @@
-- id: 480
-  date: 2021-09-11 23:00
+- id: 481
+  date: 2021-09-18 23:00
   author:
-    name: nicknisi
-    url: https://github.com/nicknisi
+    name: wbthomason
+    url: https://github.com/wbthomason
   vimrcs:
-    - url: https://github.com/nicknisi/dotfiles/blob/master/config/nvim/init.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/init.lua
       hash: null
       name: init.lua
-    - url: https://github.com/nicknisi/dotfiles/blob/master/config/nvim/lua/colors.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/ginit.vim
       hash: null
-      name: colors.lua
-    - url: https://github.com/nicknisi/dotfiles/blob/master/config/nvim/lua/globals.lua
+      name: ginit.vim
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/autoload/fzf.vim
       hash: null
-      name: globals.lua
-    - url: https://github.com/nicknisi/dotfiles/blob/master/config/nvim/lua/utils.lua
-      hash: null
-      name: utils.lua
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/coc-settings.json
-      hash: null
-      name: coc-settings.json
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/autoload/functions.vim
-      hash: null
-      name: functions.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/ftplugin/git.vim
+      name: fzf.vim
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/autoload/git.vim
       hash: null
       name: git.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/ftplugin/help.vim
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/autoload/util.vim
       hash: null
-      name: help.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/ftplugin/html.vim
+      name: util.vim
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/plugins.lua
       hash: null
-      name: html.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/ftplugin/javascript.vim
+      name: plugins.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/profiler.lua
       hash: null
-      name: javascript.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/ftplugin/markdown.vim
+      name: profiler.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/start.lua
       hash: null
-      name: markdown.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/ftplugin/ruby.vim
+      name: start.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/statusline.lua
       hash: null
-      name: ruby.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/ftplugin/typescript.vim
+      name: statusline.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/utils.lua
       hash: null
-      name: typescript.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/ftplugin/vim.vim
+      name: utils.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/bufferline.lua
       hash: null
-      name: vim.vim
-    - url: >-
-        https://github.com/nicknisi/dotfiles/blob/master/config/nvim/syntax/markdown.vim
+      name: bufferline.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/cmp.lua
       hash: null
-      name: markdown.vim
-  part: null
+      name: cmp.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/dap.lua
+      hash: null
+      name: dap.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/dap_setup.lua
+      hash: null
+      name: dap_setup.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/gitsigns.lua
+      hash: null
+      name: gitsigns.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/iron.lua
+      hash: null
+      name: iron.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/matchup.lua
+      hash: null
+      name: matchup.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/neogit.lua
+      hash: null
+      name: neogit.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/pdf_scribe.lua
+      hash: null
+      name: pdf_scribe.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/prosession.lua
+      hash: null
+      name: prosession.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/signature.lua
+      hash: null
+      name: signature.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/telescope.lua
+      hash: null
+      name: telescope.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/telescope_setup.lua
+      hash: null
+      name: telescope_setup.lua
+    - url: https://github.com/wbthomason/dotfiles/blob/linux/neovim/.config/nvim/lua/config/utils.lua
+      hash: null
+      name: utils.lua
+  part: 前編
   other: null
