@@ -16055,3 +16055,113 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=6145f3595cfd665e5230c6e2
+- id: 482
+  date: 2021-09-25 23:00
+  author:
+    name: wbthomason
+    url: https://github.com/wbthomason
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/init.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: ginit.vim
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/ginit.vim
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/ginit.vim
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: fzf.vim
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/autoload/fzf.vim
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/autoload/fzf.vim
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: git.vim
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/autoload/git.vim
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/autoload/git.vim
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: util.vim
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/autoload/util.vim
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/autoload/util.vim
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: plugins.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/plugins.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/plugins.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: profiler.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/profiler.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/profiler.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: start.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/start.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/start.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: statusline.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/statusline.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/statusline.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: utils.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/utils.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/utils.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: bufferline.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/bufferline.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/bufferline.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: cmp.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/cmp.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/cmp.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: dap.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/dap.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/dap.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: dap_setup.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/dap_setup.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/dap_setup.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: gitsigns.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/gitsigns.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: iron.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/iron.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/iron.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: matchup.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/matchup.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/matchup.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: neogit.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/neogit.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/neogit.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: pdf_scribe.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/pdf_scribe.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/pdf_scribe.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: prosession.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/prosession.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/prosession.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: signature.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/signature.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/signature.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: telescope.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/telescope.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/telescope.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: telescope_setup.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/telescope_setup.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/telescope_setup.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+    - name: utils.lua
+      url: https://github.com/wbthomason/dotfiles/blob/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/utils.lua
+      raw_url: https://raw.githubusercontent.com/wbthomason/dotfiles/9d2b1ed17e18261dd5a77414e04eb025ce13422c/neovim/.config/nvim/lua/config/utils.lua
+      hash: 9d2b1ed17e18261dd5a77414e04eb025ce13422c
+  part: 後編
+  other: null
+  members:
+    - kuuote
+    - riq0h
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=614f2ba1f428f97a9fa6c127
