@@ -1,46 +1,56 @@
-- id: 483
-  date: 2021-10-02 23:00
+- id: 484
+  date: 2021-10-09 23:00
   author:
     name: uhooi
     url: https://github.com/uhooi
   vimrcs:
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vimrc
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vimrc
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: .vimrc
-    - url: https://github.com/uhooi/dotfiles/blob/main/.gvimrc
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.gvimrc
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: .gvimrc
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vim/config/basics.vim
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/basics.vim
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: basics.vim
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vim/config/mappings.vim
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/mappings.vim
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: mappings.vim
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vim/config/plugins.vim
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/plugins.vim
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: plugins.vim
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vim/config/dein.toml
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: dein.toml
     - url: >-
-        https://github.com/uhooi/dotfiles/blob/main/.vim/config/dein_colorscheme.toml
-      hash: null
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_colorscheme.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: dein_colorscheme.toml
     - url: >-
-        https://github.com/uhooi/dotfiles/blob/main/.vim/config/dein_complete.toml
-      hash: null
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_complete.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: dein_complete.toml
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vim/config/dein_go.toml
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_go.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: dein_go.toml
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vim/config/dein_lazy.toml
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_lazy.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: dein_lazy.toml
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vim/config/dein_lsp.toml
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_lsp.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: dein_lsp.toml
-    - url: https://github.com/uhooi/dotfiles/blob/main/.vim/config/dein_syntax.toml
-      hash: null
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_syntax.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
       name: dein_syntax.toml
-  part: 前編
+  part: 後編
   other: null
