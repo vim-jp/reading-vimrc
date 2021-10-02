@@ -16165,3 +16165,71 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=614f2ba1f428f97a9fa6c127
+- id: 483
+  date: 2021-10-02 23:00
+  author:
+    name: uhooi
+    url: https://github.com/uhooi
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vimrc
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vimrc
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: .gvimrc
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.gvimrc
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.gvimrc
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: basics.vim
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/basics.vim
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/basics.vim
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: mappings.vim
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/mappings.vim
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/mappings.vim
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: plugins.vim
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/plugins.vim
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/plugins.vim
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: dein.toml
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein.toml
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: dein_colorscheme.toml
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_colorscheme.toml
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_colorscheme.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: dein_complete.toml
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_complete.toml
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_complete.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: dein_go.toml
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_go.toml
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_go.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: dein_lazy.toml
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_lazy.toml
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_lazy.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: dein_lsp.toml
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_lsp.toml
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_lsp.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - name: dein_syntax.toml
+      url: https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_syntax.toml
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_syntax.toml
+      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+  part: 前編
+  other: null
+  members:
+    - Shougo
+    - hokorobi
+    - kato-k
+    - kuuote
+    - mattn
+    - monaqa
+    - obcat
+    - riq0h
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=615865e8fb8ca0572b9cada8
