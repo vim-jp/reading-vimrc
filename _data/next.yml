@@ -1,56 +1,63 @@
-- id: 484
-  date: 2021-10-09 23:00
+- id: 485
+  date: 2021-10-16 23:00
   author:
-    name: uhooi
-    url: https://github.com/uhooi
+    name: Shougo
+    url: https://github.com/Shougo
   vimrcs:
-    - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vimrc
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: .vimrc
-    - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.gvimrc
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: .gvimrc
-    - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/basics.vim
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: basics.vim
-    - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/mappings.vim
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: mappings.vim
-    - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/plugins.vim
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: plugins.vim
-    - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein.toml
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/vimrc
+      hash: null
+      name: vimrc
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/init.vim
+      hash: null
+      name: init.vim
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/ginit.vim
+      hash: null
+      name: ginit.vim
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/vimrc
+      hash: null
+      name: vimrc
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddc.toml
+      hash: null
+      name: ddc.toml
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/dein.toml
+      hash: null
       name: dein.toml
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/deinft.toml
+      hash: null
+      name: deinft.toml
     - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_colorscheme.toml
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: dein_colorscheme.toml
+        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/deinlazy.toml
+      hash: null
+      name: deinlazy.toml
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/gui.rc.vim
+      hash: null
+      name: gui.rc.vim
     - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_complete.toml
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: dein_complete.toml
+        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/mappings.rc.vim
+      hash: null
+      name: mappings.rc.vim
     - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_go.toml
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: dein_go.toml
+        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/neovim.rc.vim
+      hash: null
+      name: neovim.rc.vim
     - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_lazy.toml
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: dein_lazy.toml
+        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/options.rc.vim
+      hash: null
+      name: options.rc.vim
+    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/unix.rc.vim
+      hash: null
+      name: unix.rc.vim
     - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_lsp.toml
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: dein_lsp.toml
+        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/windows.rc.vim
+      hash: null
+      name: windows.rc.vim
     - url: >-
-        https://github.com/uhooi/dotfiles/blob/3faeacc294a0244c38ea4a1350d52ad0fe8b2674/.vim/config/dein_syntax.toml
-      hash: 3faeacc294a0244c38ea4a1350d52ad0fe8b2674
-      name: dein_syntax.toml
-  part: 後編
+        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/plugins/denite.rc.vim
+      hash: null
+      name: denite.rc.vim
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/master/vim/autoload/vimrc.vim
+      hash: null
+      name: vimrc.vim
+  part: 前編
   other: null
