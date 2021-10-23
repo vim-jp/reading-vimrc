@@ -1,5 +1,5 @@
-- id: 486
-  date: 2021-10-23 23:00
+- id: 487
+  date: 2021-10-30 23:00
   author:
     name: Shougo
     url: https://github.com/Shougo
@@ -68,5 +68,5 @@
         https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/autoload/vimrc.vim
       hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
       name: vimrc.vim
-  part: 中編
+  part: 後編
   other: null
