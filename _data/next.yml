@@ -1,72 +1,75 @@
-- id: 487
-  date: 2021-10-30 23:00
+- id: 488
+  date: 2021-11-06 23:00
   author:
-    name: Shougo
-    url: https://github.com/Shougo
+    name: lighttiger2505
+    url: https://github.com/lighttiger2505
   vimrcs:
+    - url: https://github.com/lighttiger2505/.dotfiles/blob/master/.vimrc
+      hash: null
+      name: .vimrc
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/vimrc
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: vimrc
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/init.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: init.vim
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/ginit.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: ginit.vim
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/vimrc
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: vimrc
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/ddc.toml
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: ddc.toml
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/dein.toml
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: dein.toml
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/deinft.toml
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: deinft.toml
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/deinlazy.toml
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: deinlazy.toml
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/gui.rc.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: gui.rc.vim
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/mappings.rc.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/mappings.rc.vim
+      hash: null
       name: mappings.rc.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/neovim.rc.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: neovim.rc.vim
-    - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/options.rc.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/options.rc.vim
+      hash: null
       name: options.rc.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/unix.rc.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: unix.rc.vim
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/filetype.rc.vim
+      hash: null
+      name: filetype.rc.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/windows.rc.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: windows.rc.vim
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/autocmd.rc.vim
+      hash: null
+      name: autocmd.rc.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/rc/plugins/denite.rc.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: denite.rc.vim
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein.rc.vim
+      hash: null
+      name: dein.rc.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/8504d14d2d057a485b5b96f6632c6369fb93c7c0/vim/autoload/vimrc.vim
-      hash: 8504d14d2d057a485b5b96f6632c6369fb93c7c0
-      name: vimrc.vim
-  part: 後編
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/lua.rc.vim
+      hash: null
+      name: lua.rc.vim
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein.toml
+      hash: null
+      name: dein.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_coc.toml
+      hash: null
+      name: dein_coc.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_compe.toml
+      hash: null
+      name: dein_compe.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_deoplete.toml
+      hash: null
+      name: dein_deoplete.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_go.toml
+      hash: null
+      name: dein_go.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_lazy.toml
+      hash: null
+      name: dein_lazy.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_neo.toml
+      hash: null
+      name: dein_neo.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_python.toml
+      hash: null
+      name: dein_python.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_syntax.toml
+      hash: null
+      name: dein_syntax.toml
+    - url: >-
+        https://github.com/lighttiger2505/.dotfiles/blob/master/.vim/rc/dein_vim_lsp.toml
+      hash: null
+      name: dein_vim_lsp.toml
+  part: null
   other: null
