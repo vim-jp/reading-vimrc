@@ -4,22 +4,22 @@
     name: rbtnn
     url: https://github.com/rbtnn
   vimrcs:
-    - url: https://github.com/rbtnn/vimrc/.vimrc
+    - url: https://github.com/rbtnn/vimrc/blob/master/.vimrc
       hash: null
       name: .vimrc
-    - url: https://github.com/rbtnn/vimrc/vim/autoload/encoding.vim
+    - url: https://github.com/rbtnn/vimrc/blob/master/vim/autoload/encoding.vim
       hash: null
       name: encoding.vim
-    - url: https://github.com/rbtnn/vimrc/vim/plugin/gitdiff.vim
+    - url: https://github.com/rbtnn/vimrc/blob/master/vim/plugin/gitdiff.vim
       hash: null
       name: gitdiff.vim
-    - url: https://github.com/rbtnn/vimrc/vim/plugin/qficonv.vim
+    - url: https://github.com/rbtnn/vimrc/blob/master/vim/plugin/qficonv.vim
       hash: null
       name: qficonv.vim
-    - url: https://github.com/rbtnn/vimrc/vim/plugin/rg.vim
+    - url: https://github.com/rbtnn/vimrc/blob/master/vim/plugin/rg.vim
       hash: null
       name: rg.vim
-    - url: https://github.com/rbtnn/vimrc/vim/syntax/gitdiff.vim
+    - url: https://github.com/rbtnn/vimrc/blob/master/vim/syntax/gitdiff.vim
       hash: null
       name: gitdiff.vim
   part: null
