@@ -1,76 +1,26 @@
-- id: 489
-  date: 2021-11-13 23:00
+- id: 490
+  date: 2021-11-20 23:00
   author:
-    name: lighttiger2505
-    url: https://github.com/lighttiger2505
+    name: rbtnn
+    url: https://github.com/rbtnn
   vimrcs:
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vimrc
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
+    - url: https://github.com/rbtnn/vimrc/.vimrc
+      hash: null
       name: .vimrc
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/mappings.rc.vim
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: mappings.rc.vim
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/options.rc.vim
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: options.rc.vim
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/filetype.rc.vim
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: filetype.rc.vim
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/autocmd.rc.vim
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: autocmd.rc.vim
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein.rc.vim
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein.rc.vim
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/lua.rc.vim
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: lua.rc.vim
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_coc.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_coc.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_compe.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_compe.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_deoplete.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_deoplete.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_go.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_go.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_lazy.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_lazy.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_neo.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_neo.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_python.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_python.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_syntax.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_syntax.toml
-    - url: >-
-        https://github.com/lighttiger2505/.dotfiles/blob/6229fdc35c6ddc42a3b2dafab4e1bd83e233a218/.vim/rc/dein_vim_lsp.toml
-      hash: 6229fdc35c6ddc42a3b2dafab4e1bd83e233a218
-      name: dein_vim_lsp.toml
-  part: 後編
+    - url: https://github.com/rbtnn/vimrc/vim/autoload/encoding.vim
+      hash: null
+      name: encoding.vim
+    - url: https://github.com/rbtnn/vimrc/vim/plugin/gitdiff.vim
+      hash: null
+      name: gitdiff.vim
+    - url: https://github.com/rbtnn/vimrc/vim/plugin/qficonv.vim
+      hash: null
+      name: qficonv.vim
+    - url: https://github.com/rbtnn/vimrc/vim/plugin/rg.vim
+      hash: null
+      name: rg.vim
+    - url: https://github.com/rbtnn/vimrc/vim/syntax/gitdiff.vim
+      hash: null
+      name: gitdiff.vim
+  part: null
   other: null
