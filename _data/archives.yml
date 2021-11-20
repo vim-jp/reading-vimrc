@@ -16712,3 +16712,44 @@
     - tsuyoshicho
     - woodyZootopia
   log: https://gitter.im/vim-jp/reading-vimrc?at=618fc4fccd4972068ba4e75a
+- id: 490
+  date: 2021-11-20 23:00
+  author:
+    name: rbtnn
+    url: https://github.com/rbtnn
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/rbtnn/vimrc/blob/a461192e2c51793d8237ff39cf09760d3cb3a146/.vimrc
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/a461192e2c51793d8237ff39cf09760d3cb3a146/.vimrc
+      hash: a461192e2c51793d8237ff39cf09760d3cb3a146
+    - name: encoding.vim
+      url: https://github.com/rbtnn/vimrc/blob/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/autoload/encoding.vim
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/autoload/encoding.vim
+      hash: a461192e2c51793d8237ff39cf09760d3cb3a146
+    - name: gitdiff.vim
+      url: https://github.com/rbtnn/vimrc/blob/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/plugin/gitdiff.vim
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/plugin/gitdiff.vim
+      hash: a461192e2c51793d8237ff39cf09760d3cb3a146
+    - name: qficonv.vim
+      url: https://github.com/rbtnn/vimrc/blob/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/plugin/qficonv.vim
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/plugin/qficonv.vim
+      hash: a461192e2c51793d8237ff39cf09760d3cb3a146
+    - name: rg.vim
+      url: https://github.com/rbtnn/vimrc/blob/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/plugin/rg.vim
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/plugin/rg.vim
+      hash: a461192e2c51793d8237ff39cf09760d3cb3a146
+    - name: gitdiff.vim
+      url: https://github.com/rbtnn/vimrc/blob/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/syntax/gitdiff.vim
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/a461192e2c51793d8237ff39cf09760d3cb3a146/vim/syntax/gitdiff.vim
+      hash: a461192e2c51793d8237ff39cf09760d3cb3a146
+  part: null
+  other: null
+  members:
+    - 4513ECHO
+    - KosukeMizuno
+    - Shougo
+    - kuuote
+    - rbtnn
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=6198ff66197fa95a1c804c13
