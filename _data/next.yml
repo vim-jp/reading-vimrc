@@ -1,26 +1,26 @@
-- id: 490
-  date: 2021-11-20 23:00
+- id: 491
+  date: 2021-11-27 23:00
   author:
-    name: rbtnn
-    url: https://github.com/rbtnn
+    name: hashue
+    url: https://github.com/hashue
   vimrcs:
-    - url: https://github.com/rbtnn/vimrc/blob/master/.vimrc
+    - url: https://github.com/hashue/config/blob/master/vim/vimrc
       hash: null
-      name: .vimrc
-    - url: https://github.com/rbtnn/vimrc/blob/master/vim/autoload/encoding.vim
+      name: vimrc
+    - url: https://github.com/hashue/config/blob/master/vim/autoload/vimrc.vim
       hash: null
-      name: encoding.vim
-    - url: https://github.com/rbtnn/vimrc/blob/master/vim/plugin/gitdiff.vim
+      name: vimrc.vim
+    - url: https://github.com/hashue/config/blob/master/vim/rc/coc.rc.vim
       hash: null
-      name: gitdiff.vim
-    - url: https://github.com/rbtnn/vimrc/blob/master/vim/plugin/qficonv.vim
+      name: coc.rc.vim
+    - url: https://github.com/hashue/config/blob/master/vim/rc/editor.rc.vim
       hash: null
-      name: qficonv.vim
-    - url: https://github.com/rbtnn/vimrc/blob/master/vim/plugin/rg.vim
+      name: editor.rc.vim
+    - url: https://github.com/hashue/config/blob/master/vim/rc/keymap.rc.vim
       hash: null
-      name: rg.vim
-    - url: https://github.com/rbtnn/vimrc/blob/master/vim/syntax/gitdiff.vim
+      name: keymap.rc.vim
+    - url: https://github.com/hashue/config/blob/master/vim/coc-settings.json
       hash: null
-      name: gitdiff.vim
+      name: coc-settings.json
   part: null
   other: null
