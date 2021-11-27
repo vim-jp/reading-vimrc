@@ -16753,3 +16753,44 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=6198ff66197fa95a1c804c13
+- id: 491
+  date: 2021-11-27 23:00
+  author:
+    name: hashue
+    url: https://github.com/hashue
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/hashue/config/blob/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/vimrc
+      raw_url: https://raw.githubusercontent.com/hashue/config/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/vimrc
+      hash: 7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5
+    - name: vimrc.vim
+      url: https://github.com/hashue/config/blob/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/autoload/vimrc.vim
+      raw_url: https://raw.githubusercontent.com/hashue/config/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/autoload/vimrc.vim
+      hash: 7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5
+    - name: coc.rc.vim
+      url: https://github.com/hashue/config/blob/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/rc/coc.rc.vim
+      raw_url: https://raw.githubusercontent.com/hashue/config/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/rc/coc.rc.vim
+      hash: 7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5
+    - name: editor.rc.vim
+      url: https://github.com/hashue/config/blob/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/rc/editor.rc.vim
+      raw_url: https://raw.githubusercontent.com/hashue/config/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/rc/editor.rc.vim
+      hash: 7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5
+    - name: keymap.rc.vim
+      url: https://github.com/hashue/config/blob/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/rc/keymap.rc.vim
+      raw_url: https://raw.githubusercontent.com/hashue/config/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/rc/keymap.rc.vim
+      hash: 7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5
+    - name: coc-settings.json
+      url: https://github.com/hashue/config/blob/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/hashue/config/7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5/vim/coc-settings.json
+      hash: 7bf0d4cae01bc70b79763dce3a4fe2bf3f03c9c5
+  part: null
+  other: null
+  members:
+    - 4513ECHO
+    - Omochice
+    - hashue
+    - kuuote
+    - mityu
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=61a239ef026dc63ca61ba7e6
