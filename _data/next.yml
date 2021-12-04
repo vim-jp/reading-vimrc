@@ -1,26 +1,156 @@
-- id: 491
-  date: 2021-11-27 23:00
+- id: 492
+  date: 2021-12-04 23:00
   author:
-    name: hashue
-    url: https://github.com/hashue
+    name: kuuote
+    url: https://github.com/kuuote
   vimrcs:
-    - url: https://github.com/hashue/config/blob/master/vim/vimrc
+    - url: https://github.com/kuuote/dotvim/blob/master/autoload/hypermap.vim
       hash: null
-      name: vimrc
-    - url: https://github.com/hashue/config/blob/master/vim/autoload/vimrc.vim
+      name: hypermap.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/autoload/selector.vim
+      hash: null
+      name: selector.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/selector/filter/fzf.vim
+      hash: null
+      name: fzf.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/selector/filter/grep.vim
+      hash: null
+      name: grep.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/selector/source/git_status.vim
+      hash: null
+      name: git_status.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/selector/source/help.vim
+      hash: null
+      name: help.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc.vim
       hash: null
       name: vimrc.vim
-    - url: https://github.com/hashue/config/blob/master/vim/rc/coc.rc.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/fzf.vim
       hash: null
-      name: coc.rc.vim
-    - url: https://github.com/hashue/config/blob/master/vim/rc/editor.rc.vim
+      name: fzf.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/fzf/ff.ts
       hash: null
-      name: editor.rc.vim
-    - url: https://github.com/hashue/config/blob/master/vim/rc/keymap.rc.vim
+      name: ff.ts
+    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/fzf/ff.vim
       hash: null
-      name: keymap.rc.vim
-    - url: https://github.com/hashue/config/blob/master/vim/coc-settings.json
+      name: ff.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui.json
+      hash: null
+      name: ui.json
+    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui.vim
+      hash: null
+      name: ui.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/filetype.vim
+      hash: null
+      name: filetype.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/filetype/deno.vim
+      hash: null
+      name: deno.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/filetype/json.vim
+      hash: null
+      name: json.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/plugin/fzf_preview.vim
+      hash: null
+      name: fzf_preview.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/plugin/telescope.vim
+      hash: null
+      name: telescope.vim
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/selector.vim
+      hash: null
+      name: selector.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/coc-settings.json
       hash: null
       name: coc-settings.json
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/coc.toml
+      hash: null
+      name: coc.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/colorscheme.toml
+      hash: null
+      name: colorscheme.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/ddc.toml
+      hash: null
+      name: ddc.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/dein.vim
+      hash: null
+      name: dein.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/filetype.toml
+      hash: null
+      name: filetype.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/main.toml
+      hash: null
+      name: main.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/nvim/main.toml
+      hash: null
+      name: main.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/nvim/nvim-lsp.toml
+      hash: null
+      name: nvim-lsp.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/nvim/rc/log.vim
+      hash: null
+      name: log.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/nvim/treesitter.toml
+      hash: null
+      name: treesitter.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/plug/coc.vim
+      hash: null
+      name: coc.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/plug/vsnip.vim
+      hash: null
+      name: vsnip.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/autocmd.vim
+      hash: null
+      name: autocmd.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/map.vim
+      hash: null
+      name: map.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/opt.vim
+      hash: null
+      name: opt.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/persist.vim
+      hash: null
+      name: persist.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/ripgrep.vim
+      hash: null
+      name: ripgrep.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/sortoml
+      hash: null
+      name: sortoml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/sortoml.ts
+      hash: null
+      name: sortoml.ts
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/vim-lsp.toml
+      hash: null
+      name: vim-lsp.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/vim/main.toml
+      hash: null
+      name: main.toml
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/vim/rc
+      hash: null
+      name: rc
+    - url: https://github.com/kuuote/dotvim/blob/master/conf/vim/rc/opt.vim
+      hash: null
+      name: opt.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/persist/persist.vim
+      hash: null
+      name: persist.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/plugin/dup.vim
+      hash: null
+      name: dup.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/plugin/lines.vim
+      hash: null
+      name: lines.vim
+    - url: https://github.com/kuuote/dotvim/blob/master/vimrc
+      hash: null
+      name: vimrc
   part: null
   other: null
