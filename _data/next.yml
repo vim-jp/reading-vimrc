@@ -1,156 +1,192 @@
-- id: 492
-  date: 2021-12-04 23:00
+- id: 493
+  date: 2021-12-11 23:00
   author:
     name: kuuote
     url: https://github.com/kuuote
   vimrcs:
-    - url: https://github.com/kuuote/dotvim/blob/master/autoload/hypermap.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/hypermap.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: hypermap.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/autoload/selector.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/selector.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: selector.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/selector/filter/fzf.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/selector/filter/fzf.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: fzf.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/selector/filter/grep.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/selector/filter/grep.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: grep.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/selector/source/git_status.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/selector/source/git_status.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: git_status.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/selector/source/help.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/selector/source/help.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: help.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: vimrc.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/fzf.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/fzf.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: fzf.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/fzf/ff.ts
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/fzf/ff.ts
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: ff.ts
-    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/fzf/ff.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/fzf/ff.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: ff.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui.json
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/ui.json
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: ui.json
-    - url: https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/ui.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: ui.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/filetype.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/ui/filetype.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: filetype.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/filetype/deno.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/ui/filetype/deno.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: deno.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/filetype/json.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/ui/filetype/json.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: json.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/plugin/fzf_preview.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/ui/plugin/fzf_preview.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: fzf_preview.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/plugin/telescope.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/ui/plugin/telescope.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: telescope.vim
     - url: >-
-        https://github.com/kuuote/dotvim/blob/master/autoload/vimrc/ui/selector.vim
-      hash: null
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/autoload/vimrc/ui/selector.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: selector.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/coc-settings.json
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/coc-settings.json
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: coc-settings.json
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/coc.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/coc.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: coc.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/colorscheme.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/colorscheme.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: colorscheme.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/ddc.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/ddc.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: ddc.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/dein.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/dein.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: dein.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/filetype.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/filetype.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: filetype.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/main.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/main.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: main.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/nvim/main.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/nvim/main.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: main.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/nvim/nvim-lsp.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/nvim/nvim-lsp.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: nvim-lsp.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/nvim/rc/log.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/nvim/rc/log.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: log.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/nvim/treesitter.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/nvim/treesitter.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: treesitter.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/plug/coc.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/plug/coc.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: coc.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/plug/vsnip.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/plug/vsnip.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: vsnip.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/autocmd.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/rc/autocmd.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: autocmd.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/map.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/rc/map.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: map.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/opt.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/rc/opt.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: opt.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/persist.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/rc/persist.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: persist.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/rc/ripgrep.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/rc/ripgrep.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: ripgrep.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/sortoml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/sortoml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: sortoml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/sortoml.ts
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/sortoml.ts
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: sortoml.ts
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/vim-lsp.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/vim-lsp.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: vim-lsp.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/vim/main.toml
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/vim/main.toml
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: main.toml
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/vim/rc
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/vim/rc
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: rc
-    - url: https://github.com/kuuote/dotvim/blob/master/conf/vim/rc/opt.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/conf/vim/rc/opt.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: opt.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/persist/persist.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/persist/persist.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: persist.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/plugin/dup.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/plugin/dup.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: dup.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/plugin/lines.vim
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/plugin/lines.vim
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: lines.vim
-    - url: https://github.com/kuuote/dotvim/blob/master/vimrc
-      hash: null
+    - url: >-
+        https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/vimrc
+      hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: vimrc
-  part: null
+  part: 中編
   other: null
