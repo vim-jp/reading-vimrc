@@ -1,5 +1,5 @@
-- id: 493
-  date: 2021-12-11 23:00
+- id: 494
+  date: 2021-12-18 23:00
   author:
     name: kuuote
     url: https://github.com/kuuote
@@ -188,5 +188,5 @@
         https://github.com/kuuote/dotvim/blob/16bbd416f5c6cd27fd88acb7235655897c6ffcaf/vimrc
       hash: 16bbd416f5c6cd27fd88acb7235655897c6ffcaf
       name: vimrc
-  part: 中編
+  part: 後編
   other: null
