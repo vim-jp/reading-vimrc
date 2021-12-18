@@ -7,5 +7,57 @@
     - url: https://github.com/mityu/dotfiles/blob/master/dot_vim/vimrc
       hash: null
       name: vimrc
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/autoload/vimrc.vim
+      hash: null
+      name: vimrc.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/autoload/vimrc/charjump.vim
+      hash: null
+      name: charjump.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/autoload/vimrc/filore.vim
+      hash: null
+      name: filore.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/autoload/vimrc/gyoza.vim
+      hash: null
+      name: gyoza.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/autoload/vimrc/incsearch.vim
+      hash: null
+      name: incsearch.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/autoload/vimrc/mru.vim
+      hash: null
+      name: mru.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/autoload/vimrc/pinsnip.vim
+      hash: null
+      name: pinsnip.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/autoload/vimrc/splash.vim
+      hash: null
+      name: splash.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/colors/domusaurea.vim
+      hash: null
+      name: domusaurea.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/ftplugin/help.vim
+      hash: null
+      name: help.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/ftplugin/qf.vim
+      hash: null
+      name: qf.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/ftplugin/vim.vim
+      hash: null
+      name: vim.vim
+    - url: >-
+        https://github.com/mityu/dotfiles/blob/master/dot_vim/runtime/ftplugin/vimspec.vim
+      hash: null
+      name: vimspec.vim
   part: null
   other: null
