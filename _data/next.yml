@@ -1,5 +1,5 @@
-- id: 496
-  date: 2022-01-01 23:00
+- id: 497
+  date: 2022-01-08 23:00
   author:
     name: mityu
     url: https://github.com/mityu
@@ -60,5 +60,5 @@
         https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/vimspec.vim
       hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
       name: vimspec.vim
-  part: 中編
+  part: 後編
   other: null
