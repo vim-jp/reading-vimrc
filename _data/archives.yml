@@ -17471,3 +17471,74 @@
     - tsuyoshicho
     - yuki-yano
   log: https://gitter.im/vim-jp/reading-vimrc?at=61c723f49a33545406efd40e
+- id: 496
+  date: 2022-01-01 23:00
+  author:
+    name: mityu
+    url: https://github.com/mityu
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/vimrc
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/vimrc
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: vimrc.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: charjump.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/charjump.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/charjump.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: filore.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/filore.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/filore.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: gyoza.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/gyoza.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/gyoza.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: incsearch.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/incsearch.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/incsearch.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: mru.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/mru.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/mru.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: pinsnip.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/pinsnip.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/pinsnip.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: splash.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/splash.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/splash.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: domusaurea.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/colors/domusaurea.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/colors/domusaurea.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: help.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/help.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: qf.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/qf.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/qf.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: vim.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/vim.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+    - name: vimspec.vim
+      url: https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/vimspec.vim
+      raw_url: https://raw.githubusercontent.com/mityu/dotfiles/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/vimspec.vim
+      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+  part: 中編
+  other: null
+  members:
+    - 4513ECHO
+    - kuuote
+    - mityu
+    - rbtnn
+    - thinca
+  log: https://gitter.im/vim-jp/reading-vimrc?at=61d05e626d9ba233289dedac
