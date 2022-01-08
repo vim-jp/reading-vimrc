@@ -1,64 +1,70 @@
-- id: 497
-  date: 2022-01-08 23:00
+- id: 498
+  date: 2022-01-15 23:00
   author:
-    name: mityu
-    url: https://github.com/mityu
+    name: tsuyoshicho
+    url: https://github.com/tsuyoshicho
   vimrcs:
+    - url: https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vimrc
+      hash: null
+      name: .vimrc
+    - url: https://github.com/tsuyoshicho/vimrc-reading/blob/master/.gvimrc
+      hash: null
+      name: .gvimrc
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/vimrc
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: vimrc
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/colorscheme.toml
+      hash: null
+      name: colorscheme.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: vimrc.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/dein.toml
+      hash: null
+      name: dein.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/charjump.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: charjump.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/dein_lazy.toml
+      hash: null
+      name: dein_lazy.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/filore.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: filore.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/denops.toml
+      hash: null
+      name: denops.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/gyoza.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: gyoza.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/nvim.toml
+      hash: null
+      name: nvim.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/incsearch.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: incsearch.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/nvim_lazy.toml
+      hash: null
+      name: nvim_lazy.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/mru.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: mru.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/vim.toml
+      hash: null
+      name: vim.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/pinsnip.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: pinsnip.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/vim_lazy.toml
+      hash: null
+      name: vim_lazy.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/autoload/vimrc/splash.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: splash.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/rc/vital.toml
+      hash: null
+      name: vital.toml
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/colors/domusaurea.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: domusaurea.vim
-    - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/help.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/after/ftplugin/help.vim
+      hash: null
       name: help.vim
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/qf.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/after/ftplugin/qf.vim
+      hash: null
       name: qf.vim
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/vim.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: vim.vim
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/after/ftplugin/typescript.vim
+      hash: null
+      name: typescript.vim
     - url: >-
-        https://github.com/mityu/dotfiles/blob/f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9/dot_vim/runtime/ftplugin/vimspec.vim
-      hash: f5cb5f9a92f07a8a5ac6cd0ae46381a07549dae9
-      name: vimspec.vim
-  part: 後編
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/after/syntax/json.vim
+      hash: null
+      name: json.vim
+    - url: >-
+        https://github.com/tsuyoshicho/vimrc-reading/blob/master/.vim/after/syntax/markdown.vim
+      hash: null
+      name: markdown.vim
+  part: null
   other: null
