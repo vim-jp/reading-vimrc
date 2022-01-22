@@ -1,5 +1,5 @@
-- id: 499
-  date: 2022-01-22 23:00
+- id: 500
+  date: 2022-01-29 23:00
   author:
     name: tsuyoshicho
     url: https://github.com/tsuyoshicho
@@ -68,5 +68,5 @@
         https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/syntax/markdown.vim
       hash: 4037e59bdfaad9063c859e5fe724579623ef7836
       name: markdown.vim
-  part: 中編
+  part: 後編
   other: null
