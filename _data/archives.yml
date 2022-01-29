@@ -17772,3 +17772,81 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=61ec0de29a335454063664a8
+- id: 500
+  date: 2022-01-29 23:00
+  author:
+    name: tsuyoshicho
+    url: https://github.com/tsuyoshicho
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vimrc
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vimrc
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: .gvimrc
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.gvimrc
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.gvimrc
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: colorscheme.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/colorscheme.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/colorscheme.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: dein.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/dein.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/dein.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: dein_lazy.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/dein_lazy.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/dein_lazy.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: denops.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/denops.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/denops.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: nvim.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/nvim.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/nvim.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: nvim_lazy.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/nvim_lazy.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/nvim_lazy.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: vim.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/vim.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/vim.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: vim_lazy.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/vim_lazy.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/vim_lazy.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: vital.toml
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/vital.toml
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/rc/vital.toml
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: help.vim
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/ftplugin/help.vim
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: qf.vim
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/ftplugin/qf.vim
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/ftplugin/qf.vim
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: typescript.vim
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/ftplugin/typescript.vim
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/ftplugin/typescript.vim
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: json.vim
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/syntax/json.vim
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/syntax/json.vim
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+    - name: markdown.vim
+      url: https://github.com/tsuyoshicho/vimrc-reading/blob/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/syntax/markdown.vim
+      raw_url: https://raw.githubusercontent.com/tsuyoshicho/vimrc-reading/4037e59bdfaad9063c859e5fe724579623ef7836/.vim/after/syntax/markdown.vim
+      hash: 4037e59bdfaad9063c859e5fe724579623ef7836
+  part: 後編
+  other: null
+  members:
+    - 4513ECHO
+    - kuuote
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=61f548b7f5a39478002c41c8
