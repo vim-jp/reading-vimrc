@@ -1,11 +1,164 @@
-- id: 501
-  date: 2022-02-05 23:00
+- id: 502
+  date: 2022-02-12 23:00
   author:
-    name: pesblog
-    url: https://github.com/pesblog
+    name: 4513ECHO
+    url: https://github.com/4513ECHO
   vimrcs:
-    - url: https://github.com/pesblog/dots-base/blob/master/home/.vimrc
+    - url: https://github.com/4513ECHO/dotfiles/blob/main/config/vim/vimrc
       hash: null
-      name: .vimrc
+      name: vimrc
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/after/ftplugin/help.vim
+      hash: null
+      name: help.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/after/syntax/diff.vim
+      hash: null
+      name: diff.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/after/syntax/json.vim
+      hash: null
+      name: json.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/after/syntax/python.vim
+      hash: null
+      name: python.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/after/syntax/vim.vim
+      hash: null
+      name: vim.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/autoload/lightline/colorscheme/mini.vim
+      hash: null
+      name: mini.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/autoload/lightsout.vim
+      hash: null
+      name: lightsout.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/autoload/user.vim
+      hash: null
+      name: user.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/autoload/user/colorscheme.vim
+      hash: null
+      name: colorscheme.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/autoload/user/ddc.vim
+      hash: null
+      name: ddc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/autoload/user/lightline.vim
+      hash: null
+      name: lightline.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/colors/.gitkeep
+      hash: null
+      name: .gitkeep
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/colorscheme.toml
+      hash: null
+      name: colorscheme.toml
+    - url: https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/ddc.toml
+      hash: null
+      name: ddc.toml
+    - url: https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/ddu.toml
+      hash: null
+      name: ddu.toml
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/ftplugin.toml
+      hash: null
+      name: ftplugin.toml
+    - url: https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/init.toml
+      hash: null
+      name: init.toml
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/plugin.toml
+      hash: null
+      name: plugin.toml
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/settings/ddc.vim
+      hash: null
+      name: ddc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/settings/lexima.vim
+      hash: null
+      name: lexima.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/settings/skkeleton.vim
+      hash: null
+      name: skkeleton.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/settings/submode.vim
+      hash: null
+      name: submode.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/settings/vim-lsp-settings.json
+      hash: null
+      name: vim-lsp-settings.json
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/settings/vim-lsp.vim
+      hash: null
+      name: vim-lsp.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/dein/textobj.toml
+      hash: null
+      name: textobj.toml
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/ftdetect/vimrc.vim
+      hash: null
+      name: vimrc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/rc/000_init.rc.vim
+      hash: null
+      name: 000_init.rc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/rc/100_dein.rc.vim
+      hash: null
+      name: 100_dein.rc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/rc/200_keymap.rc.vim
+      hash: null
+      name: 200_keymap.rc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/rc/300_options.rc.vim
+      hash: null
+      name: 300_options.rc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/snippets/_highlight_test.json
+      hash: null
+      name: _highlight_test.json
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/snippets/help.json
+      hash: null
+      name: help.json
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/snippets/json.json
+      hash: null
+      name: json.json
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/snippets/toml.json
+      hash: null
+      name: toml.json
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/snippets/vim.json
+      hash: null
+      name: vim.json
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/syntax/curlrc.vim
+      hash: null
+      name: curlrc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/syntax/gitignore.vim
+      hash: null
+      name: gitignore.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/syntax/grammar.vim
+      hash: null
+      name: grammar.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/vim/syntax/robots-txt.vim
+      hash: null
+      name: robots-txt.vim
   part: null
   other: null
