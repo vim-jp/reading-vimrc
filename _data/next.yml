@@ -1,11 +1,11 @@
-- id: 501
-  date: 2022-02-05 23:00
+- id: 502
+  date: 2022-02-12 23:00
   author:
     name: pesblog
-    url: https://gist.github.com/pesblog
+    url: https://github.com/pesblog
   vimrcs:
-    - url: https://gist.github.com/pesblog/6230874
+    - url: https://github.com/pesblog/dots-base/blob/master/home/.vimrc
       hash: null
-      name: '6230874'
+      name: .vimrc
   part: null
   other: null
