@@ -1,5 +1,5 @@
-- id: 503
-  date: 2022-02-19 23:00
+- id: 504
+  date: 2022-02-26 23:00
   author:
     name: 4513ECHO
     url: https://github.com/4513ECHO
@@ -164,5 +164,5 @@
         https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/robots-txt.vim
       hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
       name: robots-txt.vim
-  part: 中編
+  part: 後編
   other: null
