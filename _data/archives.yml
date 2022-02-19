@@ -18044,3 +18044,179 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=6207bd631fe6ba5a97207642
+- id: 503
+  date: 2022-02-19 23:00
+  author:
+    name: 4513ECHO
+    url: https://github.com/4513ECHO
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/vimrc
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/vimrc
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: help.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/ftplugin/help.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: diff.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/diff.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/diff.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: json.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/json.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/json.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: python.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/python.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/python.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: vim.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/vim.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/vim.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: mini.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/lightline/colorscheme/mini.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/lightline/colorscheme/mini.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: lightsout.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/lightsout.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/lightsout.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: user.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: colorscheme.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/colorscheme.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/colorscheme.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: ddc.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/ddc.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/ddc.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: lightline.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/lightline.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/lightline.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: .gitkeep
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/colors/.gitkeep
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/colors/.gitkeep
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: colorscheme.toml
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/colorscheme.toml
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/colorscheme.toml
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: ddc.toml
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ddc.toml
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ddc.toml
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: ddu.toml
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ddu.toml
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ddu.toml
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: ftplugin.toml
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ftplugin.toml
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ftplugin.toml
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: init.toml
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/init.toml
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/init.toml
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: plugin.toml
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/plugin.toml
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/plugin.toml
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: ddc.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/ddc.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/ddc.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: lexima.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/lexima.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/lexima.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: skkeleton.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/skkeleton.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/skkeleton.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: submode.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/submode.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/submode.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: vim-lsp-settings.json
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/vim-lsp-settings.json
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/vim-lsp-settings.json
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: vim-lsp.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/vim-lsp.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/vim-lsp.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: textobj.toml
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/textobj.toml
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/textobj.toml
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: vimrc.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/ftdetect/vimrc.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/ftdetect/vimrc.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: 000_init.rc.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/000_init.rc.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/000_init.rc.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: 100_dein.rc.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/100_dein.rc.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/100_dein.rc.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: 200_keymap.rc.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/200_keymap.rc.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/200_keymap.rc.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: 300_options.rc.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/300_options.rc.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/300_options.rc.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: _highlight_test.json
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/_highlight_test.json
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/_highlight_test.json
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: help.json
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/help.json
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/help.json
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: json.json
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/json.json
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/json.json
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: toml.json
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/toml.json
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/toml.json
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: vim.json
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/vim.json
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/vim.json
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: curlrc.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/curlrc.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/curlrc.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: gitignore.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/gitignore.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/gitignore.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: grammar.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/grammar.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/grammar.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+    - name: robots-txt.vim
+      url: https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/robots-txt.vim
+      raw_url: https://raw.githubusercontent.com/4513ECHO/dotfiles/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/robots-txt.vim
+      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+  part: 中編
+  other: null
+  members:
+    - 4513ECHO
+    - hokorobi
+    - kuuote
+    - mityu
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=6210f7df0909252318e90af7
