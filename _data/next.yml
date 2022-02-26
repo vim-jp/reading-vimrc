@@ -1,168 +1,55 @@
-- id: 504
-  date: 2022-02-26 23:00
+- id: 505
+  date: 2022-03-05 23:00
   author:
-    name: 4513ECHO
-    url: https://github.com/4513ECHO
+    name: ansanloms
+    url: https://github.com/ansanloms
   vimrcs:
+    - url: https://github.com/ansanloms/dotfiles/blob/main/.vimrc
+      hash: null
+      name: .vimrc
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/vimrc
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: vimrc
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/bitbucket.vim
+      hash: null
+      name: bitbucket.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/ftplugin/help.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: help.vim
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/ctags.vim
+      hash: null
+      name: ctags.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/diff.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: diff.vim
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/filemanager.vim
+      hash: null
+      name: filemanager.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/json.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: json.vim
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/hosts.vim
+      hash: null
+      name: hosts.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/python.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: python.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/after/syntax/vim.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: vim.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/lightline/colorscheme/mini.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: mini.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/lightsout.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: lightsout.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: user.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/colorscheme.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: colorscheme.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/ddc.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: ddc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/autoload/user/lightline.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/lightline.vim
+      hash: null
       name: lightline.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/colors/.gitkeep
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: .gitkeep
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/memo.vim
+      hash: null
+      name: memo.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/colorscheme.toml
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: colorscheme.toml
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/phpstorm.vim
+      hash: null
+      name: phpstorm.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ddc.toml
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: ddc.toml
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/statusline.vim
+      hash: null
+      name: statusline.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ddu.toml
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: ddu.toml
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/tabline.vim
+      hash: null
+      name: tabline.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/ftplugin.toml
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: ftplugin.toml
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/terminal.vim
+      hash: null
+      name: terminal.vim
     - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/init.toml
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: init.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/plugin.toml
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: plugin.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/ddc.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: ddc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/lexima.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: lexima.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/skkeleton.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: skkeleton.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/submode.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: submode.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/vim-lsp-settings.json
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: vim-lsp-settings.json
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/settings/vim-lsp.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: vim-lsp.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/dein/textobj.toml
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: textobj.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/ftdetect/vimrc.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: vimrc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/000_init.rc.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: 000_init.rc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/100_dein.rc.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: 100_dein.rc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/200_keymap.rc.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: 200_keymap.rc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/rc/300_options.rc.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: 300_options.rc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/_highlight_test.json
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: _highlight_test.json
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/help.json
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: help.json
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/json.json
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: json.json
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/toml.json
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: toml.json
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/snippets/vim.json
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: vim.json
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/curlrc.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: curlrc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/gitignore.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: gitignore.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/grammar.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: grammar.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/515d0026cc17bdbc6d693d61bca41a06c497a559/config/vim/syntax/robots-txt.vim
-      hash: 515d0026cc17bdbc6d693d61bca41a06c497a559
-      name: robots-txt.vim
-  part: 後編
+        https://github.com/ansanloms/dotfiles/blob/main/.vim/autoload/ansanloms/vscode.vim
+      hash: null
+      name: vscode.vim
+  part: 前編
   other: null
