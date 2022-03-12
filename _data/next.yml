@@ -1,56 +1,41 @@
-- id: 506
-  date: 2022-03-12 23:00
+- id: 507
+  date: 2022-03-19 23:00
   author:
-    name: ansanloms
-    url: https://github.com/ansanloms
+    name: romgrk
+    url: https://github.com/romgrk
   vimrcs:
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vimrc
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: .vimrc
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/bitbucket.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: bitbucket.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/ctags.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: ctags.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/filemanager.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: filemanager.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/hosts.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: hosts.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/lightline.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: lightline.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/memo.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: memo.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/phpstorm.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: phpstorm.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/statusline.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: statusline.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/tabline.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: tabline.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/terminal.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: terminal.vim
-    - url: >-
-        https://github.com/ansanloms/dotfiles/blob/e405d6869414428991be6e32922b9d97caa352c5/.vim/autoload/ansanloms/vscode.vim
-      hash: e405d6869414428991be6e32922b9d97caa352c5
-      name: vscode.vim
-  part: 後編
+    - url: https://github.com/romgrk/nvim/blob/master/init.vim
+      hash: null
+      name: init.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/settings.vim
+      hash: null
+      name: settings.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/plugins.vim
+      hash: null
+      name: plugins.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/function.vim
+      hash: null
+      name: function.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/events.vim
+      hash: null
+      name: events.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/autocmd.vim
+      hash: null
+      name: autocmd.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/commands.vim
+      hash: null
+      name: commands.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/colors.vim
+      hash: null
+      name: colors.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/abbrev.vim
+      hash: null
+      name: abbrev.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/highlight.vim
+      hash: null
+      name: highlight.vim
+    - url: https://github.com/romgrk/nvim/blob/master/rc/keymap.vim
+      hash: null
+      name: keymap.vim
+  part: 前編
   other: null
