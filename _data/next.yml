@@ -1,41 +1,52 @@
-- id: 507
-  date: 2022-03-19 20:00
+- id: 508
+  date: 2022-03-26 23:00
   author:
     name: romgrk
     url: https://github.com/romgrk
   vimrcs:
-    - url: https://github.com/romgrk/nvim/blob/master/init.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/init.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: init.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/settings.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/settings.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: settings.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/plugins.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/plugins.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: plugins.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/function.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/function.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: function.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/events.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/events.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: events.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/autocmd.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/autocmd.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: autocmd.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/commands.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/commands.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: commands.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/colors.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/colors.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: colors.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/abbrev.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/abbrev.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: abbrev.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/highlight.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/highlight.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: highlight.vim
-    - url: https://github.com/romgrk/nvim/blob/master/rc/keymap.vim
-      hash: null
+    - url: >-
+        https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/keymap.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
       name: keymap.vim
-  part: 前編
+  part: 中編
   other: null
