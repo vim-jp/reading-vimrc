@@ -18584,3 +18584,61 @@
     - torish14
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=6235b7b18db2b95f0a74f21b
+- id: 508
+  date: 2022-03-26 23:00
+  author:
+    name: romgrk
+    url: https://github.com/romgrk
+  vimrcs:
+    - name: init.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/init.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/init.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: settings.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/settings.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/settings.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: plugins.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/plugins.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/plugins.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: function.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/function.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/function.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: events.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/events.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/events.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: autocmd.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/autocmd.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/autocmd.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: commands.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/commands.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/commands.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: colors.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/colors.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/colors.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: abbrev.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/abbrev.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/abbrev.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: highlight.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/highlight.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/highlight.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+    - name: keymap.vim
+      url: https://github.com/romgrk/nvim/blob/ba305c528f99ae9866b961d870c2442e7ea322de/rc/keymap.vim
+      raw_url: https://raw.githubusercontent.com/romgrk/nvim/ba305c528f99ae9866b961d870c2442e7ea322de/rc/keymap.vim
+      hash: ba305c528f99ae9866b961d870c2442e7ea322de
+  part: 中編
+  other: null
+  members:
+    - 4513ECHO
+    - kuuote
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=623ef23ed1b64840db85241e
