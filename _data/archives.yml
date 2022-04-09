@@ -18701,3 +18701,20 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=624856eb9a09ab24f3d36b51
+- id: 510
+  date: 2022-04-09 23:00
+  author:
+    name: nmacatangay
+    url: https://github.com/nmacatangay
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/nmacatangay/dotfiles/blob/de218bf367d23b858dc7d7b7ac60f2a2e500fb23/.vimrc
+      raw_url: https://raw.githubusercontent.com/nmacatangay/dotfiles/de218bf367d23b858dc7d7b7ac60f2a2e500fb23/.vimrc
+      hash: de218bf367d23b858dc7d7b7ac60f2a2e500fb23
+  part: null
+  other: null
+  members:
+    - kuuote
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=62519224f43b6d783f40aeea
