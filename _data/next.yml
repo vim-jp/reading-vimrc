@@ -1,11 +1,14 @@
-- id: 511
-  date: 2022-04-16 23:00
+- id: 512
+  date: 2022-04-23 23:00
   author:
-    name: jarednorman
-    url: https://github.com/jarednorman
+    name: atusy
+    url: https://github.com/atusy
   vimrcs:
-    - url: https://github.com/jarednorman/conf/blob/master/vim/.vimrc
+    - url: https://github.com/atusy/dotfiles/blob/main/dot_config/nvim/init.lua
       hash: null
-      name: .vimrc
+      name: init.lua
+    - url: https://github.com/atusy/dotfiles/blob/main/dot_config/nvim/ddc.vim
+      hash: null
+      name: ddc.vim
   part: null
   other: null
