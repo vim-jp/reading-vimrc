@@ -18718,3 +18718,21 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=62519224f43b6d783f40aeea
+- id: 511
+  date: 2022-04-16 23:00
+  author:
+    name: jarednorman
+    url: https://github.com/jarednorman
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/jarednorman/conf/blob/8575e1c76dcb366a883186b5675f0d595d7bb281/vim/.vimrc
+      raw_url: https://raw.githubusercontent.com/jarednorman/conf/8575e1c76dcb366a883186b5675f0d595d7bb281/vim/.vimrc
+      hash: 8575e1c76dcb366a883186b5675f0d595d7bb281
+  part: null
+  other: null
+  members:
+    - atusy
+    - kuuote
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=625acbfac61ef0178ec5413e
