@@ -18736,3 +18736,26 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=625acbfac61ef0178ec5413e
+- id: 512
+  date: 2022-04-23 23:00
+  author:
+    name: atusy
+    url: https://github.com/atusy
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/atusy/dotfiles/blob/48fcbaedfb81634eaf4f8a41222abe35cf67a7e8/dot_config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/atusy/dotfiles/48fcbaedfb81634eaf4f8a41222abe35cf67a7e8/dot_config/nvim/init.lua
+      hash: 48fcbaedfb81634eaf4f8a41222abe35cf67a7e8
+    - name: ddc.vim
+      url: https://github.com/atusy/dotfiles/blob/48fcbaedfb81634eaf4f8a41222abe35cf67a7e8/dot_config/nvim/ddc.vim
+      raw_url: https://raw.githubusercontent.com/atusy/dotfiles/48fcbaedfb81634eaf4f8a41222abe35cf67a7e8/dot_config/nvim/ddc.vim
+      hash: 48fcbaedfb81634eaf4f8a41222abe35cf67a7e8
+  part: null
+  other: null
+  members:
+    - atusy
+    - kuuote
+    - ryota2357
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=62640677d1b64840dbcbeabf
