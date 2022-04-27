@@ -1,14 +1,47 @@
-- id: 512
-  date: 2022-04-23 23:00
+- id: 513
+  date: 2022-04-30 23:00
   author:
-    name: atusy
-    url: https://github.com/atusy
+    name: akinsho
+    url: https://github.com/akinsho
   vimrcs:
-    - url: https://github.com/atusy/dotfiles/blob/main/dot_config/nvim/init.lua
+    - url: https://github.com/akinsho/dotfiles/blob/main/.config/nvim/init.lua
       hash: null
       name: init.lua
-    - url: https://github.com/atusy/dotfiles/blob/main/dot_config/nvim/ddc.vim
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/external.lua
       hash: null
-      name: ddc.vim
-  part: null
+      name: external.lua
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/globals.lua
+      hash: null
+      name: globals.lua
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/highlights.lua
+      hash: null
+      name: highlights.lua
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/settings.lua
+      hash: null
+      name: settings.lua
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/statusline.lua
+      hash: null
+      name: statusline.lua
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/styles.lua
+      hash: null
+      name: styles.lua
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/utils/mappings.lua
+      hash: null
+      name: mappings.lua
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/utils/plugins.lua
+      hash: null
+      name: plugins.lua
+    - url: >-
+        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/utils/statusline.lua
+      hash: null
+      name: statusline.lua
+  part: 前編
   other: null
