@@ -1,47 +1,48 @@
-- id: 513
-  date: 2022-04-30 23:00
+- id: 514
+  date: 2022-05-07 23:00
   author:
     name: akinsho
     url: https://github.com/akinsho
   vimrcs:
-    - url: https://github.com/akinsho/dotfiles/blob/main/.config/nvim/init.lua
-      hash: null
+    - url: >-
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/init.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: init.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/external.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/external.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: external.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/globals.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/globals.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: globals.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/highlights.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/highlights.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: highlights.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/settings.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/settings.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: settings.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/statusline.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/statusline.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: statusline.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/styles.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/styles.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: styles.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/utils/mappings.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/utils/mappings.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: mappings.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/utils/plugins.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/utils/plugins.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: plugins.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/utils/statusline.lua
-      hash: null
+        https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/utils/statusline.lua
+      hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: statusline.lua
-  part: 前編
+  part: 中編
   other: null
