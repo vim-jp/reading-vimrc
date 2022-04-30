@@ -8,39 +8,39 @@
       hash: null
       name: init.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/external.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/external.lua
       hash: null
       name: external.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/globals.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/globals.lua
       hash: null
       name: globals.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/highlights.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/highlights.lua
       hash: null
       name: highlights.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/settings.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/settings.lua
       hash: null
       name: settings.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/statusline.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/statusline.lua
       hash: null
       name: statusline.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/styles.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/styles.lua
       hash: null
       name: styles.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/utils/mappings.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/utils/mappings.lua
       hash: null
       name: mappings.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/utils/plugins.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/utils/plugins.lua
       hash: null
       name: plugins.lua
     - url: >-
-        https://github.com/akinsho/dotfiles/tree/main/.config/nvim/lua/as/utils/statusline.lua
+        https://github.com/akinsho/dotfiles/blob/main/.config/nvim/lua/as/utils/statusline.lua
       hash: null
       name: statusline.lua
   part: 前編
