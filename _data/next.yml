@@ -1,5 +1,5 @@
-- id: 514
-  date: 2022-05-07 23:00
+- id: 515
+  date: 2022-05-14 23:00
   author:
     name: akinsho
     url: https://github.com/akinsho
@@ -44,5 +44,5 @@
         https://github.com/akinsho/dotfiles/blob/4dde1e4e80b7ac3207e113f34994afa06a12bb62/.config/nvim/lua/as/utils/statusline.lua
       hash: 4dde1e4e80b7ac3207e113f34994afa06a12bb62
       name: statusline.lua
-  part: 中編
+  part: 後編
   other: null
