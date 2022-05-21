@@ -1,11 +1,37 @@
-- id: 516
-  date: 2022-05-21 23:00
+- id: 517
+  date: 2022-05-28 23:00
   author:
-    name: jarednorman
-    url: https://github.com/jarednorman
+    name: Omochice
+    url: https://github.com/Omochice
   vimrcs:
-    - url: https://github.com/jarednorman/conf/blob/master/vim/.vimrc
+    - url: https://github.com/Omochice/dotfiles/blob/main/.vim/vimrc
       hash: null
-      name: .vimrc
-  part: null
+      name: vimrc
+    - url: https://github.com/Omochice/dotfiles/blob/main/.vim/fcitx.vim
+      hash: null
+      name: fcitx.vim
+    - url: https://github.com/Omochice/dotfiles/blob/main/.vim/rc/dein.toml
+      hash: null
+      name: dein.toml
+    - url: https://github.com/Omochice/dotfiles/blob/main/.vim/rc/dein_colors.toml
+      hash: null
+      name: dein_colors.toml
+    - url: https://github.com/Omochice/dotfiles/blob/main/.vim/rc/dein_denops.toml
+      hash: null
+      name: dein_denops.toml
+    - url: https://github.com/Omochice/dotfiles/blob/main/.vim/rc/dein_lazy.toml
+      hash: null
+      name: dein_lazy.toml
+    - url: https://github.com/Omochice/dotfiles/blob/main/.vim/rc/deinft.toml
+      hash: null
+      name: deinft.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/.vim/rc/dein_asyncomplete.toml
+      hash: null
+      name: dein_asyncomplete.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/.vim/mysettings/lexima.vim
+      hash: null
+      name: lexima.vim
+  part: 前編
   other: null
