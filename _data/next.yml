@@ -33,5 +33,11 @@
         https://github.com/Omochice/dotfiles/blob/main/.vim/mysettings/lexima.vim
       hash: null
       name: lexima.vim
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/vim/vimrc.core
+      hash: null
+      name: vimrc.core
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/init.vim
+      hash: null
+      name: init.vim
   part: 前編
   other: null
