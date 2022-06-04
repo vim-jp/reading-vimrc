@@ -19001,3 +19001,64 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=62922b5ddeea5616bbcd9163
+- id: 518
+  date: 2022-06-04 23:00
+  author:
+    name: Omochice
+    url: https://github.com/Omochice
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/vimrc
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/vimrc
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: fcitx.vim
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/fcitx.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/fcitx.vim
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: dein.toml
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein.toml
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: dein_colors.toml
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_colors.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_colors.toml
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: dein_denops.toml
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_denops.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_denops.toml
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: dein_lazy.toml
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_lazy.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_lazy.toml
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: deinft.toml
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/deinft.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/deinft.toml
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: dein_asyncomplete.toml
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_asyncomplete.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_asyncomplete.toml
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: lexima.vim
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/mysettings/lexima.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/mysettings/lexima.vim
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: vimrc.core
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/config/vim/vimrc.core
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/config/vim/vimrc.core
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - name: init.vim
+      url: https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/23778a3d0191e619cc9b46e79d294fb8cfae54c6/config/nvim/init.vim
+      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+  part: 中編
+  other: null
+  members:
+    - Omochice
+    - as-ml
+    - gw31415
+    - kuuote
+    - mattn
+    - mityu
+    - thinca
+  log: https://gitter.im/vim-jp/reading-vimrc?at=629b6570d126691416ce54f4
