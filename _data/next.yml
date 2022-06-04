@@ -1,5 +1,5 @@
-- id: 518
-  date: 2022-06-04 23:00
+- id: 519
+  date: 2022-06-11 23:00
   author:
     name: Omochice
     url: https://github.com/Omochice
@@ -48,5 +48,5 @@
         https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/config/nvim/init.vim
       hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
       name: init.vim
-  part: 中編
+  part: 後編
   other: null
