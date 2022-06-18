@@ -1,52 +1,52 @@
-- id: 519
-  date: 2022-06-11 23:00
+- id: 520
+  date: 2022-06-18 23:00
   author:
-    name: Omochice
-    url: https://github.com/Omochice
+    name: moreawamori
+    url: https://github.com/moreawamori
   vimrcs:
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/vimrc
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vimrc
+      hash: null
       name: vimrc
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/fcitx.vim
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: fcitx.vim
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein.toml
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: dein.toml
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_colors.toml
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: dein_colors.toml
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_denops.toml
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: dein_denops.toml
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_lazy.toml
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/option.rc.vim
+      hash: null
+      name: option.rc.vim
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/neovim.rc.vim
+      hash: null
+      name: neovim.rc.vim
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/mapping.rc.vim
+      hash: null
+      name: mapping.rc.vim
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/init.rc.vim
+      hash: null
+      name: init.rc.vim
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/dein_lazy.toml
+      hash: null
       name: dein_lazy.toml
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/dein_ft.toml
+      hash: null
+      name: dein_ft.toml
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/dein_ddc.toml
+      hash: null
+      name: dein_ddc.toml
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/dein.toml
+      hash: null
+      name: dein.toml
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/rc/dein.rc.vim
+      hash: null
+      name: dein.rc.vim
     - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/deinft.toml
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: deinft.toml
+        https://github.com/moreawamori/dotfiles/blob/main/vim/rc/plugins/denite.rc.vim
+      hash: null
+      name: denite.rc.vim
     - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/rc/dein_asyncomplete.toml
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: dein_asyncomplete.toml
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/.vim/mysettings/lexima.vim
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: lexima.vim
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/config/vim/vimrc.core
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: vimrc.core
-    - url: >-
-        https://github.com/Omochice/dotfiles/blob/23778a3d0191e619cc9b46e79d294fb8cfae54c6/config/nvim/init.vim
-      hash: 23778a3d0191e619cc9b46e79d294fb8cfae54c6
-      name: init.vim
-  part: 後編
+        https://github.com/moreawamori/dotfiles/blob/main/vim/rc/plugins/deoplete.rc.vim
+      hash: null
+      name: deoplete.rc.vim
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/snippets/cpp.snip
+      hash: null
+      name: cpp.snip
+    - url: https://github.com/moreawamori/dotfiles/blob/main/vim/snippets/dart.snip
+      hash: null
+      name: dart.snip
+  part: null
   other: null
