@@ -1,64 +1,107 @@
-- id: 521
-  date: 2022-06-25 23:00
+- id: 522
+  date: 2022-07-02 23:00
   author:
-    name: moreawamori
-    url: https://github.com/moreawamori
+    name: sainnhe
+    url: https://github.com/sainnhe
   vimrcs:
-    - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vimrc
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - url: https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/vimrc
+      hash: null
       name: vimrc
+    - url: https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/init.vim
+      hash: null
+      name: init.vim
+    - url: https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/base.vim
+      hash: null
+      name: base.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/option.rc.vim
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: option.rc.vim
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/envs.example.vim
+      hash: null
+      name: envs.example.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/neovim.rc.vim
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: neovim.rc.vim
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/settings.vim
+      hash: null
+      name: settings.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/mapping.rc.vim
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: mapping.rc.vim
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/mappings.vim
+      hash: null
+      name: mappings.vim
+    - url: https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/tasks.ini
+      hash: null
+      name: tasks.ini
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/init.rc.vim
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: init.rc.vim
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/coc-settings.json
+      hash: null
+      name: coc-settings.json
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_lazy.toml
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: dein_lazy.toml
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/features/index.vim
+      hash: null
+      name: index.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_ft.toml
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: dein_ft.toml
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/features/full.vim
+      hash: null
+      name: full.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_ddc.toml
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: dein_ddc.toml
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/features/builtins.vim
+      hash: null
+      name: builtins.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein.toml
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: dein.toml
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/features/light.vim
+      hash: null
+      name: light.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein.rc.vim
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: dein.rc.vim
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/autoload/custom/colorscheme.vim
+      hash: null
+      name: colorscheme.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/plugins/denite.rc.vim
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: denite.rc.vim
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/autoload/custom/explorer.vim
+      hash: null
+      name: explorer.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/plugins/deoplete.rc.vim
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: deoplete.rc.vim
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/autoload/custom/lightline.vim
+      hash: null
+      name: lightline.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/snippets/cpp.snip
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: cpp.snip
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/autoload/custom/mode.vim
+      hash: null
+      name: mode.vim
     - url: >-
-        https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/snippets/dart.snip
-      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
-      name: dart.snip
-  part: 後編
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/autoload/custom/plug.vim
+      hash: null
+      name: plug.vim
+    - url: >-
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/autoload/custom/textobj.vim
+      hash: null
+      name: textobj.vim
+    - url: >-
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/autoload/custom/utils.vim
+      hash: null
+      name: utils.vim
+    - url: >-
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/doc/mydoc.txt
+      hash: null
+      name: mydoc.txt
+    - url: https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/doc/tags
+      hash: null
+      name: tags
+    - url: >-
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/snippets/c.snippets
+      hash: null
+      name: c.snippets
+    - url: >-
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/snippets/markdown.snippets
+      hash: null
+      name: markdown.snippets
+    - url: >-
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/snippets/octave.snippets
+      hash: null
+      name: octave.snippets
+    - url: >-
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/snippets/python.snippets
+      hash: null
+      name: python.snippets
+    - url: >-
+        https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/snippets/rust.snippets
+      hash: null
+      name: rust.snippets
+  part: 前編
   other: null
