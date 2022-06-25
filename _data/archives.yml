@@ -19194,3 +19194,72 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=62addb16d3c8894f718ed82a
+- id: 521
+  date: 2022-06-25 23:00
+  author:
+    name: moreawamori
+    url: https://github.com/moreawamori
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vimrc
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vimrc
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: option.rc.vim
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/option.rc.vim
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/option.rc.vim
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: neovim.rc.vim
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/neovim.rc.vim
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/neovim.rc.vim
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: mapping.rc.vim
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/mapping.rc.vim
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/mapping.rc.vim
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: init.rc.vim
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/init.rc.vim
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/init.rc.vim
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: dein_lazy.toml
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_lazy.toml
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_lazy.toml
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: dein_ft.toml
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_ft.toml
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_ft.toml
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: dein_ddc.toml
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_ddc.toml
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein_ddc.toml
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: dein.toml
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein.toml
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein.toml
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: dein.rc.vim
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein.rc.vim
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/dein.rc.vim
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: denite.rc.vim
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/plugins/denite.rc.vim
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/plugins/denite.rc.vim
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: deoplete.rc.vim
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/plugins/deoplete.rc.vim
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/rc/plugins/deoplete.rc.vim
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: cpp.snip
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/snippets/cpp.snip
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/snippets/cpp.snip
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+    - name: dart.snip
+      url: https://github.com/moreawamori/dotfiles/blob/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/snippets/dart.snip
+      raw_url: https://raw.githubusercontent.com/moreawamori/dotfiles/dda58fefdae1d4e049b6577628add6d9b1d2601d/vim/snippets/dart.snip
+      hash: dda58fefdae1d4e049b6577628add6d9b1d2601d
+  part: 後編
+  other: null
+  members:
+    - Omochice
+    - as-ml
+    - thinca
+  log: https://gitter.im/vim-jp/reading-vimrc?at=62b714e2fe909e3ec7f67809
