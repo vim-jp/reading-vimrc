@@ -80,9 +80,6 @@
         https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/doc/mydoc.txt
       hash: null
       name: mydoc.txt
-    - url: https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/doc/tags
-      hash: null
-      name: tags
     - url: >-
         https://github.com/sainnhe/dotfiles/blob/master/.config/nvim/snippets/c.snippets
       hash: null
