@@ -19263,3 +19263,116 @@
     - as-ml
     - thinca
   log: https://gitter.im/vim-jp/reading-vimrc?at=62b714e2fe909e3ec7f67809
+- id: 522
+  date: 2022-07-02 23:00
+  author:
+    name: sainnhe
+    url: https://github.com/sainnhe
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/vimrc
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/vimrc
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: init.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/init.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: base.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/base.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/base.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: envs.example.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/envs.example.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/envs.example.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: settings.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/settings.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/settings.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: mappings.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/mappings.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/mappings.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: tasks.ini
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/tasks.ini
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/tasks.ini
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: coc-settings.json
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/coc-settings.json
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: index.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/features/index.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/features/index.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: full.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/features/full.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/features/full.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: builtins.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/features/builtins.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/features/builtins.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: light.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/features/light.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/features/light.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: colorscheme.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/colorscheme.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/colorscheme.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: explorer.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/explorer.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/explorer.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: lightline.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/lightline.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/lightline.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: mode.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/mode.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/mode.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: plug.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/plug.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/plug.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: textobj.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/textobj.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/textobj.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: utils.vim
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/utils.vim
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/autoload/custom/utils.vim
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: mydoc.txt
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/doc/mydoc.txt
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/doc/mydoc.txt
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: c.snippets
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/c.snippets
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/c.snippets
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: markdown.snippets
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/markdown.snippets
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/markdown.snippets
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: octave.snippets
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/octave.snippets
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/octave.snippets
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: python.snippets
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/python.snippets
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/python.snippets
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+    - name: rust.snippets
+      url: https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/rust.snippets
+      raw_url: https://raw.githubusercontent.com/sainnhe/dotfiles/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/rust.snippets
+      hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - as-ml
+    - thinca
+  log: https://gitter.im/vim-jp/reading-vimrc?at=62c04f779f29d42bede49bc2
