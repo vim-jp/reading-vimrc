@@ -1,5 +1,5 @@
-- id: 523
-  date: 2022-07-09 23:00
+- id: 524
+  date: 2022-07-16 23:00
   author:
     name: sainnhe
     url: https://github.com/sainnhe
@@ -104,5 +104,5 @@
         https://github.com/sainnhe/dotfiles/blob/290eacf9294c22dc2fa2bf047aa5e150d6befcfe/.config/nvim/snippets/rust.snippets
       hash: 290eacf9294c22dc2fa2bf047aa5e150d6befcfe
       name: rust.snippets
-  part: 中編
+  part: 後編
   other: null
