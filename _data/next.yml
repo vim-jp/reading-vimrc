@@ -1,171 +1,172 @@
-- id: 525
-  date: 2022-07-23 23:00
+- id: 526
+  date: 2022-07-30 23:00
   author:
     name: lewis6991
     url: https://github.com/lewis6991
   vimrcs:
-    - url: https://github.com/lewis6991/dotfiles/blob/main/config/nvim/init.lua
-      hash: null
+    - url: >-
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/init.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: init.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/Jenkinsfile.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/Jenkinsfile.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: Jenkinsfile.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/json.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/json.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: json.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/lua.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/lua.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: lua.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/make.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/make.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: make.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/man.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/man.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: man.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/markdown.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/markdown.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: markdown.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/qf.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/qf.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: qf.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/sbt.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/sbt.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: sbt.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/scala.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/scala.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: scala.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/systemverilog.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/systemverilog.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: systemverilog.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/teal.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/teal.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: teal.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/yaml.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/yaml.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: yaml.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/ftplugin/zsh.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/ftplugin/zsh.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: zsh.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/syntax/c.vim
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/syntax/c.vim
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: c.vim
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/syntax/make.vim
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/syntax/make.vim
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: make.vim
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/syntax/markdown.vim
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/syntax/markdown.vim
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: markdown.vim
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/after/syntax/tcl.vim
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/after/syntax/tcl.vim
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: tcl.vim
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/ftdetect/filetypes.vim
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/ftdetect/filetypes.vim
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: filetypes.vim
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/ftplugin/fugitiveblame.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/ftplugin/fugitiveblame.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: fugitiveblame.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/ftplugin/groovy.vim
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/ftplugin/groovy.vim
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: groovy.vim
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/ftplugin/log.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/ftplugin/log.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: log.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/autocmd.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/autocmd.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: autocmd.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/cmp.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/cmp.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: cmp.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/cmp_gh.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/cmp_gh.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: cmp_gh.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/cmp_gh.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/cmp_gh.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: cmp_gh.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/gitsigns.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/gitsigns.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: gitsigns.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/init.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/init.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: init.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/jump.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/jump.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: jump.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/lsp.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/lsp.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: lsp.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/notify.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/notify.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: notify.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/null-ls.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/null-ls.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: null-ls.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/packer.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/packer.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: packer.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/plugins.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/plugins.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: plugins.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/status.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/status.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: status.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/tabline.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/tabline.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: tabline.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/telescope.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/telescope.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: telescope.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/lua/lewis6991/treesitter.lua
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/lua/lewis6991/treesitter.lua
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: treesitter.lua
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/plugin/terminal.vim
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/plugin/terminal.vim
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: terminal.vim
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/queries/lua/injections.scm
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/queries/lua/injections.scm
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: injections.scm
     - url: >-
-        https://github.com/lewis6991/dotfiles/blob/main/config/nvim/spell/en.utf-8.add
-      hash: null
+        https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/spell/en.utf-8.add
+      hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: en.utf-8.add
-  part: 前編
+  part: 中編
   other: null
