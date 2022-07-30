@@ -1,5 +1,5 @@
-- id: 526
-  date: 2022-07-30 23:00
+- id: 527
+  date: 2022-08-06 23:00
   author:
     name: lewis6991
     url: https://github.com/lewis6991
@@ -168,5 +168,5 @@
         https://github.com/lewis6991/dotfiles/blob/c606ab6b963a57793a818dddaf8b5cae2c0dc1f4/config/nvim/spell/en.utf-8.add
       hash: c606ab6b963a57793a818dddaf8b5cae2c0dc1f4
       name: en.utf-8.add
-  part: 中編
+  part: 後編
   other: null
