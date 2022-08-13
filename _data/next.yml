@@ -1,17 +1,20 @@
-- id: 528
-  date: 2022-08-13 23:00
+- id: 529
+  date: 2022-08-20 23:00
   author:
     name: utubo
     url: https://github.com/utubo
   vimrcs:
-    - url: https://github.com/utubo/dotfiles/blob/master/.vimrc.src.vim
-      hash: null
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/.vimrc.src.vim
+      hash: f9fc9290ec7ec38f387d8e0dae9d9565b8283643
       name: .vimrc.src.vim
-    - url: https://github.com/utubo/dotfiles/blob/master/.gvimrc
-      hash: null
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/.gvimrc
+      hash: f9fc9290ec7ec38f387d8e0dae9d9565b8283643
       name: .gvimrc
-    - url: https://github.com/utubo/dotfiles/blob/master/test/vimrc.test.vim
-      hash: null
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/test/vimrc.test.vim
+      hash: f9fc9290ec7ec38f387d8e0dae9d9565b8283643
       name: vimrc.test.vim
-  part: 前編
+  part: 中編
   other: null
