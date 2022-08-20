@@ -20168,3 +20168,31 @@
     - uhooi
     - utubo
   log: https://gitter.im/vim-jp/reading-vimrc?at=62f7ae666837563d1c1aa881
+- id: 529
+  date: 2022-08-20 23:00
+  author:
+    name: utubo
+    url: https://github.com/utubo
+  vimrcs:
+    - name: .vimrc.src.vim
+      url: https://github.com/utubo/dotfiles/blob/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/.vimrc.src.vim
+      raw_url: https://raw.githubusercontent.com/utubo/dotfiles/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/.vimrc.src.vim
+      hash: f9fc9290ec7ec38f387d8e0dae9d9565b8283643
+    - name: .gvimrc
+      url: https://github.com/utubo/dotfiles/blob/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/.gvimrc
+      raw_url: https://raw.githubusercontent.com/utubo/dotfiles/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/.gvimrc
+      hash: f9fc9290ec7ec38f387d8e0dae9d9565b8283643
+    - name: vimrc.test.vim
+      url: https://github.com/utubo/dotfiles/blob/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/test/vimrc.test.vim
+      raw_url: https://raw.githubusercontent.com/utubo/dotfiles/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/test/vimrc.test.vim
+      hash: f9fc9290ec7ec38f387d8e0dae9d9565b8283643
+  part: 中編
+  other: null
+  members:
+    - kento-ogata
+    - makizo
+    - rbtnn
+    - thinca
+    - uhooi
+    - utubo
+  log: https://gitter.im/vim-jp/reading-vimrc?at=6300e8f905ad4a370177826c
