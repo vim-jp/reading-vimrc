@@ -1,5 +1,5 @@
-- id: 529
-  date: 2022-08-20 23:00
+- id: 530
+  date: 2022-08-27 23:00
   author:
     name: utubo
     url: https://github.com/utubo
@@ -16,5 +16,5 @@
         https://github.com/utubo/dotfiles/blob/f9fc9290ec7ec38f387d8e0dae9d9565b8283643/test/vimrc.test.vim
       hash: f9fc9290ec7ec38f387d8e0dae9d9565b8283643
       name: vimrc.test.vim
-  part: 中編
+  part: 後編
   other: null
