@@ -1,52 +1,52 @@
-- id: 531
-  date: 2022-09-03 23:00
+- id: 532
+  date: 2022-09-10 23:00
   author:
     name: italovieira
     url: https://github.com/italovieira
   vimrcs:
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/init.vim
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/init.vim
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: init.vim
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/options.vim
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/options.vim
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: options.vim
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/maps.vim
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/maps.vim
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: maps.vim
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/lua/lsp/init.lua
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/lua/lsp/init.lua
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: init.lua
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/lua/lsp/diagnostic.lua
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/lua/lsp/diagnostic.lua
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: diagnostic.lua
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/lua/plugins/init.lua
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/lua/plugins/init.lua
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: init.lua
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/lua/plugins/cmp.lua
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/lua/plugins/cmp.lua
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: cmp.lua
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/lua/plugins/dap.lua
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/lua/plugins/dap.lua
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: dap.lua
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/lua/plugins/null_ls.lua
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/lua/plugins/null_ls.lua
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: null_ls.lua
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/lua/plugins/telescope.lua
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/lua/plugins/telescope.lua
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: telescope.lua
     - url: >-
-        https://github.com/italovieira/dotfiles/blob/master/nvim/.config/nvim/lua/plugins/treesitter.lua
-      hash: null
+        https://github.com/italovieira/dotfiles/blob/9696b1b49f3300b5a4bd75a3dbadb440ef667900/nvim/.config/nvim/lua/plugins/treesitter.lua
+      hash: 9696b1b49f3300b5a4bd75a3dbadb440ef667900
       name: treesitter.lua
-  part: 前編
+  part: 後編
   other: null
