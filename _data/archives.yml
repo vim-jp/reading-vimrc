@@ -20369,3 +20369,22 @@
     - tsuyoshicho
     - utubo
   log: https://gitter.im/vim-jp/reading-vimrc?at=6325d2e411a6a83d04bc3954
+- id: 534
+  date: 2022-09-24 23:00
+  author:
+    name: skanehira
+    url: https://github.com/skanehira
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/skanehira/dotfiles/blob/99ee31cbe3dea418474e2de5d1056db53b13e798/vim/init.lua
+      raw_url: https://raw.githubusercontent.com/skanehira/dotfiles/99ee31cbe3dea418474e2de5d1056db53b13e798/vim/init.lua
+      hash: 99ee31cbe3dea418474e2de5d1056db53b13e798
+  part: 中編
+  other: null
+  members:
+    - 4513ECHO
+    - kuuote
+    - monaqa
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=632f0d9e458f823ce09b18ea
