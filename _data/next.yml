@@ -1,12 +1,51 @@
-- id: 535
-  date: 2022-10-01 23:00
+- id: 536
+  date: 2022-10-08 23:00
   author:
-    name: skanehira
-    url: https://github.com/skanehira
+    name: monaqa
+    url: https://github.com/monaqa
   vimrcs:
-    - url: >-
-        https://github.com/skanehira/dotfiles/blob/99ee31cbe3dea418474e2de5d1056db53b13e798/vim/init.lua
-      hash: 99ee31cbe3dea418474e2de5d1056db53b13e798
+    - url: https://github.com/monaqa/dotfiles/blob/master/.config/nvim/init.lua
+      hash: null
       name: init.lua
-  part: 後編
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/abbr.lua
+      hash: null
+      name: abbr.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/autocmd.lua
+      hash: null
+      name: autocmd.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/command.lua
+      hash: null
+      name: command.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/filetype.lua
+      hash: null
+      name: filetype.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/keymap.lua
+      hash: null
+      name: keymap.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/option.lua
+      hash: null
+      name: option.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/plugin_config.lua
+      hash: null
+      name: plugin_config.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/plugin_loader.lua
+      hash: null
+      name: plugin_loader.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/submode.lua
+      hash: null
+      name: submode.lua
+    - url: >-
+        https://github.com/monaqa/dotfiles/blob/master/.config/nvim/lua/rc/util.lua
+      hash: null
+      name: util.lua
+  part: 前編
   other: null
