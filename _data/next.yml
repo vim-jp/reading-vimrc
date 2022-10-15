@@ -1,5 +1,5 @@
-- id: 537
-  date: 2022-10-15 23:00
+- id: 538
+  date: 2022-10-22 23:00
   author:
     name: monaqa
     url: https://github.com/monaqa
@@ -48,5 +48,5 @@
         https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/util.lua
       hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
       name: util.lua
-  part: 中編
+  part: 後編
   other: null
