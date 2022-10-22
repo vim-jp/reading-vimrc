@@ -20536,3 +20536,68 @@
     - ujihisa
     - yasunori-kirin0418
   log: https://gitter.im/vim-jp/reading-vimrc?at=634abce3dcbf067fdc96a2b7
+- id: 538
+  date: 2022-10-22 23:00
+  author:
+    name: monaqa
+    url: https://github.com/monaqa
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/init.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: abbr.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/abbr.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/abbr.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: autocmd.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/autocmd.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/autocmd.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: command.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/command.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/command.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: filetype.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/filetype.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/filetype.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: keymap.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/keymap.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/keymap.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: option.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/option.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/option.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: plugin_config.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/plugin_config.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/plugin_config.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: plugin_loader.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/plugin_loader.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/plugin_loader.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: submode.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/submode.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/submode.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+    - name: util.lua
+      url: https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/util.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/util.lua
+      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
+  part: 後編
+  other: null
+  members:
+    - 4513ECHO
+    - Omochice
+    - kento-ogata
+    - kuuote
+    - monaqa
+    - rbtnn
+    - skanehira
+    - thinca
+    - tsuyoshicho
+    - yasunori-kirin0418
+    - yuys13
+  log: https://gitter.im/vim-jp/reading-vimrc?at=6353f767cf41c67a5cc254fc
