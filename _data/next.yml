@@ -1,52 +1,22 @@
-- id: 538
-  date: 2022-10-22 23:00
+- id: 539
+  date: 2022-10-29 23:00
   author:
-    name: monaqa
-    url: https://github.com/monaqa
+    name: thinca
+    url: https://github.com/thinca
   vimrcs:
+    - url: https://github.com/thinca/config/blob/master/dotfiles/dot.vim/vimrc
+      hash: null
+      name: vimrc
+    - url: https://github.com/thinca/config/blob/master/dotfiles/dot.vim/dein.vim
+      hash: null
+      name: dein.vim
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/init.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: init.lua
+        https://github.com/thinca/config/blob/master/dotfiles/dot.vim/autoload/vimrc.vim
+      hash: null
+      name: vimrc.vim
     - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/abbr.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: abbr.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/autocmd.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: autocmd.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/command.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: command.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/filetype.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: filetype.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/keymap.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: keymap.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/option.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: option.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/plugin_config.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: plugin_config.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/plugin_loader.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: plugin_loader.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/submode.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: submode.lua
-    - url: >-
-        https://github.com/monaqa/dotfiles/blob/de4bdb9ff76df6b41e77a82788c30049ac0b32a4/.config/nvim/lua/rc/util.lua
-      hash: de4bdb9ff76df6b41e77a82788c30049ac0b32a4
-      name: util.lua
-  part: 後編
+        https://github.com/thinca/config/blob/master/dotfiles/dot.vim/autoload/vimrc/ddu.vim
+      hash: null
+      name: ddu.vim
+  part: null
   other: null
