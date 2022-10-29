@@ -20601,3 +20601,40 @@
     - yasunori-kirin0418
     - yuys13
   log: https://gitter.im/vim-jp/reading-vimrc?at=6353f767cf41c67a5cc254fc
+- id: 539
+  date: 2022-10-29 23:00
+  author:
+    name: thinca
+    url: https://github.com/thinca
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/thinca/config/blob/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/vimrc
+      raw_url: https://raw.githubusercontent.com/thinca/config/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/vimrc
+      hash: 74009e9e9d4a66bae820c592343351bc7d0ee4b8
+    - name: dein.vim
+      url: https://github.com/thinca/config/blob/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/dein.vim
+      raw_url: https://raw.githubusercontent.com/thinca/config/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/dein.vim
+      hash: 74009e9e9d4a66bae820c592343351bc7d0ee4b8
+    - name: vimrc.vim
+      url: https://github.com/thinca/config/blob/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/autoload/vimrc.vim
+      raw_url: https://raw.githubusercontent.com/thinca/config/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/autoload/vimrc.vim
+      hash: 74009e9e9d4a66bae820c592343351bc7d0ee4b8
+    - name: ddu.vim
+      url: https://github.com/thinca/config/blob/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/autoload/vimrc/ddu.vim
+      raw_url: https://raw.githubusercontent.com/thinca/config/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/autoload/vimrc/ddu.vim
+      hash: 74009e9e9d4a66bae820c592343351bc7d0ee4b8
+  part: null
+  other: null
+  members:
+    - 4513ECHO
+    - Omochice
+    - kuuote
+    - makizo
+    - mityu
+    - peacock0803sz
+    - riq0h
+    - sevenc-nanashi
+    - thinca
+    - uga-rosa
+    - yuys13
+  log: https://gitter.im/vim-jp/reading-vimrc?at=635d331888e38704c03475a0
