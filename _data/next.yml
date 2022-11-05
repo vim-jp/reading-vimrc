@@ -1,5 +1,5 @@
-- id: 540
-  date: 2022-11-05 23:00
+- id: 541
+  date: 2022-11-12 23:00
   author:
     name: thinca
     url: https://github.com/thinca
@@ -20,5 +20,5 @@
         https://github.com/thinca/config/blob/74009e9e9d4a66bae820c592343351bc7d0ee4b8/dotfiles/dot.vim/autoload/vimrc/ddu.vim
       hash: 74009e9e9d4a66bae820c592343351bc7d0ee4b8
       name: ddu.vim
-  part: 中編
+  part: 後編
   other: null
