@@ -1,105 +1,108 @@
-- id: 542
-  date: 2022-11-19 23:00
+- id: 543
+  date: 2022-11-26 23:00
   author:
     name: uga-rosa
     url: https://github.com/uga-rosa
   vimrcs:
-    - url: https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/init.vim
-      hash: null
+    - url: >-
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/init.vim
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: init.vim
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/autopairs/cmp.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/autopairs/cmp.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: cmp.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/autopairs/handlers.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/autopairs/handlers.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: handlers.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/autopairs/init.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/autopairs/init.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: init.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/autopairs/utils.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/autopairs/utils.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: utils.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/pasteimage.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/pasteimage.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: pasteimage.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/autocmd.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/autocmd.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: autocmd.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/ftdetect.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/ftdetect.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: ftdetect.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/ftplugin.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/ftplugin.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: ftplugin.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/plugins/LuaSnip.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/plugins/LuaSnip.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: LuaSnip.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/plugins/LuaSnip/help.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/plugins/LuaSnip/help.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: help.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/plugins/LuaSnip/text.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/plugins/LuaSnip/text.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: text.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/plugins/feline.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/plugins/feline.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: feline.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/plugins/mason-lspconfig.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/plugins/mason-lspconfig.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: mason-lspconfig.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/plugins/nvim-cmp.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/plugins/nvim-cmp.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: nvim-cmp.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/rc/plugins/skkeleton.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/rc/plugins/skkeleton.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: skkeleton.lua
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/lua/utils.lua
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/lua/utils.lua
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: utils.lua
-    - url: https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/rc/cmp.toml
-      hash: null
+    - url: >-
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/rc/cmp.toml
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: cmp.toml
-    - url: https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/rc/dein.toml
-      hash: null
+    - url: >-
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/rc/dein.toml
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: dein.toml
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/rc/deinft.toml
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/rc/deinft.toml
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: deinft.toml
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/rc/deinlazy.toml
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/rc/deinlazy.toml
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: deinlazy.toml
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/rc/deinlsp.toml
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/rc/deinlsp.toml
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: deinlsp.toml
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/rc/mappings.vim
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/rc/mappings.vim
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: mappings.vim
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/rc/options.vim
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/rc/options.vim
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: options.vim
     - url: >-
-        https://github.com/uga-rosa/dotfiles/blob/main/.config/nvim/rc/scorpeon.toml
-      hash: null
+        https://github.com/uga-rosa/dotfiles/blob/ce8954971b633dd7c5eda5343fd899e52d1d25f3/.config/nvim/rc/scorpeon.toml
+      hash: ce8954971b633dd7c5eda5343fd899e52d1d25f3
       name: scorpeon.toml
-  part: 前編
+  part: 後編
   other: null
