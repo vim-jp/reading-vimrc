@@ -20938,3 +20938,95 @@
     - tsuyoshicho
     - uga-rosa
   log: https://gitter.im/vim-jp/reading-vimrc?at=63821bf615a3885c700b2b47
+- id: 544
+  date: 2022-12-03 23:00
+  author:
+    name: L3MON4D3
+    url: https://github.com/L3MON4D3
+  vimrcs:
+    - name: config.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/config.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/config.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: file_configs.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/file_configs.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/file_configs.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: init.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/init.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/init.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: project_configs.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/project_configs.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/project_configs.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: file_configs.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/file_configs.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/file_configs.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: init.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/init.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/init.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: external_update_dynamic_node.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/external_update_dynamic_node.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/external_update_dynamic_node.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: ft_edit.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/ft_edit.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/ft_edit.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: helpers.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/helpers.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/helpers.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: init.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/init.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/init.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: repeat_integration.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/repeat_integration.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/plugins/luasnip/repeat_integration.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: repl.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/repl.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/repl.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: session.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/session.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/session.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: symbols.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/symbols.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/symbols.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: all.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/all.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/all.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: help.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/help.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/help.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: lua.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/lua.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/lua.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: python.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/python.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/python.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+    - name: sh.lua
+      url: https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/sh.lua
+      raw_url: https://raw.githubusercontent.com/L3MON4D3/Dotfiles/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/sh.lua
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - kuuote
+    - syui
+    - thinca
+    - tsuyoshicho
+    - uga-rosa
+  log: https://gitter.im/vim-jp/reading-vimrc?at=638b566b4cb5585f96614f92
