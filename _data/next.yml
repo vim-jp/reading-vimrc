@@ -5,6 +5,14 @@
     url: https://github.com/L3MON4D3
   vimrcs:
     - url: >-
+        https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/init.vim
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+      name: init.vim
+    - url: >-
+        https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/functions.vim
+      hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
+      name: functions.vim
+    - url: >-
         https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/lua/configs/config.lua
       hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
       name: config.lua
