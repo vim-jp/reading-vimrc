@@ -1,5 +1,5 @@
-- id: 545
-  date: 2022-12-10 23:00
+- id: 546
+  date: 2022-12-17 23:00
   author:
     name: L3MON4D3
     url: https://github.com/L3MON4D3
@@ -88,5 +88,5 @@
         https://github.com/L3MON4D3/Dotfiles/blob/d00100eeae4459b8a76b0330dcc92b84716f4bea/.config/nvim/luasnippets/sh.lua
       hash: d00100eeae4459b8a76b0330dcc92b84716f4bea
       name: sh.lua
-  part: 中編
+  part: 後編
   other: null
