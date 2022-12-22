@@ -7,5 +7,170 @@
     - url: https://github.com/folke/dot/blob/master/config/nvim/init.lua
       hash: null
       name: init.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/commands.lua
+      hash: null
+      name: commands.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/lazy.lua
+      hash: null
+      name: lazy.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/mappings.lua
+      hash: null
+      name: mappings.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/options.lua
+      hash: null
+      name: options.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins.lua
+      hash: null
+      name: plugins.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/autopairs.lua
+      hash: null
+      name: autopairs.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/bufferline.lua
+      hash: null
+      name: bufferline.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/cmp.lua
+      hash: null
+      name: cmp.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/colorizer.lua
+      hash: null
+      name: colorizer.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/comment.lua
+      hash: null
+      name: comment.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/copilot.lua
+      hash: null
+      name: copilot.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/dap.lua
+      hash: null
+      name: dap.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/dial.lua
+      hash: null
+      name: dial.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/diffview.lua
+      hash: null
+      name: diffview.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/firenvim.lua
+      hash: null
+      name: firenvim.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/gitsigns.lua
+      hash: null
+      name: gitsigns.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/hop.lua
+      hash: null
+      name: hop.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/illuminate.lua
+      hash: null
+      name: illuminate.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/incline.lua
+      hash: null
+      name: incline.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/indent-blankline.lua
+      hash: null
+      name: indent-blankline.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/leap.lua
+      hash: null
+      name: leap.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/lsp/diagnostics.lua
+      hash: null
+      name: diagnostics.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/lsp/formatting.lua
+      hash: null
+      name: formatting.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/lsp/init.lua
+      hash: null
+      name: init.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/lsp/keys.lua
+      hash: null
+      name: keys.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/lsp/kind.lua
+      hash: null
+      name: kind.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/lualine.lua
+      hash: null
+      name: lualine.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/luasnip.lua
+      hash: null
+      name: luasnip.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/mason.lua
+      hash: null
+      name: mason.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/mini.lua
+      hash: null
+      name: mini.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/neo-tree.lua
+      hash: null
+      name: neo-tree.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/neogit.lua
+      hash: null
+      name: neogit.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/neorg.lua
+      hash: null
+      name: neorg.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/neoscroll.lua
+      hash: null
+      name: neoscroll.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/noice.lua
+      hash: null
+      name: noice.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/notify.lua
+      hash: null
+      name: notify.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/null-ls.lua
+      hash: null
+      name: null-ls.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/octo.lua
+      hash: null
+      name: octo.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/peek.lua
+      hash: null
+      name: peek.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/rust-tools.lua
+      hash: null
+      name: rust-tools.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/scrollbar.lua
+      hash: null
+      name: scrollbar.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/sniprun.lua
+      hash: null
+      name: sniprun.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/specs.lua
+      hash: null
+      name: specs.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/telescope.lua
+      hash: null
+      name: telescope.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/todo-comments.lua
+      hash: null
+      name: todo-comments.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/toggleterm.lua
+      hash: null
+      name: toggleterm.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/tokyonight.lua
+      hash: null
+      name: tokyonight.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/treesitter.lua
+      hash: null
+      name: treesitter.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/ufo.lua
+      hash: null
+      name: ufo.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/windows.lua
+      hash: null
+      name: windows.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/config/plugins/yanky.lua
+      hash: null
+      name: yanky.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/util/dashboard/config.lua
+      hash: null
+      name: config.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/util/dashboard/init.lua
+      hash: null
+      name: init.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/util/init.lua
+      hash: null
+      name: init.lua
+    - url: https://github.com/folke/dot/blob/master/config/nvim/lua/util/packer.lua
+      hash: null
+      name: packer.lua
   part: 前編
   other: null
