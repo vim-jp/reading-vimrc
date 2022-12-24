@@ -21230,3 +21230,24 @@
     - thinca
     - tsuyoshicho
   log: https://gitter.im/vim-jp/reading-vimrc?at=639dcf6e69ce3c533830ecdc
+- id: 547
+  date: 2022-12-24 23:00
+  author:
+    name: folke
+    url: https://github.com/folke
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/folke/dot/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/init.lua
+      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
+  part: 前編
+  other: null
+  members:
+    - Liquid-system
+    - aileot
+    - atusy
+    - futsuuu
+    - kuuote
+    - thinca
+    - tsuyoshicho
+  log: https://gitter.im/vim-jp/reading-vimrc?at=63a705e57de82d2616f7a78e
