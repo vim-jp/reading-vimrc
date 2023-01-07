@@ -1,176 +1,44 @@
-- id: 548
-  date: 2022-12-31 23:00
+- id: 549
+  date: 2023-01-07 23:00
   author:
-    name: folke
-    url: https://github.com/folke
+    name: nullchilly
+    url: https://github.com/nullchilly
   vimrcs:
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/init.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
+    - url: https://github.com/nullchilly/nvim/blob/nvim/init.lua
+      hash: null
       name: init.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/commands.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: commands.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/lazy.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: lazy.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/mappings.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: mappings.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/options.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: options.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: plugins.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/autopairs.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: autopairs.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/bufferline.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/config/bufferline.lua
+      hash: null
       name: bufferline.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/cmp.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/config/catppuccin.lua
+      hash: null
+      name: catppuccin.lua
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/config/cmp.lua
+      hash: null
       name: cmp.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/colorizer.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: colorizer.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/comment.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: comment.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/copilot.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: copilot.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/dap.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: dap.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/dial.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: dial.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/diffview.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: diffview.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/firenvim.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: firenvim.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/gitsigns.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/config/gitsigns.lua
+      hash: null
       name: gitsigns.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/hop.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: hop.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/illuminate.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: illuminate.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/incline.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: incline.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/indent-blankline.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: indent-blankline.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/leap.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: leap.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/lsp/diagnostics.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: diagnostics.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/lsp/formatting.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: formatting.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/lsp/init.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: init.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/lsp/keys.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: keys.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/lsp/kind.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: kind.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/lualine.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: lualine.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/luasnip.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: luasnip.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/mason.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: mason.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/mini.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: mini.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/neo-tree.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: neo-tree.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/neogit.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: neogit.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/neorg.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: neorg.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/neoscroll.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: neoscroll.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/noice.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: noice.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/notify.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: notify.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/null-ls.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/config/lsp.lua
+      hash: null
+      name: lsp.lua
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/config/null-ls.lua
+      hash: null
       name: null-ls.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/octo.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: octo.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/peek.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: peek.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/rust-tools.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: rust-tools.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/scrollbar.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: scrollbar.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/sniprun.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: sniprun.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/specs.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: specs.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/telescope.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: telescope.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/todo-comments.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: todo-comments.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/toggleterm.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/config/nvimtree.lua
+      hash: null
+      name: nvimtree.lua
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/config/toggleterm.lua
+      hash: null
       name: toggleterm.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/tokyonight.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: tokyonight.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/treesitter.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: treesitter.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/ufo.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: ufo.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/windows.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: windows.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/config/plugins/yanky.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: yanky.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/util/dashboard/config.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: config.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/util/dashboard/init.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: init.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/util/init.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: init.lua
-    - url: https://github.com/folke/dot/blob/7d696ae93ca6f434d729c9c0ac9efa780ee5026b/config/nvim/lua/util/packer.lua
-      hash: 7d696ae93ca6f434d729c9c0ac9efa780ee5026b
-      name: packer.lua
-  part: 中編
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/mapping.lua
+      hash: null
+      name: mapping.lua
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/option.lua
+      hash: null
+      name: option.lua
+    - url: https://github.com/nullchilly/nvim/blob/nvim/lua/plugins.lua
+      hash: null
+      name: plugins.lua
+  part: 前編
   other: null
