@@ -21801,3 +21801,68 @@
     - tsuyoshicho
     - yuys13
   log: https://gitter.im/vim-jp/reading-vimrc?at=63c2b567ccd5355fcfdb7d9d
+- id: 550
+  date: 2023-01-21 23:00
+  author:
+    name: nullchilly
+    url: https://github.com/nullchilly
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/init.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/init.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: bufferline.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/bufferline.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/bufferline.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: catppuccin.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/catppuccin.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/catppuccin.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: cmp.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/cmp.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/cmp.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: gitsigns.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/gitsigns.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: lsp.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/lsp.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/lsp.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: null-ls.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/null-ls.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/null-ls.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: nvimtree.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/nvimtree.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/nvimtree.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: toggleterm.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/toggleterm.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/config/toggleterm.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: mapping.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/mapping.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/mapping.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: option.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/option.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/option.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+    - name: plugins.lua
+      url: https://github.com/nullchilly/nvim/blob/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/plugins.lua
+      raw_url: https://raw.githubusercontent.com/nullchilly/nvim/61d83bde2fd7875f47c3a1cf5522e2599af4aa5b/lua/plugins.lua
+      hash: 61d83bde2fd7875f47c3a1cf5522e2599af4aa5b
+  part: 後編
+  other: null
+  members:
+    - 4513ECHO
+    - NI57721
+    - atusy
+    - kuuote
+    - thinca
+    - tsuyoshicho
+    - yuys13
+  log: https://gitter.im/vim-jp/reading-vimrc?at=63cbefea7740c84e49278d2f
