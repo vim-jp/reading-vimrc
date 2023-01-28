@@ -4,92 +4,92 @@
     name: yuki-yano
     url: https://github.com/yuki-yano
   vimrcs:
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/utils.lua
-      hash: null
-      name: utils.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/preload.lua
-      hash: null
-      name: preload.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/postload.lua
-      hash: null
-      name: postload.lua
     - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/utils.lua
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/coding.lua
       hash: null
-      name: utils.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/ui.lua
-      hash: null
-      name: ui.lua
-    - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/treesitter.lua
-      hash: null
-      name: treesitter.lua
-    - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/move.lua
-      hash: null
-      name: move.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/lsp.lua
-      hash: null
-      name: lsp.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/git.lua
-      hash: null
-      name: git.lua
-    - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/filetype.lua
-      hash: null
-      name: filetype.lua
-    - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/filer.lua
-      hash: null
-      name: filer.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/ff.lua
-      hash: null
-      name: ff.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/doc.lua
-      hash: null
-      name: doc.lua
-    - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/core.lua
-      hash: null
-      name: core.lua
-    - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/config.lua
-      hash: null
-      name: config.lua
+      name: coding.lua
     - url: >-
         https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/colorscheme.lua
       hash: null
       name: colorscheme.lua
     - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/coding.lua
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/config.lua
       hash: null
-      name: coding.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/coc.lua
-      hash: null
-      name: coc.lua
+      name: config.lua
     - url: >-
-        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugin_utils.lua
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/core.lua
       hash: null
-      name: plugin_utils.lua
+      name: core.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/doc.lua
+      hash: null
+      name: doc.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/ff.lua
+      hash: null
+      name: ff.lua
+    - url: >-
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/filer.lua
+      hash: null
+      name: filer.lua
+    - url: >-
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/filetype.lua
+      hash: null
+      name: filetype.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/git.lua
+      hash: null
+      name: git.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/lsp.lua
+      hash: null
+      name: lsp.lua
+    - url: >-
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/move.lua
+      hash: null
+      name: move.lua
+    - url: >-
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/treesitter.lua
+      hash: null
+      name: treesitter.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/ui.lua
+      hash: null
+      name: ui.lua
+    - url: >-
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugins/utils.lua
+      hash: null
+      name: utils.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/color.lua
+      hash: null
+      name: color.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/font.lua
+      hash: null
+      name: font.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/func.lua
+      hash: null
+      name: func.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/highlight.lua
+      hash: null
+      name: highlight.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/keymaps.lua
+      hash: null
+      name: keymaps.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/options.lua
+      hash: null
+      name: options.lua
     - url: >-
         https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugin_manager.lua
       hash: null
       name: plugin_manager.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/options.lua
+    - url: >-
+        https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/plugin_utils.lua
       hash: null
-      name: options.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/keymaps.lua
+      name: plugin_utils.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/postload.lua
       hash: null
-      name: keymaps.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/highlight.lua
+      name: postload.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/preload.lua
       hash: null
-      name: highlight.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/func.lua
+      name: preload.lua
+    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/utils.lua
       hash: null
-      name: func.lua
-    - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/lua/font.lua
-      hash: null
-      name: font.lua
+      name: utils.lua
     - url: https://github.com/yuki-yano/dotfiles/blob/main/.vim/init.lua
       hash: null
       name: init.lua
