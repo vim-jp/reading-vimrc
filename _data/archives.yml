@@ -21866,3 +21866,123 @@
     - tsuyoshicho
     - yuys13
   log: https://gitter.im/vim-jp/reading-vimrc?at=63cbefea7740c84e49278d2f
+- id: 551
+  date: 2023-01-28 23:00
+  author:
+    name: yuki-yano
+    url: https://github.com/yuki-yano
+  vimrcs:
+    - name: coding.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/coding.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/coding.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: colorscheme.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/colorscheme.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/colorscheme.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: config.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/config.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/config.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: core.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/core.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/core.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: doc.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/doc.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/doc.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: ff.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/ff.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/ff.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: filer.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/filer.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/filer.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: filetype.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/filetype.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/filetype.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: git.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/git.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/git.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: lsp.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/lsp.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/lsp.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: move.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/move.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/move.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: treesitter.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/treesitter.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: ui.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/ui.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/ui.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: utils.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/utils.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugins/utils.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: color.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/color.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/color.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: font.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/font.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/font.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: func.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/func.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/func.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: highlight.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/highlight.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/highlight.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: keymaps.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/keymaps.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: options.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/options.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/options.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: plugin_manager.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugin_manager.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugin_manager.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: plugin_utils.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugin_utils.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/plugin_utils.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: postload.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/postload.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/postload.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: preload.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/preload.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/preload.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: utils.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/utils.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/lua/utils.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+    - name: init.lua
+      url: https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/init.lua
+      raw_url: https://raw.githubusercontent.com/yuki-yano/dotfiles/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/init.lua
+      hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
+  part: 前編
+  other: null
+  members:
+    - Liquid-system
+    - NI57721
+    - kuuote
+    - mityu
+    - thinca
+    - yuki-yano
+  log: https://gitter.im/vim-jp/reading-vimrc?at=63d52a80b5e8a462768b0dc9
