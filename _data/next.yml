@@ -1,5 +1,5 @@
-- id: 552
-  date: 2023-02-04 23:00
+- id: 553
+  date: 2023-02-11 23:00
   author:
     name: yuki-yano
     url: https://github.com/yuki-yano
@@ -108,5 +108,5 @@
         https://github.com/yuki-yano/dotfiles/blob/e0c0de58ab22b46c2cc6b214410b4e2720ddceed/.vim/init.lua
       hash: e0c0de58ab22b46c2cc6b214410b4e2720ddceed
       name: init.lua
-  part: 中編
+  part: 後編
   other: null
