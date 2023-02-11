@@ -4,8 +4,128 @@
     name: Liquid-system
     url: https://github.com/Liquid-system
   vimrcs:
-    - url: https://github.com/Liquid-system/dotfiles/blob/main/.vimrc
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/after/ftplugin/dockerfile.lua
       hash: null
-      name: .vimrc
+      name: dockerfile.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/after/ftplugin/gitcommit.lua
+      hash: null
+      name: gitcommit.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/after/ftplugin/json.lua
+      hash: null
+      name: json.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/after/ftplugin/make.lua
+      hash: null
+      name: make.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/after/ftplugin/markdown.vim
+      hash: null
+      name: markdown.vim
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/after/ftplugin/python.lua
+      hash: null
+      name: python.lua
+    - url: https://github.com/Liquid-system/NeovimConfig/blob/main/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/core/autocmd.lua
+      hash: null
+      name: autocmd.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/core/config.lua
+      hash: null
+      name: config.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/core/keymap.lua
+      hash: null
+      name: keymap.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/core/lazy.lua
+      hash: null
+      name: lazy.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/core/options.lua
+      hash: null
+      name: options.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/bufferline.lua
+      hash: null
+      name: bufferline.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/cmp.lua
+      hash: null
+      name: cmp.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/comment.lua
+      hash: null
+      name: comment.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/dial.lua
+      hash: null
+      name: dial.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/fern.lua
+      hash: null
+      name: fern.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/indent-blankline.lua
+      hash: null
+      name: indent-blankline.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/lsp/diagnostics.lua
+      hash: null
+      name: diagnostics.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/lsp/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/lsp/keys.lua
+      hash: null
+      name: keys.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/lspsaga.lua
+      hash: null
+      name: lspsaga.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/lualine.lua
+      hash: null
+      name: lualine.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/luaship.lua
+      hash: null
+      name: luaship.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/null-ls.lua
+      hash: null
+      name: null-ls.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/others.lua
+      hash: null
+      name: others.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/signature.lua
+      hash: null
+      name: signature.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/themes.lua
+      hash: null
+      name: themes.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/themes/themes.lua
+      hash: null
+      name: themes.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/treesitter.lua
+      hash: null
+      name: treesitter.lua
+    - url: >-
+        https://github.com/Liquid-system/NeovimConfig/blob/main/lua/plugins/yanky.lua
+      hash: null
+      name: yanky.lua
   part: null
   other: null
