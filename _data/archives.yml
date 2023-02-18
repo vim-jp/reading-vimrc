@@ -22225,3 +22225,144 @@
     - kuuote
     - thinca
   log: https://gitter.im/vim-jp/reading-vimrc?at=63e79f62cd508f5c5ffb1409
+- id: 554
+  date: 2023-02-18 23:00
+  author:
+    name: Liquid-system
+    url: https://github.com/Liquid-system
+  vimrcs:
+    - name: dockerfile.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/dockerfile.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/dockerfile.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: gitcommit.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/gitcommit.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/gitcommit.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: json.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/json.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/json.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: make.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/make.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/make.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: markdown.vim
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/markdown.vim
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: python.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/python.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/after/ftplugin/python.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: init.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/init.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/init.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: autocmd.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/core/autocmd.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/core/autocmd.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: config.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/core/config.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/core/config.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: keymap.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/core/keymap.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/core/keymap.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: lazy.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/core/lazy.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/core/lazy.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: options.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/core/options.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/core/options.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: bufferline.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/bufferline.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/bufferline.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: cmp.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/cmp.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/cmp.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: comment.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/comment.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/comment.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: dial.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/dial.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/dial.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: fern.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/fern.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/fern.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: indent-blankline.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/indent-blankline.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/indent-blankline.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: diagnostics.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lsp/diagnostics.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lsp/diagnostics.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: init.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lsp/init.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lsp/init.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: keys.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lsp/keys.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lsp/keys.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: lspsaga.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lspsaga.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lspsaga.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: lualine.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lualine.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/lualine.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: luaship.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/luaship.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/luaship.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: null-ls.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/null-ls.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/null-ls.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: others.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/others.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/others.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: signature.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/signature.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/signature.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: themes.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/themes.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/themes.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: themes.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/themes/themes.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/themes/themes.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: treesitter.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/treesitter.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+    - name: yanky.lua
+      url: https://github.com/Liquid-system/NeovimConfig/blob/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/yanky.lua
+      raw_url: https://raw.githubusercontent.com/Liquid-system/NeovimConfig/a22bf8d207263af94aec226275f1efd63331e036/lua/plugins/yanky.lua
+      hash: a22bf8d207263af94aec226275f1efd63331e036
+  part: null
+  other: null
+  members:
+    - Liquid-system (Liquid_system)
+    - NI57721 (NI57721)
+    - syui
+    - syui (syui)
+    - thinca
+    - yuys13 (yuys13)
+    - ほげぴよ
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$1pxbWEZU4wtu3XNzzgBpy9GGAVOUkLjAafkBEzGizwU
