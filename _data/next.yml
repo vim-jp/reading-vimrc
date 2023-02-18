@@ -10,16 +10,16 @@
     - url: https://github.com/glepnir/nvim/blob/main/lua/core/helper.lua
       hash: null
       name: helper.lua
-    - url: https://github.com/glepnir/nvim/tree/main/lua/core/init.lua
+    - url: https://github.com/glepnir/nvim/blob/main/lua/core/init.lua
       hash: null
       name: init.lua
-    - url: https://github.com/glepnir/nvim/tree/main/lua/core/keymap.lua
+    - url: https://github.com/glepnir/nvim/blob/main/lua/core/keymap.lua
       hash: null
       name: keymap.lua
-    - url: https://github.com/glepnir/nvim/tree/main/lua/core/options.lua
+    - url: https://github.com/glepnir/nvim/blob/main/lua/core/options.lua
       hash: null
       name: options.lua
-    - url: https://github.com/glepnir/nvim/tree/main/lua/core/pack.lua
+    - url: https://github.com/glepnir/nvim/blob/main/lua/core/pack.lua
       hash: null
       name: pack.lua
     - url: https://github.com/glepnir/nvim/blob/main/lua/internal/cursorword.lua
@@ -50,7 +50,7 @@
     - url: https://github.com/glepnir/nvim/blob/main/lua/modules/editor/package.lua
       hash: null
       name: package.lua
-    - url: https://github.com/glepnir/nvim/tree/main/lua/modules/tools/config.lua
+    - url: https://github.com/glepnir/nvim/blob/main/lua/modules/tools/config.lua
       hash: null
       name: config.lua
     - url: https://github.com/glepnir/nvim/blob/main/lua/modules/tools/package.lua
