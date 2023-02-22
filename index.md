@@ -24,7 +24,7 @@ title: vimrc読書会
                 {{ next.date | date: " %H:%M" }}
               </span>
     </li>
-    <li>場所: <a href="https://gitter.im/vim-jp/reading-vimrc">Gitter (vim-jp/reading-vimrc)</a></li>
+    <li>場所: <a href="https://app.gitter.im/#/room/#vim-jp_reading-vimrc:gitter.im">Gitter (Matrix #vim-jp_reading-vimrc:gitter.im)</a></li>
     <li>vimrc: <a href="{{ next.author.url }}"> {{ next.author.name }}</a> さん
         {% if next.part %} ({{ next.part }}) {% endif %}
     </li>
@@ -50,10 +50,10 @@ title: vimrc読書会
 
 ### 開催概要
 - 日時: 毎週土曜日夜23時(JST)
-- 場所: オンラインのチャットルーム [Gitter (vim-jp/reading-vimrc)](https://gitter.im/vim-jp/reading-vimrc)
+- 場所: オンラインのチャットルーム [Gitter (Matrix #vim-jp_reading-vimrc:gitter.im)](https://app.gitter.im/#/room/#vim-jp_reading-vimrc:gitter.im)
 
 
-発言するには GitHub か Twitter のアカウントを取得し、Gitter へログインする必要があります。ログが読みたいだけなら、その必要はありません(各過去の開催ページにログへのリンクがあります)。
+発言するには Matrix のアカウントが必要です。ログが読みたいだけなら、その必要はありません(各過去の開催ページにログへのリンクがあります)。
 終了時間は特に決まっていませんが、毎回だいたい1時間くらいです。ただし、後述の通り途中参加/途中離脱OKです。
 
 ### おやくそく
