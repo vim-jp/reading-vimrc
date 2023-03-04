@@ -1,66 +1,84 @@
-- id: 555
-  date: 2023-02-25 23:00
+- id: 556
+  date: 2023-03-04 23:00
   author:
     name: glepnir
     url: https://github.com/glepnir
   vimrcs:
-    - url: https://github.com/glepnir/nvim/blob/main/lua/core/cli.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/cli.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: cli.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/core/helper.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/helper.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: helper.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/core/init.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/init.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: init.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/core/keymap.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/keymap.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: keymap.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/core/options.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/options.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: options.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/core/pack.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/pack.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: pack.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/internal/cursorword.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/cursorword.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: cursorword.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/internal/epoch.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/epoch.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: epoch.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/internal/event.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/event.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: event.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/internal/quickrun.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/quickrun.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: quickrun.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/keymap/init.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/keymap/init.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: init.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/keymap/remap.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/keymap/remap.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: remap.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/modules/editor/config.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/config.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: config.lua
     - url: >-
-        https://github.com/glepnir/nvim/blob/main/lua/modules/editor/lspconfig.lua
-      hash: null
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/lspconfig.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: lspconfig.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/modules/editor/package.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/package.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: package.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/modules/tools/config.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/tools/config.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: config.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/modules/tools/package.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/tools/package.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: package.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/modules/ui/config.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/ui/config.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: config.lua
-    - url: https://github.com/glepnir/nvim/blob/main/lua/modules/ui/package.lua
-      hash: null
+    - url: >-
+        https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/ui/package.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
       name: package.lua
-  part: null
+  part: 後編
   other: null
