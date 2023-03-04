@@ -22459,3 +22459,96 @@
     - syui
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$fj0NJned-_dHVQ71ibeQpOr455RQMsF8pnOdY1CF49A
+- id: 556
+  date: 2023-03-04 23:00
+  author:
+    name: glepnir
+    url: https://github.com/glepnir
+  vimrcs:
+    - name: cli.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/cli.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/cli.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: helper.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/helper.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/helper.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: init.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/init.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/init.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: keymap.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/keymap.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/keymap.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: options.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/options.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/options.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: pack.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/pack.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/core/pack.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: cursorword.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/cursorword.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/cursorword.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: epoch.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/epoch.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/epoch.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: event.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/event.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/event.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: quickrun.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/quickrun.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/internal/quickrun.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: init.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/keymap/init.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/keymap/init.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: remap.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/keymap/remap.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/keymap/remap.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: config.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/config.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/config.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: lspconfig.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/lspconfig.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: package.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/package.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/editor/package.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: config.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/tools/config.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/tools/config.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: package.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/tools/package.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/tools/package.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: config.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/ui/config.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/ui/config.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+    - name: package.lua
+      url: https://github.com/glepnir/nvim/blob/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/ui/package.lua
+      raw_url: https://raw.githubusercontent.com/glepnir/nvim/3ce0e3cd62cec0c1083a876d223a2238eec87f26/lua/modules/ui/package.lua
+      hash: 3ce0e3cd62cec0c1083a876d223a2238eec87f26
+  part: 後編
+  other: null
+  members:
+    - Tsuyoshi CHO
+    - atusy
+    - kuuote
+    - rapan931 (rapan931)
+    - syui
+    - thinca
+    - yuys13
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$WccPlymw9QIWVnVu0W6pL642ZwDrwST2xtIzwGeCTCs
