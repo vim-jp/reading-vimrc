@@ -1,14 +1,16 @@
-- id: 557
-  date: 2023-03-11 23:00
+- id: 558
+  date: 2023-03-18 23:00
   author:
     name: ompugao
     url: https://github.com/ompugao
   vimrcs:
-    - url: https://github.com/ompugao/vim-bundle/blob/master/vimrc
-      hash: null
+    - url: >-
+        https://github.com/ompugao/vim-bundle/blob/14417ef1b9d141d145138f70da71166b666d940c/vimrc
+      hash: 14417ef1b9d141d145138f70da71166b666d940c
       name: vimrc
-    - url: https://github.com/ompugao/vim-bundle/blob/master/gvimrc
-      hash: null
+    - url: >-
+        https://github.com/ompugao/vim-bundle/blob/14417ef1b9d141d145138f70da71166b666d940c/gvimrc
+      hash: 14417ef1b9d141d145138f70da71166b666d940c
       name: gvimrc
-  part: null
+  part: 後編
   other: null
