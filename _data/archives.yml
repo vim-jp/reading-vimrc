@@ -22552,3 +22552,30 @@
     - thinca
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$WccPlymw9QIWVnVu0W6pL642ZwDrwST2xtIzwGeCTCs
+- id: 557
+  date: 2023-03-11 23:00
+  author:
+    name: ompugao
+    url: https://github.com/ompugao
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/ompugao/vim-bundle/blob/14417ef1b9d141d145138f70da71166b666d940c/vimrc
+      raw_url: https://raw.githubusercontent.com/ompugao/vim-bundle/14417ef1b9d141d145138f70da71166b666d940c/vimrc
+      hash: 14417ef1b9d141d145138f70da71166b666d940c
+    - name: gvimrc
+      url: https://github.com/ompugao/vim-bundle/blob/14417ef1b9d141d145138f70da71166b666d940c/gvimrc
+      raw_url: https://raw.githubusercontent.com/ompugao/vim-bundle/14417ef1b9d141d145138f70da71166b666d940c/gvimrc
+      hash: 14417ef1b9d141d145138f70da71166b666d940c
+  part: null
+  other: null
+  members:
+    - Liquid-system (Liquid_system)
+    - Tsuyoshi CHO
+    - hokorobi (hokorobi)
+    - kuuote
+    - ompugao (Shohei Fujii)
+    - syui
+    - thinca
+    - uga-rosa (NAKAI Tsuyoshi)
+    - yuys13
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$TcqAvykUE58JlhaT_Ey5Osiqv7pb11xWqkLFYOS0sdc
