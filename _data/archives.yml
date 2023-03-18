@@ -22579,3 +22579,25 @@
     - uga-rosa (NAKAI Tsuyoshi)
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$TcqAvykUE58JlhaT_Ey5Osiqv7pb11xWqkLFYOS0sdc
+- id: 558
+  date: 2023-03-18 23:00
+  author:
+    name: ompugao
+    url: https://github.com/ompugao
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/ompugao/vim-bundle/blob/14417ef1b9d141d145138f70da71166b666d940c/vimrc
+      raw_url: https://raw.githubusercontent.com/ompugao/vim-bundle/14417ef1b9d141d145138f70da71166b666d940c/vimrc
+      hash: 14417ef1b9d141d145138f70da71166b666d940c
+    - name: gvimrc
+      url: https://github.com/ompugao/vim-bundle/blob/14417ef1b9d141d145138f70da71166b666d940c/gvimrc
+      raw_url: https://raw.githubusercontent.com/ompugao/vim-bundle/14417ef1b9d141d145138f70da71166b666d940c/gvimrc
+      hash: 14417ef1b9d141d145138f70da71166b666d940c
+  part: 後編
+  other: null
+  members:
+    - OgaKen
+    - Tsuyoshi CHO
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$pTNj3OD9KIHW7nwptnPVFrfzz-dGnh5AMSLdphDBPMQ
