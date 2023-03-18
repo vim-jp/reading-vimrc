@@ -1,16 +1,37 @@
-- id: 558
-  date: 2023-03-18 23:00
+- id: 559
+  date: 2023-03-25 23:00
   author:
-    name: ompugao
-    url: https://github.com/ompugao
+    name: ukiuki-engineer
+    url: https://github.com/ukiuki-engineer
   vimrcs:
     - url: >-
-        https://github.com/ompugao/vim-bundle/blob/14417ef1b9d141d145138f70da71166b666d940c/vimrc
-      hash: 14417ef1b9d141d145138f70da71166b666d940c
-      name: vimrc
+        https://github.com/ukiuki-engineer/nvim/blob/master/autoload/MyFunctions.vim
+      hash: null
+      name: MyFunctions.vim
     - url: >-
-        https://github.com/ompugao/vim-bundle/blob/14417ef1b9d141d145138f70da71166b666d940c/gvimrc
-      hash: 14417ef1b9d141d145138f70da71166b666d940c
-      name: gvimrc
-  part: 後編
+        https://github.com/ukiuki-engineer/nvim/blob/master/autoload/MyPluginSettings.vim
+      hash: null
+      name: MyPluginSettings.vim
+    - url: https://github.com/ukiuki-engineer/nvim/blob/master/coc-settings.json
+      hash: null
+      name: coc-settings.json
+    - url: https://github.com/ukiuki-engineer/nvim/blob/master/init.vim
+      hash: null
+      name: init.vim
+    - url: https://github.com/ukiuki-engineer/nvim/blob/master/plugins.vim
+      hash: null
+      name: plugins.vim
+    - url: https://github.com/ukiuki-engineer/nvim/blob/master/rc/MyTerminal.vim
+      hash: null
+      name: MyTerminal.vim
+    - url: https://github.com/ukiuki-engineer/nvim/blob/master/readme.md
+      hash: null
+      name: readme.md
+    - url: https://github.com/ukiuki-engineer/nvim/blob/master/toml/dein.toml
+      hash: null
+      name: dein.toml
+    - url: https://github.com/ukiuki-engineer/nvim/blob/master/toml/dein_lazy.toml
+      hash: null
+      name: dein_lazy.toml
+  part: null
   other: null
