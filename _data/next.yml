@@ -1,40 +1,91 @@
-- id: 559
-  date: 2023-03-25 23:00
+- id: 560
+  date: 2023-04-01 23:00
   author:
-    name: ukiuki-engineer
-    url: https://github.com/ukiuki-engineer
+    name: yasunori-kirin0418
+    url: https://github.com/yasunori-kirin0418
   vimrcs:
     - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/master/autoload/MyFunctions.vim
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/autoload/vimrc.vim
       hash: null
-      name: MyFunctions.vim
+      name: vimrc.vim
     - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/master/autoload/MyPluginSettings.vim
-      hash: null
-      name: MyPluginSettings.vim
-    - url: https://github.com/ukiuki-engineer/nvim/blob/master/coc-settings.json
-      hash: null
-      name: coc-settings.json
-    - url: https://github.com/ukiuki-engineer/nvim/blob/master/init.vim
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/init.vim
       hash: null
       name: init.vim
-    - url: https://github.com/ukiuki-engineer/nvim/blob/master/plugins.vim
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/keybinds.vim
       hash: null
-      name: plugins.vim
-    - url: https://github.com/ukiuki-engineer/nvim/blob/master/rc/MyIME.vim
+      name: keybinds.vim
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/neovide.vim
       hash: null
-      name: MyIME.vim
-    - url: https://github.com/ukiuki-engineer/nvim/blob/master/rc/MyTerminal.vim
+      name: neovide.vim
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/nvim-gtk.vim
       hash: null
-      name: MyTerminal.vim
-    - url: https://github.com/ukiuki-engineer/nvim/blob/master/readme.md
+      name: nvim-gtk.vim
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/nvui.vim
       hash: null
-      name: readme.md
-    - url: https://github.com/ukiuki-engineer/nvim/blob/master/toml/dein.toml
+      name: nvui.vim
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/options.vim
+      hash: null
+      name: options.vim
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/ddc.toml
+      hash: null
+      name: ddc.toml
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/ddu.toml
+      hash: null
+      name: ddu.toml
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/dein.toml
       hash: null
       name: dein.toml
-    - url: https://github.com/ukiuki-engineer/nvim/blob/master/toml/dein_lazy.toml
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/denops.toml
       hash: null
-      name: dein_lazy.toml
-  part: null
+      name: denops.toml
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/git.toml
+      hash: null
+      name: git.toml
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/lazy.toml
+      hash: null
+      name: lazy.toml
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/lsp.toml
+      hash: null
+      name: lsp.toml
+    - url: https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vimrc
+      hash: null
+      name: .vimrc
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/global.json
+      hash: null
+      name: global.json
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/json.json
+      hash: null
+      name: json.json
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/markdown.json
+      hash: null
+      name: markdown.json
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/sh.json
+      hash: null
+      name: sh.json
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/toml.json
+      hash: null
+      name: toml.json
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/vim.json
+      hash: null
+      name: vim.json
+  part: 前編
   other: null
