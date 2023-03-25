@@ -1,5 +1,5 @@
-- id: 559
-  date: 2023-03-25 23:00
+- id: 560
+  date: 2023-04-01 23:00
   author:
     name: ukiuki-engineer
     url: https://github.com/ukiuki-engineer
@@ -21,6 +21,9 @@
     - url: https://github.com/ukiuki-engineer/nvim/blob/master/plugins.vim
       hash: null
       name: plugins.vim
+    - url: https://github.com/ukiuki-engineer/nvim/blob/master/rc/MyIME.vim
+      hash: null
+      name: MyIME.vim
     - url: https://github.com/ukiuki-engineer/nvim/blob/master/rc/MyTerminal.vim
       hash: null
       name: MyTerminal.vim
