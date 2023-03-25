@@ -22601,3 +22601,59 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$pTNj3OD9KIHW7nwptnPVFrfzz-dGnh5AMSLdphDBPMQ
+- id: 560
+  date: 2023-04-01 23:00
+  author:
+    name: ukiuki-engineer
+    url: https://github.com/ukiuki-engineer
+  vimrcs:
+    - name: MyFunctions.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/autoload/MyFunctions.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/autoload/MyFunctions.vim
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: MyPluginSettings.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/autoload/MyPluginSettings.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/autoload/MyPluginSettings.vim
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: coc-settings.json
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/coc-settings.json
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: init.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/init.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/init.vim
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: plugins.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/plugins.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/plugins.vim
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: MyIME.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/rc/MyIME.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/rc/MyIME.vim
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: MyTerminal.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/rc/MyTerminal.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/rc/MyTerminal.vim
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: readme.md
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/readme.md
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/readme.md
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: dein.toml
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/toml/dein.toml
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/toml/dein.toml
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+    - name: dein_lazy.toml
+      url: https://github.com/ukiuki-engineer/nvim/blob/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/toml/dein_lazy.toml
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca/toml/dein_lazy.toml
+      hash: e3739c9b8b8dc1030aa58ab6f8b6d210ccbf88ca
+  part: null
+  other: null
+  members:
+    - Liquid-system (Liquid_system)
+    - Tsuyoshi CHO
+    - kuuote
+    - syui
+    - thinca
+    - ukiuki-engineer
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$eOCYCmnlWpkHioSoWdp3eEvkynN-bBB9EvlzuG8JDJM
