@@ -1,91 +1,92 @@
-- id: 560
-  date: 2023-04-01 23:00
+- id: 561
+  date: 2023-04-08 23:00
   author:
     name: yasunori-kirin0418
     url: https://github.com/yasunori-kirin0418
   vimrcs:
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/autoload/vimrc.vim
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/autoload/vimrc.vim
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: vimrc.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/init.vim
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/init.vim
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: init.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/keybinds.vim
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/keybinds.vim
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: keybinds.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/neovide.vim
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/neovide.vim
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: neovide.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/nvim-gtk.vim
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/nvim-gtk.vim
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: nvim-gtk.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/nvui.vim
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/nvui.vim
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: nvui.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/rc/options.vim
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/options.vim
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: options.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/ddc.toml
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/ddc.toml
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: ddc.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/ddu.toml
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/ddu.toml
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: ddu.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/dein.toml
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/dein.toml
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: dein.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/denops.toml
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/denops.toml
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: denops.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/git.toml
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/git.toml
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: git.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/lazy.toml
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/lazy.toml
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: lazy.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/config/nvim/toml/lsp.toml
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/lsp.toml
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: lsp.toml
-    - url: https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vimrc
-      hash: null
+    - url: >-
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vimrc
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: .vimrc
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/global.json
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/global.json
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: global.json
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/json.json
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/json.json
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: json.json
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/markdown.json
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/markdown.json
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: markdown.json
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/sh.json
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/sh.json
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: sh.json
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/toml.json
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/toml.json
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: toml.json
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/main/home/.vsnip/vim.json
-      hash: null
+        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/vim.json
+      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
       name: vim.json
-  part: 前編
+  part: 中編
   other: null
