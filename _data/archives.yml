@@ -22858,8 +22858,8 @@
     - uga-rosa (NAKAI Tsuyoshi)
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$yyUFp8j_p3ZwSq2aDhkAegSviwjKhN3ZYDZpiaeBCAo
-- id: 561
-  date: 2023-04-08 23:00
+- id: 562
+  date: 2023-04-15 23:00
   author:
     name: yasunori-kirin0418
     url: https://github.com/yasunori-kirin0418
@@ -22948,7 +22948,7 @@
       url: https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/vim.json
       raw_url: https://raw.githubusercontent.com/yasunori-kirin0418/dotfiles/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/vim.json
       hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-  part: 中編
+  part: 後編
   other: null
   members:
     - 4513ECHO (@4513echo:matrix.org)
