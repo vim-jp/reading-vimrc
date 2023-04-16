@@ -1,92 +1,168 @@
-- id: 561
-  date: 2023-04-08 23:00
+- id: 562
+  date: 2023-04-15 23:00
   author:
-    name: yasunori-kirin0418
-    url: https://github.com/yasunori-kirin0418
+    name: 4513ECHO
+    url: https://github.com/4513ECHO
   vimrcs:
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/autoload/vimrc.vim
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/after/ftplugin/help.vim
+      hash: null
+      name: help.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/after/queries/toml/highlights.scm
+      hash: null
+      name: highlights.scm
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/after/queries/toml/injections.scm
+      hash: null
+      name: injections.scm
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/after/queries/vim/injections.scm
+      hash: null
+      name: injections.scm
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/after/syntax/diff.vim
+      hash: null
+      name: diff.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/after/syntax/json.vim
+      hash: null
+      name: json.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/autoload/lightline/colorscheme/mini.vim
+      hash: null
+      name: mini.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/autoload/lightline/component/vimrc.vim
+      hash: null
       name: vimrc.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/init.vim
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: init.vim
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/autoload/user.vim
+      hash: null
+      name: user.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/keybinds.vim
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: keybinds.vim
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/autoload/user/colorscheme.vim
+      hash: null
+      name: colorscheme.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/neovide.vim
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: neovide.vim
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/autoload/user/ddc.vim
+      hash: null
+      name: ddc.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/nvim-gtk.vim
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: nvim-gtk.vim
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/autoload/user/launcher.vim
+      hash: null
+      name: launcher.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/nvui.vim
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: nvui.vim
-    - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/rc/options.vim
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: options.vim
-    - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/ddc.toml
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/colorscheme.toml
+      hash: null
+      name: colorscheme.toml
+    - url: https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/ddc.toml
+      hash: null
       name: ddc.toml
-    - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/ddu.toml
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
+    - url: https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/ddu.toml
+      hash: null
       name: ddu.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/dein.toml
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: dein.toml
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/ftplugin.toml
+      hash: null
+      name: ftplugin.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/denops.toml
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: denops.toml
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/init.toml
+      hash: null
+      name: init.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/git.toml
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: git.toml
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/neovim.toml
+      hash: null
+      name: neovim.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/lazy.toml
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: lazy.toml
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/plugin.toml
+      hash: null
+      name: plugin.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/config/nvim/toml/lsp.toml
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: lsp.toml
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/settings/ddc.vim
+      hash: null
+      name: ddc.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vimrc
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: .vimrc
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/settings/ddu.vim
+      hash: null
+      name: ddu.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/global.json
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: global.json
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/settings/lexima.vim
+      hash: null
+      name: lexima.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/json.json
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: json.json
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/settings/skkeleton.vim
+      hash: null
+      name: skkeleton.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/markdown.json
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: markdown.json
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/settings/vim-lsp.vim
+      hash: null
+      name: vim-lsp.vim
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/sh.json
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: sh.json
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/textobj.toml
+      hash: null
+      name: textobj.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/toml.json
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: toml.json
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/unused.toml
+      hash: null
+      name: unused.toml
+    - url: https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/vim.toml
+      hash: null
+      name: vim.toml
     - url: >-
-        https://github.com/yasunori-kirin0418/dotfiles/blob/c586342802c1c43fb7b89b314bdd9d17b5f0c7f3/home/.vsnip/vim.json
-      hash: c586342802c1c43fb7b89b314bdd9d17b5f0c7f3
-      name: vim.json
-  part: 中編
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/denops/@ddc-filters/sorter_file.ts
+      hash: null
+      name: sorter_file.ts
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/denops/@ddu-sources/pypi_classifiers.ts
+      hash: null
+      name: pypi_classifiers.ts
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/denops/@ddu-sources/quickfix.ts
+      hash: null
+      name: quickfix.ts
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/denops/@ddu-sources/scrapbox_pages.ts
+      hash: null
+      name: scrapbox_pages.ts
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/denops/vimrc/main.ts
+      hash: null
+      name: main.ts
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/doc/dotfiles.txt
+      hash: null
+      name: dotfiles.txt
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/ftdetect/vimrc.vim
+      hash: null
+      name: vimrc.vim
+    - url: https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/init.vim
+      hash: null
+      name: init.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/lua/vimrc/autocmd.lua
+      hash: null
+      name: autocmd.lua
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/lua/vimrc/plugin/hlslens.lua
+      hash: null
+      name: hlslens.lua
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/rc/dein.rc.vim
+      hash: null
+      name: dein.rc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/rc/init.rc.vim
+      hash: null
+      name: init.rc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/rc/keymap.rc.vim
+      hash: null
+      name: keymap.rc.vim
+    - url: >-
+        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/rc/options.rc.vim
+      hash: null
+      name: options.rc.vim
+  part: null
   other: null
