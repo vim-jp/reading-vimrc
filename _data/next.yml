@@ -1,5 +1,5 @@
-- id: 562
-  date: 2023-04-15 23:00
+- id: 563
+  date: 2023-04-22 23:00
   author:
     name: 4513ECHO
     url: https://github.com/4513ECHO
@@ -164,5 +164,5 @@
         https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/rc/options.rc.vim
       hash: null
       name: options.rc.vim
-  part: null
+  part: 前編
   other: null
