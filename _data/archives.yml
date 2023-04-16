@@ -22358,12 +22358,11 @@
   part: null
   other: null
   members:
-    - Liquid-system (Liquid_system)
+    - Liquid-system
     - NI57721
     - syui
-    - syui (syui)
     - thinca
-    - yuys13 (yuys13)
+    - yuys13
     - ほげぴよ
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$1pxbWEZU4wtu3XNzzgBpy9GGAVOUkLjAafkBEzGizwU
 - id: 555
@@ -22454,7 +22453,7 @@
     - 4513ECHO
     - NI57721
     - atusy
-    - kuuote (@kuuote-5abf9382d73408ce4f93e091:gitter.im)
+    - kuuote
     - mattn
     - syui
     - thinca
@@ -22547,7 +22546,7 @@
     - Tsuyoshi CHO
     - atusy
     - kuuote
-    - rapan931 (rapan931)
+    - rapan931
     - syui
     - thinca
     - yuys13
@@ -22569,14 +22568,14 @@
   part: 前編
   other: null
   members:
-    - Liquid-system (Liquid_system)
+    - Liquid-system
     - Tsuyoshi CHO
-    - hokorobi (hokorobi)
+    - hokorobi
     - kuuote
-    - ompugao (Shohei Fujii)
+    - ompugao
     - syui
     - thinca
-    - uga-rosa (NAKAI Tsuyoshi)
+    - uga-rosa
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$TcqAvykUE58JlhaT_Ey5Osiqv7pb11xWqkLFYOS0sdc
 - id: 558
@@ -22851,11 +22850,11 @@
   part: 中編
   other: null
   members:
-    - 4513ECHO (@4513echo:matrix.org)
+    - 4513ECHO
     - Tsuyoshi CHO
-    - kuuote (@kuuote-5abf9382d73408ce4f93e091:gitter.im)
+    - kuuote
     - thinca
-    - uga-rosa (NAKAI Tsuyoshi)
+    - uga-rosa
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$yyUFp8j_p3ZwSq2aDhkAegSviwjKhN3ZYDZpiaeBCAo
 - id: 562
@@ -22951,13 +22950,13 @@
   part: 後編
   other: null
   members:
-    - 4513ECHO (@4513echo:matrix.org)
+    - 4513ECHO
     - '@makizo-62f78ecc6da03739849b49ba:gitter.im'
     - NI57721
     - OgaKen
     - Tsuyoshi CHO
     - atusy
-    - kuuote (@kuuote-5abf9382d73408ce4f93e091:gitter.im)
+    - kuuote
     - syui
     - thinca
     - ukiuki-engineer
