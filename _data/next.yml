@@ -90,10 +90,6 @@
         https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/textobj.toml
       hash: null
       name: textobj.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/unused.toml
-      hash: null
-      name: unused.toml
     - url: https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/dein/vim.toml
       hash: null
       name: vim.toml
@@ -132,10 +128,6 @@
         https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/lua/vimrc/autocmd.lua
       hash: null
       name: autocmd.lua
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/lua/vimrc/plugin/hlslens.lua
-      hash: null
-      name: hlslens.lua
     - url: >-
         https://github.com/4513ECHO/dotfiles/blob/main/config/nvim/rc/autocmd.rc.vim
       hash: null
