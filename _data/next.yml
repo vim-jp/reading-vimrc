@@ -1,156 +1,17 @@
-- id: 565
-  date: 2023-05-06 23:00
+- id: 566
+  date: 2023-05-13 23:00
   author:
-    name: 4513ECHO
-    url: https://github.com/4513ECHO
+    name: supermomonga
+    url: https://github.com/supermomonga
   vimrcs:
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/after/ftplugin/help.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: help.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/after/syntax/diff.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: diff.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/after/syntax/json.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: json.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/autoload/lightline/colorscheme/mini.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: mini.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/autoload/lightline/component/vimrc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: vimrc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/autoload/user.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: user.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/autoload/user/colorscheme.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: colorscheme.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/autoload/user/ddc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: ddc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/autoload/user/launcher.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: launcher.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/colorscheme.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: colorscheme.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/ddc.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: ddc.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/ddu.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: ddu.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/ftplugin.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: ftplugin.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/init.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: init.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/neovim.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: neovim.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/plugin.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: plugin.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/settings/ddc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: ddc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/settings/ddu.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: ddu.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/settings/lexima.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: lexima.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/settings/skkeleton.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: skkeleton.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/settings/vim-lsp.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: vim-lsp.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/textobj.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: textobj.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/dein/vim.toml
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: vim.toml
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/denops/@ddc-filters/sorter_file.ts
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: sorter_file.ts
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/denops/@ddu-sources/pypi_classifiers.ts
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: pypi_classifiers.ts
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/denops/@ddu-sources/quickfix.ts
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: quickfix.ts
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/denops/@ddu-sources/scrapbox_pages.ts
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: scrapbox_pages.ts
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/denops/vimrc/main.ts
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: main.ts
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/doc/dotfiles.txt
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: dotfiles.txt
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/ftdetect/vimrc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: vimrc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/init.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
+    - url: https://github.com/supermomonga/nvimrc/blob/main/init.vim
+      hash: null
       name: init.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/lua/vimrc/autocmd.lua
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: autocmd.lua
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/rc/autocmd.rc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: autocmd.rc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/rc/dein.rc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: dein.rc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/rc/init.rc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: init.rc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/rc/keymap.rc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: keymap.rc.vim
-    - url: >-
-        https://github.com/4513ECHO/dotfiles/blob/e58efb3f5eb55b6281a1c400730d4d29da7197e4/config/nvim/rc/option.rc.vim
-      hash: e58efb3f5eb55b6281a1c400730d4d29da7197e4
-      name: option.rc.vim
-  part: 後編
+    - url: https://github.com/supermomonga/nvimrc/blob/main/config/common.toml
+      hash: null
+      name: common.toml
+    - url: https://github.com/supermomonga/nvimrc/blob/main/config/ddu.toml
+      hash: null
+      name: ddu.toml
+  part: null
   other: null
