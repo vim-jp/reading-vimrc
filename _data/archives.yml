@@ -23481,3 +23481,26 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$LOVIi-vW7gVMibkRFv21675PCxIkuAynI5wF1msouBY
+- id: 567
+  date: 2023-05-20 23:00
+  author:
+    name: hakehash
+    url: https://github.com/hakehash
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/hakehash/vimrc/blob/35a96d1192f38c50bdee0b3c20288086585ef53b/.vimrc
+      raw_url: https://raw.githubusercontent.com/hakehash/vimrc/35a96d1192f38c50bdee0b3c20288086585ef53b/.vimrc
+      hash: 35a96d1192f38c50bdee0b3c20288086585ef53b
+    - name: init.vim
+      url: https://github.com/hakehash/vimrc/blob/35a96d1192f38c50bdee0b3c20288086585ef53b/.config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/hakehash/vimrc/35a96d1192f38c50bdee0b3c20288086585ef53b/.config/nvim/init.vim
+      hash: 35a96d1192f38c50bdee0b3c20288086585ef53b
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - OgaKen
+    - kuuote (@kuuote:matrix.org)
+    - thinca
+    - yasunori-kirin0418
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$4xFrmiZptiDXEVVE79CDp1ATj--VGqy6CypihjW60JU
