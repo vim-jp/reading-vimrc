@@ -1,17 +1,14 @@
-- id: 566
-  date: 2023-05-13 23:00
+- id: 567
+  date: 2023-05-20 23:00
   author:
-    name: supermomonga
-    url: https://github.com/supermomonga
+    name: hakehash
+    url: https://github.com/hakehash
   vimrcs:
-    - url: https://github.com/supermomonga/nvimrc/blob/main/init.vim
+    - url: https://github.com/hakehash/vimrc/blob/master/.vimrc
+      hash: null
+      name: .vimrc
+    - url: https://github.com/hakehash/vimrc/blob/master/.config/nvim/init.vim
       hash: null
       name: init.vim
-    - url: https://github.com/supermomonga/nvimrc/blob/main/config/common.toml
-      hash: null
-      name: common.toml
-    - url: https://github.com/supermomonga/nvimrc/blob/main/config/ddu.toml
-      hash: null
-      name: ddu.toml
-  part: null
+  part: 前編
   other: null
