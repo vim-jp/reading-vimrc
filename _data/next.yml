@@ -1,14 +1,396 @@
-- id: 567
-  date: 2023-05-20 23:00
+- id: 568
+  date: 2023-05-27 23:00
   author:
-    name: hakehash
-    url: https://github.com/hakehash
+    name: KentoOgata
+    url: https://github.com/KentoOgata
   vimrcs:
-    - url: https://github.com/hakehash/vimrc/blob/master/.vimrc
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/autoload/skkeleton_azik.vim
       hash: null
-      name: .vimrc
-    - url: https://github.com/hakehash/vimrc/blob/master/.config/nvim/init.vim
+      name: skkeleton_azik.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/compiler/dotnet.vim
+      hash: null
+      name: dotnet.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/ftdetect/ftdetect.vim
+      hash: null
+      name: ftdetect.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/queries/toml/injections.scm
+      hash: null
+      name: injections.scm
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/queries/unifieddiff/highlights.scm
+      hash: null
+      name: highlights.scm
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/chezmoi.vim
+      hash: null
+      name: chezmoi.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/commands.vim
+      hash: null
+      name: commands.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/dein.vim
+      hash: null
+      name: dein.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/init.vim
       hash: null
       name: init.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/keymaps.vim
+      hash: null
+      name: keymaps.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/StatusColumn.lua
+      hash: null
+      name: StatusColumn.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/StatusLines.lua
+      hash: null
+      name: StatusLines.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/TabLine.lua
+      hash: null
+      name: TabLine.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/WinBar.lua
+      hash: null
+      name: WinBar.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/BufferLine.lua
+      hash: null
+      name: BufferLine.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/CloseButton.lua
+      hash: null
+      name: CloseButton.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/DAPMessages.lua
+      hash: null
+      name: DAPMessages.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/Diagnostics.lua
+      hash: null
+      name: Diagnostics.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileEncoding.lua
+      hash: null
+      name: FileEncoding.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileFlags.lua
+      hash: null
+      name: FileFlags.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileFormat.lua
+      hash: null
+      name: FileFormat.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileIcon.lua
+      hash: null
+      name: FileIcon.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileLastModified.lua
+      hash: null
+      name: FileLastModified.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileName.lua
+      hash: null
+      name: FileName.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileNameBlock.lua
+      hash: null
+      name: FileNameBlock.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileSize.lua
+      hash: null
+      name: FileSize.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/FileType.lua
+      hash: null
+      name: FileType.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/Git.lua
+      hash: null
+      name: Git.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/GitBranch.lua
+      hash: null
+      name: GitBranch.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/GitDiff.lua
+      hash: null
+      name: GitDiff.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/HelpFileName.lua
+      hash: null
+      name: HelpFileName.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/LspActive.lua
+      hash: null
+      name: LspActive.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/MacroRec.lua
+      hash: null
+      name: MacroRec.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/Navic.lua
+      hash: null
+      name: Navic.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/Ruler.lua
+      hash: null
+      name: Ruler.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/ScrollBar.lua
+      hash: null
+      name: ScrollBar.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/SearchCount.lua
+      hash: null
+      name: SearchCount.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/Spell.lua
+      hash: null
+      name: Spell.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabLineBufferBlock.lua
+      hash: null
+      name: TabLineBufferBlock.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabLineBufnr.lua
+      hash: null
+      name: TabLineBufnr.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabLineCloseButton.lua
+      hash: null
+      name: TabLineCloseButton.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabLineFileFlags.lua
+      hash: null
+      name: TabLineFileFlags.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabLineFileName.lua
+      hash: null
+      name: TabLineFileName.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabLineFileNameBlock.lua
+      hash: null
+      name: TabLineFileNameBlock.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabLineOffset.lua
+      hash: null
+      name: TabLineOffset.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabLinePicker.lua
+      hash: null
+      name: TabLinePicker.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabPage.lua
+      hash: null
+      name: TabPage.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabPageClose.lua
+      hash: null
+      name: TabPageClose.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TabPages.lua
+      hash: null
+      name: TabPages.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/TerminalName.lua
+      hash: null
+      name: TerminalName.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/ViMode.lua
+      hash: null
+      name: ViMode.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/VisualRange.lua
+      hash: null
+      name: VisualRange.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/components/WorkDir.lua
+      hash: null
+      name: WorkDir.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/nvim-lsp.lua
+      hash: null
+      name: nvim-lsp.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/options.vim
+      hash: null
+      name: options.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/chowcho.nvim.lua
+      hash: null
+      name: chowcho.nvim.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/coc.nvim.toml
+      hash: null
+      name: coc.nvim.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/colorscheme.toml
+      hash: null
+      name: colorscheme.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/ddc.vim.toml
+      hash: null
+      name: ddc.vim.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/dressing.nvim.lua
+      hash: null
+      name: dressing.nvim.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/fern.vim.toml
+      hash: null
+      name: fern.vim.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/ft.toml
+      hash: null
+      name: ft.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/fzf-lua.lua
+      hash: null
+      name: fzf-lua.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/fzf.toml
+      hash: null
+      name: fzf.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/gin.vim
+      hash: null
+      name: gin.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/git.toml
+      hash: null
+      name: git.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/gitsigns.nvim.lua
+      hash: null
+      name: gitsigns.nvim.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/global.toml
+      hash: null
+      name: global.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/heirline.nvim.lua
+      hash: null
+      name: heirline.nvim.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/lexima.vim
+      hash: null
+      name: lexima.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/main.toml
+      hash: null
+      name: main.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/nvim-cmp.lua
+      hash: null
+      name: nvim-cmp.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/nvim-cmp.toml
+      hash: null
+      name: nvim-cmp.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/nvim-gtd.lua
+      hash: null
+      name: nvim-gtd.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/nvim-lsp.toml
+      hash: null
+      name: nvim-lsp.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/nvim-lspconfig.lua
+      hash: null
+      name: nvim-lspconfig.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/skkeleton.lua
+      hash: null
+      name: skkeleton.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/snippet.toml
+      hash: null
+      name: snippet.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/tree-sitter.toml
+      hash: null
+      name: tree-sitter.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/vim-searchx.vim
+      hash: null
+      name: vim-searchx.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/vim-sonictemplate.vim
+      hash: null
+      name: vim-sonictemplate.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/watchlist.toml
+      hash: null
+      name: watchlist.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-EntityTypeConfiguration.cs
+      hash: null
+      name: base-EntityTypeConfiguration.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-ValueConverter.cs
+      hash: null
+      name: base-ValueConverter.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-class.cs
+      hash: null
+      name: base-class.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-enum.cs
+      hash: null
+      name: base-enum.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-interface.cs
+      hash: null
+      name: base-interface.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-namespace.cs
+      hash: null
+      name: base-namespace.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-record-class.cs
+      hash: null
+      name: base-record-class.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-sealed-class.cs
+      hash: null
+      name: base-sealed-class.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/cs/base-static-class.cs
+      hash: null
+      name: base-static-class.cs
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/toml/base-stylua.toml
+      hash: null
+      name: base-stylua.toml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/typescript/pattern.stpl
+      hash: null
+      name: pattern.stpl
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/vim/base-minimal-configuration.vim
+      hash: null
+      name: base-minimal-configuration.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/template/yaml/base-csharpierrc.yml
+      hash: null
+      name: base-csharpierrc.yml
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/vsnip/cs.json
+      hash: null
+      name: cs.json
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/vsnip/vim.json
+      hash: null
+      name: vim.json
   part: 前編
   other: null
