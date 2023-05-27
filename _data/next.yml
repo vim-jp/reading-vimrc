@@ -9,6 +9,10 @@
       hash: null
       name: skkeleton_azik.vim
     - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/autoload/azik-kanaTable.json
+      hash: null
+      name: azik-kanaTable.json
+    - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/compiler/dotnet.vim
       hash: null
       name: dotnet.vim
@@ -16,6 +20,14 @@
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/ftdetect/ftdetect.vim
       hash: null
       name: ftdetect.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/queries/c_sharp/highlights.scm
+      hash: null
+      name: highlights.scm
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/queries/c_sharp/indents.scm
+      hash: null
+      name: indents.scm
     - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/after/queries/toml/injections.scm
       hash: null
@@ -29,6 +41,10 @@
       hash: null
       name: chezmoi.vim
     - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/coc-settings.json
+      hash: null
+      name: coc-settings.json
+    - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/commands.vim
       hash: null
       name: commands.vim
@@ -37,6 +53,10 @@
       hash: null
       name: dein.vim
     - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/global.lua
+      hash: null
+      name: global.lua
+    - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/init.vim
       hash: null
       name: init.vim
@@ -44,6 +64,54 @@
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/keymaps.vim
       hash: null
       name: keymaps.vim
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/aomi-grayscale.lua
+      hash: null
+      name: aomi-grayscale.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/catppuccin.lua
+      hash: null
+      name: catppuccin.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/edge.lua
+      hash: null
+      name: edge.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/everforest.lua
+      hash: null
+      name: everforest.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/gruvbox-material.lua
+      hash: null
+      name: gruvbox-material.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/iceberg.lua
+      hash: null
+      name: iceberg.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/kanagawa.lua
+      hash: null
+      name: kanagawa.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/nord.lua
+      hash: null
+      name: nord.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/rose-pine.lua
+      hash: null
+      name: rose-pine.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/sonokai.lua
+      hash: null
+      name: sonokai.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/colorscheme-setups/tokyonight.lua
+      hash: null
+      name: tokyonight.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/ddu.lua
+      hash: null
+      name: ddu.lua
     - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/heirline/StatusColumn.lua
       hash: null
@@ -217,6 +285,14 @@
       hash: null
       name: WorkDir.lua
     - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/nvim-lsp.lua
+      hash: null
+      name: nvim-lsp.lua
+    - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/lua/rc/utils.lua
+      hash: null
+      name: utils.lua
+    - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/nvim-lsp.lua
       hash: null
       name: nvim-lsp.lua
@@ -241,6 +317,10 @@
       hash: null
       name: ddc.vim.toml
     - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/ddu.toml
+      hash: null
+      name: ddu.toml
+    - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/dressing.nvim.lua
       hash: null
       name: dressing.nvim.lua
@@ -261,6 +341,10 @@
       hash: null
       name: fzf.toml
     - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/fzf.vim.lua
+      hash: null
+      name: fzf.vim.lua
+    - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/gin.vim
       hash: null
       name: gin.vim
@@ -272,10 +356,6 @@
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/gitsigns.nvim.lua
       hash: null
       name: gitsigns.nvim.lua
-    - url: >-
-        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/global.toml
-      hash: null
-      name: global.toml
     - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/heirline.nvim.lua
       hash: null
@@ -309,6 +389,10 @@
       hash: null
       name: nvim-lspconfig.lua
     - url: >-
+        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/nvim-treesitter.lua
+      hash: null
+      name: nvim-treesitter.lua
+    - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/skkeleton.lua
       hash: null
       name: skkeleton.lua
@@ -316,10 +400,6 @@
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/snippet.toml
       hash: null
       name: snippet.toml
-    - url: >-
-        https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/tree-sitter.toml
-      hash: null
-      name: tree-sitter.toml
     - url: >-
         https://github.com/KentoOgata/dotfiles/blob/main/dot_config/nvim/plugins.d/vim-searchx.vim
       hash: null
