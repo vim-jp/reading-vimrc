@@ -24471,3 +24471,485 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$w4svBO89cmtRiT4RcTm3SctM0eCp4YqkwasKCp2JoHE
+- id: 570
+  date: 2023-06-10 23:00
+  author:
+    name: KentoOgata
+    url: https://github.com/KentoOgata
+  vimrcs:
+    - name: skkeleton_azik.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/autoload/skkeleton_azik.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/autoload/skkeleton_azik.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: azik-kanaTable.json
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/autoload/azik-kanaTable.json
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/autoload/azik-kanaTable.json
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: dotnet.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/compiler/dotnet.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/compiler/dotnet.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: ftdetect.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/ftdetect/ftdetect.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/ftdetect/ftdetect.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: highlights.scm
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/queries/c_sharp/highlights.scm
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/queries/c_sharp/highlights.scm
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: indents.scm
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/queries/c_sharp/indents.scm
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/queries/c_sharp/indents.scm
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: injections.scm
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/queries/toml/injections.scm
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/queries/toml/injections.scm
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: highlights.scm
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/queries/unifieddiff/highlights.scm
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/after/queries/unifieddiff/highlights.scm
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: chezmoi.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/chezmoi.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/chezmoi.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: coc-settings.json
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/coc-settings.json
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: commands.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/commands.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/commands.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: dein.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/dein.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/dein.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: global.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/global.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/global.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: init.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/init.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: keymaps.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/keymaps.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/keymaps.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: aomi-grayscale.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/aomi-grayscale.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/aomi-grayscale.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: catppuccin.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/catppuccin.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/catppuccin.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: edge.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/edge.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/edge.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: everforest.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/everforest.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/everforest.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: gruvbox-material.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/gruvbox-material.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/gruvbox-material.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: iceberg.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/iceberg.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/iceberg.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: kanagawa.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/kanagawa.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/kanagawa.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nord.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/nord.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/nord.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: rose-pine.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/rose-pine.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/rose-pine.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: sonokai.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/sonokai.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/sonokai.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: tokyonight.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/tokyonight.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/colorscheme-setups/tokyonight.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: ddu.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/ddu.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/ddu.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: StatusColumn.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/StatusColumn.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/StatusColumn.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: StatusLines.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/StatusLines.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/StatusLines.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLine.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/TabLine.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/TabLine.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: WinBar.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/WinBar.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/WinBar.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: BufferLine.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/BufferLine.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/BufferLine.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: CloseButton.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/CloseButton.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/CloseButton.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: DAPMessages.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/DAPMessages.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/DAPMessages.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: Diagnostics.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Diagnostics.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Diagnostics.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileEncoding.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileEncoding.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileEncoding.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileFlags.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileFlags.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileFlags.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileFormat.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileFormat.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileFormat.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileIcon.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileIcon.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileIcon.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileLastModified.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileLastModified.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileLastModified.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileName.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileName.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileName.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileNameBlock.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileNameBlock.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileNameBlock.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileSize.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileSize.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileSize.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: FileType.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileType.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/FileType.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: Git.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Git.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Git.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: GitBranch.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/GitBranch.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/GitBranch.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: GitDiff.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/GitDiff.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/GitDiff.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: HelpFileName.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/HelpFileName.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/HelpFileName.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: LspActive.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/LspActive.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/LspActive.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: MacroRec.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/MacroRec.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/MacroRec.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: Navic.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Navic.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Navic.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: Ruler.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Ruler.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Ruler.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: ScrollBar.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/ScrollBar.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/ScrollBar.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: SearchCount.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/SearchCount.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/SearchCount.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: Spell.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Spell.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/Spell.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLineBufferBlock.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineBufferBlock.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineBufferBlock.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLineBufnr.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineBufnr.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineBufnr.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLineCloseButton.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineCloseButton.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineCloseButton.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLineFileFlags.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineFileFlags.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineFileFlags.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLineFileName.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineFileName.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineFileName.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLineFileNameBlock.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineFileNameBlock.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineFileNameBlock.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLineOffset.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineOffset.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLineOffset.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabLinePicker.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLinePicker.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabLinePicker.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabPage.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabPage.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabPage.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabPageClose.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabPageClose.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabPageClose.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TabPages.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabPages.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TabPages.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: TerminalName.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TerminalName.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/TerminalName.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: ViMode.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/ViMode.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/ViMode.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: VisualRange.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/VisualRange.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/VisualRange.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: WorkDir.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/WorkDir.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/heirline/components/WorkDir.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nvim-lsp.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/nvim-lsp.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/nvim-lsp.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: utils.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/utils.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/lua/rc/utils.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nvim-lsp.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/nvim-lsp.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/nvim-lsp.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: options.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/options.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/options.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: chowcho.nvim.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/chowcho.nvim.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/chowcho.nvim.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: coc.nvim.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/coc.nvim.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/coc.nvim.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: colorscheme.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/colorscheme.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/colorscheme.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: ddc.vim.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/ddc.vim.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/ddc.vim.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: ddu.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/ddu.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/ddu.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: dressing.nvim.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/dressing.nvim.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/dressing.nvim.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: fern.vim.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/fern.vim.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/fern.vim.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: ft.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/ft.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/ft.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: fzf-lua.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/fzf-lua.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/fzf-lua.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: fzf.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/fzf.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/fzf.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: fzf.vim.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/fzf.vim.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/fzf.vim.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: gin.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/gin.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/gin.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: git.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/git.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/git.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: gitsigns.nvim.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/gitsigns.nvim.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/gitsigns.nvim.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: heirline.nvim.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/heirline.nvim.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/heirline.nvim.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: lexima.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/lexima.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/lexima.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: main.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/main.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/main.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nvim-cmp.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-cmp.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-cmp.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nvim-cmp.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-cmp.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-cmp.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nvim-gtd.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-gtd.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-gtd.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nvim-lsp.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-lsp.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-lsp.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nvim-lspconfig.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-lspconfig.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: nvim-treesitter.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-treesitter.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/nvim-treesitter.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: skkeleton.lua
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/skkeleton.lua
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/skkeleton.lua
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: snippet.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/snippet.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/snippet.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: vim-searchx.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/vim-searchx.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/vim-searchx.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: vim-sonictemplate.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/vim-sonictemplate.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/vim-sonictemplate.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: watchlist.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/watchlist.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/plugins.d/watchlist.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-EntityTypeConfiguration.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-EntityTypeConfiguration.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-EntityTypeConfiguration.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-ValueConverter.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-ValueConverter.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-ValueConverter.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-class.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-class.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-class.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-enum.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-enum.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-enum.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-interface.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-interface.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-interface.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-namespace.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-namespace.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-namespace.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-record-class.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-record-class.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-record-class.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-sealed-class.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-sealed-class.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-sealed-class.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-static-class.cs
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-static-class.cs
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/cs/base-static-class.cs
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-stylua.toml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/toml/base-stylua.toml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/toml/base-stylua.toml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: pattern.stpl
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/typescript/pattern.stpl
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/typescript/pattern.stpl
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-minimal-configuration.vim
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/vim/base-minimal-configuration.vim
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/vim/base-minimal-configuration.vim
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: base-csharpierrc.yml
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/yaml/base-csharpierrc.yml
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/template/yaml/base-csharpierrc.yml
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: cs.json
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/vsnip/cs.json
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/vsnip/cs.json
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+    - name: vim.json
+      url: https://github.com/KentoOgata/dotfiles/blob/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/vsnip/vim.json
+      raw_url: https://raw.githubusercontent.com/KentoOgata/dotfiles/06f146495dbbe347f1d6439f7dd77516dc5c1e63/dot_config/nvim/vsnip/vim.json
+      hash: 06f146495dbbe347f1d6439f7dd77516dc5c1e63
+  part: 後編
+  other: null
+  members:
+    - OgaKen
+    - Tsuyoshi CHO
+    - kuuote (@kuuote:matrix.org)
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$fLzZSE_TdqXDWZzlyAqSYXZOm5bmAa8uKAzvtg2Yqrg
