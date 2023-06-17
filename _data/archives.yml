@@ -24953,3 +24953,60 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$fLzZSE_TdqXDWZzlyAqSYXZOm5bmAa8uKAzvtg2Yqrg
+- id: 571
+  date: 2023-06-17 23:00
+  author:
+    name: sevenc-nanashi
+    url: https://github.com/sevenc-nanashi
+  vimrcs:
+    - name: .luarc.json
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/.luarc.json
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/.luarc.json
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: coc-package.json
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/coc-package.json
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/coc-package.json
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: coc-settings.json
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/coc-settings.json
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: sus.vim
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/ftdetect/sus.vim
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/ftdetect/sus.vim
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: ginit.vim
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/ginit.vim
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/ginit.vim
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: init.vim
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/init.vim
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/init.vim
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: init.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/init.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/init.lua
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: setup-line.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-line.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-line.lua
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: setup-mapping.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-mapping.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-mapping.lua
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+    - name: setup-plugins.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-plugins.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-plugins.lua
+      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - OgaKen
+    - Tsuyoshi CHO
+    - kuuote (@kuuote:matrix.org)
+    - sevenc-nanashi (Nanashi.)
+    - thinca
+    - ukiuki-engineer
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$GrmHzJxHlYHYC3mZ33PsaxWfONoR9DNo5kCSmnoID78
