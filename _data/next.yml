@@ -1,48 +1,436 @@
-- id: 572
-  date: 2023-06-24 23:00
+- id: 573
+  date: 2023-07-01 23:00
   author:
-    name: sevenc-nanashi
-    url: https://github.com/sevenc-nanashi
+    name: kyoh86
+    url: https://github.com/kyoh86
   vimrcs:
     - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/.luarc.json
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: .luarc.json
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/after/autoload/operand.vim
+      hash: null
+      name: operand.vim
+    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/go.lua
+      hash: null
+      name: go.lua
     - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/coc-package.json
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: coc-package.json
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/help.lua
+      hash: null
+      name: help.lua
     - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/coc-settings.json
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: coc-settings.json
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/lazy.lua
+      hash: null
+      name: lazy.lua
     - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/ftdetect/sus.vim
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: sus.vim
-    - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/ginit.vim
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: ginit.vim
-    - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/init.vim
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: init.vim
-    - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/init.lua
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/markdown.lua
+      hash: null
+      name: markdown.lua
+    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/qf.lua
+      hash: null
+      name: qf.lua
+    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/ftdetect/flux.vim
+      hash: null
+      name: flux.vim
+    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/ftdetect/help.vim
+      hash: null
+      name: help.vim
+    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/init.lua
+      hash: null
       name: init.lua
     - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-line.lua
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: setup-line.lua
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/altercmd.lua
+      hash: null
+      name: altercmd.lua
     - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-mapping.lua
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: setup-mapping.lua
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/clipboard.lua
+      hash: null
+      name: clipboard.lua
     - url: >-
-        https://github.com/sevenc-nanashi/dotfiles/blob/e1aa89ff42ce6ceb547901bb25459b53a676fe6c/neovim/lua/setup-plugins.lua
-      hash: e1aa89ff42ce6ceb547901bb25459b53a676fe6c
-      name: setup-plugins.lua
-  part: 後編
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/cmdline_cwd.lua
+      hash: null
+      name: cmdline_cwd.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/cmdline_keymap.lua
+      hash: null
+      name: cmdline_keymap.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/cursorline_focus.lua
+      hash: null
+      name: cursorline_focus.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/deno_deps.lua
+      hash: null
+      name: deno_deps.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/drop_float_wins.lua
+      hash: null
+      name: drop_float_wins.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/envar.lua
+      hash: null
+      name: envar.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/filetype.lua
+      hash: null
+      name: filetype.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/filterbuf.lua
+      hash: null
+      name: filterbuf.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/ime.lua
+      hash: null
+      name: ime.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/lazy.lua
+      hash: null
+      name: lazy.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/lazy_template.lua
+      hash: null
+      name: lazy_template.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/lsp_stat.lua
+      hash: null
+      name: lsp_stat.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/markdown.lua
+      hash: null
+      name: markdown.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/misc.lua
+      hash: null
+      name: misc.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/open.lua
+      hash: null
+      name: open.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/qfadd.lua
+      hash: null
+      name: qfadd.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/qftable.lua
+      hash: null
+      name: qftable.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/quitable.lua
+      hash: null
+      name: quitable.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/rename.lua
+      hash: null
+      name: rename.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/search.lua
+      hash: null
+      name: search.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/tab_window.lua
+      hash: null
+      name: tab_window.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/terminal.lua
+      hash: null
+      name: terminal.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/terminal_variable.lua
+      hash: null
+      name: terminal_variable.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/terminal_window_keymap.lua
+      hash: null
+      name: terminal_window_keymap.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/volatile_terminal.lua
+      hash: null
+      name: volatile_terminal.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/lib/initial_buffer.lua
+      hash: null
+      name: initial_buffer.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/lib/open.lua
+      hash: null
+      name: open.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/lib/toggleinsert.lua
+      hash: null
+      name: toggleinsert.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/aerial.lua
+      hash: null
+      name: aerial.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ambiwidth.lua
+      hash: null
+      name: ambiwidth.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/buffer.lua
+      hash: null
+      name: buffer.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/cinfo.lua
+      hash: null
+      name: cinfo.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/color.lua
+      hash: null
+      name: color.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/comment.lua
+      hash: null
+      name: comment.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/comp.lua
+      hash: null
+      name: comp.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/core.lua
+      hash: null
+      name: core.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/dap.lua
+      hash: null
+      name: dap.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/filter/converter_hl_dir.lua
+      hash: null
+      name: converter_hl_dir.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/filter/fuse.lua
+      hash: null
+      name: fuse.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/filter/fzf.lua
+      hash: null
+      name: fzf.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/helper.lua
+      hash: null
+      name: helper.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/kind/file.lua
+      hash: null
+      name: file.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/action.lua
+      hash: null
+      name: action.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/buffer.lua
+      hash: null
+      name: buffer.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/command.lua
+      hash: null
+      name: command.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/command_history.lua
+      hash: null
+      name: command_history.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/emoji.lua
+      hash: null
+      name: emoji.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/file.lua
+      hash: null
+      name: file.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/git.lua
+      hash: null
+      name: git.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/gogh.lua
+      hash: null
+      name: gogh.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/help.lua
+      hash: null
+      name: help.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/lazy_nvim.lua
+      hash: null
+      name: lazy_nvim.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/lsp.lua
+      hash: null
+      name: lsp.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/mr.lua
+      hash: null
+      name: mr.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/quickfix.lua
+      hash: null
+      name: quickfix.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/zenn_dev.lua
+      hash: null
+      name: zenn_dev.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/ui/ff.lua
+      hash: null
+      name: ff.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/deepl.lua
+      hash: null
+      name: deepl.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/denops.lua
+      hash: null
+      name: denops.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/fern/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/fern/mode.lua
+      hash: null
+      name: mode.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/git.lua
+      hash: null
+      name: git.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/diagnostics.lua
+      hash: null
+      name: diagnostics.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/file.lua
+      hash: null
+      name: file.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/git.lua
+      hash: null
+      name: git.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/mode.lua
+      hash: null
+      name: mode.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/palette.lua
+      hash: null
+      name: palette.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/ruler.lua
+      hash: null
+      name: ruler.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/status.lua
+      hash: null
+      name: status.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/winbar.lua
+      hash: null
+      name: winbar.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/indent_blankline.lua
+      hash: null
+      name: indent_blankline.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/jsonpath.lua
+      hash: null
+      name: jsonpath.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/lsp.lua
+      hash: null
+      name: lsp.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/matchup.lua
+      hash: null
+      name: matchup.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/operator.lua
+      hash: null
+      name: operator.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/others.lua
+      hash: null
+      name: others.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/podium.lua
+      hash: null
+      name: podium.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/quickrun.lua
+      hash: null
+      name: quickrun.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/quotem.lua
+      hash: null
+      name: quotem.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/rest.lua
+      hash: null
+      name: rest.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/search.lua
+      hash: null
+      name: search.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/skk.lua
+      hash: null
+      name: skk.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/swap.lua
+      hash: null
+      name: swap.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/terraform.lua
+      hash: null
+      name: terraform.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/test.lua
+      hash: null
+      name: test.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/visual.lua
+      hash: null
+      name: visual.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/zen.lua
+      hash: null
+      name: zen.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/zenn.lua
+      hash: null
+      name: zenn.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/poc/README.md
+      hash: null
+      name: README.md
+    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/poc/fa.lua
+      hash: null
+      name: fa.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/poc/toggleinsert.lua
+      hash: null
+      name: toggleinsert.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/root/plugin.lua
+      hash: null
+      name: plugin.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/root/postload.lua
+      hash: null
+      name: postload.lua
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/root/preload.lua
+      hash: null
+      name: preload.lua
+    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/vsnip/go.json
+      hash: null
+      name: go.json
+    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/vsnip/lua.json
+      hash: null
+      name: lua.json
+  part: 前編
   other: null
