@@ -1,436 +1,444 @@
-- id: 573
-  date: 2023-07-01 23:00
+- id: 574
+  date: 2023-07-08 23:00
   author:
     name: kyoh86
     url: https://github.com/kyoh86
   vimrcs:
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/after/autoload/operand.vim
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/after/autoload/operand.vim
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: operand.vim
-    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/go.lua
-      hash: null
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/after/ftplugin/go.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: go.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/help.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/after/ftplugin/help.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: help.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/lazy.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/after/ftplugin/lazy.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lazy.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/markdown.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/after/ftplugin/markdown.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: markdown.lua
-    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/after/ftplugin/qf.lua
-      hash: null
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/after/ftplugin/qf.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: qf.lua
-    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/ftdetect/flux.vim
-      hash: null
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/ftdetect/flux.vim
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: flux.vim
-    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/ftdetect/help.vim
-      hash: null
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/ftdetect/help.vim
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: help.vim
-    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/init.lua
-      hash: null
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/init.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: init.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/altercmd.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/altercmd.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: altercmd.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/clipboard.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/clipboard.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: clipboard.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/cmdline_cwd.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/cmdline_cwd.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: cmdline_cwd.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/cmdline_keymap.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/cmdline_keymap.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: cmdline_keymap.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/cursorline_focus.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/cursorline_focus.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: cursorline_focus.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/deno_deps.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/deno_deps.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: deno_deps.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/drop_float_wins.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/drop_float_wins.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: drop_float_wins.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/envar.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/envar.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: envar.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/filetype.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/filetype.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: filetype.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/filterbuf.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/filterbuf.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: filterbuf.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/ime.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/ime.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: ime.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/lazy.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/lazy.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lazy.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/lazy_template.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/lazy_template.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lazy_template.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/lsp_stat.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/lsp_stat.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lsp_stat.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/markdown.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/markdown.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: markdown.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/misc.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/misc.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: misc.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/open.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/open.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: open.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/qfadd.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/qfadd.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: qfadd.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/qftable.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/qftable.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: qftable.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/quitable.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/quitable.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: quitable.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/rename.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/rename.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: rename.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/search.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/search.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: search.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/tab_window.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/tab_window.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: tab_window.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/terminal.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/terminal.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: terminal.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/terminal_variable.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/terminal_variable.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: terminal_variable.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/terminal_window_keymap.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/terminal_window_keymap.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: terminal_window_keymap.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/conf/volatile_terminal.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/conf/volatile_terminal.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: volatile_terminal.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/lib/initial_buffer.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/lib/initial_buffer.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: initial_buffer.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/lib/open.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/lib/open.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: open.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/lib/toggleinsert.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/lib/toggleinsert.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: toggleinsert.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/aerial.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/aerial.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: aerial.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ambiwidth.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ambiwidth.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: ambiwidth.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/buffer.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/buffer.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: buffer.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/cinfo.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/cinfo.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: cinfo.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/color.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/color.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: color.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/comment.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/comment.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: comment.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/comp.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/comp.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: comp.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/core.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/core.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: core.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/dap.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/dap.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: dap.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/filter/converter_hl_dir.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/filter/converter_hl_dir.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: converter_hl_dir.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/filter/fuse.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/filter/fuse.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: fuse.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/filter/fzf.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/filter/fzf.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: fzf.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/helper.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/helper.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: helper.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/init.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/init.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: init.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/kind/file.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/kind/file.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: file.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/action.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/action.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: action.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/buffer.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/buffer.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: buffer.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/command.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/command.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: command.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/command_history.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/command_history.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: command_history.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/emoji.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/emoji.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: emoji.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/file.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/file.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: file.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/git.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/git.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: git.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/gogh.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/gogh.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: gogh.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/help.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/help.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: help.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/lazy_nvim.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/lazy_nvim.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lazy_nvim.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/lsp.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/lsp.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lsp.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/mr.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/mr.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: mr.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/quickfix.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/quickfix.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: quickfix.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/source/zenn_dev.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/source/zenn_dev.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: zenn_dev.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/ddu/ui/ff.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/ddu/ui/ff.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: ff.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/deepl.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/deepl.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: deepl.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/denops.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/denops.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: denops.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/fern/init.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/fern/init.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: init.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/fern/mode.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/fern/mode.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: mode.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/git.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/git.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: git.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/diagnostics.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/diagnostics.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: diagnostics.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/file.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/file.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: file.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/git.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/git.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: git.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/init.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/init.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: init.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/mode.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/mode.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: mode.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/palette.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/palette.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: palette.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/ruler.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/ruler.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: ruler.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/status.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/status.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: status.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/heirline/winbar.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/heirline/winbar.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: winbar.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/indent_blankline.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/indent_blankline.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: indent_blankline.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/jsonpath.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/jsonpath.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: jsonpath.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/lsp.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/lsp.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lsp.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/matchup.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/matchup.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: matchup.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/operator.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/operator.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: operator.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/others.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/others.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: others.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/podium.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/podium.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: podium.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/quickrun.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/quickrun.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: quickrun.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/quotem.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/quotem.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: quotem.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/rest.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/rest.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: rest.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/search.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/search.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: search.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/skk.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/skk.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: skk.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/swap.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/swap.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: swap.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/terraform.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/terraform.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: terraform.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/test.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/test.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: test.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/visual.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/visual.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: visual.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/zen.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/zen.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: zen.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/plug/zenn.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/plug/zenn.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: zenn.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/poc/README.md
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/poc/README.md
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: README.md
-    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/poc/fa.lua
-      hash: null
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/poc/fa.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: fa.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/poc/toggleinsert.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/poc/toggleinsert.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: toggleinsert.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/root/plugin.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/root/plugin.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: plugin.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/root/postload.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/root/postload.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: postload.lua
     - url: >-
-        https://github.com/kyoh86/dotfiles/blob/main/nvim/lua/kyoh86/root/preload.lua
-      hash: null
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/lua/kyoh86/root/preload.lua
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: preload.lua
-    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/vsnip/go.json
-      hash: null
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/vsnip/go.json
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: go.json
-    - url: https://github.com/kyoh86/dotfiles/blob/main/nvim/vsnip/lua.json
-      hash: null
+    - url: >-
+        https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/vsnip/lua.json
+      hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lua.json
-  part: 前編
+  part: 中編
   other: null
