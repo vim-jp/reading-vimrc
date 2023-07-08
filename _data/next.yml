@@ -1,5 +1,5 @@
-- id: 574
-  date: 2023-07-08 23:00
+- id: 575
+  date: 2023-07-15 23:00
   author:
     name: kyoh86
     url: https://github.com/kyoh86
@@ -440,5 +440,5 @@
         https://github.com/kyoh86/dotfiles/blob/b9a59a6dc9c6f0b2db7679f55462185c2475c9de/nvim/vsnip/lua.json
       hash: b9a59a6dc9c6f0b2db7679f55462185c2475c9de
       name: lua.json
-  part: 中編
+  part: 後編
   other: null
