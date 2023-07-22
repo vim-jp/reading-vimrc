@@ -1,161 +1,180 @@
-- id: 576
-  date: 2023-07-22 23:00
+- id: 577
+  date: 2023-07-29 23:00
   author:
     name: matsui54
     url: https://github.com/matsui54
   vimrcs:
-    - url: https://github.com/matsui54/dotfiles/blob/master/.vimrc
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/.vimrc
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: .vimrc
-    - url: https://github.com/matsui54/dotfiles/blob/master/min_rc.vim
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/min_rc.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: min_rc.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/dein_lazy.toml
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein_lazy.toml
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: dein_lazy.toml
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/UltiSnips/vim.snippets
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/UltiSnips/vim.snippets
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: vim.snippets
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/plugins/defx.rc.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/defx.rc.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: defx.rc.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/plugins/lightline.rc.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/lightline.rc.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: lightline.rc.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/plugins/ddc.ts
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/ddc.ts
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: ddc.ts
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/plugins/denite.rc.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/denite.rc.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: denite.rc.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/plugins/quickrun.rc.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/quickrun.rc.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: quickrun.rc.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/options.rc.vim
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/options.rc.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: options.rc.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/denops/@ddc-sources/file_rec.ts
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/denops/@ddc-sources/file_rec.ts
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: file_rec.ts
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/denops/vimrc/plugins/ddu.ts
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/denops/vimrc/plugins/ddu.ts
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: ddu.ts
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/denops/vimrc/main.ts
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/denops/vimrc/main.ts
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: main.ts
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/denops/@ddu-sources/vsnip.ts
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/denops/@ddu-sources/vsnip.ts
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: vsnip.ts
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/map.rc.vim
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/map.rc.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: map.rc.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/init.vim
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/init.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: init.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/dein_ddu.toml
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein_ddu.toml
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: dein_ddu.toml
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/dein_ft.toml
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein_ft.toml
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: dein_ft.toml
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/ftdetect/plt.vim
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/ftdetect/plt.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: plt.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/ftdetect/vh.vim
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/ftdetect/vh.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: vh.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/dein_ddc.toml
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein_ddc.toml
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: dein_ddc.toml
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/rplugin/python3/denite/source/git/status.py
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/git/status.py
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: status.py
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/rplugin/python3/denite/source/git/log.py
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/git/log.py
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: log.py
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/rplugin/python3/denite/source/session.py
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/session.py
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: session.py
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/rplugin/python3/denite/source/gina/command.py
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/gina/command.py
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: command.py
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/rplugin/python3/denite/source/gina/action.py
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/gina/action.py
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: action.py
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/rplugin/python3/denite/source/yay.py
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/yay.py
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: yay.py
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/dein.toml
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein.toml
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: dein.toml
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/typing.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/typing.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: typing.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/show_register.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/show_register.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: show_register.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/line_counter.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/line_counter.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: line_counter.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/vimrc.vim
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/vimrc.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: vimrc.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/command.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/command.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: command.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/godef.vim
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/godef.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: godef.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/smooth_scroll.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/smooth_scroll.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: smooth_scroll.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/multi_search.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/multi_search.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: multi_search.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/autoload/tabline.vim
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/tabline.vim
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: tabline.vim
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/lua/dap_rc.lua
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/lua/dap_rc.lua
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: dap_rc.lua
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/lua/lsp_rc.lua
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/lua/lsp_rc.lua
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: lsp_rc.lua
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/snippets/toml.json
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/snippets/toml.json
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: toml.json
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/snippets/global.json
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/snippets/global.json
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: global.json
-    - url: https://github.com/matsui54/dotfiles/blob/master/nvim/snippets/vim.json
-      hash: null
+    - url: >-
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/snippets/vim.json
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: vim.json
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/master/nvim/snippets/typescript.json
-      hash: null
+        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/snippets/typescript.json
+      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
       name: typescript.json
-  part: 前編
+  part: 後編
   other: null
