@@ -1,180 +1,168 @@
-- id: 577
-  date: 2023-07-29 23:00
+- id: 578
+  date: 2023-08-05 23:00
   author:
-    name: matsui54
-    url: https://github.com/matsui54
+    name: peacock0803sz
+    url: https://github.com/peacock0803sz
   vimrcs:
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/.vimrc
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: .vimrc
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/zsh.vim
+      hash: null
+      name: zsh.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/min_rc.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: min_rc.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/go.vim
+      hash: null
+      name: go.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein_lazy.toml
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: dein_lazy.toml
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/yaml.vim
+      hash: null
+      name: yaml.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/UltiSnips/vim.snippets
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: vim.snippets
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/sh.lua
+      hash: null
+      name: sh.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/defx.rc.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: defx.rc.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/make.vim
+      hash: null
+      name: make.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/lightline.rc.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: lightline.rc.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/tf.vim
+      hash: null
+      name: tf.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/ddc.ts
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: ddc.ts
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/utils.lua
+      hash: null
+      name: utils.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/denite.rc.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: denite.rc.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/options.lua
+      hash: null
+      name: options.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/plugins/quickrun.rc.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: quickrun.rc.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/keymaps.lua
+      hash: null
+      name: keymaps.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/options.rc.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: options.rc.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/colorscheme.lua
+      hash: null
+      name: colorscheme.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/denops/@ddc-sources/file_rec.ts
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: file_rec.ts
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/filetypes.lua
+      hash: null
+      name: filetypes.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/denops/vimrc/plugins/ddu.ts
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: ddu.ts
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ccc.lua
+      hash: null
+      name: ccc.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/denops/vimrc/main.ts
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: main.ts
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/telescope.lua
+      hash: null
+      name: telescope.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/denops/@ddu-sources/vsnip.ts
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: vsnip.ts
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/gitsign.lua
+      hash: null
+      name: gitsign.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/map.rc.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: map.rc.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/tree-sitter.lua
+      hash: null
+      name: tree-sitter.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/init.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: init.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/which-key.lua
+      hash: null
+      name: which-key.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein_ddu.toml
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: dein_ddu.toml
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/trouble.lua
+      hash: null
+      name: trouble.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein_ft.toml
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: dein_ft.toml
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/emmet.lua
+      hash: null
+      name: emmet.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/ftdetect/plt.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: plt.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/lspsaga.lua
+      hash: null
+      name: lspsaga.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/ftdetect/vh.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: vh.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/fidget.lua
+      hash: null
+      name: fidget.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein_ddc.toml
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: dein_ddc.toml
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/copilot.lua
+      hash: null
+      name: copilot.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/git/status.py
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: status.py
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/nvim_cmp.lua
+      hash: null
+      name: nvim_cmp.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/git/log.py
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: log.py
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/dap.lua
+      hash: null
+      name: dap.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/session.py
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: session.py
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/lsp_colors.lua
+      hash: null
+      name: lsp_colors.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/gina/command.py
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: command.py
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/statusline.lua
+      hash: null
+      name: statusline.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/gina/action.py
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: action.py
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/quickrun.lua
+      hash: null
+      name: quickrun.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/rplugin/python3/denite/source/yay.py
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: yay.py
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/init.lua
+      hash: null
+      name: init.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/dein.toml
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: dein.toml
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/fuzzy-motion.lua
+      hash: null
+      name: fuzzy-motion.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/typing.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: typing.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/eft.lua
+      hash: null
+      name: eft.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/show_register.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: show_register.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/winbar.lua
+      hash: null
+      name: winbar.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/line_counter.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: line_counter.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/luasnip.lua
+      hash: null
+      name: luasnip.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/vimrc.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: vimrc.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/capture.lua
+      hash: null
+      name: capture.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/command.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: command.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/nvim_lsp.lua
+      hash: null
+      name: nvim_lsp.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/godef.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: godef.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/committa.lua
+      hash: null
+      name: committa.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/smooth_scroll.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: smooth_scroll.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/null_ls.lua
+      hash: null
+      name: null_ls.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/multi_search.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: multi_search.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/dial.lua
+      hash: null
+      name: dial.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/autoload/tabline.vim
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: tabline.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/init.lua
+      hash: null
+      name: init.lua
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/lua/dap_rc.lua
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: dap_rc.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/.luarc.json
+      hash: null
+      name: .luarc.json
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/lua/lsp_rc.lua
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: lsp_rc.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/init_.vim
+      hash: null
+      name: init_.vim
     - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/snippets/toml.json
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: toml.json
-    - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/snippets/global.json
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: global.json
-    - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/snippets/vim.json
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: vim.json
-    - url: >-
-        https://github.com/matsui54/dotfiles/blob/d407a2973036a688b5f50bd8859bb5f99bcaf5f6/nvim/snippets/typescript.json
-      hash: d407a2973036a688b5f50bd8859bb5f99bcaf5f6
-      name: typescript.json
-  part: 後編
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/coc-settings.json
+      hash: null
+      name: coc-settings.json
+  part: 前編
   other: null
