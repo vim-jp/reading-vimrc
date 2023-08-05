@@ -1,109 +1,169 @@
-- id: 578
-  date: 2023-08-05 23:00
+- id: 579
+  date: 2023-08-12 23:00
   author:
     name: peacock0803sz
     url: https://github.com/peacock0803sz
   vimrcs:
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/zsh.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ddu/ui/filer.ts
       hash: null
-      name: zsh.vim
+      name: filer.ts
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/go.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ddu/ui/ff.ts
       hash: null
-      name: go.vim
+      name: ff.ts
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/yaml.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ddu/main.ts
       hash: null
-      name: yaml.vim
+      name: main.ts
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/sh.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/init.lua
       hash: null
-      name: sh.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/make.vim
-      hash: null
-      name: make.vim
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/tf.vim
-      hash: null
-      name: tf.vim
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/utils.lua
-      hash: null
-      name: utils.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/options.lua
-      hash: null
-      name: options.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/keymaps.lua
-      hash: null
-      name: keymaps.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/colorscheme.lua
-      hash: null
-      name: colorscheme.lua
+      name: init.lua
     - url: >-
         https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/filetypes.lua
       hash: null
       name: filetypes.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ccc.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/committa.lua
       hash: null
-      name: ccc.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/telescope.lua
-      hash: null
-      name: telescope.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/gitsign.lua
-      hash: null
-      name: gitsign.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/tree-sitter.lua
-      hash: null
-      name: tree-sitter.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/which-key.lua
-      hash: null
-      name: which-key.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/trouble.lua
-      hash: null
-      name: trouble.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/emmet.lua
-      hash: null
-      name: emmet.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/lspsaga.lua
-      hash: null
-      name: lspsaga.lua
+      name: committa.lua
     - url: >-
         https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/fidget.lua
       hash: null
       name: fidget.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/copilot.lua
-      hash: null
-      name: copilot.lua
-    - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/nvim_cmp.lua
-      hash: null
-      name: nvim_cmp.lua
-    - url: >-
         https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/dap.lua
       hash: null
       name: dap.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/nvim_lsp.lua
+      hash: null
+      name: nvim_lsp.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/which-key.lua
+      hash: null
+      name: which-key.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/winbar.lua
+      hash: null
+      name: winbar.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/gitsign.lua
+      hash: null
+      name: gitsign.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/source/mr.lua
+      hash: null
+      name: mr.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/source/help.lua
+      hash: null
+      name: help.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/source/rg.lua
+      hash: null
+      name: rg.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/source/lsp.lua
+      hash: null
+      name: lsp.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/source/file_external.lua
+      hash: null
+      name: file_external.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/source/git.lua
+      hash: null
+      name: git.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/source/source.lua
+      hash: null
+      name: source.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/source/file.lua
+      hash: null
+      name: file.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/kind/file.lua
+      hash: null
+      name: file.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/filter/converter_hl_dir.lua
+      hash: null
+      name: converter_hl_dir.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/filter/substring.lua
+      hash: null
+      name: substring.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/filter/converter_git_status.lua
+      hash: null
+      name: converter_git_status.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/filter/fzf.lua
+      hash: null
+      name: fzf.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/map.lua
+      hash: null
+      name: map.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/ui/filer.lua
+      hash: null
+      name: filer.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ddu/ui/ff.lua
+      hash: null
+      name: ff.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/dial.lua
+      hash: null
+      name: dial.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ai-review.lua
+      hash: null
+      name: ai-review.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/tree-sitter.lua
+      hash: null
+      name: tree-sitter.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/null_ls.lua
+      hash: null
+      name: null_ls.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/trouble.lua
+      hash: null
+      name: trouble.lua
     - url: >-
         https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/lsp_colors.lua
       hash: null
       name: lsp_colors.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/statusline.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/nvim_cmp.lua
       hash: null
-      name: statusline.lua
+      name: nvim_cmp.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/capture.lua
+      hash: null
+      name: capture.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/copilot.lua
+      hash: null
+      name: copilot.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/lspsaga.lua
+      hash: null
+      name: lspsaga.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/fuzzy-motion.lua
+      hash: null
+      name: fuzzy-motion.lua
     - url: >-
         https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/quickrun.lua
       hash: null
@@ -113,56 +173,64 @@
       hash: null
       name: init.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/fuzzy-motion.lua
-      hash: null
-      name: fuzzy-motion.lua
-    - url: >-
         https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/eft.lua
       hash: null
       name: eft.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/winbar.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/ccc.lua
       hash: null
-      name: winbar.lua
+      name: ccc.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/emmet.lua
+      hash: null
+      name: emmet.lua
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/statusline.lua
+      hash: null
+      name: statusline.lua
     - url: >-
         https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/luasnip.lua
       hash: null
       name: luasnip.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/capture.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/keymaps.lua
       hash: null
-      name: capture.lua
+      name: keymaps.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/nvim_lsp.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/utils.lua
       hash: null
-      name: nvim_lsp.lua
+      name: utils.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/committa.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/options.lua
       hash: null
-      name: committa.lua
+      name: options.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/null_ls.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/colorscheme.lua
       hash: null
-      name: null_ls.lua
+      name: colorscheme.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/lua/plugins/dial.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/make.vim
       hash: null
-      name: dial.lua
+      name: make.vim
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/init.lua
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/sh.lua
       hash: null
-      name: init.lua
+      name: sh.lua
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/.luarc.json
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/zsh.vim
       hash: null
-      name: .luarc.json
+      name: zsh.vim
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/init_.vim
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/tf.vim
       hash: null
-      name: init_.vim
+      name: tf.vim
     - url: >-
-        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/coc-settings.json
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/go.vim
       hash: null
-      name: coc-settings.json
+      name: go.vim
+    - url: >-
+        https://github.com/peacock0803sz/dotfiles/blob/master/.config/nvim/ftplugin/yaml.vim
+      hash: null
+      name: yaml.vim
   part: 前編
   other: null
