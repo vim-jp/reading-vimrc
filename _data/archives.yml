@@ -26800,3 +26800,177 @@
     - thinca
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$DqsY1zt9E1J2siBledceWwWPzYO44hPuuHgISwbDf9g
+- id: 578
+  date: 2023-08-05 23:00
+  author:
+    name: peacock0803sz
+    url: https://github.com/peacock0803sz
+  vimrcs:
+    - name: zsh.vim
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/zsh.vim
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/zsh.vim
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: go.vim
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/go.vim
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/go.vim
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: yaml.vim
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/yaml.vim
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/yaml.vim
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: sh.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/sh.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/sh.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: make.vim
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/make.vim
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/make.vim
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: tf.vim
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/tf.vim
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/tf.vim
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: utils.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/utils.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/utils.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: options.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/options.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/options.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: keymaps.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/keymaps.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: colorscheme.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/colorscheme.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/colorscheme.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: filetypes.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/filetypes.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/filetypes.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: ccc.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/ccc.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/ccc.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: telescope.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/telescope.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: gitsign.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/gitsign.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/gitsign.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: tree-sitter.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/tree-sitter.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/tree-sitter.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: which-key.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/which-key.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/which-key.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: trouble.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/trouble.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/trouble.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: emmet.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/emmet.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/emmet.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: lspsaga.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/lspsaga.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/lspsaga.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: fidget.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/fidget.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/fidget.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: copilot.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/copilot.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/copilot.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: nvim_cmp.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/nvim_cmp.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/nvim_cmp.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: dap.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/dap.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/dap.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: lsp_colors.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/lsp_colors.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/lsp_colors.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: statusline.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/statusline.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/statusline.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: quickrun.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/quickrun.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/quickrun.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: init.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/init.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/init.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: fuzzy-motion.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/fuzzy-motion.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/fuzzy-motion.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: eft.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/eft.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/eft.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: winbar.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/winbar.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/winbar.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: luasnip.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/luasnip.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/luasnip.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: capture.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/capture.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/capture.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: nvim_lsp.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/nvim_lsp.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/nvim_lsp.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: committa.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/committa.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/committa.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: null_ls.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/null_ls.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/null_ls.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: dial.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/dial.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/lua/plugins/dial.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: init.lua
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/init.lua
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: .luarc.json
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/.luarc.json
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/.luarc.json
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: init_.vim
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/init_.vim
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/init_.vim
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+    - name: coc-settings.json
+      url: https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/peacock0803sz/dotfiles/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/coc-settings.json
+      hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - NI57721
+    - atusy
+    - kuuote (@kuuote:matrix.org)
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$2TDjQK-QrMlfHiRXn2suLIyFsuiduzxW3Oda7xUEXAE
