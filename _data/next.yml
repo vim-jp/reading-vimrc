@@ -1,5 +1,5 @@
-- id: 579
-  date: 2023-08-12 23:00
+- id: 580
+  date: 2023-08-19 23:00
   author:
     name: peacock0803sz
     url: https://github.com/peacock0803sz
@@ -232,5 +232,5 @@
         https://github.com/peacock0803sz/dotfiles/blob/1f07b571a406b8150d7f306f15bf3b9717327c1d/.config/nvim/ftplugin/yaml.vim
       hash: 1f07b571a406b8150d7f306f15bf3b9717327c1d
       name: yaml.vim
-  part: 中編
+  part: 後編
   other: null
