@@ -27529,3 +27529,183 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$B5dLa2VKo-SG1GDjedon8Jz7npqmkRp5qYW-H-iB6CU
+- id: 581
+  date: 2023-08-26 23:00
+  author:
+    name: Comamoca
+    url: https://github.com/Comamoca
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/init.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: ginit.vim
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/ginit.vim
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/ginit.vim
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: coc-settings.json
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/coc-settings.json
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: ddc.toml
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/ddc.toml
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/ddc.toml
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: ddu.toml
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/ddu.toml
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/ddu.toml
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: dein.toml
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/dein.toml
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/dein.toml
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: dein_lazy.toml
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/dein_lazy.toml
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/dein_lazy.toml
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: ft.toml
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/ft.toml
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/ft.toml
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: lsp.toml
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lsp.toml
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lsp.toml
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: init.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/comatools/init.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/comatools/init.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: lazyload.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/comatools/lazyload.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/comatools/lazyload.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: scheme.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/comatools/scheme.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/comatools/scheme.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: barbecue.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/barbecue.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/barbecue.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: blankline.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/blankline.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/blankline.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: catppuccin.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/catppuccin.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/catppuccin.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: cmds.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/cmds.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/cmds.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: codeium.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/codeium.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/codeium.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: dap.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/dap.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/dap.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: ddu-filer.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/ddu-filer.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/ddu-filer.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: ddu-kind.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/ddu-kind.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/ddu-kind.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: ddu-source.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/ddu-source.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/ddu-source.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: ddu.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/ddu.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/ddu.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: hop.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/hop.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/hop.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: keybind.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/keybind.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/keybind.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: kuqi.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/kuqi.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/kuqi.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: loader.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/loader.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/loader.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: lsp.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/lsp.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/lsp.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: lspkind.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/lspkind.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/lspkind.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: lualine.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/lualine.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/lualine.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: luasnip.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/luasnip.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/luasnip.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: mason.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/mason.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/mason.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: null-ls.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/null-ls.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/null-ls.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: nvim-cmp.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/nvim-cmp.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/nvim-cmp.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: outline.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/outline.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/outline.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: pounce.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/pounce.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/pounce.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: runit.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/runit.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/runit.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: silicon.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/silicon.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/silicon.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: skkeleton.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/skkeleton.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/skkeleton.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: splash.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/splash.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/splash.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: telescope.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/telescope.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/telescope.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+    - name: treesitter.lua
+      url: https://github.com/Comamoca/dotfiles/blob/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/Comamoca/dotfiles/320894f81b5470e8db8d19ff466ae4cc829997c4/config/nvim/lua/configs/treesitter.lua
+      hash: 320894f81b5470e8db8d19ff466ae4cc829997c4
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - NI57721
+    - OgaKen
+    - kuuote (@kuuote:matrix.org)
+    - syui
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$PO--C0UfXYa9fSV32QVkYUGwJXR8h-TCV_DJQdXUaPM
