@@ -27887,3 +27887,23 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$x5Qpc6_tiGe9N22DsNgjXF_oUkko49auGySOBc3GolQ
+- id: 583
+  date: 2023-09-09 23:00
+  author:
+    name: serna37
+    url: https://github.com/serna37
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/serna37/vim/blob/e531667f8b9acc84ad96b2065c4a81e07dc932da/.vimrc
+      raw_url: https://raw.githubusercontent.com/serna37/vim/e531667f8b9acc84ad96b2065c4a81e07dc932da/.vimrc
+      hash: e531667f8b9acc84ad96b2065c4a81e07dc932da
+  part: null
+  other: null
+  members:
+    - 4513ECHO
+    - OgaKen
+    - Tsuyoshi CHO
+    - atusy
+    - kuuote (@kuuote:matrix.org)
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$sz6Nq19ip8lZf8HgZ9MdltQNYQUiRo5yygBogJzvsdc
