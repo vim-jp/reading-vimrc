@@ -1,12 +1,21 @@
-- id: 584
-  date: 2023-09-16 23:00
+- id: 585
+  date: 2023-09-23 23:00
   author:
-    name: serna37
-    url: https://github.com/serna37
+    name: NI57721
+    url: https://github.com/NI57721
   vimrcs:
     - url: >-
-        https://github.com/serna37/vim/blob/e531667f8b9acc84ad96b2065c4a81e07dc932da/.vimrc
-      hash: e531667f8b9acc84ad96b2065c4a81e07dc932da
-      name: .vimrc
-  part: 後編
+        https://github.com/NI57721/dotfiles/blob/main/.config/vim/rc/dein_lazy.toml
+      hash: null
+      name: dein_lazy.toml
+    - url: https://github.com/NI57721/dotfiles/blob/main/.config/vim/rc/dein.toml
+      hash: null
+      name: dein.toml
+    - url: https://github.com/NI57721/dotfiles/blob/main/.config/vim/vimrc
+      hash: null
+      name: vimrc
+    - url: https://github.com/NI57721/dotfiles/blob/main/scripts/update_vim.sh
+      hash: null
+      name: update_vim.sh
+  part: null
   other: null
