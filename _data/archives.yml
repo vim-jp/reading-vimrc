@@ -27907,3 +27907,38 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$sz6Nq19ip8lZf8HgZ9MdltQNYQUiRo5yygBogJzvsdc
+- id: 585
+  date: 2023-09-23 23:00
+  author:
+    name: NI57721
+    url: https://github.com/NI57721
+  vimrcs:
+    - name: dein_lazy.toml
+      url: https://github.com/NI57721/dotfiles/blob/bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8/.config/vim/rc/dein_lazy.toml
+      raw_url: https://raw.githubusercontent.com/NI57721/dotfiles/bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8/.config/vim/rc/dein_lazy.toml
+      hash: bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8
+    - name: dein.toml
+      url: https://github.com/NI57721/dotfiles/blob/bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8/.config/vim/rc/dein.toml
+      raw_url: https://raw.githubusercontent.com/NI57721/dotfiles/bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8/.config/vim/rc/dein.toml
+      hash: bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8
+    - name: vimrc
+      url: https://github.com/NI57721/dotfiles/blob/bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8/.config/vim/vimrc
+      raw_url: https://raw.githubusercontent.com/NI57721/dotfiles/bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8/.config/vim/vimrc
+      hash: bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8
+    - name: update_vim.sh
+      url: https://github.com/NI57721/dotfiles/blob/bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8/scripts/update_vim.sh
+      raw_url: https://raw.githubusercontent.com/NI57721/dotfiles/bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8/scripts/update_vim.sh
+      hash: bdc15fa82590986f2e1c133a4ed0be3fd7e3bfa8
+  part: null
+  other: null
+  members:
+    - 4513ECHO
+    - NI57721
+    - OgaKen
+    - Tsuyoshi CHO
+    - atusy
+    - futsuuu (futsuuu)
+    - kuuote (@kuuote:matrix.org)
+    - syui
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$493nC6Aq8dNzyX0daeO8dobJfGRIBVVxYXJTfS94Z4Y
