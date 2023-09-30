@@ -27942,3 +27942,154 @@
     - syui
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$493nC6Aq8dNzyX0daeO8dobJfGRIBVVxYXJTfS94Z4Y
+- id: 586
+  date: 2023-09-30 23:00
+  author:
+    name: hasundue
+    url: https://github.com/hasundue
+  vimrcs:
+    - name: dart.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/dart.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/dart.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: javascript.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/javascript.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/javascript.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: julia.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/julia.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/julia.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: lua.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/lua.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/lua.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: markdown.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/markdown.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: typescript.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/typescript.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/typescript.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: vim.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/after/ftplugin/vim.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: dein.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/dein.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/dein.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: init.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/init.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/init.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: color.vim.disabled
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin/color.vim.disabled
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin/color.vim.disabled
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: copilot.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/copilot.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/copilot.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: ddc.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/ddc.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/ddc.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: ddu-ui-ff.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/ddu-ui-ff.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/ddu-ui-ff.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: ddu-ui-filer.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/ddu-ui-filer.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/ddu-ui-filer.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: ddu.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/ddu.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/ddu.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: denops-skkeleton.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/denops-skkeleton.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/denops-skkeleton.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: denops.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/denops.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/denops.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: gitgutter.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/gitgutter.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/gitgutter.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: gruvbox-material.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/gruvbox-material.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/gruvbox-material.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: lightline-bufferline.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/lightline-bufferline.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/lightline-bufferline.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: lightline.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/lightline.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/lightline.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: mason-lspconfig.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/mason-lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/mason-lspconfig.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: mason.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/mason.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/mason.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: mason-nvim-lint.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/mason-nvim-lint.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/mason-nvim-lint.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: nvim-lint.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/nvim-lint.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/nvim-lint.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: nvim-lspconfig.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/nvim-lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/nvim-lspconfig.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: nvim-notify.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/nvim-notify.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/nvim-notify.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: nvim-treesitter.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/nvim-treesitter.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/nvim-treesitter.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: pum.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/pum.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/pum.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: tpipeline.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/tpipeline.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/tpipeline.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: vim-dirtytalk.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/vim-dirtytalk.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/vim-dirtytalk.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: vim-fugitive.vim
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/vim-fugitive.vim
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin.d/vim-fugitive.vim
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: init.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin/init.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin/init.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+    - name: terminal.lua
+      url: https://github.com/hasundue/vimrc/blob/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin/terminal.lua
+      raw_url: https://raw.githubusercontent.com/hasundue/vimrc/60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8/plugin/terminal.lua
+      hash: 60b2f489a52b5ff59ad0f661e8cc0981d58ceeb8
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - NI57721
+    - Tsuyoshi CHO
+    - kuuote (@kuuote:matrix.org)
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$ZsckIYnczJMIgAVninKFsQwA1Ep5vmyvUi9yXVphQEw
