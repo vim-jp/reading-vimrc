@@ -1,21 +1,115 @@
-- id: 585
-  date: 2023-09-23 23:00
+- id: 586
+  date: 2023-09-30 23:00
   author:
-    name: NI57721
-    url: https://github.com/NI57721
+    name: hasundue
+    url: https://github.com/hasundue
   vimrcs:
+    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/dart.vim
+      hash: null
+      name: dart.vim
     - url: >-
-        https://github.com/NI57721/dotfiles/blob/main/.config/vim/rc/dein_lazy.toml
+        https://github.com/hasundue/vimrc/blob/main/after/ftplugin/javascript.vim
       hash: null
-      name: dein_lazy.toml
-    - url: https://github.com/NI57721/dotfiles/blob/main/.config/vim/rc/dein.toml
+      name: javascript.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/julia.vim
       hash: null
-      name: dein.toml
-    - url: https://github.com/NI57721/dotfiles/blob/main/.config/vim/vimrc
+      name: julia.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/lua.vim
       hash: null
-      name: vimrc
-    - url: https://github.com/NI57721/dotfiles/blob/main/scripts/update_vim.sh
+      name: lua.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/markdown.vim
       hash: null
-      name: update_vim.sh
-  part: null
+      name: markdown.vim
+    - url: >-
+        https://github.com/hasundue/vimrc/blob/main/after/ftplugin/typescript.vim
+      hash: null
+      name: typescript.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/vim.vim
+      hash: null
+      name: vim.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/dein.vim
+      hash: null
+      name: dein.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/init.vim
+      hash: null
+      name: init.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin/color.vim.disabled
+      hash: null
+      name: color.vim.disabled
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/copilot.vim
+      hash: null
+      name: copilot.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/ddc.vim
+      hash: null
+      name: ddc.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/ddu-ui-ff.vim
+      hash: null
+      name: ddu-ui-ff.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/ddu-ui-filer.vim
+      hash: null
+      name: ddu-ui-filer.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/ddu.vim
+      hash: null
+      name: ddu.vim
+    - url: >-
+        https://github.com/hasundue/vimrc/blob/main/plugin.d/denops-skkeleton.vim
+      hash: null
+      name: denops-skkeleton.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/denops.vim
+      hash: null
+      name: denops.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/gitgutter.vim
+      hash: null
+      name: gitgutter.vim
+    - url: >-
+        https://github.com/hasundue/vimrc/blob/main/plugin.d/gruvbox-material.vim
+      hash: null
+      name: gruvbox-material.vim
+    - url: >-
+        https://github.com/hasundue/vimrc/blob/main/plugin.d/lightline-bufferline.vim
+      hash: null
+      name: lightline-bufferline.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/lightline.vim
+      hash: null
+      name: lightline.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/mason-lspconfig.lua
+      hash: null
+      name: mason-lspconfig.lua
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/mason.lua
+      hash: null
+      name: mason.lua
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/mason-nvim-lint.lua
+      hash: null
+      name: mason-nvim-lint.lua
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/nvim-lint.lua
+      hash: null
+      name: nvim-lint.lua
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/nvim-lspconfig.lua
+      hash: null
+      name: nvim-lspconfig.lua
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/nvim-notify.lua
+      hash: null
+      name: nvim-notify.lua
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/nvim-treesitter.lua
+      hash: null
+      name: nvim-treesitter.lua
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/pum.vim
+      hash: null
+      name: pum.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/tpipeline.vim
+      hash: null
+      name: tpipeline.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/vim-dirtytalk.vim
+      hash: null
+      name: vim-dirtytalk.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/vim-fugitive.vim
+      hash: null
+      name: vim-fugitive.vim
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin/init.lua
+      hash: null
+      name: init.lua
+    - url: https://github.com/hasundue/vimrc/blob/main/plugin/terminal.lua
+      hash: null
+      name: terminal.lua
+  part: 前編
   other: null
