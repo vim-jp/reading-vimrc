@@ -1,564 +1,568 @@
-- id: 587
-  date: 2023-10-07 23:00
+- id: 588
+  date: 2023-10-14 23:00
   author:
     name: kg8m
     url: https://github.com/kg8m
   vimrcs:
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/dein_update_logs.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/dein_update_logs.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: dein_update_logs.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/help.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/help.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: help.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/javascript.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/javascript.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: javascript.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/markdown.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/markdown.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: markdown.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/rbs.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/rbs.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: rbs.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/ruby.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/ruby.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: ruby.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/sh.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/sh.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: sh.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/typescript.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/typescript.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: typescript.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/vim.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/vim.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: vim.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/zsh.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/zsh.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: zsh.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/colors.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/colors.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: colors.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/comments.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/comments.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: comments.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/cursor.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/cursor.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: cursor.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/c.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/c.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: c.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/gitcommit.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/gitcommit.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: gitcommit.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/go.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/go.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: go.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/javascript.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/javascript.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: javascript.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/markdown.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/markdown.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: markdown.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: filetypes.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/folding/manual.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/folding/manual.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: manual.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/folding.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/folding.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: folding.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/formatoptions.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/formatoptions.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: formatoptions.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/indent.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/indent.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: indent.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/mappings/search.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/mappings/search.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: search.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/mappings.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/mappings.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: mappings.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: configure.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/events.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/events.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: events.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/javascript.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/javascript.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: javascript.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/markdown.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/markdown.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: markdown.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/rbs.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/rbs.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: rbs.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/ruby.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/ruby.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: ruby.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/sh.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/sh.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: sh.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/vim.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/vim.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: vim.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/argwrap.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/argwrap.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: argwrap.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asterisk.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asterisk.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: asterisk.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/buffer.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/buffer.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: buffer.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/file.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/file.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: file.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/mocword.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/mocword.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: mocword.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/neosnippet.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/neosnippet.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: neosnippet.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/preprocessor.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/preprocessor.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: preprocessor.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/tabnine.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/tabnine.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: tabnine.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/tags.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/tags.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: tags.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: asyncomplete.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/caw.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/caw.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: caw.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/checkbox.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/checkbox.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: checkbox.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/closetag.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/closetag.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: closetag.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/completion.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/completion.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: completion.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/conflict_marker.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/conflict_marker.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: conflict_marker.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/dwm.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/dwm.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: dwm.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/buffer_lines.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/buffer_lines.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: buffer_lines.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/buffers.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/buffers.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: buffers.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/files.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/files.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: files.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/git_files.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/git_files.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: git_files.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/grep.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/grep.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: grep.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/helptags.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/helptags.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: helptags.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/history.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/history.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: history.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/jumplist.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/jumplist.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: jumplist.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/marks.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/marks.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: marks.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/outline/rspec.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/outline/rspec.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: rspec.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/outline.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/outline.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: outline.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/qf.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/qf.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: qf.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/rails.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/rails.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: rails.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/shortcuts.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/shortcuts.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: shortcuts.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf_tjump.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf_tjump.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: fzf_tjump.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: fzf.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/yank_history.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/yank_history.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: yank_history.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/gemfile.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/gemfile.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: gemfile.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/gf_user.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/gf_user.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: gf_user.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/ghosttext.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/ghosttext.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: ghosttext.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/gin.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/gin.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: gin.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/histexclude.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/histexclude.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: histexclude.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/hitspop.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/hitspop.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: hitspop.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/indent_line.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/indent_line.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: indent_line.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/jpformat.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/jpformat.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: jpformat.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lexima.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lexima.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: lexima.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lightline.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lightline.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: lightline.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/document_format.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/document_format.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: document_format.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/popup.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/popup.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: popup.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/servers.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/servers.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: servers.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/stream/definition.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/stream/definition.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: definition.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/stream.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/stream.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: stream.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: lsp.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/mappings/i.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/mappings/i.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: i.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/matchup.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/matchup.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: matchup.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/molder.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/molder.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: molder.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/molokai.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/molokai.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: molokai.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/mr.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/mr.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: mr.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/neosnippet/contextual.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/neosnippet/contextual.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: contextual.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/neosnippet.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/neosnippet.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: neosnippet.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/open_browser.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/open_browser.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: open_browser.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/parallel_auto_ctags.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/parallel_auto_ctags.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: parallel_auto_ctags.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/qfenter.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/qfenter.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: qfenter.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/ruby_heredoc_syntax.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/ruby_heredoc_syntax.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: ruby_heredoc_syntax.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/sandwich.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/sandwich.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: sandwich.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/startify.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/startify.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: startify.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/test.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/test.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: test.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/update.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/update.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: update.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: plugin.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/vsnip.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/vsnip.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: vsnip.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/yankround.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/yankround.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: yankround.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/zenspace.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/zenspace.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: zenspace.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/auto_reload.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/auto_reload.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: auto_reload.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/check_typo.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/check_typo.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: check_typo.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/cursor.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/cursor.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: cursor.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/daemons.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/daemons.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: daemons.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/dim_inactive_windows.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/dim_inactive_windows.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: dim_inactive_windows.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/encoding.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/encoding.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: encoding.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/f2.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/f2.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: f2.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/filetypes/ruby.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/filetypes/ruby.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: ruby.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/filetypes/vim.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/filetypes/vim.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: vim.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/file.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/file.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: file.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/grep.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/grep.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: grep.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/help.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/help.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: help.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/input.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/input.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: input.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/list.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/list.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: list.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/logger.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/logger.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: logger.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/marks.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/marks.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: marks.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/matchpairs.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/matchpairs.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: matchpairs.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/qf.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/qf.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: qf.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/string/colors.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/string/colors.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: colors.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/string.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/string.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: string.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/terminal.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/terminal.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: terminal.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/tmux.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/tmux.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: tmux.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: util.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/lightline/colorscheme/kg8m.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/lightline/colorscheme/kg8m.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: kg8m.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/benchmark.ts
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/benchmark.ts
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: benchmark.ts
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/dein/update/logs.ts
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/dein/update/logs.ts
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: logs.ts
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/logger.ts
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/logger.ts
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: logger.ts
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/main.ts
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/main.ts
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: main.ts
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/notification.ts
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/notification.ts
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: notification.ts
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/ftdetect/kg8m.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/ftdetect/kg8m.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: kg8m.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/ftplugin/gitcommit.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/ftplugin/gitcommit.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: gitcommit.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/ftplugin/ruby.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/ftplugin/ruby.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: ruby.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/ftplugin/vim.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/ftplugin/vim.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: vim.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.config/vim/syntax/dein_update_logs.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/syntax/dein_update_logs.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: dein_update_logs.vim
-    - url: https://github.com/kg8m/dotfiles/blob/master/.config/vim/syntax/ruby.vim
-      hash: null
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/syntax/ruby.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: ruby.vim
-    - url: https://github.com/kg8m/dotfiles/blob/master/.vimrc
-      hash: null
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: .vimrc
-    - url: https://github.com/kg8m/dotfiles/blob/master/.vimrc.minimal.dein.vim
-      hash: null
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc.minimal.dein.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: .vimrc.minimal.dein.vim
-    - url: https://github.com/kg8m/dotfiles/blob/master/.vimrc.minimal.plug.vim
-      hash: null
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc.minimal.plug.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: .vimrc.minimal.plug.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/master/.vimrc.minimal.plug.vim9.vim
-      hash: null
+        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc.minimal.plug.vim9.vim
+      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: .vimrc.minimal.plug.vim9.vim
-  part: 前編
+  part: 中編
   other: null
