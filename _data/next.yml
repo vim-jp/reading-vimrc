@@ -1,115 +1,564 @@
-- id: 586
-  date: 2023-09-30 23:00
+- id: 587
+  date: 2023-10-07 23:00
   author:
-    name: hasundue
-    url: https://github.com/hasundue
+    name: kg8m
+    url: https://github.com/kg8m
   vimrcs:
-    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/dart.vim
-      hash: null
-      name: dart.vim
     - url: >-
-        https://github.com/hasundue/vimrc/blob/main/after/ftplugin/javascript.vim
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/dein_update_logs.vim
+      hash: null
+      name: dein_update_logs.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/help.vim
+      hash: null
+      name: help.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/javascript.vim
       hash: null
       name: javascript.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/julia.vim
-      hash: null
-      name: julia.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/lua.vim
-      hash: null
-      name: lua.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/markdown.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/markdown.vim
       hash: null
       name: markdown.vim
     - url: >-
-        https://github.com/hasundue/vimrc/blob/main/after/ftplugin/typescript.vim
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/rbs.vim
+      hash: null
+      name: rbs.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/ruby.vim
+      hash: null
+      name: ruby.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/sh.vim
+      hash: null
+      name: sh.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/typescript.vim
       hash: null
       name: typescript.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/after/ftplugin/vim.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/vim.vim
       hash: null
       name: vim.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/dein.vim
-      hash: null
-      name: dein.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/init.vim
-      hash: null
-      name: init.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin/color.vim.disabled
-      hash: null
-      name: color.vim.disabled
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/copilot.vim
-      hash: null
-      name: copilot.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/ddc.vim
-      hash: null
-      name: ddc.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/ddu-ui-ff.vim
-      hash: null
-      name: ddu-ui-ff.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/ddu-ui-filer.vim
-      hash: null
-      name: ddu-ui-filer.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/ddu.vim
-      hash: null
-      name: ddu.vim
     - url: >-
-        https://github.com/hasundue/vimrc/blob/main/plugin.d/denops-skkeleton.vim
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/after/ftplugin/zsh.vim
       hash: null
-      name: denops-skkeleton.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/denops.vim
-      hash: null
-      name: denops.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/gitgutter.vim
-      hash: null
-      name: gitgutter.vim
+      name: zsh.vim
     - url: >-
-        https://github.com/hasundue/vimrc/blob/main/plugin.d/gruvbox-material.vim
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/colors.vim
       hash: null
-      name: gruvbox-material.vim
+      name: colors.vim
     - url: >-
-        https://github.com/hasundue/vimrc/blob/main/plugin.d/lightline-bufferline.vim
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/comments.vim
       hash: null
-      name: lightline-bufferline.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/lightline.vim
+      name: comments.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/cursor.vim
+      hash: null
+      name: cursor.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/c.vim
+      hash: null
+      name: c.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/gitcommit.vim
+      hash: null
+      name: gitcommit.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/go.vim
+      hash: null
+      name: go.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/javascript.vim
+      hash: null
+      name: javascript.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes/markdown.vim
+      hash: null
+      name: markdown.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/filetypes.vim
+      hash: null
+      name: filetypes.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/folding/manual.vim
+      hash: null
+      name: manual.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/folding.vim
+      hash: null
+      name: folding.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/formatoptions.vim
+      hash: null
+      name: formatoptions.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/indent.vim
+      hash: null
+      name: indent.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/mappings/search.vim
+      hash: null
+      name: search.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure/mappings.vim
+      hash: null
+      name: mappings.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/configure.vim
+      hash: null
+      name: configure.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/events.vim
+      hash: null
+      name: events.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/javascript.vim
+      hash: null
+      name: javascript.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/markdown.vim
+      hash: null
+      name: markdown.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/rbs.vim
+      hash: null
+      name: rbs.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/ruby.vim
+      hash: null
+      name: ruby.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/sh.vim
+      hash: null
+      name: sh.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/fold/vim.vim
+      hash: null
+      name: vim.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/argwrap.vim
+      hash: null
+      name: argwrap.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asterisk.vim
+      hash: null
+      name: asterisk.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/buffer.vim
+      hash: null
+      name: buffer.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/file.vim
+      hash: null
+      name: file.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/mocword.vim
+      hash: null
+      name: mocword.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/neosnippet.vim
+      hash: null
+      name: neosnippet.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/preprocessor.vim
+      hash: null
+      name: preprocessor.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/tabnine.vim
+      hash: null
+      name: tabnine.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete/tags.vim
+      hash: null
+      name: tags.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/asyncomplete.vim
+      hash: null
+      name: asyncomplete.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/caw.vim
+      hash: null
+      name: caw.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/checkbox.vim
+      hash: null
+      name: checkbox.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/closetag.vim
+      hash: null
+      name: closetag.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/completion.vim
+      hash: null
+      name: completion.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/conflict_marker.vim
+      hash: null
+      name: conflict_marker.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/dwm.vim
+      hash: null
+      name: dwm.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/buffer_lines.vim
+      hash: null
+      name: buffer_lines.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/buffers.vim
+      hash: null
+      name: buffers.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/files.vim
+      hash: null
+      name: files.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/git_files.vim
+      hash: null
+      name: git_files.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/grep.vim
+      hash: null
+      name: grep.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/helptags.vim
+      hash: null
+      name: helptags.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/history.vim
+      hash: null
+      name: history.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/jumplist.vim
+      hash: null
+      name: jumplist.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/marks.vim
+      hash: null
+      name: marks.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/outline/rspec.vim
+      hash: null
+      name: rspec.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/outline.vim
+      hash: null
+      name: outline.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/qf.vim
+      hash: null
+      name: qf.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/rails.vim
+      hash: null
+      name: rails.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/shortcuts.vim
+      hash: null
+      name: shortcuts.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf_tjump.vim
+      hash: null
+      name: fzf_tjump.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf.vim
+      hash: null
+      name: fzf.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/fzf/yank_history.vim
+      hash: null
+      name: yank_history.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/gemfile.vim
+      hash: null
+      name: gemfile.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/gf_user.vim
+      hash: null
+      name: gf_user.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/ghosttext.vim
+      hash: null
+      name: ghosttext.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/gin.vim
+      hash: null
+      name: gin.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/histexclude.vim
+      hash: null
+      name: histexclude.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/hitspop.vim
+      hash: null
+      name: hitspop.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/indent_line.vim
+      hash: null
+      name: indent_line.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/jpformat.vim
+      hash: null
+      name: jpformat.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lexima.vim
+      hash: null
+      name: lexima.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lightline.vim
       hash: null
       name: lightline.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/mason-lspconfig.lua
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/document_format.vim
       hash: null
-      name: mason-lspconfig.lua
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/mason.lua
+      name: document_format.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/popup.vim
       hash: null
-      name: mason.lua
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/mason-nvim-lint.lua
+      name: popup.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/servers.vim
       hash: null
-      name: mason-nvim-lint.lua
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/nvim-lint.lua
+      name: servers.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/stream/definition.vim
       hash: null
-      name: nvim-lint.lua
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/nvim-lspconfig.lua
+      name: definition.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp/stream.vim
       hash: null
-      name: nvim-lspconfig.lua
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/nvim-notify.lua
+      name: stream.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/lsp.vim
       hash: null
-      name: nvim-notify.lua
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/nvim-treesitter.lua
+      name: lsp.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/mappings/i.vim
       hash: null
-      name: nvim-treesitter.lua
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/pum.vim
+      name: i.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/matchup.vim
       hash: null
-      name: pum.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/tpipeline.vim
+      name: matchup.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/molder.vim
       hash: null
-      name: tpipeline.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/vim-dirtytalk.vim
+      name: molder.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/molokai.vim
       hash: null
-      name: vim-dirtytalk.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin.d/vim-fugitive.vim
+      name: molokai.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/mr.vim
       hash: null
-      name: vim-fugitive.vim
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin/init.lua
+      name: mr.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/neosnippet/contextual.vim
       hash: null
-      name: init.lua
-    - url: https://github.com/hasundue/vimrc/blob/main/plugin/terminal.lua
+      name: contextual.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/neosnippet.vim
       hash: null
-      name: terminal.lua
+      name: neosnippet.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/open_browser.vim
+      hash: null
+      name: open_browser.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/parallel_auto_ctags.vim
+      hash: null
+      name: parallel_auto_ctags.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/qfenter.vim
+      hash: null
+      name: qfenter.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/ruby_heredoc_syntax.vim
+      hash: null
+      name: ruby_heredoc_syntax.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/sandwich.vim
+      hash: null
+      name: sandwich.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/startify.vim
+      hash: null
+      name: startify.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/test.vim
+      hash: null
+      name: test.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/update.vim
+      hash: null
+      name: update.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin.vim
+      hash: null
+      name: plugin.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/vsnip.vim
+      hash: null
+      name: vsnip.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/yankround.vim
+      hash: null
+      name: yankround.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/plugin/zenspace.vim
+      hash: null
+      name: zenspace.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/auto_reload.vim
+      hash: null
+      name: auto_reload.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/check_typo.vim
+      hash: null
+      name: check_typo.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/cursor.vim
+      hash: null
+      name: cursor.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/daemons.vim
+      hash: null
+      name: daemons.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/dim_inactive_windows.vim
+      hash: null
+      name: dim_inactive_windows.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/encoding.vim
+      hash: null
+      name: encoding.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/f2.vim
+      hash: null
+      name: f2.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/filetypes/ruby.vim
+      hash: null
+      name: ruby.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/filetypes/vim.vim
+      hash: null
+      name: vim.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/file.vim
+      hash: null
+      name: file.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/grep.vim
+      hash: null
+      name: grep.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/help.vim
+      hash: null
+      name: help.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/input.vim
+      hash: null
+      name: input.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/list.vim
+      hash: null
+      name: list.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/logger.vim
+      hash: null
+      name: logger.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/marks.vim
+      hash: null
+      name: marks.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/matchpairs.vim
+      hash: null
+      name: matchpairs.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/qf.vim
+      hash: null
+      name: qf.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/string/colors.vim
+      hash: null
+      name: colors.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/string.vim
+      hash: null
+      name: string.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/terminal.vim
+      hash: null
+      name: terminal.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util/tmux.vim
+      hash: null
+      name: tmux.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/kg8m/util.vim
+      hash: null
+      name: util.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/autoload/lightline/colorscheme/kg8m.vim
+      hash: null
+      name: kg8m.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/benchmark.ts
+      hash: null
+      name: benchmark.ts
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/dein/update/logs.ts
+      hash: null
+      name: logs.ts
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/logger.ts
+      hash: null
+      name: logger.ts
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/main.ts
+      hash: null
+      name: main.ts
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/denops/kg8m/notification.ts
+      hash: null
+      name: notification.ts
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/ftdetect/kg8m.vim
+      hash: null
+      name: kg8m.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/ftplugin/gitcommit.vim
+      hash: null
+      name: gitcommit.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/ftplugin/ruby.vim
+      hash: null
+      name: ruby.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/ftplugin/vim.vim
+      hash: null
+      name: vim.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.config/vim/syntax/dein_update_logs.vim
+      hash: null
+      name: dein_update_logs.vim
+    - url: https://github.com/kg8m/dotfiles/blob/master/.config/vim/syntax/ruby.vim
+      hash: null
+      name: ruby.vim
+    - url: https://github.com/kg8m/dotfiles/blob/master/.vimrc
+      hash: null
+      name: .vimrc
+    - url: https://github.com/kg8m/dotfiles/blob/master/.vimrc.minimal.dein.vim
+      hash: null
+      name: .vimrc.minimal.dein.vim
+    - url: https://github.com/kg8m/dotfiles/blob/master/.vimrc.minimal.plug.vim
+      hash: null
+      name: .vimrc.minimal.plug.vim
+    - url: >-
+        https://github.com/kg8m/dotfiles/blob/master/.vimrc.minimal.plug.vim9.vim
+      hash: null
+      name: .vimrc.minimal.plug.vim9.vim
   part: 前編
   other: null
