@@ -1,5 +1,5 @@
-- id: 588
-  date: 2023-10-14 23:00
+- id: 589
+  date: 2023-10-21 23:00
   author:
     name: kg8m
     url: https://github.com/kg8m
@@ -564,5 +564,5 @@
         https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc.minimal.plug.vim9.vim
       hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
       name: .vimrc.minimal.plug.vim9.vim
-  part: 中編
+  part: 後編
   other: null
