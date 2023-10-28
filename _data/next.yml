@@ -1,568 +1,326 @@
-- id: 589
-  date: 2023-10-21 23:00
+- id: 590
+  date: 2023-10-28 23:00
   author:
-    name: kg8m
-    url: https://github.com/kg8m
+    name: hantaotaohan
+    url: https://github.com/hantaotaohan
   vimrcs:
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/dein_update_logs.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: dein_update_logs.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/help.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: help.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/javascript.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: javascript.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/markdown.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: markdown.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/rbs.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: rbs.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/ruby.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: ruby.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/sh.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: sh.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/typescript.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: typescript.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/vim.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: vim.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/after/ftplugin/zsh.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: zsh.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/colors.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: colors.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/comments.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: comments.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/cursor.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: cursor.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/c.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: c.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/gitcommit.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: gitcommit.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/go.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: go.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/javascript.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: javascript.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes/markdown.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: markdown.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/filetypes.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: filetypes.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/folding/manual.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: manual.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/folding.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: folding.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/formatoptions.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: formatoptions.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/indent.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: indent.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/mappings/search.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: search.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure/mappings.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: mappings.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/configure.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: configure.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/events.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: events.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/javascript.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: javascript.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/markdown.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: markdown.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/rbs.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: rbs.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/ruby.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: ruby.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/sh.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: sh.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/fold/vim.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: vim.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/argwrap.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: argwrap.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asterisk.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: asterisk.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/buffer.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: buffer.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/file.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: file.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/mocword.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: mocword.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/neosnippet.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: neosnippet.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/preprocessor.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: preprocessor.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/tabnine.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: tabnine.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete/tags.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: tags.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/asyncomplete.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: asyncomplete.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/caw.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: caw.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/checkbox.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: checkbox.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/closetag.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: closetag.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/completion.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: completion.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/conflict_marker.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: conflict_marker.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/dwm.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: dwm.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/buffer_lines.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: buffer_lines.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/buffers.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: buffers.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/files.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: files.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/git_files.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: git_files.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/grep.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: grep.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/helptags.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: helptags.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/history.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: history.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/jumplist.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: jumplist.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/marks.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: marks.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/outline/rspec.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: rspec.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/outline.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: outline.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/qf.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: qf.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/rails.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: rails.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/shortcuts.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: shortcuts.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf_tjump.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: fzf_tjump.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: fzf.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/fzf/yank_history.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: yank_history.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/gemfile.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: gemfile.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/gf_user.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: gf_user.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/ghosttext.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: ghosttext.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/gin.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: gin.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/histexclude.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: histexclude.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/hitspop.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: hitspop.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/indent_line.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: indent_line.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/jpformat.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: jpformat.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lexima.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: lexima.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lightline.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: lightline.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/document_format.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: document_format.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/popup.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: popup.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/servers.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: servers.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/stream/definition.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: definition.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp/stream.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: stream.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/lsp.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: lsp.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/mappings/i.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: i.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/matchup.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: matchup.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/molder.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: molder.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/molokai.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: molokai.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/mr.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: mr.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/neosnippet/contextual.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: contextual.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/neosnippet.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: neosnippet.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/open_browser.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: open_browser.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/parallel_auto_ctags.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: parallel_auto_ctags.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/qfenter.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: qfenter.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/ruby_heredoc_syntax.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: ruby_heredoc_syntax.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/sandwich.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: sandwich.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/startify.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: startify.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/test.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: test.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/update.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: update.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: plugin.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/vsnip.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: vsnip.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/yankround.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: yankround.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/plugin/zenspace.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: zenspace.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/auto_reload.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: auto_reload.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/check_typo.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: check_typo.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/cursor.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: cursor.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/daemons.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: daemons.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/dim_inactive_windows.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: dim_inactive_windows.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/encoding.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: encoding.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/f2.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: f2.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/filetypes/ruby.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: ruby.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/filetypes/vim.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: vim.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/file.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: file.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/grep.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: grep.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/help.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: help.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/input.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: input.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/list.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: list.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/logger.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: logger.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/marks.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: marks.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/matchpairs.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: matchpairs.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/qf.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: qf.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/string/colors.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: colors.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/string.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: string.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/terminal.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: terminal.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util/tmux.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: tmux.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/kg8m/util.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: util.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/autoload/lightline/colorscheme/kg8m.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: kg8m.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/benchmark.ts
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: benchmark.ts
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/dein/update/logs.ts
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: logs.ts
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/logger.ts
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: logger.ts
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/main.ts
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: main.ts
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/denops/kg8m/notification.ts
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: notification.ts
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/ftdetect/kg8m.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: kg8m.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/ftplugin/gitcommit.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: gitcommit.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/ftplugin/ruby.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: ruby.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/ftplugin/vim.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: vim.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/syntax/dein_update_logs.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: dein_update_logs.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.config/vim/syntax/ruby.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: ruby.vim
-    - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/after/queries/markdown_inline/injections.scm
+      hash: null
+      name: injections.scm
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/after/queries/markdown_inline/highlights.scm
+      hash: null
+      name: highlights.scm
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/after/queries/markdown/injections.scm
+      hash: null
+      name: injections.scm
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/after/queries/markdown/highlights.scm
+      hash: null
+      name: highlights.scm
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/lsp/format.lua
+      hash: null
+      name: format.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/lsp/keymaps.lua
+      hash: null
+      name: keymaps.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/lsp/null-ls.lua
+      hash: null
+      name: null-ls.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/lsp/lspconfig.lua
+      hash: null
+      name: lspconfig.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/lsp/mason.lua
+      hash: null
+      name: mason.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/lsp/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/disable.lua
+      hash: null
+      name: disable.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/neotree.lua
+      hash: null
+      name: neotree.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/treesitter.lua
+      hash: null
+      name: treesitter.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/troble.lua
+      hash: null
+      name: troble.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/scrollbar.lua
+      hash: null
+      name: scrollbar.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/projects.lua
+      hash: null
+      name: projects.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/colorizer.lua
+      hash: null
+      name: colorizer.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/spectre.lua
+      hash: null
+      name: spectre.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/marks.lua
+      hash: null
+      name: marks.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/gitsigns.lua
+      hash: null
+      name: gitsigns.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/toggleterm.lua
+      hash: null
+      name: toggleterm.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/pretty-fold.lua
+      hash: null
+      name: pretty-fold.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/live.lua
+      hash: null
+      name: live.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/sayonara.lua
+      hash: null
+      name: sayonara.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/asyncrun.lua
+      hash: null
+      name: asyncrun.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/telescope.lua
+      hash: null
+      name: telescope.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/bufdel.lua
+      hash: null
+      name: bufdel.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/outline.lua
+      hash: null
+      name: outline.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/todo.lua
+      hash: null
+      name: todo.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/whichkey.lua
+      hash: null
+      name: whichkey.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/editor/aerial.lua
+      hash: null
+      name: aerial.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/wiki/wiki.lua
+      hash: null
+      name: wiki.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/wiki/tsnode.lua
+      hash: null
+      name: tsnode.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/wiki/vimwiki.lua
+      hash: null
+      name: vimwiki.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/wiki/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/wiki/md-preview.lua
+      hash: null
+      name: md-preview.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/wiki/bullets.lua
+      hash: null
+      name: bullets.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/wiki/zettel.lua
+      hash: null
+      name: zettel.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/wiki/headline.lua
+      hash: null
+      name: headline.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/cmp.lua
+      hash: null
+      name: cmp.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/surround.lua
+      hash: null
+      name: surround.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/pairs.lua
+      hash: null
+      name: pairs.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/comment.lua
+      hash: null
+      name: comment.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/align.lua
+      hash: null
+      name: align.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/friendly.lua
+      hash: null
+      name: friendly.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/fugitive.lua
+      hash: null
+      name: fugitive.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/diffview.lua
+      hash: null
+      name: diffview.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/luasnip.lua
+      hash: null
+      name: luasnip.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/coding/comment-box.lua
+      hash: null
+      name: comment-box.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/zenmode.lua
+      hash: null
+      name: zenmode.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/bufferline.lua
+      hash: null
+      name: bufferline.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/noice.lua
+      hash: null
+      name: noice.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/alpha.lua
+      hash: null
+      name: alpha.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/increname.lua
+      hash: null
+      name: increname.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/notify.lua
+      hash: null
+      name: notify.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/lualine.lua
+      hash: null
+      name: lualine.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/devicons.lua
+      hash: null
+      name: devicons.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/dressing.lua
+      hash: null
+      name: dressing.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/blankline.lua
+      hash: null
+      name: blankline.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/dashboard.lua
+      hash: null
+      name: dashboard.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/nui.lua
+      hash: null
+      name: nui.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/ui/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/plugins/colorscheme.lua
+      hash: null
+      name: colorscheme.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/config/keymaps.lua
+      hash: null
+      name: keymaps.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/config/function.lua
+      hash: null
+      name: function.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/config/utility.lua
+      hash: null
+      name: utility.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/config/options.lua
+      hash: null
+      name: options.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/config/lazyplug.lua
+      hash: null
+      name: lazyplug.lua
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.config/nvim/lua/config/autocmds.lua
+      hash: null
+      name: autocmds.lua
+    - url: https://github.com/hantaotaohan/dotfiles/blob/master/.vim9rc
+      hash: null
+      name: .vim9rc
+    - url: https://github.com/hantaotaohan/dotfiles/blob/master/.vimrc
+      hash: null
       name: .vimrc
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc.minimal.dein.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: .vimrc.minimal.dein.vim
+        https://github.com/hantaotaohan/dotfiles/blob/master/.vim/autoload/has.vim
+      hash: null
+      name: has.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc.minimal.plug.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: .vimrc.minimal.plug.vim
+        https://github.com/hantaotaohan/dotfiles/blob/master/.vim/autoload/plug.vim
+      hash: null
+      name: plug.vim
     - url: >-
-        https://github.com/kg8m/dotfiles/blob/34bd4867aadcc9e7953d17f85f896e3b19a4bed8/.vimrc.minimal.plug.vim9.vim
-      hash: 34bd4867aadcc9e7953d17f85f896e3b19a4bed8
-      name: .vimrc.minimal.plug.vim9.vim
-  part: 後編
+        https://github.com/hantaotaohan/dotfiles/blob/master/.vim/autoload/highlights.vim
+      hash: null
+      name: highlights.vim
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.vim/autoload/save.vim
+      hash: null
+      name: save.vim
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.vim/autoload/rename.vim
+      hash: null
+      name: rename.vim
+    - url: >-
+        https://github.com/hantaotaohan/dotfiles/blob/master/.vim/autoload/fold.vim
+      hash: null
+      name: fold.vim
+  part: 前編
   other: null
