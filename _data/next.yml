@@ -1,5 +1,5 @@
-- id: 593
-  date: 2023-11-18 23:00
+- id: 594
+  date: 2023-11-25 23:00
   author:
     name: kuuote
     url: https://github.com/kuuote
@@ -9,237 +9,237 @@
       name: .local.vimrc
     - url: https://github.com/kuuote/dotvim/blob/version5/after/ftplugin/vim.vim
       hash: null
-      name: vim.vim
+      name: after/ftplugin/vim.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/autoload/funnygit.vim
       hash: null
-      name: funnygit.vim
+      name: autoload/funnygit.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/autoload/operandi/type/mycommand.vim
       hash: null
-      name: mycommand.vim
+      name: autoload/operandi/type/mycommand.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/autocmd/auto_mkdir.vim
       hash: null
-      name: auto_mkdir.vim
+      name: autoload/vimrc/autocmd/auto_mkdir.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/autocmd/shebang.vim
       hash: null
-      name: shebang.vim
+      name: autoload/vimrc/autocmd/shebang.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/denops.vim
       hash: null
-      name: denops.vim
+      name: autoload/vimrc/denops.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/dpp.vim
       hash: null
-      name: dpp.vim
+      name: autoload/vimrc/dpp.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/feat/tweet.vim
       hash: null
-      name: tweet.vim
+      name: autoload/vimrc/feat/tweet.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/git.vim
       hash: null
-      name: git.vim
+      name: autoload/vimrc/git.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/inline.vim
       hash: null
-      name: inline.vim
+      name: autoload/vimrc/inline.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/inline/cache.vim
       hash: null
-      name: cache.vim
+      name: autoload/vimrc/inline/cache.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/keycode.vim
       hash: null
-      name: keycode.vim
+      name: autoload/vimrc/keycode.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/lazy.vim
       hash: null
-      name: lazy.vim
+      name: autoload/vimrc/lazy.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/autoload/vimrc/mru.vim
       hash: null
-      name: mru.vim
+      name: autoload/vimrc/mru.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/dpp.ts
       hash: null
-      name: dpp.ts
+      name: conf/dpp.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/dpp.vim
       hash: null
-      name: dpp.vim
+      name: conf/dpp.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/fallback.vim
       hash: null
-      name: fallback.vim
+      name: conf/fallback.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/makestate.vim
       hash: null
-      name: makestate.vim
+      name: conf/makestate.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/conf/plug/colorscheme.toml
       hash: null
-      name: colorscheme.toml
+      name: conf/plug/colorscheme.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddc.toml
       hash: null
-      name: ddc.toml
+      name: conf/plug/ddc.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddc.vim
       hash: null
-      name: ddc.vim
+      name: conf/plug/ddc.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddc/main.ts
       hash: null
-      name: main.ts
+      name: conf/plug/ddc/main.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddc/manual.ts
       hash: null
-      name: manual.ts
+      name: conf/plug/ddc/manual.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddu.toml
       hash: null
-      name: ddu.toml
+      name: conf/plug/ddu.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddu.vim
       hash: null
-      name: ddu.vim
+      name: conf/plug/ddu.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddu/ff.ts
       hash: null
-      name: ff.ts
+      name: conf/plug/ddu/ff.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddu/filer.ts
       hash: null
-      name: filer.ts
+      name: conf/plug/ddu/filer.ts
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddu/lib/helper.ts
       hash: null
-      name: helper.ts
+      name: conf/plug/ddu/lib/helper.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddu/main.ts
       hash: null
-      name: main.ts
+      name: conf/plug/ddu/main.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/ddu/template.ts
       hash: null
-      name: template.ts
+      name: conf/plug/ddu/template.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/denippet.vim
       hash: null
-      name: denippet.vim
+      name: conf/plug/denippet.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/dpp.toml
       hash: null
-      name: dpp.toml
+      name: conf/plug/dpp.toml
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/conf/plug/filetype_vim.toml
       hash: null
-      name: filetype_vim.toml
+      name: conf/plug/filetype_vim.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/lspoints.toml
       hash: null
-      name: lspoints.toml
+      name: conf/plug/lspoints.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/lspoints.vim
       hash: null
-      name: lspoints.vim
+      name: conf/plug/lspoints.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/main.toml
       hash: null
-      name: main.toml
+      name: conf/plug/main.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/nvim/main.toml
       hash: null
-      name: main.toml
+      name: conf/plug/nvim/main.toml
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/conf/plug/nvim/treesitter.toml
       hash: null
-      name: treesitter.toml
+      name: conf/plug/nvim/treesitter.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/plug/skkeleton.vim
       hash: null
-      name: skkeleton.vim
+      name: conf/plug/skkeleton.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/autocmd.vim
       hash: null
-      name: autocmd.vim
+      name: conf/rc/autocmd.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/colors.vim
       hash: null
-      name: colors.vim
+      name: conf/rc/colors.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/colors/select.vim
       hash: null
-      name: select.vim
+      name: conf/rc/colors/select.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/loaded.vim
       hash: null
-      name: loaded.vim
+      name: conf/rc/loaded.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/mappings.vim
       hash: null
-      name: mappings.vim
+      name: conf/rc/mappings.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/mode.vim
       hash: null
-      name: mode.vim
+      name: conf/rc/mode.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/mode/ic/map.vim
       hash: null
-      name: map.vim
+      name: conf/rc/mode/ic/map.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/mode/ic/opt.vim
       hash: null
-      name: opt.vim
+      name: conf/rc/mode/ic/opt.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/mode/ov/map.vim
       hash: null
-      name: map.vim
+      name: conf/rc/mode/ov/map.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/mode/t/map.vim
       hash: null
-      name: map.vim
+      name: conf/rc/mode/t/map.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/nvim/terminal.lua
       hash: null
-      name: terminal.lua
+      name: conf/rc/nvim/terminal.lua
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/conf/rc/nvim/ui_select.lua
       hash: null
-      name: ui_select.lua
+      name: conf/rc/nvim/ui_select.lua
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/on_autocmd.vim
       hash: null
-      name: on_autocmd.vim
+      name: conf/rc/on_autocmd.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/conf/rc/on_autocmd/cmd_undefined.vim
       hash: null
-      name: cmd_undefined.vim
+      name: conf/rc/on_autocmd/cmd_undefined.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/conf/rc/opt.vim
       hash: null
-      name: opt.vim
+      name: conf/rc/opt.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/denops/@vimrc/blocksort.ts
       hash: null
-      name: blocksort.ts
+      name: denops/@vimrc/blocksort.ts
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/denops/@vimrc/lib/ahocorasick.ts
       hash: null
-      name: ahocorasick.ts
+      name: denops/@vimrc/lib/ahocorasick.ts
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/denops/@vimrc/lib/denops.ts
       hash: null
-      name: denops.ts
+      name: denops/@vimrc/lib/denops.ts
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/denops/@vimrc/lib/lambda/autocmd.ts
       hash: null
-      name: autocmd.ts
+      name: denops/@vimrc/lib/lambda/autocmd.ts
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/denops/@vimrc/lib/lambda/map.ts
       hash: null
-      name: map.ts
+      name: denops/@vimrc/lib/lambda/map.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/denops/@vimrc/loader.ts
       hash: null
-      name: loader.ts
+      name: denops/@vimrc/loader.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/denops/@vimrc/template.ts
       hash: null
-      name: template.ts
+      name: denops/@vimrc/template.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/ftplugin/help.vim
       hash: null
-      name: help.vim
+      name: ftplugin/help.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/ftplugin/toml.vim
       hash: null
-      name: toml.vim
+      name: ftplugin/toml.vim
     - url: https://github.com/kuuote/dotvim/blob/version5/ftplugin/vim.vim
       hash: null
-      name: vim.vim
+      name: ftplugin/vim.vim
     - url: >-
         https://github.com/kuuote/dotvim/blob/version5/lua/vimrc/feat/nvimterm.lua
       hash: null
-      name: nvimterm.lua
+      name: lua/vimrc/feat/nvimterm.lua
     - url: https://github.com/kuuote/dotvim/blob/version5/lua/vimrc/ui_select.lua
       hash: null
-      name: ui_select.lua
+      name: lua/vimrc/ui_select.lua
     - url: https://github.com/kuuote/dotvim/blob/version5/script/time/time.ts
       hash: null
-      name: time.ts
+      name: script/time/time.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/snippets/sh.toml
       hash: null
-      name: sh.toml
+      name: snippets/sh.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/snippets/toml.toml
       hash: null
-      name: toml.toml
+      name: snippets/toml.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/snippets/typescript.toml
       hash: null
-      name: typescript.toml
+      name: snippets/typescript.toml
     - url: https://github.com/kuuote/dotvim/blob/version5/snippets/vim.ts
       hash: null
-      name: vim.ts
+      name: snippets/vim.ts
     - url: https://github.com/kuuote/dotvim/blob/version5/vimrc
       hash: null
       name: vimrc
-  part: 前編
+  part: 中編
   other: null
