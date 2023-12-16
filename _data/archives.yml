@@ -31997,3 +31997,263 @@
     - staticTowa (staticTowa)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$HMQvMO_BcwfT2kyM-oISXVuGvdOD2hLWbehp046BRk8
+- id: 597
+  date: 2023-12-16 23:00
+  author:
+    name: Warashi
+    url: https://github.com/Warashi
+  vimrcs:
+    - name: denops/@lspoints/config.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/denops/@lspoints/config.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/denops/@lspoints/config.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: denops/zk/main.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/denops/zk/main.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/denops/zk/main.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/config.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/config.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/config.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/ddc.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/ddc.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/ddc.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/ddu.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/ddu.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/ddu.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/disable-builtins.rc.vim
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/disable-builtins.rc.vim
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/disable-builtins.rc.vim
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/dpp.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/dpp.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/dpp.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/catppuccin.fnl
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/catppuccin.fnl
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/catppuccin.fnl
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/ddc.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/ddc.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/ddc.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/ddc.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/ddc.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/ddc.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/ddu.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/ddu.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/ddu.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/ddu.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/ddu.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/ddu.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/heirline.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/heirline.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/heirline.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/lspoints.fnl
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/lspoints.fnl
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/lspoints.fnl
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/modesearch.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/modesearch.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/modesearch.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/nvim-notify.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/nvim-notify.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/nvim-notify.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/skkeleton.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/skkeleton.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/skkeleton.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/smooth-cursor.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/smooth-cursor.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/smooth-cursor.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/hooks/treesitter.fnl
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/treesitter.fnl
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/hooks/treesitter.fnl
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/libs-lazy.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/libs-lazy.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/libs-lazy.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/libs.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/libs.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/libs.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/lsp.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/lsp.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/lsp.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/mappings.rc.vim
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/mappings.rc.vim
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/mappings.rc.vim
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/options.rc.vim
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/options.rc.vim
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/options.rc.vim
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/signs.rc.vim
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/signs.rc.vim
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/signs.rc.vim
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/snippets.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/snippets.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/snippets.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/someone.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/someone.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/someone.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/treesitter.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/treesitter.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/treesitter.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/ui-lazy.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/ui-lazy.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/ui-lazy.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: dpprc/ui.toml
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/ui.toml
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/dpprc/ui.toml
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: init.vim
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/init.vim
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/denols.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/denols.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/denols.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/efmcmds/alejandra.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/alejandra.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/alejandra.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/efmcmds/cspell.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/cspell.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/cspell.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/efmcmds/deadnix.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/deadnix.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/deadnix.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/efmcmds/fnlfmt.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/fnlfmt.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/fnlfmt.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/efmcmds/mod.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/mod.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/mod.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/efmcmds/statix.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/statix.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/statix.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/efmcmds/types.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/types.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/efmcmds/types.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/fennells.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/fennells.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/fennells.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/gopls.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/gopls.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/gopls.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/luals.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/luals.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/luals.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/marksman.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/marksman.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/marksman.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/mod.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/mod.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/mod.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/nills.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/nills.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/nills.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/rust-analyzer.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/rust-analyzer.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/rust-analyzer.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/taplo.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/taplo.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/taplo.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/vimls.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/vimls.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/vimls.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lspoints/zk.ts
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/zk.ts
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lspoints/zk.ts
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/colors.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/colors.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/colors.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/diagnostics.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/diagnostics.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/diagnostics.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/filename.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/filename.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/filename.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/git.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/git.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/git.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/lsp.fnl
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/lsp.fnl
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/lsp.fnl
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/lsp.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/lsp.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/lsp.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/navic.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/navic.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/navic.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/ruler.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/ruler.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/ruler.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/statusline.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/statusline.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/statusline.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: lua/config/heirline/winbar.lua
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/winbar.lua
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/lua/config/heirline/winbar.lua
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: rc/colorscheme.vim
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/rc/colorscheme.vim
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/rc/colorscheme.vim
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+    - name: rc/dpp.vim
+      url: https://github.com/Warashi/dotfiles/blob/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/rc/dpp.vim
+      raw_url: https://raw.githubusercontent.com/Warashi/dotfiles/8625aeee3b497a1d625735349c35da768c3e3c01/.config/nvim/rc/dpp.vim
+      hash: 8625aeee3b497a1d625735349c35da768c3e3c01
+  part: 後編
+  other: null
+  members:
+    - NI57721
+    - Tsuyoshi CHO
+    - kuuote
+    - mimikun
+    - thinca
+    - こまもか🦊
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$FBxnQiR7DcxoU7TEkjnGIsrz5uRSNqWC7767adj-RUU
