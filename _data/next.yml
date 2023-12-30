@@ -1,5 +1,5 @@
-- id: 599
-  date: 2023-12-30 23:00
+- id: 600
+  date: 2024-01-06 23:00
   author:
     name: yasunori0418
     url: https://github.com/yasunori0418
@@ -416,5 +416,5 @@
         https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/scripts/nvim_night.sh
       hash: 278f81fb63a2612cd7d4d86006f84346668696b1
       name: scripts/nvim_night.sh
-  part: 中編
+  part: 後編
   other: null
