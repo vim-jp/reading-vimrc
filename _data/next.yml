@@ -1,420 +1,335 @@
-- id: 600
-  date: 2024-01-06 23:00
+- id: 601
+  date: 2024-01-13 23:00
   author:
-    name: yasunori0418
-    url: https://github.com/yasunori0418
+    name: uhooi
+    url: https://github.com/uhooi
   vimrcs:
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/bin/vime.sh
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: bin/vime.sh
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ccc.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ccc.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/comment_nvim.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/comment_nvim.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddc/config.ts
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddc/config.ts
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddc/helper/deps.ts
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddc/helper/deps.ts
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddc/hook.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddc/hook.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddu/config.ts
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddu/config.ts
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddu/ff.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddu/ff.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddu/filer.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddu/filer.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddu/helper/deps.ts
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddu/helper/deps.ts
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddu/helper/helper.ts
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddu/helper/helper.ts
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ddu/hook.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ddu/hook.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/deinft.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/deinft.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/deol.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/deol.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/devicons.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/devicons.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/dial.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/dial.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/eft.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/eft.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/fidget.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/fidget.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/gin.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/gin.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/gitsigns.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/gitsigns.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/heirline.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/heirline.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/hooks_file-template.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/hooks_file-template.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/illuminate.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/illuminate.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/indent_blankline.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/indent_blankline.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/jsontoml.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/jsontoml.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/jsonyaml.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/jsonyaml.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/lexima.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/lexima.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/mason.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/mason.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/molder.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/molder.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/mr.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/mr.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/navic.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/navic.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/nightfox.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/nightfox.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/previm/previm.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/previm/previm.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/previm/previm_markdown.css
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/previm/previm_markdown.css
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/sandwich.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/sandwich.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/silicon.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/silicon.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/skkeleton.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/skkeleton.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/skkeleton_state_popup.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/skkeleton_state_popup.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/statusline_skk.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/statusline_skk.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/treesitter.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/treesitter.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ts_textobjects.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ts_textobjects.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/tsnode_marker.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/tsnode_marker.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/ufo.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/ufo.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/hooks/vsnip.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/hooks/vsnip.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/init.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/init.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/lsp/denols.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/lsp/denols.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/lsp/efm.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/lsp/efm.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/lsp/init.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/lsp/init.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/lsp/keymaps.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/lsp/keymaps.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/lsp/lua_ls.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/lsp/lua_ls.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/lsp/pyright.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/lsp/pyright.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/lsp/utils.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/lsp/utils.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/ddc/cmdline_completion.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/ddc/cmdline_completion.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/ddc/init.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/ddc/init.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/ddc/utils.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/ddc/utils.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/ddu.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/ddu.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/dein.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/dein.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/deol.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/deol.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/efm_configs.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/efm_configs.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/color.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/color.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/diagnostics.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/diagnostics.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/file.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/file.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/git.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/git.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/init.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/init.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/lsp.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/lsp.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/mode.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/mode.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/ruler.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/ruler.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/statusline.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/statusline.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/tabline.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/tabline.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/heirline/winbar.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/heirline/winbar.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/lexima.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/lexima.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/molder.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/molder.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/plugins/skkeleton.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/plugins/skkeleton.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/rc.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/rc.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/lua/user/utils.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/lua/user/utils.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/rc/autocmds.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/rc/autocmds.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/rc/commands.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/rc/commands.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/rc/digraphs.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/rc/digraphs.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/rc/keymap.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/rc/keymap.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/rc/neovide.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/rc/neovide.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/rc/options.lua
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/rc/options.lua
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/snippets/global.json
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/snippets/global.json
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/snippets/json.json
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/snippets/json.json
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/snippets/make.json
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/snippets/make.json
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/snippets/markdown.json
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/snippets/markdown.json
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/snippets/sh.json
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/snippets/sh.json
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/snippets/systemd.json
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/snippets/systemd.json
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/snippets/toml.json
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/snippets/toml.json
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/snippets/vim.json
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/snippets/vim.json
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/ddc.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/ddc.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/ddu.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/ddu.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/dein.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/dein.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/denops.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/denops.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/dpp.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/dpp.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/filetype.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/filetype.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/git.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/git.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/lazy.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/lazy.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/lsp.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/lsp.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/tools.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/tools.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/config/nvim/toml/treesitter.toml
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: config/nvim/toml/treesitter.toml
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/home/.vimrc
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: home/.vimrc
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/scripts/nvim_build.sh
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: scripts/nvim_build.sh
-    - url: >-
-        https://github.com/yasunori0418/dotfiles/blob/278f81fb63a2612cd7d4d86006f84346668696b1/scripts/nvim_night.sh
-      hash: 278f81fb63a2612cd7d4d86006f84346668696b1
-      name: scripts/nvim_night.sh
-  part: 後編
+    - url: https://github.com/uhooi/dotfiles/blob/main/.config/nvim/init.lua
+      hash: null
+      name: init.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/basics/init.lua
+      hash: null
+      name: lua/basics/init.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/filetypes/init.lua
+      hash: null
+      name: lua/filetypes/init.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/mappings/init.lua
+      hash: null
+      name: lua/mappings/init.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/blackjack.lua
+      hash: null
+      name: lua/plugins/config/blackjack.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/ccc.lua
+      hash: null
+      name: lua/plugins/config/ccc.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/cellwidths.lua
+      hash: null
+      name: lua/plugins/config/cellwidths.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/characterize.lua
+      hash: null
+      name: lua/plugins/config/characterize.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/cmp_dictionary.lua
+      hash: null
+      name: lua/plugins/config/cmp_dictionary.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/cmp_dynamic.lua
+      hash: null
+      name: lua/plugins/config/cmp_dynamic.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/cmp_ghq.lua
+      hash: null
+      name: lua/plugins/config/cmp_ghq.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/colorful_winsep.lua
+      hash: null
+      name: lua/plugins/config/colorful_winsep.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/comment.lua
+      hash: null
+      name: lua/plugins/config/comment.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/context_vt.lua
+      hash: null
+      name: lua/plugins/config/context_vt.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/copilot.lua
+      hash: null
+      name: lua/plugins/config/copilot.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/dart_vim_plugin.lua
+      hash: null
+      name: lua/plugins/config/dart_vim_plugin.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/dial.lua
+      hash: null
+      name: lua/plugins/config/dial.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/dictionaries/english.dict
+      hash: null
+      name: lua/plugins/config/dictionaries/english.dict
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/dropbar.lua
+      hash: null
+      name: lua/plugins/config/dropbar.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/emmet_vim.lua
+      hash: null
+      name: lua/plugins/config/emmet_vim.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/flash.lua
+      hash: null
+      name: lua/plugins/config/flash.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/focus.lua
+      hash: null
+      name: lua/plugins/config/focus.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/fzf_lua.lua
+      hash: null
+      name: lua/plugins/config/fzf_lua.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/git_conflict.lua
+      hash: null
+      name: lua/plugins/config/git_conflict.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/gitlinker.lua
+      hash: null
+      name: lua/plugins/config/gitlinker.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/gitsigns.lua
+      hash: null
+      name: lua/plugins/config/gitsigns.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/hawtkeys.lua
+      hash: null
+      name: lua/plugins/config/hawtkeys.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/highlight_undo.lua
+      hash: null
+      name: lua/plugins/config/highlight_undo.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/hlchunk.lua
+      hash: null
+      name: lua/plugins/config/hlchunk.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/hoverhints.lua
+      hash: null
+      name: lua/plugins/config/hoverhints.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/insx.lua
+      hash: null
+      name: lua/plugins/config/insx.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/kensaku_search.lua
+      hash: null
+      name: lua/plugins/config/kensaku_search.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/lsp/lua_ls.lua
+      hash: null
+      name: lua/plugins/config/lsp/lua_ls.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/lsp_lens.lua
+      hash: null
+      name: lua/plugins/config/lsp_lens.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/lsp_lines.lua
+      hash: null
+      name: lua/plugins/config/lsp_lines.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/lsp_signature.lua
+      hash: null
+      name: lua/plugins/config/lsp_signature.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/lualine.lua
+      hash: null
+      name: lua/plugins/config/lualine.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/modicator.lua
+      hash: null
+      name: lua/plugins/config/modicator.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nekokak.lua
+      hash: null
+      name: lua/plugins/config/nekokak.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/neogit.lua
+      hash: null
+      name: lua/plugins/config/neogit.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/neoscroll.lua
+      hash: null
+      name: lua/plugins/config/neoscroll.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/noice.lua
+      hash: null
+      name: lua/plugins/config/noice.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nougat.lua
+      hash: null
+      name: lua/plugins/config/nougat.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/null_ls.lua
+      hash: null
+      name: lua/plugins/config/null_ls.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nvim_cmp.lua
+      hash: null
+      name: lua/plugins/config/nvim_cmp.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nvim_dap.lua
+      hash: null
+      name: lua/plugins/config/nvim_dap.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nvim_dap_ui.lua
+      hash: null
+      name: lua/plugins/config/nvim_dap_ui.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nvim_lightbulb.lua
+      hash: null
+      name: lua/plugins/config/nvim_lightbulb.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nvim_lspconfig.lua
+      hash: null
+      name: lua/plugins/config/nvim_lspconfig.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nvim_notify.lua
+      hash: null
+      name: lua/plugins/config/nvim_notify.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nvim_tree.lua
+      hash: null
+      name: lua/plugins/config/nvim_tree.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/nvim_treesitter.lua
+      hash: null
+      name: lua/plugins/config/nvim_treesitter.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/octo.lua
+      hash: null
+      name: lua/plugins/config/octo.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/open_browser.lua
+      hash: null
+      name: lua/plugins/config/open_browser.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/peek.lua
+      hash: null
+      name: lua/plugins/config/peek.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/presenting.lua
+      hash: null
+      name: lua/plugins/config/presenting.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/rainbow_delimiters.lua
+      hash: null
+      name: lua/plugins/config/rainbow_delimiters.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/satellite.lua
+      hash: null
+      name: lua/plugins/config/satellite.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/shared/char_util.lua
+      hash: null
+      name: lua/plugins/config/shared/char_util.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/shared/color.lua
+      hash: null
+      name: lua/plugins/config/shared/color.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/shared/icon.lua
+      hash: null
+      name: lua/plugins/config/shared/icon.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/shared/lsp_util.lua
+      hash: null
+      name: lua/plugins/config/shared/lsp_util.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/shared/skkeleton_util.lua
+      hash: null
+      name: lua/plugins/config/shared/skkeleton_util.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/skkeleton.lua
+      hash: null
+      name: lua/plugins/config/skkeleton.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/skkeleton_indicator.lua
+      hash: null
+      name: lua/plugins/config/skkeleton_indicator.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/smooth_cursor.lua
+      hash: null
+      name: lua/plugins/config/smooth_cursor.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/ssr.lua
+      hash: null
+      name: lua/plugins/config/ssr.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/symbols_outline.lua
+      hash: null
+      name: lua/plugins/config/symbols_outline.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/telescope.lua
+      hash: null
+      name: lua/plugins/config/telescope.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/todo_comments.lua
+      hash: null
+      name: lua/plugins/config/todo_comments.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/tokyonight.lua
+      hash: null
+      name: lua/plugins/config/tokyonight.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/treesitter_context.lua
+      hash: null
+      name: lua/plugins/config/treesitter_context.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/treesitter_textobjects.lua
+      hash: null
+      name: lua/plugins/config/treesitter_textobjects.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/ts_autotag.lua
+      hash: null
+      name: lua/plugins/config/ts_autotag.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/ts_context_commentstring.lua
+      hash: null
+      name: lua/plugins/config/ts_context_commentstring.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/ugaterm.lua
+      hash: null
+      name: lua/plugins/config/ugaterm.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/uhooi.lua
+      hash: null
+      name: lua/plugins/config/uhooi.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/vim_review.lua
+      hash: null
+      name: lua/plugins/config/vim_review.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/virt_column.lua
+      hash: null
+      name: lua/plugins/config/virt_column.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/which_key.lua
+      hash: null
+      name: lua/plugins/config/which_key.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/config/xcodebuild.lua
+      hash: null
+      name: lua/plugins/config/xcodebuild.lua
+    - url: >-
+        https://github.com/uhooi/dotfiles/blob/main/.config/nvim/lua/plugins/init.lua
+      hash: null
+      name: lua/plugins/init.lua
+  part: 前編
   other: null
