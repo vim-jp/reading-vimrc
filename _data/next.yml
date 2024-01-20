@@ -1,5 +1,5 @@
-- id: 602
-  date: 2024-01-20 23:00
+- id: 603
+  date: 2024-01-27 23:00
   author:
     name: uhooi
     url: https://github.com/uhooi
@@ -332,5 +332,5 @@
         https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/init.lua
       hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
       name: lua/plugins/init.lua
-  part: 中編
+  part: 後編
   other: null
