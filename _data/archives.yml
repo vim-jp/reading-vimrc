@@ -34230,3 +34230,350 @@
     - yasunori
     - ウホーイ
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$iaAfx6KDUnJSxs0ofXGXcOvkdMfoqnmLeeozqPQc90M
+- id: 603
+  date: 2024-01-27 23:00
+  author:
+    name: uhooi
+    url: https://github.com/uhooi
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/init.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/basics/init.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/basics/init.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/basics/init.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/filetypes/init.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/filetypes/init.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/filetypes/init.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/mappings/init.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/mappings/init.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/mappings/init.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/blackjack.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/blackjack.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/blackjack.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/ccc.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ccc.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ccc.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/cellwidths.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/cellwidths.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/cellwidths.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/characterize.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/characterize.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/characterize.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/cmp_dictionary.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/cmp_dictionary.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/cmp_dictionary.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/cmp_dynamic.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/cmp_dynamic.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/cmp_dynamic.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/cmp_ghq.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/cmp_ghq.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/cmp_ghq.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/colorful_winsep.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/colorful_winsep.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/colorful_winsep.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/comment.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/comment.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/comment.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/context_vt.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/context_vt.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/context_vt.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/copilot.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/copilot.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/copilot.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/dart_vim_plugin.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/dart_vim_plugin.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/dart_vim_plugin.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/dial.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/dial.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/dial.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/dictionaries/english.dict
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/dictionaries/english.dict
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/dictionaries/english.dict
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/dropbar.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/dropbar.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/dropbar.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/emmet_vim.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/emmet_vim.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/emmet_vim.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/flash.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/flash.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/flash.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/focus.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/focus.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/focus.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/fzf_lua.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/fzf_lua.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/fzf_lua.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/git_conflict.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/git_conflict.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/git_conflict.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/gitlinker.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/gitlinker.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/gitlinker.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/gitsigns.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/gitsigns.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/hawtkeys.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/hawtkeys.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/hawtkeys.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/highlight_undo.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/highlight_undo.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/highlight_undo.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/hlchunk.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/hlchunk.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/hlchunk.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/hoverhints.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/hoverhints.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/hoverhints.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/insx.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/insx.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/insx.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/kensaku_search.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/kensaku_search.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/kensaku_search.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/lsp/lua_ls.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lsp/lua_ls.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lsp/lua_ls.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/lsp_lens.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lsp_lens.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lsp_lens.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/lsp_lines.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lsp_lines.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lsp_lines.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/lsp_signature.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lsp_signature.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lsp_signature.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/lualine.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lualine.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/lualine.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/modicator.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/modicator.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/modicator.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nekokak.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nekokak.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nekokak.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/neogit.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/neogit.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/neogit.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/neoscroll.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/neoscroll.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/neoscroll.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/noice.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/noice.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/noice.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nougat.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nougat.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nougat.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/null_ls.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/null_ls.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/null_ls.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nvim_cmp.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_cmp.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_cmp.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nvim_dap.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_dap.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_dap.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nvim_dap_ui.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_dap_ui.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_dap_ui.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nvim_lightbulb.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_lightbulb.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_lightbulb.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nvim_lspconfig.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_lspconfig.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nvim_notify.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_notify.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_notify.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nvim_tree.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_tree.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_tree.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/nvim_treesitter.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_treesitter.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/nvim_treesitter.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/octo.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/octo.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/octo.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/open_browser.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/open_browser.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/open_browser.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/peek.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/peek.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/peek.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/presenting.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/presenting.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/presenting.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/rainbow_delimiters.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/rainbow_delimiters.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/rainbow_delimiters.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/satellite.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/satellite.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/satellite.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/shared/char_util.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/char_util.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/char_util.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/shared/color.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/color.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/color.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/shared/icon.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/icon.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/icon.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/shared/lsp_util.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/lsp_util.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/lsp_util.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/shared/skkeleton_util.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/skkeleton_util.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/shared/skkeleton_util.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/skkeleton.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/skkeleton.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/skkeleton.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/skkeleton_indicator.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/skkeleton_indicator.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/skkeleton_indicator.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/smooth_cursor.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/smooth_cursor.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/smooth_cursor.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/ssr.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ssr.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ssr.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/symbols_outline.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/symbols_outline.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/symbols_outline.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/telescope.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/telescope.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/telescope.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/todo_comments.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/todo_comments.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/todo_comments.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/tokyonight.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/tokyonight.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/tokyonight.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/treesitter_context.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/treesitter_context.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/treesitter_context.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/treesitter_textobjects.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/treesitter_textobjects.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/treesitter_textobjects.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/ts_autotag.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ts_autotag.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ts_autotag.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/ts_context_commentstring.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ts_context_commentstring.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ts_context_commentstring.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/ugaterm.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ugaterm.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/ugaterm.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/uhooi.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/uhooi.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/uhooi.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/vim_review.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/vim_review.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/vim_review.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/virt_column.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/virt_column.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/virt_column.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/which_key.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/which_key.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/which_key.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/config/xcodebuild.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/xcodebuild.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/config/xcodebuild.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+    - name: lua/plugins/init.lua
+      url: https://github.com/uhooi/dotfiles/blob/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/init.lua
+      raw_url: https://raw.githubusercontent.com/uhooi/dotfiles/a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d/.config/nvim/lua/plugins/init.lua
+      hash: a31ebfebf3d0ac7e9c0d87719b73581dd921ce5d
+  part: 後編
+  other: null
+  members:
+    - Liquid-system (Liquid_system)
+    - NI57721
+    - Tsuyoshi CHO
+    - atusy
+    - garchomp-game
+    - garchomp-game (garchomp-game)
+    - kuuote
+    - thinca
+    - ウホーイ
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$VWo3BrEBbEJa42HC0NmfcSW_oizF9GSQqvAmdZ-99x8
