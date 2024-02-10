@@ -34778,3 +34778,201 @@
     - yasunori
     - 輪ごむ
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$HlEO2WEBM_O87B5j4xzS-tKFcfsWdhiUB-SRfRRRdq4
+- id: 605
+  date: 2024-02-10 23:00
+  author:
+    name: garchomp-game
+    url: https://github.com/garchomp-game
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/init.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/init.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/config/command.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/config/command.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/config/command.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/config/init.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/config/init.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/config/init.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/config/mappings.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/config/mappings.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/config/mappings.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/config/option.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/config/option.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/config/option.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/Comment.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/Comment.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/Comment.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/actions-preview.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/actions-preview.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/actions-preview.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/aerial.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/aerial.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/aerial.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/codeium.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/codeium.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/codeium.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/diffview.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/diffview.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/diffview.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/lsp/lua_ls.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/lsp/lua_ls.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/lsp/lua_ls.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/lua-guide-ja.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/lua-guide-ja.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/lua-guide-ja.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/lualine.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/lualine.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/lualine.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/mason.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/mason.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/mason.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/mini-nvim.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/mini-nvim.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/mini-nvim.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/neodev.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/neodev.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/neodev.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/neogit.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/neogit.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/neogit.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nui.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nui.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nui.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/null-ls.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/null-ls.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/null-ls.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nvim-autopairs.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-autopairs.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-autopairs.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nvim-base16.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-base16.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-base16.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nvim-cmp.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-cmp.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-cmp.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nvim-devicons.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-devicons.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-devicons.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nvim-lspconfig.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-lspconfig.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nvim-neo-tree.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-neo-tree.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-neo-tree.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nvim-treesitter.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-treesitter.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-treesitter.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/nvim-typing-game.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-typing-game.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/nvim-typing-game.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/old_folder
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/old_folder/coc-nvim.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder/coc-nvim.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder/coc-nvim.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/old_folder/nvim-tree.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder/nvim-tree.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder/nvim-tree.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/old_folder/outline-nvim.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder/outline-nvim.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder/outline-nvim.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/old_folder/syntax-highlighted-cursor.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder/syntax-highlighted-cursor.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/old_folder/syntax-highlighted-cursor.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/plantuml.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/plantuml.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/plantuml.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/plenary.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/plenary.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/plenary.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/prettier.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/prettier.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/prettier.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/quick-scope.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/quick-scope.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/quick-scope.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/shakyo.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/shakyo.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/shakyo.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/tabular.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/tabular.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/tabular.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/telescope.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/telescope.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/toggleterm.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/toggleterm.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/toggleterm.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/translate.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/translate.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/translate.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/vim-maketable.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/vim-maketable.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/vim-maketable.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/vim-startuptime.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/vim-startuptime.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/vim-startuptime.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/plugins/vimdoc-ja.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/vimdoc-ja.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/plugins/vimdoc-ja.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+    - name: lua/utils.lua
+      url: https://github.com/garchomp-game/nvim-lazy_load-custom/blob/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/utils.lua
+      raw_url: https://raw.githubusercontent.com/garchomp-game/nvim-lazy_load-custom/eac97a9d4069e888a1bb68ab2791b0da08f1bada/lua/utils.lua
+      hash: eac97a9d4069e888a1bb68ab2791b0da08f1bada
+  part: 後編
+  other: null
+  members:
+    - Liquid-system (Liquid_system)
+    - NI57721
+    - garchomp-game
+    - garchomp-game (garchomp-game)
+    - kuuote
+    - mityu
+    - thinca
+    - ukiuki-engineer
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$xsmxQbcA-WwktwuV1E16k_Qn9lyptfbLu5N5yvFhJQ0
