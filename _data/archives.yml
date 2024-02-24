@@ -35204,3 +35204,229 @@
     - thinca
     - ukiuki-engineer
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$vU3Z225x7qZl9ebr2QjVGAALcpC1J8XNeeznALuDpjE
+- id: 607
+  date: 2024-02-24 23:00
+  author:
+    name: ukiuki-engineer
+    url: https://github.com/ukiuki-engineer
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/init.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/init.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: toml/dein.toml
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/dein.toml
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/dein.toml
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: toml/coc.toml
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/coc.toml
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/coc.toml
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: toml/dein_lazy.toml
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/dein_lazy.toml
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/dein_lazy.toml
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: .vim/coc-settings.json
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/.vim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/.vim/coc-settings.json
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: coc-settings.json
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/coc-settings.json
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/const.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/const.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/const.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/config/keymappings.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/keymappings.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/keymappings.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/config/init.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/init.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/init.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/config/autocmds.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/autocmds.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/autocmds.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/config/lazy/clipboard.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/clipboard.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/clipboard.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/config/lazy/terminal.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/terminal.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/terminal.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/config/lazy/ime.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/ime.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/ime.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/config/lazy/commands.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/commands.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/commands.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/config/options.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/options.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/options.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/ui/nvim-tree.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/nvim-tree.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/nvim-tree.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/ui/dropbar.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/dropbar.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/dropbar.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/ui/lualine.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/lualine.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/lualine.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/ui/bufferline.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/bufferline.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/bufferline.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/ui/scrollbar.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/scrollbar.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/scrollbar.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/telescope.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/telescope.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/others/previm.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/previm.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/previm.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/others/quickrun.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/quickrun.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/quickrun.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/others/vimhelpgenerator.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/vimhelpgenerator.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/vimhelpgenerator.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/lsp/coc.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/lsp/coc.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/lsp/coc.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/colorscheme/moonlight.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/moonlight.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/moonlight.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/colorscheme/gruvbox.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/gruvbox.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/gruvbox.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/colorscheme/nightfly.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/nightfly.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/nightfly.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/colorscheme/tokyonight.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/tokyonight.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/tokyonight.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/colorscheme/kanagawa.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/kanagawa.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/kanagawa.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/colorscheme/utils.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/utils.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/utils.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/highlightedyank.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/highlightedyank.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/highlightedyank.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/autoclose.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/autoclose.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/autoclose.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/matchup.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/matchup.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/matchup.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/nvim-cmp.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/nvim-cmp.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/nvim-cmp.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/colorizer.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/colorizer.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/colorizer.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/shfmt.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/shfmt.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/shfmt.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/commentary.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/commentary.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/commentary.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/treesitter.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/treesitter.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/skkeleton.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/skkeleton.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/skkeleton.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/coding/indent_blankline.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/indent_blankline.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/indent_blankline.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/git/diffview.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/diffview.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/diffview.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/git/gitsigns.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/gitsigns.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/plugins/git/gin.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/gin.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/gin.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: lua/utils.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/utils.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/utils.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: scripts/show-vimrc-info.sh
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/scripts/show-vimrc-info.sh
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/scripts/show-vimrc-info.sh
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: scripts/commit_status.sh
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/scripts/commit_status.sh
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/scripts/commit_status.sh
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: autoload/plugins.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/plugins.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/plugins.vim
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: autoload/terminal.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/terminal.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/terminal.vim
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: autoload/utils.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/utils.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/utils.vim
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: after/ftplugin/scss.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/scss.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/scss.vim
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: after/ftplugin/markdown.vim
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/markdown.vim
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+    - name: after/ftplugin/php.lua
+      url: https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/php.lua
+      raw_url: https://raw.githubusercontent.com/ukiuki-engineer/nvim/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/php.lua
+      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+  part: 後編
+  other: null
+  members:
+    - atusy
+    - kuuote
+    - thinca
+    - ukiuki-engineer
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$jjieJdlOw2glLFnk4rGuQ0XZ636OrO9Vg8JmX15tkXE
