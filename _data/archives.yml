@@ -35430,3 +35430,256 @@
     - thinca
     - ukiuki-engineer
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$jjieJdlOw2glLFnk4rGuQ0XZ636OrO9Vg8JmX15tkXE
+- id: 608
+  date: 2024-03-02 23:00
+  author:
+    name: habamax
+    url: https://github.com/habamax
+  vimrcs:
+    - name: after/compiler/markdown_html.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/compiler/markdown_html.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/compiler/markdown_html.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/asciidoctor.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/asciidoctor.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/asciidoctor.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/c.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/c.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/c.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/colortemplate.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/colortemplate.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/colortemplate.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/css.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/css.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/css.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/curl.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/curl.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/curl.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/dosbatch.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/dosbatch.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/dosbatch.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/elixir.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/elixir.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/elixir.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/erlang.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/erlang.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/erlang.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/gdscript.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/gdscript.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/gdscript.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/go.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/go.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/go.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/html.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/html.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/html.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/ii.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/ii.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/ii.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/javascript.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/javascript.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/javascript.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/json.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/json.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/json.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/markdown.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/markdown.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/odin.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/odin.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/odin.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/perl.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/perl.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/perl.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/python.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/python.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/python.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/rst.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/rst.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/rst.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/sql.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/sql.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/sql.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/tex.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/tex.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/tex.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/text.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/text.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/text.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/vim.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/vim.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/xml.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/xml.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/xml.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/ftplugin/yaml.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/yaml.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/ftplugin/yaml.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/plugin/opts.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/plugin/opts.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/plugin/opts.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/syntax/json.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/syntax/json.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/syntax/json.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/syntax/markdown.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/syntax/markdown.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/syntax/markdown.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: after/syntax/vim.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/syntax/vim.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/after/syntax/vim.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/buf.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/buf.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/buf.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/comment.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/comment.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/comment.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/diff.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/diff.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/diff.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/fuzzy.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/fuzzy.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/fuzzy.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/git.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/git.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/git.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/misc.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/misc.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/misc.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/os.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/os.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/os.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/popup.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/popup.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/popup.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/share.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/share.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/share.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/term.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/term.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/term.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: autoload/text.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/text.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/autoload/text.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: doc/habamax.txt
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/doc/habamax.txt
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/doc/habamax.txt
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: ftdetect/ata.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/ftdetect/ata.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/ftdetect/ata.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: ftdetect/path.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/ftdetect/path.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/ftdetect/path.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: ftdetect/rst.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/ftdetect/rst.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/ftdetect/rst.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: ftdetect/templates.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/ftdetect/templates.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/ftdetect/templates.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: gvimrc
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/gvimrc
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/gvimrc
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/abbreviations.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/abbreviations.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/abbreviations.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/autocommands.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/autocommands.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/autocommands.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/colors.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/colors.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/colors.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/commands.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/commands.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/commands.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/cursor.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/cursor.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/cursor.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/hardcopy.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/hardcopy.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/hardcopy.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/inline_colors.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/inline_colors.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/inline_colors.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/mappings.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/mappings.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/mappings.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/opts.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/opts.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/opts.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/prjroot.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/prjroot.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/prjroot.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/russian.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/russian.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/russian.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: plugin/tmux.vim
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/tmux.vim
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/plugin/tmux.vim
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+    - name: vimrc
+      url: https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/vimrc
+      raw_url: https://raw.githubusercontent.com/habamax/.vim/5ae879ffa91aa090efedc9f43b89c78cf748fb01/vimrc
+      hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
+  part: 前編
+  other: null
+  members:
+    - Tsuyoshi CHO
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$Ir_tRksVbGzm21e5zQk672h4rmr1xGZXmQZdlhYokGc
