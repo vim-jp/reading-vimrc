@@ -1,220 +1,192 @@
-- id: 607
-  date: 2024-02-24 23:00
+- id: 608
+  date: 2024-03-02 23:00
   author:
-    name: ukiuki-engineer
-    url: https://github.com/ukiuki-engineer
+    name: habamax
+    url: https://github.com/habamax
   vimrcs:
     - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/init.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: init.lua
+        https://github.com/habamax/.vim/blob/master/after/compiler/markdown_html.vim
+      hash: null
+      name: after/compiler/markdown_html.vim
     - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/dein.toml
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: toml/dein.toml
+        https://github.com/habamax/.vim/blob/master/after/ftplugin/asciidoctor.vim
+      hash: null
+      name: after/ftplugin/asciidoctor.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/c.vim
+      hash: null
+      name: after/ftplugin/c.vim
     - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/coc.toml
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: toml/coc.toml
+        https://github.com/habamax/.vim/blob/master/after/ftplugin/colortemplate.vim
+      hash: null
+      name: after/ftplugin/colortemplate.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/css.vim
+      hash: null
+      name: after/ftplugin/css.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/curl.vim
+      hash: null
+      name: after/ftplugin/curl.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/dosbatch.vim
+      hash: null
+      name: after/ftplugin/dosbatch.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/elixir.vim
+      hash: null
+      name: after/ftplugin/elixir.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/erlang.vim
+      hash: null
+      name: after/ftplugin/erlang.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/gdscript.vim
+      hash: null
+      name: after/ftplugin/gdscript.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/go.vim
+      hash: null
+      name: after/ftplugin/go.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/html.vim
+      hash: null
+      name: after/ftplugin/html.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/ii.vim
+      hash: null
+      name: after/ftplugin/ii.vim
     - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/toml/dein_lazy.toml
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: toml/dein_lazy.toml
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/.vim/coc-settings.json
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: .vim/coc-settings.json
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/coc-settings.json
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: coc-settings.json
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/const.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/const.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/keymappings.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/config/keymappings.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/init.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/config/init.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/autocmds.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/config/autocmds.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/clipboard.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/config/lazy/clipboard.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/terminal.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/config/lazy/terminal.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/ime.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/config/lazy/ime.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/lazy/commands.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/config/lazy/commands.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/config/options.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/config/options.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/nvim-tree.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/ui/nvim-tree.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/dropbar.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/ui/dropbar.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/lualine.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/ui/lualine.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/bufferline.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/ui/bufferline.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/ui/scrollbar.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/ui/scrollbar.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/telescope.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/telescope.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/previm.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/others/previm.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/quickrun.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/others/quickrun.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/others/vimhelpgenerator.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/others/vimhelpgenerator.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/lsp/coc.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/lsp/coc.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/moonlight.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/colorscheme/moonlight.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/gruvbox.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/colorscheme/gruvbox.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/nightfly.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/colorscheme/nightfly.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/tokyonight.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/colorscheme/tokyonight.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/kanagawa.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/colorscheme/kanagawa.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/colorscheme/utils.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/colorscheme/utils.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/highlightedyank.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/highlightedyank.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/autoclose.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/autoclose.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/matchup.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/matchup.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/nvim-cmp.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/nvim-cmp.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/colorizer.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/colorizer.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/shfmt.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/shfmt.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/commentary.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/commentary.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/treesitter.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/treesitter.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/skkeleton.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/skkeleton.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/coding/indent_blankline.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/coding/indent_blankline.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/diffview.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/git/diffview.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/gitsigns.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/git/gitsigns.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/plugins/git/gin.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/plugins/git/gin.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/lua/utils.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: lua/utils.lua
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/scripts/show-vimrc-info.sh
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: scripts/show-vimrc-info.sh
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/scripts/commit_status.sh
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: scripts/commit_status.sh
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/plugins.vim
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: autoload/plugins.vim
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/terminal.vim
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: autoload/terminal.vim
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/autoload/utils.vim
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: autoload/utils.vim
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/scss.vim
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: after/ftplugin/scss.vim
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/markdown.vim
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
+        https://github.com/habamax/.vim/blob/master/after/ftplugin/javascript.vim
+      hash: null
+      name: after/ftplugin/javascript.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/json.vim
+      hash: null
+      name: after/ftplugin/json.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/markdown.vim
+      hash: null
       name: after/ftplugin/markdown.vim
-    - url: >-
-        https://github.com/ukiuki-engineer/nvim/blob/f718eb30515f1f4afce172cc9cf9dd25a9648442/after/ftplugin/php.lua
-      hash: f718eb30515f1f4afce172cc9cf9dd25a9648442
-      name: after/ftplugin/php.lua
-  part: 後編
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/odin.vim
+      hash: null
+      name: after/ftplugin/odin.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/perl.vim
+      hash: null
+      name: after/ftplugin/perl.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/python.vim
+      hash: null
+      name: after/ftplugin/python.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/rst.vim
+      hash: null
+      name: after/ftplugin/rst.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/sql.vim
+      hash: null
+      name: after/ftplugin/sql.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/tex.vim
+      hash: null
+      name: after/ftplugin/tex.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/text.vim
+      hash: null
+      name: after/ftplugin/text.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/vim.vim
+      hash: null
+      name: after/ftplugin/vim.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/xml.vim
+      hash: null
+      name: after/ftplugin/xml.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/ftplugin/yaml.vim
+      hash: null
+      name: after/ftplugin/yaml.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/plugin/opts.vim
+      hash: null
+      name: after/plugin/opts.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/syntax/json.vim
+      hash: null
+      name: after/syntax/json.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/syntax/markdown.vim
+      hash: null
+      name: after/syntax/markdown.vim
+    - url: https://github.com/habamax/.vim/blob/master/after/syntax/vim.vim
+      hash: null
+      name: after/syntax/vim.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/buf.vim
+      hash: null
+      name: autoload/buf.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/comment.vim
+      hash: null
+      name: autoload/comment.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/diff.vim
+      hash: null
+      name: autoload/diff.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/fuzzy.vim
+      hash: null
+      name: autoload/fuzzy.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/git.vim
+      hash: null
+      name: autoload/git.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/misc.vim
+      hash: null
+      name: autoload/misc.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/os.vim
+      hash: null
+      name: autoload/os.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/popup.vim
+      hash: null
+      name: autoload/popup.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/share.vim
+      hash: null
+      name: autoload/share.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/term.vim
+      hash: null
+      name: autoload/term.vim
+    - url: https://github.com/habamax/.vim/blob/master/autoload/text.vim
+      hash: null
+      name: autoload/text.vim
+    - url: https://github.com/habamax/.vim/blob/master/doc/habamax.txt
+      hash: null
+      name: doc/habamax.txt
+    - url: https://github.com/habamax/.vim/blob/master/ftdetect/ata.vim
+      hash: null
+      name: ftdetect/ata.vim
+    - url: https://github.com/habamax/.vim/blob/master/ftdetect/path.vim
+      hash: null
+      name: ftdetect/path.vim
+    - url: https://github.com/habamax/.vim/blob/master/ftdetect/rst.vim
+      hash: null
+      name: ftdetect/rst.vim
+    - url: https://github.com/habamax/.vim/blob/master/ftdetect/templates.vim
+      hash: null
+      name: ftdetect/templates.vim
+    - url: https://github.com/habamax/.vim/blob/master/gvimrc
+      hash: null
+      name: gvimrc
+    - url: https://github.com/habamax/.vim/blob/master/plugin/abbreviations.vim
+      hash: null
+      name: plugin/abbreviations.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/autocommands.vim
+      hash: null
+      name: plugin/autocommands.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/colors.vim
+      hash: null
+      name: plugin/colors.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/commands.vim
+      hash: null
+      name: plugin/commands.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/cursor.vim
+      hash: null
+      name: plugin/cursor.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/hardcopy.vim
+      hash: null
+      name: plugin/hardcopy.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/inline_colors.vim
+      hash: null
+      name: plugin/inline_colors.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/mappings.vim
+      hash: null
+      name: plugin/mappings.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/opts.vim
+      hash: null
+      name: plugin/opts.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/prjroot.vim
+      hash: null
+      name: plugin/prjroot.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/russian.vim
+      hash: null
+      name: plugin/russian.vim
+    - url: https://github.com/habamax/.vim/blob/master/plugin/tmux.vim
+      hash: null
+      name: plugin/tmux.vim
+    - url: https://github.com/habamax/.vim/blob/master/vimrc
+      hash: null
+      name: vimrc
+  part: 前編
   other: null
