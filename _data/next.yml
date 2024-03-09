@@ -1,5 +1,5 @@
-- id: 609
-  date: 2024-03-09 23:00
+- id: 610
+  date: 2024-03-16 23:00
   author:
     name: habamax
     url: https://github.com/habamax
@@ -244,5 +244,5 @@
         https://github.com/habamax/.vim/blob/5ae879ffa91aa090efedc9f43b89c78cf748fb01/vimrc
       hash: 5ae879ffa91aa090efedc9f43b89c78cf748fb01
       name: vimrc
-  part: 中編
+  part: 後編
   other: null
