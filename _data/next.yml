@@ -1,11 +1,35 @@
-- id: 611
-  date: 2024-03-23 23:00
+- id: 612
+  date: 2024-03-30 23:00
   author:
-    name: eihigh
-    url: https://github.com/eihigh
+    name: 9yokuro
+    url: https://github.com/9yokuro
   vimrcs:
-    - url: https://github.com/eihigh/dotfiles/blob/master/dot_vimrc
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/autocmds.vim
       hash: null
-      name: ''
+      name: autocmds.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/colors/alcedo.vim
+      hash: null
+      name: colors/alcedo.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/go.vim
+      hash: null
+      name: ftplugin/go.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/python.vim
+      hash: null
+      name: ftplugin/python.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/rust.vim
+      hash: null
+      name: ftplugin/rust.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/keymaps.vim
+      hash: null
+      name: keymaps.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/options.vim
+      hash: null
+      name: options.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/plugins.vim
+      hash: null
+      name: plugins.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/vimrc
+      hash: null
+      name: vimrc
   part: null
   other: null
