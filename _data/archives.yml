@@ -36190,3 +36190,26 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$xcvGpr6GnW8ZDvUiZM-9OKtpw2P1rW38zBjy4pm1J8k
+- id: 611
+  date: 2024-03-23 23:00
+  author:
+    name: eihigh
+    url: https://github.com/eihigh
+  vimrcs:
+    - name: ''
+      url: https://github.com/eihigh/dotfiles/blob/fb72ba767e3b0e072b379659e40821ef32344c1c/dot_vimrc
+      raw_url: https://raw.githubusercontent.com/eihigh/dotfiles/fb72ba767e3b0e072b379659e40821ef32344c1c/dot_vimrc
+      hash: fb72ba767e3b0e072b379659e40821ef32344c1c
+  part: null
+  other: null
+  members:
+    - 4513ECHO
+    - '@makizo-62f78ecc6da03739849b49ba:gitter.im'
+    - K Ikeda
+    - NI57721
+    - OgaKen
+    - atusy
+    - eihigh
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$v06GKALsB73dLIZhCmk6Kj6Ryu87Xj1U7D-9KKGkhD4
