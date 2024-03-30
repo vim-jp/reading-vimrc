@@ -36213,3 +36213,78 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$v06GKALsB73dLIZhCmk6Kj6Ryu87Xj1U7D-9KKGkhD4
+- id: 613
+  date: 2024-04-06 23:00
+  author:
+    name: 9yokuro
+    url: https://github.com/9yokuro
+  vimrcs:
+    - name: colors/alcedo.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/colors/alcedo.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/colors/alcedo.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: ftplugin/python.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/ftplugin/python.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/ftplugin/python.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: ftplugin/go.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/ftplugin/go.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/ftplugin/go.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: ftplugin/lua.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/ftplugin/lua.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/ftplugin/lua.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: ftplugin/rust.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/ftplugin/rust.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/ftplugin/rust.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: abbreviations.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/abbreviations.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/abbreviations.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: autocmds.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/autocmds.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/autocmds.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: dpp.toml
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/dpp.toml
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/dpp.toml
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: dpp.ts
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/dpp.ts
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/dpp.ts
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: dpp_lazy.toml
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/dpp_lazy.toml
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/dpp_lazy.toml
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: functions.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/functions.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/functions.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: keymaps.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/keymaps.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/keymaps.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: options.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/options.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/options.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: plugins.vim
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/plugins.vim
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/plugins.vim
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+    - name: vimrc
+      url: https://github.com/9yokuro/dotfiles/blob/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/vimrc
+      raw_url: https://raw.githubusercontent.com/9yokuro/dotfiles/29a09ce50dc697984ef0e085137fce4a82424efa/.vim/vimrc
+      hash: 29a09ce50dc697984ef0e085137fce4a82424efa
+  part: null
+  other: null
+  members:
+    - 9yokuro (@9yokuro:gitter.im)
+    - '@makizo-62f78ecc6da03739849b49ba:gitter.im'
+    - atusy
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$1KO1RVKISWqj6Sg4NEnp8_R-S0eU2hgiMPjmhljSOso
