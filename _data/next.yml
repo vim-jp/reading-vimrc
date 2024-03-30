@@ -1,24 +1,42 @@
-- id: 612
-  date: 2024-03-30 23:00
+- id: 613
+  date: 2024-04-06 23:00
   author:
     name: 9yokuro
     url: https://github.com/9yokuro
   vimrcs:
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/autocmds.vim
-      hash: null
-      name: autocmds.vim
     - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/colors/alcedo.vim
       hash: null
       name: colors/alcedo.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/go.vim
-      hash: null
-      name: ftplugin/go.vim
     - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/python.vim
       hash: null
       name: ftplugin/python.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/go.vim
+      hash: null
+      name: ftplugin/go.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/lua.vim
+      hash: null
+      name: ftplugin/lua.vim
     - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/rust.vim
       hash: null
       name: ftplugin/rust.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/abbreviations.vim
+      hash: null
+      name: abbreviations.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/autocmds.vim
+      hash: null
+      name: autocmds.vim
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/dpp.toml
+      hash: null
+      name: dpp.toml
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/dpp.ts
+      hash: null
+      name: dpp.ts
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/dpp_lazy.toml
+      hash: null
+      name: dpp_lazy.toml
+    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/functions.vim
+      hash: null
+      name: functions.vim
     - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/keymaps.vim
       hash: null
       name: keymaps.vim
