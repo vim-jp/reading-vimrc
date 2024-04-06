@@ -36288,3 +36288,67 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$1KO1RVKISWqj6Sg4NEnp8_R-S0eU2hgiMPjmhljSOso
+- id: 613
+  date: 2024-04-06 23:00
+  author:
+    name: staticWagomU
+    url: https://github.com/staticWagomU
+  vimrcs:
+    - name: stylua.toml
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/stylua.toml
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/stylua.toml
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/after/ftplugin/astro.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/astro.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/astro.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/after/ftplugin/go.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/go.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/go.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/after/ftplugin/json.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/json.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/json.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/after/ftplugin/mdx.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/mdx.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/mdx.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/after/ftplugin/svelete.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/svelete.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/after/ftplugin/svelete.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/init.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/init.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/init.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/lua/pluginconfig/ddu/init.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/lua/pluginconfig/ddu/init.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/lua/pluginconfig/ddu/init.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/lua/pluginconfig/ddu/util.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/lua/pluginconfig/ddu/util.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/lua/pluginconfig/ddu/util.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/lua/pluginconfig/heirline/init.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/lua/pluginconfig/heirline/init.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/lua/pluginconfig/heirline/init.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: nvim-sub/lua/select_action.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/lua/select_action.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/nvim-sub/lua/select_action.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+    - name: wagomu-box/lua/wagomu-box/utils.lua
+      url: https://github.com/staticWagomU/dotvim/blob/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/wagomu-box/lua/wagomu-box/utils.lua
+      raw_url: https://raw.githubusercontent.com/staticWagomU/dotvim/bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8/wagomu-box/lua/wagomu-box/utils.lua
+      hash: bdc39fe32b5145ff782ff06258cd61ccc9c4c8b8
+  part: null
+  other: null
+  members:
+    - NI57721
+    - kuuote
+    - kyoh86 (kyoh86)
+    - thinca
+    - uga-rosa
+    - 輪ごむ
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$AXO0dAJN5k20QG41LVxzBxwHgaebRHtTG1SsgTyKNTo
