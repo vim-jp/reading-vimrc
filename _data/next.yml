@@ -1,53 +1,54 @@
 - id: 613
   date: 2024-04-06 23:00
   author:
-    name: 9yokuro
-    url: https://github.com/9yokuro
+    name: staticWagomU
+    url: https://github.com/staticWagomU
   vimrcs:
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/colors/alcedo.vim
+    - url: https://github.com/staticWagomU/dotvim/blob/main/stylua.toml
       hash: null
-      name: colors/alcedo.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/python.vim
+      name: stylua.toml
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/astro.lua
       hash: null
-      name: ftplugin/python.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/go.vim
+      name: nvim-sub/after/ftplugin/astro.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/go.lua
       hash: null
-      name: ftplugin/go.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/lua.vim
+      name: nvim-sub/after/ftplugin/go.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/json.lua
       hash: null
-      name: ftplugin/lua.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/ftplugin/rust.vim
+      name: nvim-sub/after/ftplugin/json.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/mdx.lua
       hash: null
-      name: ftplugin/rust.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/abbreviations.vim
+      name: nvim-sub/after/ftplugin/mdx.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/svelete.lua
       hash: null
-      name: abbreviations.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/autocmds.vim
+      name: nvim-sub/after/ftplugin/svelete.lua
+    - url: https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/init.lua
       hash: null
-      name: autocmds.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/dpp.toml
+      name: nvim-sub/init.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/lua/pluginconfig/ddu/init.lua
       hash: null
-      name: dpp.toml
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/dpp.ts
+      name: nvim-sub/lua/pluginconfig/ddu/init.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/lua/pluginconfig/ddu/util.lua
       hash: null
-      name: dpp.ts
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/dpp_lazy.toml
+      name: nvim-sub/lua/pluginconfig/ddu/util.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/lua/pluginconfig/heirline/init.lua
       hash: null
-      name: dpp_lazy.toml
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/functions.vim
+      name: nvim-sub/lua/pluginconfig/heirline/init.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/lua/select_action.lua
       hash: null
-      name: functions.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/keymaps.vim
+      name: nvim-sub/lua/select_action.lua
+    - url: >-
+        https://github.com/staticWagomU/dotvim/blob/main/wagomu-box/lua/wagomu-box/utils.lua
       hash: null
-      name: keymaps.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/options.vim
-      hash: null
-      name: options.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/plugins.vim
-      hash: null
-      name: plugins.vim
-    - url: https://github.com/9yokuro/dotfiles/blob/main/.vim/vimrc
-      hash: null
-      name: vimrc
+      name: wagomu-box/lua/wagomu-box/utils.lua
   part: null
   other: null
