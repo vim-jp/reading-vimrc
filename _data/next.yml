@@ -1,54 +1,262 @@
-- id: 613
-  date: 2024-04-06 23:00
+- id: 614
+  date: 2024-04-13 23:00
   author:
-    name: staticWagomU
-    url: https://github.com/staticWagomU
+    name: stevearc
+    url: https://github.com/stevearc
   vimrcs:
-    - url: https://github.com/staticWagomU/dotvim/blob/main/stylua.toml
-      hash: null
-      name: stylua.toml
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/astro.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/after/queries/markdown/highlights.scm
       hash: null
-      name: nvim-sub/after/ftplugin/astro.lua
+      name: after/queries/markdown/highlights.scm
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/go.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/after/queries/ruby/textobjects.scm
       hash: null
-      name: nvim-sub/after/ftplugin/go.lua
+      name: after/queries/ruby/textobjects.scm
+    - url: https://github.com/stevearc/dotfiles/blob/master/.config/nvim/init.lua
+      hash: null
+      name: init.lua
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/json.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/completion/source/glsl_keywords.lua
       hash: null
-      name: nvim-sub/after/ftplugin/json.lua
+      name: lua/completion/source/glsl_keywords.lua
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/mdx.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/completion/source/static.lua
       hash: null
-      name: nvim-sub/after/ftplugin/mdx.lua
+      name: lua/completion/source/static.lua
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/after/ftplugin/svelete.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/ftplugin.lua
       hash: null
-      name: nvim-sub/after/ftplugin/svelete.lua
-    - url: https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/init.lua
-      hash: null
-      name: nvim-sub/init.lua
+      name: lua/ftplugin.lua
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/lua/pluginconfig/ddu/init.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/gitterm.lua
       hash: null
-      name: nvim-sub/lua/pluginconfig/ddu/init.lua
+      name: lua/gitterm.lua
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/lua/pluginconfig/ddu/util.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/heirline_components.lua
       hash: null
-      name: nvim-sub/lua/pluginconfig/ddu/util.lua
+      name: lua/heirline_components.lua
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/lua/pluginconfig/heirline/init.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/lsp.lua
       hash: null
-      name: nvim-sub/lua/pluginconfig/heirline/init.lua
+      name: lua/lsp.lua
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/nvim-sub/lua/select_action.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/markdown.lua
       hash: null
-      name: nvim-sub/lua/select_action.lua
+      name: lua/markdown.lua
+    - url: https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/p.lua
+      hash: null
+      name: lua/p.lua
     - url: >-
-        https://github.com/staticWagomU/dotvim/blob/main/wagomu-box/lua/wagomu-box/utils.lua
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/aerial.lua
       hash: null
-      name: wagomu-box/lua/wagomu-box/utils.lua
-  part: null
+      name: lua/plugins/aerial.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/ccc.lua
+      hash: null
+      name: lua/plugins/ccc.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/cmp.lua
+      hash: null
+      name: lua/plugins/cmp.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/conjoin.lua
+      hash: null
+      name: lua/plugins/conjoin.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/dap.lua
+      hash: null
+      name: lua/plugins/dap.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/dressing.lua
+      hash: null
+      name: lua/plugins/dressing.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/firenvim.lua
+      hash: null
+      name: lua/plugins/firenvim.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/format.lua
+      hash: null
+      name: lua/plugins/format.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/git.lua
+      hash: null
+      name: lua/plugins/git.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/gkeep.lua
+      hash: null
+      name: lua/plugins/gkeep.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/heirline.lua
+      hash: null
+      name: lua/plugins/heirline.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/hlslens.lua
+      hash: null
+      name: lua/plugins/hlslens.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/image.lua
+      hash: null
+      name: lua/plugins/image.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/lint.lua
+      hash: null
+      name: lua/plugins/lint.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/lsp.lua
+      hash: null
+      name: lua/plugins/lsp.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/luasnip.lua
+      hash: null
+      name: lua/plugins/luasnip.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/misc.lua
+      hash: null
+      name: lua/plugins/misc.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/neorg.lua
+      hash: null
+      name: lua/plugins/neorg.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/neotest.lua
+      hash: null
+      name: lua/plugins/neotest.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/nightfox.lua
+      hash: null
+      name: lua/plugins/nightfox.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/oil.lua
+      hash: null
+      name: lua/plugins/oil.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/overseer.lua
+      hash: null
+      name: lua/plugins/overseer.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/quickfix.lua
+      hash: null
+      name: lua/plugins/quickfix.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/resession.lua
+      hash: null
+      name: lua/plugins/resession.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/telescope.lua
+      hash: null
+      name: lua/plugins/telescope.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/three.lua
+      hash: null
+      name: lua/plugins/three.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/tokyonight.lua
+      hash: null
+      name: lua/plugins/tokyonight.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/plugins/treesitter.lua
+      hash: null
+      name: lua/plugins/treesitter.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/projects.lua
+      hash: null
+      name: lua/projects.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/quick_action.lua
+      hash: null
+      name: lua/quick_action.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/statusline.lua
+      hash: null
+      name: lua/statusline.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/tags.lua
+      hash: null
+      name: lua/tags.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/lua/threads.lua
+      hash: null
+      name: lua/threads.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/plugin/diagnostics.lua
+      hash: null
+      name: plugin/diagnostics.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/plugin/exrc.lua
+      hash: null
+      name: plugin/exrc.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/plugin/filetypes.lua
+      hash: null
+      name: plugin/filetypes.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/plugin/quick_actions.lua
+      hash: null
+      name: plugin/quick_actions.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/plugin/stacktrace.lua
+      hash: null
+      name: plugin/stacktrace.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/plugin/terminal.lua
+      hash: null
+      name: plugin/terminal.lua
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/csharp.json
+      hash: null
+      name: snippets/csharp.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/global.json
+      hash: null
+      name: snippets/global.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/go.json
+      hash: null
+      name: snippets/go.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/javascript.json
+      hash: null
+      name: snippets/javascript.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/lua.json
+      hash: null
+      name: snippets/lua.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/markdown.json
+      hash: null
+      name: snippets/markdown.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/norg.json
+      hash: null
+      name: snippets/norg.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/python.json
+      hash: null
+      name: snippets/python.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/ruby.json
+      hash: null
+      name: snippets/ruby.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/rust.json
+      hash: null
+      name: snippets/rust.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/sh.json
+      hash: null
+      name: snippets/sh.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/supercollider.json
+      hash: null
+      name: snippets/supercollider.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/typescript.json
+      hash: null
+      name: snippets/typescript.json
+    - url: >-
+        https://github.com/stevearc/dotfiles/blob/master/.config/nvim/snippets/zig.json
+      hash: null
+      name: snippets/zig.json
+  part: 前編
   other: null
