@@ -36621,3 +36621,272 @@
     - thinca
     - 輪ごむ
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$lqjf3BkUhJzwCgfnrDVCWGUEVLy_qqqWTYvAGgJVdFU
+- id: 615
+  date: 2024-04-20 23:00
+  author:
+    name: stevearc
+    url: https://github.com/stevearc
+  vimrcs:
+    - name: after/queries/markdown/highlights.scm
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/after/queries/markdown/highlights.scm
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/after/queries/markdown/highlights.scm
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: after/queries/ruby/textobjects.scm
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/after/queries/ruby/textobjects.scm
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/after/queries/ruby/textobjects.scm
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: init.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/init.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/completion/source/glsl_keywords.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/completion/source/glsl_keywords.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/completion/source/glsl_keywords.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/completion/source/static.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/completion/source/static.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/completion/source/static.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/ftplugin.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/ftplugin.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/ftplugin.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/gitterm.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/gitterm.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/gitterm.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/heirline_components.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/heirline_components.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/heirline_components.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/lsp.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/lsp.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/lsp.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/markdown.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/markdown.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/markdown.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/p.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/p.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/p.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/aerial.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/aerial.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/aerial.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/ccc.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/ccc.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/ccc.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/cmp.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/cmp.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/cmp.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/conjoin.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/conjoin.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/conjoin.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/dap.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/dap.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/dap.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/dressing.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/dressing.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/dressing.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/firenvim.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/firenvim.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/firenvim.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/format.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/format.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/format.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/git.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/git.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/git.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/gkeep.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/gkeep.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/gkeep.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/heirline.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/heirline.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/heirline.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/hlslens.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/hlslens.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/hlslens.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/image.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/image.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/image.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/lint.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/lint.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/lint.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/lsp.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/lsp.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/lsp.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/luasnip.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/luasnip.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/luasnip.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/misc.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/misc.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/misc.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/neorg.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/neorg.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/neorg.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/neotest.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/neotest.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/neotest.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/nightfox.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/nightfox.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/nightfox.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/oil.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/oil.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/oil.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/overseer.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/overseer.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/overseer.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/quickfix.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/quickfix.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/quickfix.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/resession.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/resession.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/resession.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/telescope.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/telescope.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/three.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/three.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/three.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/tokyonight.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/tokyonight.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/tokyonight.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/plugins/treesitter.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/treesitter.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/projects.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/projects.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/projects.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/quick_action.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/quick_action.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/quick_action.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/statusline.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/statusline.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/statusline.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/tags.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/tags.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/tags.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: lua/threads.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/threads.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/threads.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: plugin/diagnostics.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/diagnostics.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/diagnostics.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: plugin/exrc.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/exrc.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/exrc.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: plugin/filetypes.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/filetypes.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/filetypes.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: plugin/quick_actions.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/quick_actions.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/quick_actions.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: plugin/stacktrace.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/stacktrace.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/stacktrace.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: plugin/terminal.lua
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/terminal.lua
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/terminal.lua
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/csharp.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/csharp.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/csharp.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/global.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/global.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/global.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/go.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/go.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/go.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/javascript.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/javascript.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/javascript.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/lua.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/lua.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/lua.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/markdown.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/markdown.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/markdown.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/norg.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/norg.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/norg.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/python.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/python.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/python.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/ruby.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/ruby.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/ruby.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/rust.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/rust.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/rust.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/sh.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/sh.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/sh.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/supercollider.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/supercollider.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/supercollider.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/typescript.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/typescript.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/typescript.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+    - name: snippets/zig.json
+      url: https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/zig.json
+      raw_url: https://raw.githubusercontent.com/stevearc/dotfiles/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/zig.json
+      hash: cd227fc9230338f79290af81676a7f6083d981db
+  part: 後編
+  other: null
+  members:
+    - atusy
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$Dgv0vjjOvTsfrsB9WeJ7dEF7D6zeNWhlbM5eImLgwPE
