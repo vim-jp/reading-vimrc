@@ -1,264 +1,312 @@
-- id: 615
-  date: 2024-04-20 23:00
+- id: 616
+  date: 2024-04-27 23:00
   author:
-    name: stevearc
-    url: https://github.com/stevearc
+    name: christoomey
+    url: https://github.com/christoomey
   vimrcs:
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/after/queries/markdown/highlights.scm
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: after/queries/markdown/highlights.scm
+        https://github.com/christoomey/dotfiles/blob/master/vim/coc-settings.json
+      hash: null
+      name: coc-settings.json
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/after/queries/ruby/textobjects.scm
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: after/queries/ruby/textobjects.scm
+        https://github.com/christoomey/dotfiles/blob/master/vim/ftdetect/dotenv.vim
+      hash: null
+      name: ftdetect/dotenv.vim
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/init.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: init.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/ftplugin/ruby.vim
+      hash: null
+      name: ftplugin/ruby.vim
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/completion/source/glsl_keywords.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/completion/source/glsl_keywords.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/ftplugin/scss.vim
+      hash: null
+      name: ftplugin/scss.vim
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/completion/source/static.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/completion/source/static.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/ftplugin/svelte.vim
+      hash: null
+      name: ftplugin/svelte.vim
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/init.vim
+      hash: null
+      name: init.vim
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/chrome
+      hash: null
+      name: rcfiles/chrome
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/ftplugin.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/ftplugin.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/completion
+      hash: null
+      name: rcfiles/completion
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/gitterm.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/gitterm.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/convenience
+      hash: null
+      name: rcfiles/convenience
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/folding
+      hash: null
+      name: rcfiles/folding
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/general
+      hash: null
+      name: rcfiles/general
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/git
+      hash: null
+      name: rcfiles/git
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/heirline_components.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/heirline_components.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/help-files
+      hash: null
+      name: rcfiles/help-files
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/html
+      hash: null
+      name: rcfiles/html
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/lsp.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/lsp.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/project-notes
+      hash: null
+      name: rcfiles/project-notes
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/prose
+      hash: null
+      name: rcfiles/prose
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/markdown.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/markdown.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/search-and-replace
+      hash: null
+      name: rcfiles/search-and-replace
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/p.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/p.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/tabs-windows
+      hash: null
+      name: rcfiles/tabs-windows
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/todo
+      hash: null
+      name: rcfiles/todo
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/aerial.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/aerial.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/trusted-local
+      hash: null
+      name: rcfiles/trusted-local
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/visual
+      hash: null
+      name: rcfiles/visual
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/vlc
+      hash: null
+      name: rcfiles/vlc
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/ccc.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/ccc.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/abolish
+      hash: null
+      name: rcplugins/abolish
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/ack
+      hash: null
+      name: rcplugins/ack
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/cmp.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/cmp.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/arglist-thank-you-next
+      hash: null
+      name: rcplugins/arglist-thank-you-next
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/conjoin.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/conjoin.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/better-whitespace
+      hash: null
+      name: rcplugins/better-whitespace
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/coc
+      hash: null
+      name: rcplugins/coc
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/dap.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/dap.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/commentary
+      hash: null
+      name: rcplugins/commentary
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/dressing.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/dressing.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/conflicted
+      hash: null
+      name: rcplugins/conflicted
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/css3
+      hash: null
+      name: rcplugins/css3
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/firenvim.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/firenvim.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/display-table-name
+      hash: null
+      name: rcplugins/display-table-name
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/format.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/format.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/easy-align
+      hash: null
+      name: rcplugins/easy-align
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/emmet
+      hash: null
+      name: rcplugins/emmet
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/git.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/git.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/endwise
+      hash: null
+      name: rcplugins/endwise
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/eunuch
+      hash: null
+      name: rcplugins/eunuch
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/gkeep.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/gkeep.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/exchange
+      hash: null
+      name: rcplugins/exchange
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/heirline.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/heirline.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/file-line
+      hash: null
+      name: rcplugins/file-line
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/hlslens.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/hlslens.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/fugitive
+      hash: null
+      name: rcplugins/fugitive
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/fzf
+      hash: null
+      name: rcplugins/fzf
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/image.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/image.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/fzf-branch-files
+      hash: null
+      name: rcplugins/fzf-branch-files
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/lint.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/lint.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/github-colorscheme
+      hash: null
+      name: rcplugins/github-colorscheme
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/lsp.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/lsp.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/golden-ratio
+      hash: null
+      name: rcplugins/golden-ratio
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/luasnip.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/luasnip.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/goyo-limelight-writing
+      hash: null
+      name: rcplugins/goyo-limelight-writing
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/misc.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/misc.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/graphql
+      hash: null
+      name: rcplugins/graphql
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/gsub
+      hash: null
+      name: rcplugins/gsub
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/html5
+      hash: null
+      name: rcplugins/html5
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/neorg.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/neorg.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/javascript
+      hash: null
+      name: rcplugins/javascript
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/neotest.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/neotest.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/jellybeans
+      hash: null
+      name: rcplugins/jellybeans
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/json
+      hash: null
+      name: rcplugins/json
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/nightfox.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/nightfox.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/lexima.vim
+      hash: null
+      name: rcplugins/lexima.vim
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/oil.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/oil.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/lightline
+      hash: null
+      name: rcplugins/lightline
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/overseer.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/overseer.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/markdown
+      hash: null
+      name: rcplugins/markdown
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/quickfix.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/quickfix.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/markdown-header-mappings
+      hash: null
+      name: rcplugins/markdown-header-mappings
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/mkdir
+      hash: null
+      name: rcplugins/mkdir
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/resession.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/resession.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/one-colorscheme
+      hash: null
+      name: rcplugins/one-colorscheme
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/telescope.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/telescope.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/polyglot
+      hash: null
+      name: rcplugins/polyglot
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/three.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/three.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/projectionist
+      hash: null
+      name: rcplugins/projectionist
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/tokyonight.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/tokyonight.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/quicklink
+      hash: null
+      name: rcplugins/quicklink
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/rake
+      hash: null
+      name: rcplugins/rake
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/repeat
+      hash: null
+      name: rcplugins/repeat
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/plugins/treesitter.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/plugins/treesitter.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/replace-with-register
+      hash: null
+      name: rcplugins/replace-with-register
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/projects.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/projects.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/rfactory
+      hash: null
+      name: rcplugins/rfactory
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/quick_action.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/quick_action.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/rhubarb
+      hash: null
+      name: rcplugins/rhubarb
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/rsi
+      hash: null
+      name: rcplugins/rsi
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/ruby
+      hash: null
+      name: rcplugins/ruby
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/scala
+      hash: null
+      name: rcplugins/scala
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/statusline.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/statusline.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/sort-motion
+      hash: null
+      name: rcplugins/sort-motion
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/tags.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/tags.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/spec-runner
+      hash: null
+      name: rcplugins/spec-runner
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/lua/threads.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: lua/threads.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/surround
+      hash: null
+      name: rcplugins/surround
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/svelte
+      hash: null
+      name: rcplugins/svelte
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/diagnostics.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: plugin/diagnostics.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/system-copy
+      hash: null
+      name: rcplugins/system-copy
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/exrc.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: plugin/exrc.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/text-objects
+      hash: null
+      name: rcplugins/text-objects
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/filetypes.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: plugin/filetypes.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/titlecase
+      hash: null
+      name: rcplugins/titlecase
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/quick_actions.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: plugin/quick_actions.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/tmux-navigator
+      hash: null
+      name: rcplugins/tmux-navigator
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/stacktrace.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: plugin/stacktrace.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/tmux-runner
+      hash: null
+      name: rcplugins/tmux-runner
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/plugin/terminal.lua
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: plugin/terminal.lua
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/trusted-local
+      hash: null
+      name: rcplugins/trusted-local
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/csharp.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/csharp.json
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/typescript
+      hash: null
+      name: rcplugins/typescript
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/global.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/global.json
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/unimpaired
+      hash: null
+      name: rcplugins/unimpaired
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/go.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/go.json
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/vim-pad
+      hash: null
+      name: rcplugins/vim-pad
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/javascript.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/javascript.json
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/vinegar
+      hash: null
+      name: rcplugins/vinegar
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/vip
+      hash: null
+      name: rcplugins/vip
     - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/lua.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/lua.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/markdown.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/markdown.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/norg.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/norg.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/python.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/python.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/ruby.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/ruby.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/rust.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/rust.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/sh.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/sh.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/supercollider.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/supercollider.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/typescript.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/typescript.json
-    - url: >-
-        https://github.com/stevearc/dotfiles/blob/cd227fc9230338f79290af81676a7f6083d981db/.config/nvim/snippets/zig.json
-      hash: cd227fc9230338f79290af81676a7f6083d981db
-      name: snippets/zig.json
-  part: 後編
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/visual-star-search
+      hash: null
+      name: rcplugins/visual-star-search
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/vimrc
+      hash: null
+      name: vimrc
+  part: 前編
   other: null
