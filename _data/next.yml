@@ -1,5 +1,5 @@
-- id: 617
-  date: 2024-05-04 23:00
+- id: 618
+  date: 2024-05-11 23:00
   author:
     name: christoomey
     url: https://github.com/christoomey
@@ -336,5 +336,5 @@
         https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/vimrc
       hash: d101c978ce7305bd6617215c69ddc8408468a5d2
       name: vimrc
-  part: 後編
+  part: 前編
   other: null
