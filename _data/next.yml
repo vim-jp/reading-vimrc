@@ -1,232 +1,54 @@
-- id: 619
-  date: 2024-05-18 23:00
+- id: 620
+  date: 2024-05-25 23:00
   author:
-    name: ibhagwan
-    url: https://github.com/ibhagwan
+    name: Comamoca
+    url: https://github.com/Comamoca
   vimrcs:
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/after/ftplugin/java.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: after/ftplugin/java.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/after/ftplugin/markdown.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: after/ftplugin/markdown.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/after/ftplugin/qf.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: after/ftplugin/qf.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/.editorconfig
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: .editorconfig
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
+    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/ddc.toml
+      hash: null
+      name: ddc.toml
+    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/ddu.toml
+      hash: null
+      name: ddu.toml
+    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/dpp_lazy.toml
+      hash: null
+      name: dpp_lazy.toml
+    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/dpp.ts
+      hash: null
+      name: dpp.ts
+    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/init.lua
+      hash: null
       name: init.lua
+    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lsp.toml
+      hash: null
+      name: lsp.toml
     - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/autocmd.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/autocmd.lua
+        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/cmd.lua
+      hash: null
+      name: lua/configs/cmd.lua
     - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/keymaps.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/keymaps.lua
+        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/ddc.lua
+      hash: null
+      name: lua/configs/ddc.lua
     - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/lazyplug.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/lazyplug.lua
+        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/ddu.lua
+      hash: null
+      name: lua/configs/ddu.lua
     - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/lib/jsonc.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/lib/jsonc.lua
+        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/keymap.lua
+      hash: null
+      name: lua/configs/keymap.lua
     - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/lsp/diag.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/lsp/diag.lua
+        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/lsp.lua
+      hash: null
+      name: lua/configs/lsp.lua
     - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/lsp/handlers.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/lsp/handlers.lua
+        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/tree-sitter.lua
+      hash: null
+      name: lua/configs/tree-sitter.lua
     - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/lsp/icons.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/lsp/icons.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/lsp/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/lsp/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/lsp/on_attach.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/lsp/on_attach.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/lsp/rename.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/lsp/rename.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/options.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/options.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/cmp.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/cmp.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/comment.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/comment.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/conform.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/conform.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/dap/cpp_rust.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/dap/cpp_rust.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/dap/go.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/dap/go.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/dap/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/dap/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/dap/lua.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/dap/lua.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/dap/python.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/dap/python.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/dap/ui.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/dap/ui.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/devicons/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/devicons/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/devicons/setup.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/devicons/setup.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/diffview.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/diffview.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/fugitive.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/fugitive.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/fzf-lua/cmds.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/fzf-lua/cmds.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/fzf-lua/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/fzf-lua/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/fzf-lua/mappings.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/fzf-lua/mappings.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/fzf-lua/setup.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/fzf-lua/setup.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/gitsigns.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/gitsigns.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/heirline/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/heirline/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/heirline/statusline.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/heirline/statusline.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/lspconfig.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/lspconfig.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/luasnip.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/luasnip.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/mason.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/mason.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/mini/indentscope.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/mini/indentscope.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/mini/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/mini/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/mini/surround.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/mini/surround.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/nvim-tree.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/nvim-tree.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/telescope/cmds.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/telescope/cmds.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/telescope/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/telescope/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/telescope/mappings.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/telescope/mappings.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/telescope/setup.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/telescope/setup.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/term/init.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/term/init.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/term/repl.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/term/repl.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/treesitter.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/treesitter.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/ts-vimdoc.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/ts-vimdoc.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/vgit.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/vgit.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/plugins/which_key.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/plugins/which_key.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/utils.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/utils.lua
-    - url: >-
-        https://github.com/ibhagwan/nvim-lua/blob/dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1/lua/workdirs.lua
-      hash: dc846e06d3a9e1df99840d2fc833dca1d0b6e4e1
-      name: lua/workdirs.lua
-  part: 後編
+        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/lua/configs/conform.lua
+      hash: null
+      name: lua/lua/configs/conform.lua
+  part: null
   other: null
