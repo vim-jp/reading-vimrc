@@ -36196,7 +36196,7 @@
     name: eihigh
     url: https://github.com/eihigh
   vimrcs:
-    - name: ''
+    - name: 'dot_vimrc'
       url: https://github.com/eihigh/dotfiles/blob/fb72ba767e3b0e072b379659e40821ef32344c1c/dot_vimrc
       raw_url: https://raw.githubusercontent.com/eihigh/dotfiles/fb72ba767e3b0e072b379659e40821ef32344c1c/dot_vimrc
       hash: fb72ba767e3b0e072b379659e40821ef32344c1c
@@ -38128,7 +38128,7 @@
     name: pekepeke
     url: https://github.com/pekepeke
   vimrcs:
-    - name: ''
+    - name: '.vimrc'
       url: https://github.com/pekepeke/dotfiles/blob/f41a74496947e379c47dc712609bd132dd765978/.vimrc
       raw_url: https://raw.githubusercontent.com/pekepeke/dotfiles/f41a74496947e379c47dc712609bd132dd765978/.vimrc
       hash: f41a74496947e379c47dc712609bd132dd765978
