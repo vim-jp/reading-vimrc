@@ -1,54 +1,11 @@
-- id: 620
-  date: 2024-05-25 23:00
+- id: 621
+  date: 2024-06-01 23:00
   author:
-    name: Comamoca
-    url: https://github.com/Comamoca
+    name: pekepeke
+    url: https://github.com/pekepeke
   vimrcs:
-    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/ddc.toml
+    - url: https://github.com/pekepeke/dotfiles/blob/master/.vimrc
       hash: null
-      name: ddc.toml
-    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/ddu.toml
-      hash: null
-      name: ddu.toml
-    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/dpp_lazy.toml
-      hash: null
-      name: dpp_lazy.toml
-    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/dpp.ts
-      hash: null
-      name: dpp.ts
-    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/init.lua
-      hash: null
-      name: init.lua
-    - url: https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lsp.toml
-      hash: null
-      name: lsp.toml
-    - url: >-
-        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/cmd.lua
-      hash: null
-      name: lua/configs/cmd.lua
-    - url: >-
-        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/ddc.lua
-      hash: null
-      name: lua/configs/ddc.lua
-    - url: >-
-        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/ddu.lua
-      hash: null
-      name: lua/configs/ddu.lua
-    - url: >-
-        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/keymap.lua
-      hash: null
-      name: lua/configs/keymap.lua
-    - url: >-
-        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/lsp.lua
-      hash: null
-      name: lua/configs/lsp.lua
-    - url: >-
-        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/configs/tree-sitter.lua
-      hash: null
-      name: lua/configs/tree-sitter.lua
-    - url: >-
-        https://github.com/Comamoca/dotfiles/blob/main/config/nvim/lua/lua/configs/conform.lua
-      hash: null
-      name: lua/lua/configs/conform.lua
-  part: null
+      name: ''
+  part: 前編
   other: null
