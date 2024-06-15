@@ -38155,3 +38155,19 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$knitl9a0ObmuuReWabuvtnAPXNOpHsFdaFFNBEpFJ-k
+- id: 623
+  date: 2024-06-15 23:00
+  author:
+    name: pekepeke
+    url: https://github.com/pekepeke
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/pekepeke/dotfiles/blob/f41a74496947e379c47dc712609bd132dd765978/.vimrc
+      raw_url: https://raw.githubusercontent.com/pekepeke/dotfiles/f41a74496947e379c47dc712609bd132dd765978/.vimrc
+      hash: f41a74496947e379c47dc712609bd132dd765978
+  part: 後編
+  other: null
+  members:
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$W3k9svQmud6LdH0kdxDH9kQvGFuGg70wIcxl5XoIpV4
