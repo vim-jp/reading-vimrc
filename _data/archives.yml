@@ -38171,3 +38171,1134 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$W3k9svQmud6LdH0kdxDH9kQvGFuGg70wIcxl5XoIpV4
+- id: 624
+  date: 2024-06-22 23:00
+  author:
+    name: ryoppippi
+    url: https://github.com/ryoppippi
+  vimrcs:
+    - name: after/ftplugin/zig.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/zig.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/zig.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: after/ftplugin/qf.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/qf.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/qf.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: after/ftplugin/makefile.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/makefile.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/makefile.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: after/ftplugin/javascript.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/javascript.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/javascript.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: after/ftplugin/svelte.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/svelte.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/svelte.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: after/ftplugin/gitcommit.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/gitcommit.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/gitcommit.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: after/ftplugin/html.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/html.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/html.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: after/ftplugin/python.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/python.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/after/ftplugin/python.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: init.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/init.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/cli/cli.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/cli.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/cli.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/cli/gh.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/gh.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/gh.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/cli/node_servers/package.json
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/node_servers/package.json
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/node_servers/package.json
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/cli/node_servers/bun.lockb
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/node_servers/bun.lockb
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/node_servers/bun.lockb
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/cli/node_servers/.gitignore
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/node_servers/.gitignore
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/node_servers/.gitignore
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/cli/node_servers/init.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/node_servers/init.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/cli/node_servers/init.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/core/utils.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/core/utils.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/core/utils.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/core/plugin.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/core/plugin.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/core/plugin.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/flatten.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/flatten.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/flatten.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/kensaku.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/kensaku.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/kensaku.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-snippets-list.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-snippets-list.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-snippets-list.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/term-edit.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/term-edit.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/term-edit.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/luv-vimdocs.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/luv-vimdocs.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/luv-vimdocs.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/utf-8.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/utf-8.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/utf-8.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/gin.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/gin.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/gin.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/denippet.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/denippet.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/denippet.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/qfheight.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/qfheight.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/qfheight.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-macro-edit.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-macro-edit.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-macro-edit.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/convert-git-url.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/convert-git-url.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/convert-git-url.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-help.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-help.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-help.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/bufferline.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bufferline.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bufferline.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/nvim-surround.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-surround.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-surround.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/bunsetus-wb.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/bunsetus-wb.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/bunsetus-wb.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/guise.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/guise.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/guise.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/mason-lspconfig.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/mason-lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/mason-lspconfig.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/onedark.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/onedark.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/onedark.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/denops-gh.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/denops-gh.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/denops-gh.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/zippy.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/zippy.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/zippy.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/mason-update-all.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/mason-update-all.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/mason-update-all.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/nvim-hlslens.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-hlslens.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-hlslens.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/chafa.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/chafa.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/chafa.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/aomi-grayscale.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/aomi-grayscale.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/aomi-grayscale.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/vim-sandwich.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/vim-sandwich.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/vim-sandwich.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/feline.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/feline.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/feline.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/toggleterm.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/toggleterm.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/toggleterm.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/lualine.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/lualine.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/lualine.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/trouble.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/trouble.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/trouble.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/denops-graphql.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/denops-graphql.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/denops-graphql.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/nvim-notify.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-notify.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-notify.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/LuaSnip.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/LuaSnip.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/LuaSnip.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/BackAndForward.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/BackAndForward.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/BackAndForward.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/dashboard-nvim.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/dashboard-nvim.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/dashboard-nvim.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/pretty-fold.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/pretty-fold.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/pretty-fold.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/nvim-autopairs.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-autopairs.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-autopairs.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/no-neck-pain.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/no-neck-pain.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/no-neck-pain.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/barbecue.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/barbecue.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/barbecue.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/goto-preview.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/goto-preview.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/goto-preview.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/Comment.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/Comment.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/Comment.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/notifier.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/notifier.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/notifier.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/import-cost.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/import-cost.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/import-cost.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/nvim-pasta.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-pasta.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-pasta.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/committia.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/committia.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/committia.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/mason.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/mason.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/mason.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/typescript-tools.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/typescript-tools.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/typescript-tools.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/fold-preview.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/fold-preview.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/fold-preview.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/vim-searchx.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/vim-searchx.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/vim-searchx.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/cosco.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/cosco.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/cosco.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/vim-swap.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/vim-swap.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/vim-swap.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/nvim-ts-context-commentstring.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-ts-context-commentstring.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-ts-context-commentstring.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/tsnip.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/tsnip.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/tsnip.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/vim-expand-region.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/vim-expand-region.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/vim-expand-region.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/neo-tree.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/neo-tree.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/neo-tree.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/treesj.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/treesj.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/treesj.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/rest.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/rest.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/rest.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/nvim-trevJ.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-trevJ.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-trevJ.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/nvim-scrollbar.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-scrollbar.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/nvim-scrollbar.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/.unused/bullets.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/bullets.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/.unused/bullets.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/rainbow-delimiters.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/rainbow-delimiters.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/rainbow-delimiters.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/lspkind.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/lspkind.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/lspkind.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/rainbow_csv.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/rainbow_csv.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/rainbow_csv.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-align.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-align.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-align.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-term.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-term.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-term.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/askpass.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/askpass.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/askpass.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-qfreplace.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-qfreplace.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-qfreplace.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/noice.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/noice.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/noice.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-file-location.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-file-location.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-file-location.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/mini_splitjoin.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_splitjoin.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_splitjoin.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-linkedit.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-linkedit.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-linkedit.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/bufdelete.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bufdelete.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bufdelete.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/alpha.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/alpha.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/alpha.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-wakatime.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-wakatime.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-wakatime.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/git-conflict.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/git-conflict.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/git-conflict.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-niceblock.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-niceblock.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-niceblock.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/kanagawa.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/kanagawa.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/kanagawa.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/freeze.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/freeze.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/freeze.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/actions-preview.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/actions-preview.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/actions-preview.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-FeMaco.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-FeMaco.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-FeMaco.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-illuminate.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-illuminate.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-illuminate.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/marks.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/marks.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/marks.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/carbon-now.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/carbon-now.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/carbon-now.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/winbar.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/winbar.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/winbar.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/FileName.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/FileName.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/FileName.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/ReadOnly.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/ReadOnly.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/ReadOnly.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/FileIcon.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/FileIcon.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/FileIcon.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/Space.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Space.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Space.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/Navic.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Navic.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Navic.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/Ruler.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Ruler.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Ruler.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/Git.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Git.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Git.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/FileInfo.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/FileInfo.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/FileInfo.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/components/Null.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Null.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/components/Null.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/statuscolumn.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/statuscolumn.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/statuscolumn.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/init.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/init.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/init.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/icons.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/icons.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/icons.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/tabline.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/tabline.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/tabline.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/heirline/statusline.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/statusline.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/heirline/statusline.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/neogit.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/neogit.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/neogit.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/gitsigns.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/gitsigns.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/find-git-root.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/find-git-root.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/find-git-root.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/which-key.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/which-key.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/which-key.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/neoconf.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/neoconf.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/neoconf.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/portal.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/portal.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/portal.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/wb-only-current-line.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/wb-only-current-line.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/wb-only-current-line.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-gtd.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-gtd.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-gtd.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-startuptime.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-startuptime.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-startuptime.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/fileline.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/fileline.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/fileline.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/neogen.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/neogen.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/neogen.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-artemis.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-artemis.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-artemis.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ugaterm.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ugaterm.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ugaterm.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-table-mode.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-table-mode.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-table-mode.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-reset.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-reset.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-reset.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/treesitter-context.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/treesitter-context.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/treesitter-context.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/context_filetype.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/context_filetype.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/context_filetype.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/modes.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/modes.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/modes.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/garbage-day.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/garbage-day.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/garbage-day.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-bun-lock.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-bun-lock.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-bun-lock.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/fall.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/fall.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/fall.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-sonictemplate.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-sonictemplate.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-sonictemplate.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-navic.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-navic.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-navic.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/dial.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/dial.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/dial.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/scrapbox-vim.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/scrapbox-vim.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/scrapbox-vim.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/starry.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/starry.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/starry.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/copilotChat.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/copilotChat.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/copilotChat.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/modesearch.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/modesearch.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/modesearch.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/spellsitter.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/spellsitter.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/spellsitter.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/markdown-preview.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/markdown-preview.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/markdown-preview.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/quick-scope.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/quick-scope.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/quick-scope.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/linediff.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/linediff.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/linediff.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/inc-rename.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/inc-rename.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/inc-rename.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-partedit.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-partedit.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-partedit.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ts-comments.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ts-comments.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ts-comments.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-matchup.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-matchup.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-matchup.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/bigfile.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bigfile.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bigfile.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/cronex.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/cronex.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/cronex.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/mkdir.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mkdir.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mkdir.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-mundo.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-mundo.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-mundo.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/octo.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/octo.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/octo.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/dressing.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/dressing.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/dressing.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/denops.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/denops.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/denops.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-luadev.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-luadev.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-luadev.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-cmp.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-cmp.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-cmp.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-block-paste.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-block-paste.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-block-paste.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/satellite.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/satellite.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/satellite.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-typo.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-typo.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-typo.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-ref.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-ref.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-ref.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/colorful-winsep.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/colorful-winsep.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/colorful-winsep.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-manpager.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-manpager.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-manpager.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/stickybuf.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/stickybuf.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/stickybuf.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/parinfer-rust.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/parinfer-rust.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/parinfer-rust.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/denops-docker.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/denops-docker.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/denops-docker.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/gitignore.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/gitignore.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/gitignore.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/on_attach/format.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/format.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/format.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/on_attach/keymaps.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/keymaps.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/on_attach/diagnostic.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/diagnostic.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/diagnostic.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/on_attach/inlayhints.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/inlayhints.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/inlayhints.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/on_attach/init.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/init.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/on_attach/init.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/utils.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/utils.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/utils.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/lua_ls.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/lua_ls.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/lua_ls.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/jsonls.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/jsonls.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/jsonls.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/denols.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/denols.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/denols.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/go.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/go.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/go.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/yamlls.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/yamlls.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/yamlls.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/eslint.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/eslint.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/eslint.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/misc.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/misc.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/misc.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/efm.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/efm.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/efm.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/vtsls.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/vtsls.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/vtsls.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/svelte.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/svelte.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/svelte.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/sourcekit.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/sourcekit.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/sourcekit.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/zls.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/zls.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/zls.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/servers/python.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/python.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/servers/python.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lspconfig/init.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/init.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lspconfig/init.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-early-retirement.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-early-retirement.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-early-retirement.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/capture.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/capture.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/capture.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-textobj-blockwise.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-textobj-blockwise.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-textobj-blockwise.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-lightbulb.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lightbulb.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-lightbulb.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/copilot.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/copilot.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/copilot.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-visual-multi.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-visual-multi.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-visual-multi.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/automa.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/automa.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/automa.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/hlchunk.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/hlchunk.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/hlchunk.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/mini_indentscope.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_indentscope.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_indentscope.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/hlargs.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/hlargs.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/hlargs.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/hey.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/hey.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/hey.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-bqf.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-bqf.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-bqf.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/git-rebase-auto-diff.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/git-rebase-auto-diff.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/git-rebase-auto-diff.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/fuzzy-motion.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/fuzzy-motion.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/fuzzy-motion.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/bufresize.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bufresize.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bufresize.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/glance.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/glance.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/glance.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-qfedit.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-qfedit.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-qfedit.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/registers.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/registers.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/registers.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-log-highlighting.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-log-highlighting.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-log-highlighting.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-dansa.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-dansa.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-dansa.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim_context_vt.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim_context_vt.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim_context_vt.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/lsp_lines.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/lsp_lines.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/lsp_lines.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/mini_jump.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_jump.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_jump.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/tsnode-marker.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/tsnode-marker.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/tsnode-marker.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/detect-language.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/detect-language.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/detect-language.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/other.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/other.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/other.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/telescope.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/telescope.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/telescope.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/gist.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/gist.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/gist.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/sort.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/sort.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/sort.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/dropbar.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/dropbar.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/dropbar.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-uppercase-sql.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-uppercase-sql.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-uppercase-sql.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ts-error-translator.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ts-error-translator.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ts-error-translator.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/dmacro.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/dmacro.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/dmacro.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/live-comamnd.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/live-comamnd.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/live-comamnd.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/troublesum.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/troublesum.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/troublesum.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/chowcho.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/chowcho.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/chowcho.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-macro-colorscheme.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-macro-colorscheme.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-macro-colorscheme.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/project.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/project.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/project.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/neodim.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/neodim.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/neodim.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/highlight-undo.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/highlight-undo.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/highlight-undo.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-rengbang.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-rengbang.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-rengbang.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/svelte_inspector.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/svelte_inspector.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/svelte_inspector.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ccc.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ccc.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ccc.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-comment-frame.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-comment-frame.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-comment-frame.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-prettyprint.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-prettyprint.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-prettyprint.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/mini_surround/init.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_surround/init.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_surround/init.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/mini_surround/emmet.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_surround/emmet.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_surround/emmet.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/mark-code-action.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mark-code-action.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mark-code-action.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/oil/actions.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/oil/actions.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/oil/actions.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/oil/init.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/oil/init.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/oil/init.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-insx.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-insx.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-insx.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/substitute.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/substitute.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/substitute.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/crates.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/crates.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/crates.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/markdown.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/markdown.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/markdown.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-gf.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-gf.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-gf.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-bun-to-deno.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-bun-to-deno.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-bun-to-deno.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/winresizer.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/winresizer.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/winresizer.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/persistence.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/persistence.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/persistence.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/promise.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/promise.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/promise.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/rustaceanvim.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/rustaceanvim.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/rustaceanvim.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/bad-apple.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bad-apple.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/bad-apple.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vimdoc-ja.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vimdoc-ja.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vimdoc-ja.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/diffview.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/diffview.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/diffview.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-treesitter-clipping.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-treesitter-clipping.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-treesitter-clipping.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-treesitter.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-treesitter.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-treesitter.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-asterisk.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-asterisk.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-asterisk.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-pqf.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-pqf.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-pqf.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-deno-cache.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-deno-cache.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-deno-cache.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/sqls.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/sqls.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/sqls.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/comment-box.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/comment-box.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/comment-box.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/package-info.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/package-info.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/package-info.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/zen-mode.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/zen-mode.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/zen-mode.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/mini_trailspace.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_trailspace.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/mini_trailspace.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/vim-quickrun.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-quickrun.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/vim-quickrun.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/todo-comments.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/todo-comments.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/todo-comments.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/ryoppippi-extra-keymaps.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-extra-keymaps.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/ryoppippi-extra-keymaps.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/nvim-ts-autotag.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-ts-autotag.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/nvim-ts-autotag.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/lackluster.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/lackluster.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/lackluster.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/plugin/regexplainer.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/regexplainer.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/plugin/regexplainer.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/base.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/base.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/base.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/command.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/command.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/command.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/autocmd.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/autocmd.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/autocmd.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/keymaps.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/keymaps.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/options.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/options.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/options.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/abbrev.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/abbrev.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/abbrev.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/pack.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/pack.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/pack.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/filetype.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/filetype.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/filetype.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/init.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/init.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/init.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/macos.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/macos.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/macos.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+    - name: lua/config/global.lua
+      url: https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/global.lua
+      raw_url: https://raw.githubusercontent.com/ryoppippi/dotfiles/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/global.lua
+      hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - kuuote
+    - ryoppippi (Ryotaro "Justin" Kimura)
+    - thinca
+    - yasunori
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$F90JSZE3TXgj2IzuL6H5nZws7G_u4qfYXmmBamEjIN0
