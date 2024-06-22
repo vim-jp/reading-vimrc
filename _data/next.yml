@@ -1,12 +1,1107 @@
-- id: 623
-  date: 2024-06-15 23:00
+- id: 624
+  date: 2024-06-22 23:00
   author:
-    name: pekepeke
-    url: https://github.com/pekepeke
+    name: ryoppippi
+    url: https://github.com/ryoppippi
   vimrcs:
     - url: >-
-        https://github.com/pekepeke/dotfiles/blob/f41a74496947e379c47dc712609bd132dd765978/.vimrc
-      hash: f41a74496947e379c47dc712609bd132dd765978
-      name: .vimrc
-  part: 後編
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/after/ftplugin/zig.lua
+      hash: null
+      name: after/ftplugin/zig.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/after/ftplugin/qf.lua
+      hash: null
+      name: after/ftplugin/qf.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/after/ftplugin/makefile.lua
+      hash: null
+      name: after/ftplugin/makefile.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/after/ftplugin/javascript.lua
+      hash: null
+      name: after/ftplugin/javascript.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/after/ftplugin/svelte.lua
+      hash: null
+      name: after/ftplugin/svelte.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/after/ftplugin/gitcommit.lua
+      hash: null
+      name: after/ftplugin/gitcommit.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/after/ftplugin/html.lua
+      hash: null
+      name: after/ftplugin/html.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/after/ftplugin/python.lua
+      hash: null
+      name: after/ftplugin/python.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/init.lua
+      hash: null
+      name: init.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/cli/cli.lua
+      hash: null
+      name: lua/cli/cli.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/cli/gh.lua
+      hash: null
+      name: lua/cli/gh.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/cli/node_servers/package.json
+      hash: null
+      name: lua/cli/node_servers/package.json
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/cli/node_servers/bun.lockb
+      hash: null
+      name: lua/cli/node_servers/bun.lockb
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/cli/node_servers/.gitignore
+      hash: null
+      name: lua/cli/node_servers/.gitignore
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/cli/node_servers/init.lua
+      hash: null
+      name: lua/cli/node_servers/init.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/core/utils.lua
+      hash: null
+      name: lua/core/utils.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/core/plugin.lua
+      hash: null
+      name: lua/core/plugin.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/flatten.lua
+      hash: null
+      name: lua/plugin/flatten.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/kensaku.lua
+      hash: null
+      name: lua/plugin/kensaku.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-snippets-list.lua
+      hash: null
+      name: lua/plugin/ryoppippi-snippets-list.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/term-edit.lua
+      hash: null
+      name: lua/plugin/term-edit.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/luv-vimdocs.lua
+      hash: null
+      name: lua/plugin/luv-vimdocs.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/utf-8.lua
+      hash: null
+      name: lua/plugin/utf-8.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/gin.lua
+      hash: null
+      name: lua/plugin/gin.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/denippet.lua
+      hash: null
+      name: lua/plugin/denippet.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/qfheight.lua
+      hash: null
+      name: lua/plugin/qfheight.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-macro-edit.lua
+      hash: null
+      name: lua/plugin/ryoppippi-macro-edit.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/convert-git-url.lua
+      hash: null
+      name: lua/plugin/convert-git-url.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-help.lua
+      hash: null
+      name: lua/plugin/ryoppippi-help.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/bufferline.lua
+      hash: null
+      name: lua/plugin/bufferline.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/nvim-surround.lua
+      hash: null
+      name: lua/plugin/.unused/nvim-surround.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/bunsetus-wb.lua
+      hash: null
+      name: lua/plugin/.unused/bunsetus-wb.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/guise.lua
+      hash: null
+      name: lua/plugin/.unused/guise.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/mason-lspconfig.lua
+      hash: null
+      name: lua/plugin/.unused/mason-lspconfig.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/onedark.lua
+      hash: null
+      name: lua/plugin/.unused/onedark.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/denops-gh.lua
+      hash: null
+      name: lua/plugin/.unused/denops-gh.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/zippy.lua
+      hash: null
+      name: lua/plugin/.unused/zippy.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/mason-update-all.lua
+      hash: null
+      name: lua/plugin/.unused/mason-update-all.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/nvim-hlslens.lua
+      hash: null
+      name: lua/plugin/.unused/nvim-hlslens.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/chafa.lua
+      hash: null
+      name: lua/plugin/.unused/chafa.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/aomi-grayscale.lua
+      hash: null
+      name: lua/plugin/.unused/aomi-grayscale.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/vim-sandwich.lua
+      hash: null
+      name: lua/plugin/.unused/vim-sandwich.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/feline.lua
+      hash: null
+      name: lua/plugin/.unused/feline.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/toggleterm.lua
+      hash: null
+      name: lua/plugin/.unused/toggleterm.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/lualine.lua
+      hash: null
+      name: lua/plugin/.unused/lualine.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/trouble.lua
+      hash: null
+      name: lua/plugin/.unused/trouble.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/denops-graphql.lua
+      hash: null
+      name: lua/plugin/.unused/denops-graphql.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/nvim-notify.lua
+      hash: null
+      name: lua/plugin/.unused/nvim-notify.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/LuaSnip.lua
+      hash: null
+      name: lua/plugin/.unused/LuaSnip.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/BackAndForward.lua
+      hash: null
+      name: lua/plugin/.unused/BackAndForward.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/dashboard-nvim.lua
+      hash: null
+      name: lua/plugin/.unused/dashboard-nvim.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/pretty-fold.lua
+      hash: null
+      name: lua/plugin/.unused/pretty-fold.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/nvim-autopairs.lua
+      hash: null
+      name: lua/plugin/.unused/nvim-autopairs.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/no-neck-pain.lua
+      hash: null
+      name: lua/plugin/.unused/no-neck-pain.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/barbecue.lua
+      hash: null
+      name: lua/plugin/.unused/barbecue.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/goto-preview.lua
+      hash: null
+      name: lua/plugin/.unused/goto-preview.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/Comment.lua
+      hash: null
+      name: lua/plugin/.unused/Comment.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/notifier.lua
+      hash: null
+      name: lua/plugin/.unused/notifier.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/import-cost.lua
+      hash: null
+      name: lua/plugin/.unused/import-cost.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/nvim-pasta.lua
+      hash: null
+      name: lua/plugin/.unused/nvim-pasta.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/committia.lua
+      hash: null
+      name: lua/plugin/.unused/committia.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/mason.lua
+      hash: null
+      name: lua/plugin/.unused/mason.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/typescript-tools.lua
+      hash: null
+      name: lua/plugin/.unused/typescript-tools.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/fold-preview.lua
+      hash: null
+      name: lua/plugin/.unused/fold-preview.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/vim-searchx.lua
+      hash: null
+      name: lua/plugin/.unused/vim-searchx.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/cosco.lua
+      hash: null
+      name: lua/plugin/.unused/cosco.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/vim-swap.lua
+      hash: null
+      name: lua/plugin/.unused/vim-swap.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/nvim-ts-context-commentstring.lua
+      hash: null
+      name: lua/plugin/.unused/nvim-ts-context-commentstring.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/tsnip.lua
+      hash: null
+      name: lua/plugin/.unused/tsnip.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/vim-expand-region.lua
+      hash: null
+      name: lua/plugin/.unused/vim-expand-region.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/neo-tree.lua
+      hash: null
+      name: lua/plugin/.unused/neo-tree.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/treesj.lua
+      hash: null
+      name: lua/plugin/.unused/treesj.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/rest.lua
+      hash: null
+      name: lua/plugin/.unused/rest.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/nvim-trevJ.lua
+      hash: null
+      name: lua/plugin/.unused/nvim-trevJ.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/nvim-scrollbar.lua
+      hash: null
+      name: lua/plugin/.unused/nvim-scrollbar.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/.unused/bullets.lua
+      hash: null
+      name: lua/plugin/.unused/bullets.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/rainbow-delimiters.lua
+      hash: null
+      name: lua/plugin/rainbow-delimiters.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/lspkind.lua
+      hash: null
+      name: lua/plugin/lspkind.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/rainbow_csv.lua
+      hash: null
+      name: lua/plugin/rainbow_csv.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-align.lua
+      hash: null
+      name: lua/plugin/nvim-align.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-term.lua
+      hash: null
+      name: lua/plugin/ryoppippi-term.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/askpass.lua
+      hash: null
+      name: lua/plugin/askpass.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-qfreplace.lua
+      hash: null
+      name: lua/plugin/vim-qfreplace.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/noice.lua
+      hash: null
+      name: lua/plugin/noice.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-file-location.lua
+      hash: null
+      name: lua/plugin/nvim-file-location.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/mini_splitjoin.lua
+      hash: null
+      name: lua/plugin/mini_splitjoin.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-linkedit.lua
+      hash: null
+      name: lua/plugin/nvim-linkedit.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/bufdelete.lua
+      hash: null
+      name: lua/plugin/bufdelete.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/alpha.lua
+      hash: null
+      name: lua/plugin/alpha.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-wakatime.lua
+      hash: null
+      name: lua/plugin/vim-wakatime.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/git-conflict.lua
+      hash: null
+      name: lua/plugin/git-conflict.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-niceblock.lua
+      hash: null
+      name: lua/plugin/vim-niceblock.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/kanagawa.lua
+      hash: null
+      name: lua/plugin/kanagawa.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/freeze.lua
+      hash: null
+      name: lua/plugin/freeze.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/actions-preview.lua
+      hash: null
+      name: lua/plugin/actions-preview.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-FeMaco.lua
+      hash: null
+      name: lua/plugin/nvim-FeMaco.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-illuminate.lua
+      hash: null
+      name: lua/plugin/vim-illuminate.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/marks.lua
+      hash: null
+      name: lua/plugin/marks.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/carbon-now.lua
+      hash: null
+      name: lua/plugin/carbon-now.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/winbar.lua
+      hash: null
+      name: lua/plugin/heirline/winbar.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/FileName.lua
+      hash: null
+      name: lua/plugin/heirline/components/FileName.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/ReadOnly.lua
+      hash: null
+      name: lua/plugin/heirline/components/ReadOnly.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/FileIcon.lua
+      hash: null
+      name: lua/plugin/heirline/components/FileIcon.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/Space.lua
+      hash: null
+      name: lua/plugin/heirline/components/Space.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/Navic.lua
+      hash: null
+      name: lua/plugin/heirline/components/Navic.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/Ruler.lua
+      hash: null
+      name: lua/plugin/heirline/components/Ruler.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/Git.lua
+      hash: null
+      name: lua/plugin/heirline/components/Git.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/FileInfo.lua
+      hash: null
+      name: lua/plugin/heirline/components/FileInfo.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/components/Null.lua
+      hash: null
+      name: lua/plugin/heirline/components/Null.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/statuscolumn.lua
+      hash: null
+      name: lua/plugin/heirline/statuscolumn.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/init.lua
+      hash: null
+      name: lua/plugin/heirline/init.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/icons.lua
+      hash: null
+      name: lua/plugin/heirline/icons.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/tabline.lua
+      hash: null
+      name: lua/plugin/heirline/tabline.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/heirline/statusline.lua
+      hash: null
+      name: lua/plugin/heirline/statusline.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/neogit.lua
+      hash: null
+      name: lua/plugin/neogit.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/gitsigns.lua
+      hash: null
+      name: lua/plugin/gitsigns.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/find-git-root.lua
+      hash: null
+      name: lua/plugin/find-git-root.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/which-key.lua
+      hash: null
+      name: lua/plugin/which-key.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/neoconf.lua
+      hash: null
+      name: lua/plugin/neoconf.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/portal.lua
+      hash: null
+      name: lua/plugin/portal.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/wb-only-current-line.lua
+      hash: null
+      name: lua/plugin/wb-only-current-line.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-gtd.lua
+      hash: null
+      name: lua/plugin/nvim-gtd.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-startuptime.lua
+      hash: null
+      name: lua/plugin/vim-startuptime.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/fileline.lua
+      hash: null
+      name: lua/plugin/fileline.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/neogen.lua
+      hash: null
+      name: lua/plugin/neogen.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-artemis.lua
+      hash: null
+      name: lua/plugin/vim-artemis.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ugaterm.lua
+      hash: null
+      name: lua/plugin/ugaterm.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-table-mode.lua
+      hash: null
+      name: lua/plugin/vim-table-mode.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-reset.lua
+      hash: null
+      name: lua/plugin/nvim-reset.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/treesitter-context.lua
+      hash: null
+      name: lua/plugin/treesitter-context.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/context_filetype.lua
+      hash: null
+      name: lua/plugin/context_filetype.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/modes.lua
+      hash: null
+      name: lua/plugin/modes.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/garbage-day.lua
+      hash: null
+      name: lua/plugin/garbage-day.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-bun-lock.lua
+      hash: null
+      name: lua/plugin/ryoppippi-bun-lock.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/fall.lua
+      hash: null
+      name: lua/plugin/fall.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-sonictemplate.lua
+      hash: null
+      name: lua/plugin/vim-sonictemplate.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-navic.lua
+      hash: null
+      name: lua/plugin/nvim-navic.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/dial.lua
+      hash: null
+      name: lua/plugin/dial.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/scrapbox-vim.lua
+      hash: null
+      name: lua/plugin/scrapbox-vim.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/starry.lua
+      hash: null
+      name: lua/plugin/starry.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/copilotChat.lua
+      hash: null
+      name: lua/plugin/copilotChat.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/modesearch.lua
+      hash: null
+      name: lua/plugin/modesearch.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/spellsitter.lua
+      hash: null
+      name: lua/plugin/spellsitter.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/markdown-preview.lua
+      hash: null
+      name: lua/plugin/markdown-preview.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/quick-scope.lua
+      hash: null
+      name: lua/plugin/quick-scope.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/linediff.lua
+      hash: null
+      name: lua/plugin/linediff.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/inc-rename.lua
+      hash: null
+      name: lua/plugin/inc-rename.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-partedit.lua
+      hash: null
+      name: lua/plugin/vim-partedit.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ts-comments.lua
+      hash: null
+      name: lua/plugin/ts-comments.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-matchup.lua
+      hash: null
+      name: lua/plugin/vim-matchup.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/bigfile.lua
+      hash: null
+      name: lua/plugin/bigfile.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/cronex.lua
+      hash: null
+      name: lua/plugin/cronex.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/mkdir.lua
+      hash: null
+      name: lua/plugin/mkdir.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-mundo.lua
+      hash: null
+      name: lua/plugin/vim-mundo.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/octo.lua
+      hash: null
+      name: lua/plugin/octo.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/dressing.lua
+      hash: null
+      name: lua/plugin/dressing.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/denops.lua
+      hash: null
+      name: lua/plugin/denops.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-luadev.lua
+      hash: null
+      name: lua/plugin/nvim-luadev.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-cmp.lua
+      hash: null
+      name: lua/plugin/nvim-cmp.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-block-paste.lua
+      hash: null
+      name: lua/plugin/nvim-block-paste.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/satellite.lua
+      hash: null
+      name: lua/plugin/satellite.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-typo.lua
+      hash: null
+      name: lua/plugin/vim-typo.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-ref.lua
+      hash: null
+      name: lua/plugin/vim-ref.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/colorful-winsep.lua
+      hash: null
+      name: lua/plugin/colorful-winsep.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-manpager.lua
+      hash: null
+      name: lua/plugin/vim-manpager.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/stickybuf.lua
+      hash: null
+      name: lua/plugin/stickybuf.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/parinfer-rust.lua
+      hash: null
+      name: lua/plugin/parinfer-rust.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/denops-docker.lua
+      hash: null
+      name: lua/plugin/denops-docker.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/gitignore.lua
+      hash: null
+      name: lua/plugin/gitignore.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/on_attach/format.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/on_attach/format.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/on_attach/keymaps.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/on_attach/keymaps.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/on_attach/diagnostic.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/on_attach/diagnostic.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/on_attach/inlayhints.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/on_attach/inlayhints.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/on_attach/init.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/on_attach/init.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/utils.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/utils.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/lua_ls.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/lua_ls.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/jsonls.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/jsonls.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/denols.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/denols.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/go.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/go.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/yamlls.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/yamlls.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/eslint.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/eslint.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/misc.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/misc.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/efm.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/efm.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/vtsls.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/vtsls.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/svelte.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/svelte.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/sourcekit.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/sourcekit.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/zls.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/zls.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/servers/python.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/servers/python.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lspconfig/init.lua
+      hash: null
+      name: lua/plugin/nvim-lspconfig/init.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-early-retirement.lua
+      hash: null
+      name: lua/plugin/nvim-early-retirement.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/capture.lua
+      hash: null
+      name: lua/plugin/capture.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-textobj-blockwise.lua
+      hash: null
+      name: lua/plugin/vim-textobj-blockwise.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-lightbulb.lua
+      hash: null
+      name: lua/plugin/nvim-lightbulb.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/copilot.lua
+      hash: null
+      name: lua/plugin/copilot.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-visual-multi.lua
+      hash: null
+      name: lua/plugin/vim-visual-multi.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/automa.lua
+      hash: null
+      name: lua/plugin/automa.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/hlchunk.lua
+      hash: null
+      name: lua/plugin/hlchunk.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/mini_indentscope.lua
+      hash: null
+      name: lua/plugin/mini_indentscope.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/hlargs.lua
+      hash: null
+      name: lua/plugin/hlargs.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/hey.lua
+      hash: null
+      name: lua/plugin/hey.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-bqf.lua
+      hash: null
+      name: lua/plugin/nvim-bqf.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/git-rebase-auto-diff.lua
+      hash: null
+      name: lua/plugin/git-rebase-auto-diff.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/fuzzy-motion.lua
+      hash: null
+      name: lua/plugin/fuzzy-motion.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/bufresize.lua
+      hash: null
+      name: lua/plugin/bufresize.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/glance.lua
+      hash: null
+      name: lua/plugin/glance.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-qfedit.lua
+      hash: null
+      name: lua/plugin/vim-qfedit.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/registers.lua
+      hash: null
+      name: lua/plugin/registers.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-log-highlighting.lua
+      hash: null
+      name: lua/plugin/vim-log-highlighting.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-dansa.lua
+      hash: null
+      name: lua/plugin/nvim-dansa.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim_context_vt.lua
+      hash: null
+      name: lua/plugin/nvim_context_vt.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/lsp_lines.lua
+      hash: null
+      name: lua/plugin/lsp_lines.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/mini_jump.lua
+      hash: null
+      name: lua/plugin/mini_jump.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/tsnode-marker.lua
+      hash: null
+      name: lua/plugin/tsnode-marker.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/detect-language.lua
+      hash: null
+      name: lua/plugin/detect-language.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/other.lua
+      hash: null
+      name: lua/plugin/other.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/telescope.lua
+      hash: null
+      name: lua/plugin/telescope.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/gist.lua
+      hash: null
+      name: lua/plugin/gist.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/sort.lua
+      hash: null
+      name: lua/plugin/sort.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/dropbar.lua
+      hash: null
+      name: lua/plugin/dropbar.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-uppercase-sql.lua
+      hash: null
+      name: lua/plugin/vim-uppercase-sql.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ts-error-translator.lua
+      hash: null
+      name: lua/plugin/ts-error-translator.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/dmacro.lua
+      hash: null
+      name: lua/plugin/dmacro.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/live-comamnd.lua
+      hash: null
+      name: lua/plugin/live-comamnd.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/troublesum.lua
+      hash: null
+      name: lua/plugin/troublesum.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/chowcho.lua
+      hash: null
+      name: lua/plugin/chowcho.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-macro-colorscheme.lua
+      hash: null
+      name: lua/plugin/ryoppippi-macro-colorscheme.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/project.lua
+      hash: null
+      name: lua/plugin/project.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/neodim.lua
+      hash: null
+      name: lua/plugin/neodim.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/highlight-undo.lua
+      hash: null
+      name: lua/plugin/highlight-undo.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-rengbang.lua
+      hash: null
+      name: lua/plugin/vim-rengbang.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/svelte_inspector.lua
+      hash: null
+      name: lua/plugin/svelte_inspector.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ccc.lua
+      hash: null
+      name: lua/plugin/ccc.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-comment-frame.lua
+      hash: null
+      name: lua/plugin/nvim-comment-frame.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-prettyprint.lua
+      hash: null
+      name: lua/plugin/vim-prettyprint.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/mini_surround/init.lua
+      hash: null
+      name: lua/plugin/mini_surround/init.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/mini_surround/emmet.lua
+      hash: null
+      name: lua/plugin/mini_surround/emmet.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/mark-code-action.lua
+      hash: null
+      name: lua/plugin/mark-code-action.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/oil/actions.lua
+      hash: null
+      name: lua/plugin/oil/actions.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/oil/init.lua
+      hash: null
+      name: lua/plugin/oil/init.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-insx.lua
+      hash: null
+      name: lua/plugin/nvim-insx.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/substitute.lua
+      hash: null
+      name: lua/plugin/substitute.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/crates.lua
+      hash: null
+      name: lua/plugin/crates.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/markdown.lua
+      hash: null
+      name: lua/plugin/markdown.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-gf.lua
+      hash: null
+      name: lua/plugin/ryoppippi-gf.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-bun-to-deno.lua
+      hash: null
+      name: lua/plugin/ryoppippi-bun-to-deno.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/winresizer.lua
+      hash: null
+      name: lua/plugin/winresizer.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/persistence.lua
+      hash: null
+      name: lua/plugin/persistence.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/promise.lua
+      hash: null
+      name: lua/plugin/promise.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/rustaceanvim.lua
+      hash: null
+      name: lua/plugin/rustaceanvim.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/bad-apple.lua
+      hash: null
+      name: lua/plugin/bad-apple.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vimdoc-ja.lua
+      hash: null
+      name: lua/plugin/vimdoc-ja.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/diffview.lua
+      hash: null
+      name: lua/plugin/diffview.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-treesitter-clipping.lua
+      hash: null
+      name: lua/plugin/nvim-treesitter-clipping.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-treesitter.lua
+      hash: null
+      name: lua/plugin/nvim-treesitter.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-asterisk.lua
+      hash: null
+      name: lua/plugin/vim-asterisk.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-pqf.lua
+      hash: null
+      name: lua/plugin/nvim-pqf.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-deno-cache.lua
+      hash: null
+      name: lua/plugin/vim-deno-cache.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/sqls.lua
+      hash: null
+      name: lua/plugin/sqls.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/comment-box.lua
+      hash: null
+      name: lua/plugin/comment-box.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/package-info.lua
+      hash: null
+      name: lua/plugin/package-info.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/zen-mode.lua
+      hash: null
+      name: lua/plugin/zen-mode.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/mini_trailspace.lua
+      hash: null
+      name: lua/plugin/mini_trailspace.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/vim-quickrun.lua
+      hash: null
+      name: lua/plugin/vim-quickrun.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/todo-comments.lua
+      hash: null
+      name: lua/plugin/todo-comments.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/ryoppippi-extra-keymaps.lua
+      hash: null
+      name: lua/plugin/ryoppippi-extra-keymaps.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/nvim-ts-autotag.lua
+      hash: null
+      name: lua/plugin/nvim-ts-autotag.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/lackluster.lua
+      hash: null
+      name: lua/plugin/lackluster.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/plugin/regexplainer.lua
+      hash: null
+      name: lua/plugin/regexplainer.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/base.lua
+      hash: null
+      name: lua/config/base.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/command.lua
+      hash: null
+      name: lua/config/command.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/autocmd.lua
+      hash: null
+      name: lua/config/autocmd.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/keymaps.lua
+      hash: null
+      name: lua/config/keymaps.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/options.lua
+      hash: null
+      name: lua/config/options.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/abbrev.lua
+      hash: null
+      name: lua/config/abbrev.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/pack.lua
+      hash: null
+      name: lua/config/pack.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/filetype.lua
+      hash: null
+      name: lua/config/filetype.lua
+    - url: https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/init.lua
+      hash: null
+      name: lua/config/init.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/macos.lua
+      hash: null
+      name: lua/config/macos.lua
+    - url: >-
+        https://github.com/ryoppippi/dotfiles/tree/main/nvim/lua/config/global.lua
+      hash: null
+      name: lua/config/global.lua
+  part: 前編
   other: null
