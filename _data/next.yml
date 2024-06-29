@@ -1,5 +1,5 @@
-- id: 625
-  date: 2024-06-29 23:00
+- id: 626
+  date: 2024-07-06 23:00
   author:
     name: ryoppippi
     url: https://github.com/ryoppippi
@@ -1120,5 +1120,5 @@
         https://github.com/ryoppippi/dotfiles/blob/1a3ec56aa4740deb6dc0d2a5c77c9515913720c1/nvim/lua/config/global.lua
       hash: 1a3ec56aa4740deb6dc0d2a5c77c9515913720c1
       name: lua/config/global.lua
-  part: 中編
+  part: 後編
   other: null
