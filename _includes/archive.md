@@ -44,7 +44,7 @@
 
 <ul>
 {% for member in archive.members %}
-  <li><a href="{{ site.github.url | replace: 'http://', '//' }}/stat/#/u/{{ member }}">{{ member }}</a></li>
+  <li><a href="{{ site.github.url | replace: 'http://', '//' }}/stat/#/u/{{ member | url_encode }}">{{ member }}</a></li>
 {% endfor %}
 </ul>
 
