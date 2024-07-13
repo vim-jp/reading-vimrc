@@ -1,780 +1,784 @@
-- id: 627
-  date: 2024-07-13 23:00
+- id: 628
+  date: 2024-07-20 23:00
   author:
     name: nekowasabi
     url: https://github.com/nekowasabi
   vimrcs:
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/coc-settings.json
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/coc-settings.json
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: coc-settings.json
-    - url: https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/.gvimrc
-      hash: null
+    - url: >-
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/.gvimrc
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: .gvimrc
-    - url: https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/init.vim
-      hash: null
+    - url: >-
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/init.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: init.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/aspvbs.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/aspvbs.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/aspvbs.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/changelog.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/changelog.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/changelog.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/Gemfile.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/Gemfile.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/Gemfile.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/gina-commit.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/gina-commit.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/gina-commit.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/git-commit.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/git-commit.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/git-commit.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/gitcommit.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/gitcommit.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/gitcommit.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/html.snippets
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/html.snippets
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/html.snippets
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/jasmine.snippets
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/jasmine.snippets
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/jasmine.snippets
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/javascript.es6.snippets
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/javascript.es6.snippets
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/javascript.es6.snippets
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/javascript_jquery.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/javascript_jquery.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/javascript_jquery.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/javascript.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/javascript.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/javascript.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/markdown.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/markdown.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/markdown.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/php_functions.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/php_functions.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/php_functions.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/php_functions.snip.bak
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/php_functions.snip.bak
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/php_functions.snip.bak
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/php.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/php.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/php.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/phpunit.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/phpunit.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/phpunit.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/rdoc.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/rdoc.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/rdoc.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.abstract_controller.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.abstract_controller.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.abstract_controller.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.action_controller.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.action_controller.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.action_controller.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.action_view.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.action_view.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.action_view.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.active_record.migration.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.active_record.migration.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.active_record.migration.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.capybara.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.capybara.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.capybara.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.factory_girl.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.factory_girl.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.factory_girl.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.racc.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.racc.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.racc.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rails.application_template.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rails.application_template.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rails.application_template.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rails.controller.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rails.controller.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rails.controller.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rails.model.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rails.model.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rails.model.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rails.route.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rails.route.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rails.route.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rails.rspec.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rails.rspec.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rails.rspec.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rails.view.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rails.view.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rails.view.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rspec.controller.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rspec.controller.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rspec.controller.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rspec.feature.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rspec.feature.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rspec.feature.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rspec.rails.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rspec.rails.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rspec.rails.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.rspec.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.rspec.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.rspec.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.ruby-rails-rjs.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.ruby-rails-rjs.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.ruby-rails-rjs.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.shoulda.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.shoulda.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.shoulda.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.sinatora.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.sinatora.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.sinatora.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/ruby.thor.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/ruby.thor.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/ruby.thor.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/shd.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/shd.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/shd.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/swoopBuf
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/swoopBuf
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/swoopBuf
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/text.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/text.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/text.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/typescript.snippets
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/typescript.snippets
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/typescript.snippets
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/vim.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/vim.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/vim.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/mysnippet/vue.snip
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/mysnippet/vue.snip
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: mysnippet/vue.snip
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/abbrev.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/abbrev.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/abbrev.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/colorscheme.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/colorscheme.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/colorscheme.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/env.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/env.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/env.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/folding.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/folding.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/folding.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/general.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/general.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/general.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/keybind.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/keybind.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/keybind.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/mark.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/mark.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/mark.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/misc.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/misc.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/misc.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/my-filetype.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/my-filetype.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/my-filetype.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/neobundle.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/neobundle.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/neobundle.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/aerial.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/aerial.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/aerial.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/aider.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/aider.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/aider.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/ale.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/ale.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/ale.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/asterisk.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/asterisk.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/asterisk.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/asynccomplete.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/asynccomplete.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/asynccomplete.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/auto-programming.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/auto-programming.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/auto-programming.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/BackAndForward.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/BackAndForward.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/BackAndForward.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/blame.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/blame.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/blame.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/capture.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/capture.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/capture.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/caw.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/caw.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/caw.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/choosewin.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/choosewin.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/choosewin.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/clever-f.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/clever-f.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/clever-f.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/cmp.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/cmp.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/cmp.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/coc.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/coc.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/coc.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/codeium.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/codeium.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/codeium.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/completion-keybind.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/completion-keybind.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/completion-keybind.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/copilot-chat.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/copilot-chat.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/copilot-chat.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/copilot.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/copilot.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/copilot.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/dbgpav.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/dbgpav.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/dbgpav.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/ddc-source-lsp.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/ddc-source-lsp.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/ddc-source-lsp.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/ddc.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/ddc.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/ddc.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/ddu.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/ddu.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/ddu.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/deepl.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/deepl.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/deepl.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/defx.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/defx.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/defx.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/dein.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/dein.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/dein.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/denite.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/denite.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/denite.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/deno-nvim.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/deno-nvim.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/deno-nvim.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/denops-gh.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/denops-gh.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/denops-gh.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/deoplete.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/deoplete.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/deoplete.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/devdocs.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/devdocs.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/devdocs.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/devicons.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/devicons.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/devicons.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/dmacro.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/dmacro.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/dmacro.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/easyalign.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/easyalign.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/easyalign.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/easymotion.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/easymotion.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/easymotion.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/echodoc.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/echodoc.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/echodoc.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/edgemotion.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/edgemotion.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/edgemotion.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/emmet.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/emmet.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/emmet.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/expandregion.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/expandregion.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/expandregion.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/fern.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/fern.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/fern.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/filebeagle.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/filebeagle.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/filebeagle.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/fuzzy-motion.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/fuzzy-motion.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/fuzzy-motion.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/fzf-preview.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/fzf-preview.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/fzf-preview.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/fzf.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/fzf.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/fzf.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/gina.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/gina.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/gina.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/gin.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/gin.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/gin.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/git-conflict.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/git-conflict.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/git-conflict.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/gitlinker.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/gitlinker.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/gitlinker.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/gitsign.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/gitsign.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/gitsign.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/gp.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/gp.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/gp.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/gvim-gitsign.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/gvim-gitsign.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/gvim-gitsign.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/hlchunk.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/hlchunk.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/hlchunk.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/incsearch.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/incsearch.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/incsearch.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/indent-guide.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/indent-guide.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/indent-guide.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/indentguide.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/indentguide.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/indentguide.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/jpformat.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/jpformat.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/jpformat.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/lazygit.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/lazygit.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/lazygit.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/leaderf.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/leaderf.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/leaderf.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/lexima.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/lexima.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/lexima.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/lightline.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/lightline.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/lightline.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/lingr.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/lingr.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/lingr.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/lsp-color.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/lsp-color.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/lsp-color.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/lsp-lines.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/lsp-lines.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/lsp-lines.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/lsp.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/lsp.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/lsp.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/lualine.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/lualine.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/lualine.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/mastodon.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/mastodon.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/mastodon.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/matchtag-always.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/matchtag-always.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/matchtag-always.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/neocomplete.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/neocomplete.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/neocomplete.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/neosnippet.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/neosnippet.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/neosnippet.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/nextfile.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/nextfile.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/nextfile.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/noice.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/noice.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/noice.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/notion.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/notion.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/notion.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/null-ls.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/null-ls.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/null-ls.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/nvim-context-vt.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/nvim-context-vt.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/nvim-context-vt.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/nvim-dap.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/nvim-dap.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/nvim-dap.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/nvim-lspconfig.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/nvim-lspconfig.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/nvim-lspconfig.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/octo.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/octo.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/octo.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/oil.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/oil.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/oil.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/openbrowser.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/openbrowser.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/openbrowser.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/phpunit.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/phpunit.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/phpunit.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/quickhl.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/quickhl.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/quickhl.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/quickrun.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/quickrun.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/quickrun.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/rest.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/rest.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/rest.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/sayonara.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/sayonara.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/sayonara.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/searchx.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/searchx.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/searchx.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/smartchr.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/smartchr.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/smartchr.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/smartinput.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/smartinput.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/smartinput.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/ssr.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/ssr.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/ssr.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/surround.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/surround.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/surround.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/swagger-preview.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/swagger-preview.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/swagger-preview.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/switch.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/switch.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/switch.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/syntastics.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/syntastics.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/syntastics.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/table-mode.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/table-mode.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/table-mode.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/tagbar.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/tagbar.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/tagbar.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/telescope.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/telescope.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/telescope.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/terminal.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/terminal.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/terminal.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/toggl.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/toggl.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/toggl.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/treemonkey.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/treemonkey.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/treemonkey.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/treesitter.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/treesitter.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/treesitter.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/treesj.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/treesj.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/treesj.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/trouble.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/trouble.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/trouble.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/tsuquyomi.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/tsuquyomi.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/tsuquyomi.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/tweetvim.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/tweetvim.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/tweetvim.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/twihi.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/twihi.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/twihi.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/unite.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/unite.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/unite.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/user-gf.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/user-gf.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/user-gf.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/utl.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/utl.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/utl.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-ai.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-ai.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-ai.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-ambiwidth.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-ambiwidth.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-ambiwidth.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-bookmark.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-bookmark.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-bookmark.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-dadbod.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-dadbod.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-dadbod.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vimfiler.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vimfiler.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vimfiler.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-lsp.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-lsp.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-lsp.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vimplenote.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vimplenote.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vimplenote.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-print-debug.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-print-debug.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-print-debug.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-rtm.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-rtm.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-rtm.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-rule-switcher.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-rule-switcher.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-rule-switcher.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-sandwich.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-sandwich.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-sandwich.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-singleton.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-singleton.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-singleton.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vimspector.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vimspector.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vimspector.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-swoop.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-swoop.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-swoop.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-test.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-test.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-test.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-twit.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-twit.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-twit.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-verdin.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-verdin.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-verdin.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-vue.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-vue.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-vue.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vim-wordcomplete.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vim-wordcomplete.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vim-wordcomplete.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vista.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vista.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vista.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/voom.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/voom.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/voom.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/vsnip.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/vsnip.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/vsnip.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugins/wilder.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugins/wilder.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugins/wilder.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/plugin.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/plugin.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/plugin.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/syntax.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/syntax.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/syntax.vim
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/rc/terminal.vim
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/rc/terminal.vim
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: rc/terminal.vim
-    - url: https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/.vimrc
-      hash: null
+    - url: >-
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/.vimrc
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: .vimrc
-    - url: https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/vimrc
-      hash: null
+    - url: >-
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/vimrc
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: vimrc
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/vsnip/javascript.json
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/vsnip/javascript.json
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: vsnip/javascript.json
     - url: >-
-        https://github.com/nekowasabi/dotfiles/blob/main/vim_integrate/vsnip/php.json
-      hash: null
+        https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/vsnip/php.json
+      hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: vsnip/php.json
-  part: 前編
+  part: 中編
   other: null
