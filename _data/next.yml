@@ -1,5 +1,5 @@
-- id: 628
-  date: 2024-07-20 23:00
+- id: 629
+  date: 2024-07-27 23:00
   author:
     name: nekowasabi
     url: https://github.com/nekowasabi
@@ -780,5 +780,5 @@
         https://github.com/nekowasabi/dotfiles/blob/2a06ecd2ef3d0bfed92099b14baa60fbf97bc658/vim_integrate/vsnip/php.json
       hash: 2a06ecd2ef3d0bfed92099b14baa60fbf97bc658
       name: vsnip/php.json
-  part: 中編
+  part: 後編
   other: null
