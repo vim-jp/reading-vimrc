@@ -1,5 +1,5 @@
-- id: 631
-  date: 2024-08-10 23:00
+- id: 632
+  date: 2024-08-17 23:00
   author:
     name: 4513ECHO
     url: https://github.com/4513ECHO
@@ -240,5 +240,5 @@
         https://github.com/4513ECHO/dotfiles/blob/c0a0bff2186d38aca9674ac30615c672b1b96c92/config/nvim/rc/var.rc.vim
       hash: c0a0bff2186d38aca9674ac30615c672b1b96c92
       name: rc/var.rc.vim
-  part: 中編
+  part: 後編
   other: null
