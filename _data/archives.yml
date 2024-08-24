@@ -44686,3 +44686,501 @@
     - thinca
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$O1MVMy5fQvQHjn9MfvlznOuuh7COzW3T3B-_6x77vUk
+- id: 633
+  date: 2024-08-24 23:00
+  author:
+    name: kawarimidoll
+    url: https://github.com/kawarimidoll
+  vimrcs:
+    - name: .config/nvim/after/queries/markdown/highlights.scm
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/after/queries/markdown/highlights.scm
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/after/queries/markdown/highlights.scm
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/after/queries/markdown/injections.scm
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/after/queries/markdown/injections.scm
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/after/queries/markdown/injections.scm
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/async_terminal.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/async_terminal.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/async_terminal.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/base16_palettes.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/base16_palettes.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/base16_palettes.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/coc-settings.json
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/coc-settings.json
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/commands.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/commands.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/commands.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/denops/deno.jsonc
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/denops/deno.jsonc
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/denops/deno.jsonc
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/denops/deps.ts
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/denops/deps.ts
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/denops/deps.ts
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/denops/kwrm/main.ts
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/denops/kwrm/main.ts
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/denops/kwrm/main.ts
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/deprecated/dein.toml
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/dein.toml
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/dein.toml
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/deprecated/effort-init.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/effort-init.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/effort-init.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/deprecated/jetpack-prac.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/jetpack-prac.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/jetpack-prac.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/deprecated/lsp-coc.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/lsp-coc.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/lsp-coc.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/deprecated/lsp-ddc.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/lsp-ddc.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/lsp-ddc.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/deprecated/min-lsp.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/min-lsp.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/min-lsp.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/deprecated/min-skk-dein.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/min-skk-dein.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/min-skk-dein.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/deprecated/min-skk.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/min-skk.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/deprecated/min-skk.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/init.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/init.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/lsp-cmp.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/lsp-cmp.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/lsp-cmp.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/min-edit.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/min-edit.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/min-edit.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/minideps.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/minideps.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/minideps.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/override_neovim_completion.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/override_neovim_completion.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/override_neovim_completion.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/path.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/path.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/path.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/chowcho.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/chowcho.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/chowcho.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/cmp.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/cmp.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/cmp.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/ddc.json
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/ddc.json
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/ddc.json
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/ddc.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/ddc.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/ddc.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/dial.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/dial.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/dial.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/fidget.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/fidget.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/fidget.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/fzf_lua.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/fzf_lua.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/fzf_lua.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/fzf_preview.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/fzf_preview.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/fzf_preview.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/gitsigns.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/gitsigns.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/hlslens.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/hlslens.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/hlslens.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/insx.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/insx.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/insx.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/jam.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/jam.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/jam.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/lazygit.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/lazygit.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/lazygit.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/lsp.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/lsp.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/lsp.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/mini.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/mini.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/mini.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/mru_cache.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/mru_cache.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/mru_cache.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/neoterm.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/neoterm.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/neoterm.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/noice.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/noice.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/noice.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/none_ls.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/none_ls.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/none_ls.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/notify.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/notify.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/notify.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/null_ls_comps.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/null_ls_comps.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/null_ls_comps.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/pounce.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/pounce.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/pounce.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/reacher.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/reacher.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/reacher.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/scrollbar.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/scrollbar.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/scrollbar.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/searchx.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/searchx.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/searchx.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/silicon.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/silicon.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/silicon.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/skk_ddc_alt.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/skk_ddc_alt.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/skk_ddc_alt.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/skkeleton.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/skkeleton.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/skkeleton.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/telescope.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/telescope.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/telescope.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/tint.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/tint.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/tint.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/treesitter.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/treesitter.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/trouble.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/trouble.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/trouble.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/vsnip.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/vsnip.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/vsnip.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugin_config/which-key.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/which-key.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugin_config/which-key.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/plugs.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugs.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/plugs.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/qfutils.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/qfutils.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/qfutils.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/termal.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/termal.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/termal.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/ui_input.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/ui_input.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/ui_input.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .config/nvim/utils.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/utils.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.config/nvim/utils.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/after/ftplugin/gitcommit.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/gitcommit.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/gitcommit.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/after/ftplugin/gleam.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/gleam.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/gleam.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/after/ftplugin/go.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/go.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/go.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/after/ftplugin/lua.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/lua.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/lua.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/after/ftplugin/man.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/man.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/man.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/after/ftplugin/markdown.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/markdown.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/after/ftplugin/qf.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/qf.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/qf.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/after/ftplugin/tsv.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/tsv.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/after/ftplugin/tsv.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/async.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/async.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/async.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/blank.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/blank.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/blank.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/budoux.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/budoux.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/budoux.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/buf.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/buf.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/buf.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/capture.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/capture.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/capture.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/chord.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/chord.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/chord.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/cmdline.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/cmdline.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/cmdline.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/cmp.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/cmp.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/cmp.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/comment.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/comment.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/comment.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/common.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/common.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/common.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/const.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/const.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/const.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/dial.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/dial.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/dial.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/fmt.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/fmt.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/fmt.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/ft.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/ft.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/ft.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/fuzzy_jump.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/fuzzy_jump.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/fuzzy_jump.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/fuzzy_search.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/fuzzy_search.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/fuzzy_search.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/fzf.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/fzf.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/fzf.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/gaming.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/gaming.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/gaming.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/git.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/git.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/git.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/highlight.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/highlight.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/highlight.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/hjkl.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/hjkl.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/hjkl.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/job.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/job.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/job.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/kensaku.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/kensaku.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/kensaku.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/magic.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/magic.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/magic.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/mark.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/mark.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/mark.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/mru.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/mru.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/mru.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/neighbor.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/neighbor.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/neighbor.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/notify.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/notify.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/notify.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/open.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/open.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/open.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/operator.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/operator.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/operator.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/pair.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/pair.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/pair.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/path.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/path.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/path.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/qed.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/qed.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/qed.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/qf.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/qf.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/qf.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/register.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/register.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/register.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/searchprop.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/searchprop.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/searchprop.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/statusline.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/statusline.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/statusline.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/substitutor.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/substitutor.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/substitutor.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/subs.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/subs.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/subs.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/surround.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/surround.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/surround.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/textobject.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/textobject.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/textobject.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/tiny_segmenter.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/tiny_segmenter.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/tiny_segmenter.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/utils.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/utils.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/utils.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/virt_mark.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/virt_mark.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/virt_mark.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/autoload/mi/window.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/window.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/autoload/mi/window.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/cheatsheet.md
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/cheatsheet.md
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/cheatsheet.md
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/plugin/dummy.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/plugin/dummy.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/plugin/dummy.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/ready.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/ready.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/ready.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/syntax/gleam.vim
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/syntax/gleam.vim
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/syntax/gleam.vim
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/utils.lua
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/utils.lua
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/utils.lua
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+    - name: .vim/vimrc
+      url: https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/vimrc
+      raw_url: https://raw.githubusercontent.com/kawarimidoll/dotfiles/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/vimrc
+      hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
+  part: 前編
+  other: null
+  members:
+    - 4513ECHO
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$14_G2bHOT4TNo8MBHCHy34lY3z9HFHbF3CXnHU9Wy1Q
