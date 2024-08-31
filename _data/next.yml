@@ -1,5 +1,5 @@
-- id: 634
-  date: 2024-08-31 23:00
+- id: 635
+  date: 2024-09-07 23:00
   author:
     name: kawarimidoll
     url: https://github.com/kawarimidoll
@@ -488,5 +488,5 @@
         https://github.com/kawarimidoll/dotfiles/blob/69b6d0f9f7fb09829da5d0287581e4a02d340794/.vim/vimrc
       hash: 69b6d0f9f7fb09829da5d0287581e4a02d340794
       name: .vim/vimrc
-  part: 中編
+  part: 後編
   other: null
