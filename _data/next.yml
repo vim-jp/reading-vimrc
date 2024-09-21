@@ -1,131 +1,50 @@
-- id: 636
-  date: 2024-09-14 23:00
+- id: 637
+  date: 2024-09-21 23:00
   author:
-    name: echasnovski
-    url: https://github.com/echasnovski
+    name: sevenc-nanashi
+    url: https://github.com/sevenc-nanashi
   vimrcs:
-    - url: https://github.com/echasnovski/nvim/blob/master/after/ftplugin/diff.lua
-      hash: null
-      name: after/ftplugin/diff.lua
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/after/ftplugin/gitcommit.lua
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/after/queries/crystal/highlights.scm
       hash: null
-      name: after/ftplugin/gitcommit.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/after/ftplugin/git.lua
-      hash: null
-      name: after/ftplugin/git.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/after/ftplugin/help.lua
-      hash: null
-      name: after/ftplugin/help.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/after/ftplugin/lua.lua
-      hash: null
-      name: after/ftplugin/lua.lua
+      name: after/queries/crystal/highlights.scm
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/after/ftplugin/markdown.lua
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/after/queries/sus/highlights.scm
       hash: null
-      name: after/ftplugin/markdown.lua
+      name: after/queries/sus/highlights.scm
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/after/ftplugin/minideps-confirm.lua
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/ftdetect/rbs.vim
       hash: null
-      name: after/ftplugin/minideps-confirm.lua
+      name: ftdetect/rbs.vim
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/after/ftplugin/python.lua
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/ftdetect/sus.vim
       hash: null
-      name: after/ftplugin/python.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/after/ftplugin/r.lua
+      name: ftdetect/sus.vim
+    - url: https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/init.vim
       hash: null
-      name: after/ftplugin/r.lua
+      name: init.vim
+    - url: https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/lua/init.lua
+      hash: null
+      name: lua/init.lua
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/after/ftplugin/rmarkdown.lua
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/lua/setup-coc-killer.lua
       hash: null
-      name: after/ftplugin/rmarkdown.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/after/ftplugin/rmd.lua
-      hash: null
-      name: after/ftplugin/rmd.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/after/ftplugin/text.lua
-      hash: null
-      name: after/ftplugin/text.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/after/ftplugin/vim.lua
-      hash: null
-      name: after/ftplugin/vim.lua
+      name: lua/setup-coc-killer.lua
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/after/queries/r/textobjects.scm
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/lua/setup-line.lua
       hash: null
-      name: after/queries/r/textobjects.scm
+      name: lua/setup-line.lua
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/after/queries/vimdoc/highlights.scm
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/lua/setup-mapping.lua
       hash: null
-      name: after/queries/vimdoc/highlights.scm
-    - url: https://github.com/echasnovski/nvim/blob/master/colors/neovim_colors.lua
-      hash: null
-      name: colors/neovim_colors.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/init.lua
-      hash: null
-      name: init.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/Makefile
-      hash: null
-      name: Makefile
-    - url: https://github.com/echasnovski/nvim/blob/master/mini-deps-snap
-      hash: null
-      name: mini-deps-snap
-    - url: https://github.com/echasnovski/nvim/blob/master/misc/snippets/all.json
-      hash: null
-      name: misc/snippets/all.json
-    - url: https://github.com/echasnovski/nvim/blob/master/misc/snippets/lua.json
-      hash: null
-      name: misc/snippets/lua.json
+      name: lua/setup-mapping.lua
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/misc/snippets/markdown.json
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/lua/setup-neovide.lua
       hash: null
-      name: misc/snippets/markdown.json
+      name: lua/setup-neovide.lua
     - url: >-
-        https://github.com/echasnovski/nvim/blob/master/misc/snippets/package.json
+        https://github.com/sevenc-nanashi/dotfiles/blob/main/neovim/lua/setup-plugins.lua
       hash: null
-      name: misc/snippets/package.json
-    - url: >-
-        https://github.com/echasnovski/nvim/blob/master/misc/snippets/python.json
-      hash: null
-      name: misc/snippets/python.json
-    - url: https://github.com/echasnovski/nvim/blob/master/misc/snippets/r.json
-      hash: null
-      name: misc/snippets/r.json
-    - url: https://github.com/echasnovski/nvim/blob/master/README.md
-      hash: null
-      name: README.md
-    - url: https://github.com/echasnovski/nvim/blob/master/src/functions.lua
-      hash: null
-      name: src/functions.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/src/mappings-leader.lua
-      hash: null
-      name: src/mappings-leader.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/src/mappings.lua
-      hash: null
-      name: src/mappings.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/src/my_snippets.lua
-      hash: null
-      name: src/my_snippets.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/src/plugins/conform.lua
-      hash: null
-      name: src/plugins/conform.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/src/plugins/luasnip.lua
-      hash: null
-      name: src/plugins/luasnip.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/src/plugins/neoterm.lua
-      hash: null
-      name: src/plugins/neoterm.lua
-    - url: >-
-        https://github.com/echasnovski/nvim/blob/master/src/plugins/nvim-lspconfig.lua
-      hash: null
-      name: src/plugins/nvim-lspconfig.lua
-    - url: >-
-        https://github.com/echasnovski/nvim/blob/master/src/plugins/nvim-treesitter.lua
-      hash: null
-      name: src/plugins/nvim-treesitter.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/src/settings.lua
-      hash: null
-      name: src/settings.lua
-    - url: https://github.com/echasnovski/nvim/blob/master/src/vscode.lua
-      hash: null
-      name: src/vscode.lua
+      name: lua/setup-plugins.lua
   part: null
   other: null
