@@ -46340,3 +46340,60 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$TjBKwtFFAO8cSORcMPOFJeSAVy7AnFPikFSBaCHRC08
+- id: 637
+  date: 2024-09-21 23:00
+  author:
+    name: sevenc-nanashi
+    url: https://github.com/sevenc-nanashi
+  vimrcs:
+    - name: after/queries/crystal/highlights.scm
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/after/queries/crystal/highlights.scm
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/after/queries/crystal/highlights.scm
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: after/queries/sus/highlights.scm
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/after/queries/sus/highlights.scm
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/after/queries/sus/highlights.scm
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: ftdetect/rbs.vim
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/ftdetect/rbs.vim
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/ftdetect/rbs.vim
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: ftdetect/sus.vim
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/ftdetect/sus.vim
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/ftdetect/sus.vim
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: init.vim
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/init.vim
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/init.vim
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: lua/init.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/init.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/init.lua
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: lua/setup-coc-killer.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-coc-killer.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-coc-killer.lua
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: lua/setup-line.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-line.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-line.lua
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: lua/setup-mapping.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-mapping.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-mapping.lua
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: lua/setup-neovide.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-neovide.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-neovide.lua
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+    - name: lua/setup-plugins.lua
+      url: https://github.com/sevenc-nanashi/dotfiles/blob/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-plugins.lua
+      raw_url: https://raw.githubusercontent.com/sevenc-nanashi/dotfiles/ea90d8281ef3a81b5cf481bad720abc5fbb019ef/neovim/lua/setup-plugins.lua
+      hash: ea90d8281ef3a81b5cf481bad720abc5fbb019ef
+  part: null
+  other: null
+  members:
+    - kuuote
+    - sevenc-nanashi (Nanashi.)
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$Ht9d8hvvO9OpROaD8AbG12EqTA8dWiFdC1wBs4pozV0
