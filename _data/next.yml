@@ -1,340 +1,549 @@
-- id: 639
-  date: 2024-10-05 23:00
+- id: 640
+  date: 2024-10-12 23:00
   author:
-    name: christoomey
-    url: https://github.com/christoomey
+    name: Omochice
+    url: https://github.com/Omochice
   vimrcs:
     - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/coc-settings.json
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: coc-settings.json
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/vim.json
+      hash: null
+      name: snippets/vim.json
     - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/ftdetect/dotenv.vim
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: ftdetect/dotenv.vim
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/java.json
+      hash: null
+      name: snippets/java.json
     - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/ftplugin/ruby.vim
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: ftplugin/ruby.vim
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/gitcommit.json
+      hash: null
+      name: snippets/gitcommit.json
     - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/ftplugin/scss.vim
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: ftplugin/scss.vim
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/applescript.json
+      hash: null
+      name: snippets/applescript.json
     - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/ftplugin/svelte.vim
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: ftplugin/svelte.vim
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/fortran.json
+      hash: null
+      name: snippets/fortran.json
     - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/init.vim
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/go.json
+      hash: null
+      name: snippets/go.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/ruby.json
+      hash: null
+      name: snippets/ruby.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/markdown.json
+      hash: null
+      name: snippets/markdown.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/sh.json
+      hash: null
+      name: snippets/sh.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/json.json
+      hash: null
+      name: snippets/json.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/pod.json
+      hash: null
+      name: snippets/pod.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/c.json
+      hash: null
+      name: snippets/c.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/tex.json
+      hash: null
+      name: snippets/tex.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/html.json
+      hash: null
+      name: snippets/html.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/help.json
+      hash: null
+      name: snippets/help.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/typescript.json
+      hash: null
+      name: snippets/typescript.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/python.json
+      hash: null
+      name: snippets/python.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/vue.json
+      hash: null
+      name: snippets/vue.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/snippets/objc.json
+      hash: null
+      name: snippets/objc.json
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/vimrc.core
+      hash: null
+      name: vimrc.core
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/ftdetect/yaml.gitlab.vim
+      hash: null
+      name: ftdetect/yaml.gitlab.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/plugin/omochice/clipboard.vim
+      hash: null
+      name: plugin/omochice/clipboard.vim
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/init.vim
+      hash: null
       name: init.vim
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/chrome
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/chrome
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/completion
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/completion
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/convenience
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/convenience
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/folding
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/folding
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/general
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/general
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/git
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/git
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/help-files
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/help-files
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/html
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/html
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/project-notes
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/project-notes
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/prose
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/prose
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/search-and-replace
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/search-and-replace
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/tabs-windows
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/tabs-windows
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/todo
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/todo
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/trusted-local
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/trusted-local
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/visual
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/visual
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcfiles/vlc
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcfiles/vlc
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/abolish
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/abolish
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/ack
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/ack
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/arglist-thank-you-next
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/arglist-thank-you-next
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/better-whitespace
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/better-whitespace
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/coc
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/coc
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/commentary
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/commentary
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/conflicted
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/conflicted
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/css3
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/css3
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/display-table-name
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/display-table-name
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/easy-align
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/easy-align
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/emmet
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/emmet
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/endwise
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/endwise
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/eunuch
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/eunuch
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/exchange
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/exchange
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/file-line
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/file-line
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/fugitive
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/fugitive
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/fzf
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/fzf
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/fzf-branch-files
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/fzf-branch-files
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/github-colorscheme
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/github-colorscheme
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/golden-ratio
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/golden-ratio
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/goyo-limelight-writing
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/goyo-limelight-writing
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/graphql
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/graphql
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/gsub
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/gsub
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/html5
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/html5
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/javascript
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/javascript
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/jellybeans
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/jellybeans
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/json
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/json
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/lexima.vim
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/lexima.vim
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/lightline
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/lightline
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/markdown
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/markdown
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/markdown-header-mappings
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/markdown-header-mappings
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/mkdir
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/mkdir
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/one-colorscheme
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/one-colorscheme
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/polyglot
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/polyglot
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/projectionist
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/projectionist
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/quicklink
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/quicklink
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/rake
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/rake
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/repeat
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/repeat
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/replace-with-register
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/replace-with-register
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/rfactory
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/rfactory
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/rhubarb
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/rhubarb
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/rsi
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/rsi
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/ruby
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/ruby
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/scala
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/scala
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/sort-motion
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/sort-motion
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/spec-runner
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/spec-runner
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/surround
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/surround
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/svelte
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/svelte
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/system-copy
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/system-copy
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/text-objects
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/text-objects
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/titlecase
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/titlecase
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/tmux-navigator
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/tmux-navigator
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/tmux-runner
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/tmux-runner
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/trusted-local
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/trusted-local
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/typescript
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/typescript
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/unimpaired
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/unimpaired
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/vim-pad
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/vim-pad
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/vinegar
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/vinegar
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/vip
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/vip
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/rcplugins/visual-star-search
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
-      name: rcplugins/visual-star-search
-    - url: >-
-        https://github.com/christoomey/dotfiles/blob/d101c978ce7305bd6617215c69ddc8408468a5d2/vim/vimrc
-      hash: d101c978ce7305bd6617215c69ddc8408468a5d2
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/vimrc
+      hash: null
       name: vimrc
-  part: 後編
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/lua/vimrc/lsp/tsserver.lua
+      hash: null
+      name: lua/vimrc/lsp/tsserver.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/lua/vimrc/lsp/lua_ls.lua
+      hash: null
+      name: lua/vimrc/lsp/lua_ls.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/lua/vimrc/lsp/efm.lua
+      hash: null
+      name: lua/vimrc/lsp/efm.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/lua/vimrc/lsp/denols.lua
+      hash: null
+      name: lua/vimrc/lsp/denols.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/lua/vimrc/lsp/yamlls.lua
+      hash: null
+      name: lua/vimrc/lsp/yamlls.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/lua/vimrc/traditional-behavior-lsp.lua
+      hash: null
+      name: lua/vimrc/traditional-behavior-lsp.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/lua/vimrc/lsp-helper.lua
+      hash: null
+      name: lua/vimrc/lsp-helper.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/lua/vimrc/result-type.lua
+      hash: null
+      name: lua/vimrc/result-type.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/plantuml/base-state.pu
+      hash: null
+      name: templates/plantuml/base-state.pu
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/plantuml/base-sequence.pu
+      hash: null
+      name: templates/plantuml/base-sequence.pu
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/plantuml/base-activity.pu
+      hash: null
+      name: templates/plantuml/base-activity.pu
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/vim/snip-themis.vim
+      hash: null
+      name: templates/vim/snip-themis.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/tex/base-lualatex.tex
+      hash: null
+      name: templates/tex/base-lualatex.tex
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/svelte/Base-storybook-scf.svelte
+      hash: null
+      name: templates/svelte/Base-storybook-scf.svelte
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/go/base-pureapi.go
+      hash: null
+      name: templates/go/base-pureapi.go
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/go/base-gin.go
+      hash: null
+      name: templates/go/base-gin.go
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/python/base-flask.py
+      hash: null
+      name: templates/python/base-flask.py
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/python/base-cli.py
+      hash: null
+      name: templates/python/base-cli.py
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/python/base-fastapi.py
+      hash: null
+      name: templates/python/base-fastapi.py
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/python/snip-argparse.py
+      hash: null
+      name: templates/python/snip-argparse.py
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/markdown/base-pull-request.md
+      hash: null
+      name: templates/markdown/base-pull-request.md
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/typescript/base-cliffy.ts
+      hash: null
+      name: templates/typescript/base-cliffy.ts
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/typescript/pattern.stpl
+      hash: null
+      name: templates/typescript/pattern.stpl
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/typescript/base-storybook-vue.ts
+      hash: null
+      name: templates/typescript/base-storybook-vue.ts
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/typescript/base-vitest.ts
+      hash: null
+      name: templates/typescript/base-vitest.ts
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/typescript/base-denotest.ts
+      hash: null
+      name: templates/typescript/base-denotest.ts
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/typescript/base-denops.ts
+      hash: null
+      name: templates/typescript/base-denops.ts
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/vue/base-component.vue
+      hash: null
+      name: templates/vue/base-component.vue
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/vue/base-component-setup.vue
+      hash: null
+      name: templates/vue/base-component-setup.vue
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/json/base-biome.json
+      hash: null
+      name: templates/json/base-biome.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/json/base-prettier.json
+      hash: null
+      name: templates/json/base-prettier.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/json/base-renovate-deno.json
+      hash: null
+      name: templates/json/base-renovate-deno.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/json/base-turborepo.json
+      hash: null
+      name: templates/json/base-turborepo.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/json5/base-renovate.json5
+      hash: null
+      name: templates/json5/base-renovate.json5
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/jsonc/base-tsconfig.json
+      hash: null
+      name: templates/jsonc/base-tsconfig.json
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/jsonc/base-deno.jsonc
+      hash: null
+      name: templates/jsonc/base-deno.jsonc
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-github-actions-pnpm.yml
+      hash: null
+      name: templates/yaml/base-github-actions-pnpm.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-github-actions.yml
+      hash: null
+      name: templates/yaml/base-github-actions.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-gitlab-pnpm.yml
+      hash: null
+      name: templates/yaml/base-gitlab-pnpm.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-github-check-actions.yml
+      hash: null
+      name: templates/yaml/base-github-check-actions.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/snip-gitlab-pages.yml
+      hash: null
+      name: templates/yaml/snip-gitlab-pages.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-github-action-podeno.yml
+      hash: null
+      name: templates/yaml/base-github-action-podeno.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-github-deno.yaml
+      hash: null
+      name: templates/yaml/base-github-deno.yaml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-github-renovate-auto-merge.yml
+      hash: null
+      name: templates/yaml/base-github-renovate-auto-merge.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-gitlab-ci-bash.yml
+      hash: null
+      name: templates/yaml/base-gitlab-ci-bash.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-taskfile.yml
+      hash: null
+      name: templates/yaml/base-taskfile.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-github-release-please.yaml
+      hash: null
+      name: templates/yaml/base-github-release-please.yaml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-gitlab-ci-go.yml
+      hash: null
+      name: templates/yaml/base-gitlab-ci-go.yml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/yaml/base-lefthook.yaml
+      hash: null
+      name: templates/yaml/base-lefthook.yaml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/javascript/base-storybook-vue.js
+      hash: null
+      name: templates/javascript/base-storybook-vue.js
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/javascript/base-prettier.js
+      hash: null
+      name: templates/javascript/base-prettier.js
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/javascript/base-eslint-legacy.js
+      hash: null
+      name: templates/javascript/base-eslint-legacy.js
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/javascript/base-eslint-flatconfig.js
+      hash: null
+      name: templates/javascript/base-eslint-flatconfig.js
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/ruby/base-minitest.rb
+      hash: null
+      name: templates/ruby/base-minitest.rb
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/oil/base-lua-plugin.oil
+      hash: null
+      name: templates/oil/base-lua-plugin.oil
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/oil/base-deno.oil
+      hash: null
+      name: templates/oil/base-deno.oil
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/oil/base-golang.oil
+      hash: null
+      name: templates/oil/base-golang.oil
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/templates/oil/base-denops.oil
+      hash: null
+      name: templates/oil/base-denops.oil
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/autoload/myvimrc/fcitx.vim
+      hash: null
+      name: autoload/myvimrc/fcitx.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/autoload/myvimrc/zenhan.vim
+      hash: null
+      name: autoload/myvimrc/zenhan.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/autoload/myvimrc/util.vim
+      hash: null
+      name: autoload/myvimrc/util.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/autoload/omochice/listitem.vim
+      hash: null
+      name: autoload/omochice/listitem.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/autoload/omochice/checkbox.vim
+      hash: null
+      name: autoload/omochice/checkbox.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/after/ftplugin/gitcommit.vim
+      hash: null
+      name: after/ftplugin/gitcommit.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/after/queries/toml/highlights.scm
+      hash: null
+      name: after/queries/toml/highlights.scm
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/after/queries/toml/injections.scm
+      hash: null
+      name: after/queries/toml/injections.scm
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/postfix/javascript.toml
+      hash: null
+      name: postfix/javascript.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/postfix/vim.toml
+      hash: null
+      name: postfix/vim.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/postfix/go.toml
+      hash: null
+      name: postfix/go.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/postfix/lua.toml
+      hash: null
+      name: postfix/lua.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/disable_plugin.vim
+      hash: null
+      name: rc/disable_plugin.vim
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/dpp.toml
+      hash: null
+      name: rc/dpp.toml
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/ddu.toml
+      hash: null
+      name: rc/ddu.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/denops.toml
+      hash: null
+      name: rc/denops.toml
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/vimrc
+      hash: null
+      name: rc/vimrc
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/oil.lua
+      hash: null
+      name: rc/hooks/oil.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/noice.lua
+      hash: null
+      name: rc/hooks/noice.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/nvim-notify.lua
+      hash: null
+      name: rc/hooks/nvim-notify.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/emmet.lua
+      hash: null
+      name: rc/hooks/emmet.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/fern.lua
+      hash: null
+      name: rc/hooks/fern.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/hlchunk.lua
+      hash: null
+      name: rc/hooks/hlchunk.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/ft.vim
+      hash: null
+      name: rc/hooks/ft.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/ddc.lua
+      hash: null
+      name: rc/hooks/ddc.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/ddu.lua
+      hash: null
+      name: rc/hooks/ddu.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/lightline.lua
+      hash: null
+      name: rc/hooks/lightline.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/mason-lspconfig.lua
+      hash: null
+      name: rc/hooks/mason-lspconfig.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/ccc.lua
+      hash: null
+      name: rc/hooks/ccc.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/ddu-ui-ff.vim
+      hash: null
+      name: rc/hooks/ddu-ui-ff.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/pum.lua
+      hash: null
+      name: rc/hooks/pum.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/vsnip.lua
+      hash: null
+      name: rc/hooks/vsnip.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/quickrun.lua
+      hash: null
+      name: rc/hooks/quickrun.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/gitsigns.lua
+      hash: null
+      name: rc/hooks/gitsigns.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/vim-lsp.lua
+      hash: null
+      name: rc/hooks/vim-lsp.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/contextment.lua
+      hash: null
+      name: rc/hooks/contextment.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/ddc-previewer-floating.lua
+      hash: null
+      name: rc/hooks/ddc-previewer-floating.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/capture.lua
+      hash: null
+      name: rc/hooks/capture.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/lexima.lua
+      hash: null
+      name: rc/hooks/lexima.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/sandwich.lua
+      hash: null
+      name: rc/hooks/sandwich.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/treesitter.lua
+      hash: null
+      name: rc/hooks/treesitter.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/nvim-navic.lua
+      hash: null
+      name: rc/hooks/nvim-navic.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/gin.lua
+      hash: null
+      name: rc/hooks/gin.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/skkeleton.lua
+      hash: null
+      name: rc/hooks/skkeleton.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/tataku.lua
+      hash: null
+      name: rc/hooks/tataku.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/vim-lsp.vim
+      hash: null
+      name: rc/hooks/vim-lsp.vim
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/toy-postfix.lua
+      hash: null
+      name: rc/hooks/toy-postfix.lua
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/hooks/searchx.lua
+      hash: null
+      name: rc/hooks/searchx.lua
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/ddc.toml
+      hash: null
+      name: rc/ddc.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/eta/review.eta
+      hash: null
+      name: rc/eta/review.eta
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/non-lazy.toml
+      hash: null
+      name: rc/non-lazy.toml
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/ts/ddc.ts
+      hash: null
+      name: rc/ts/ddc.ts
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/ts/ddu.ts
+      hash: null
+      name: rc/ts/ddu.ts
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/ts/dpp.ts
+      hash: null
+      name: rc/ts/dpp.ts
+    - url: https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/lazy.toml
+      hash: null
+      name: rc/lazy.toml
+    - url: >-
+        https://github.com/Omochice/dotfiles/blob/main/config/nvim/rc/colorscheme.toml
+      hash: null
+      name: rc/colorscheme.toml
+  part: 前編
   other: null
