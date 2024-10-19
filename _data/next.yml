@@ -1,5 +1,5 @@
-- id: 641
-  date: 2024-10-19 23:00
+- id: 642
+  date: 2024-10-26 23:00
   author:
     name: Omochice
     url: https://github.com/Omochice
@@ -556,5 +556,5 @@
         https://github.com/Omochice/dotfiles/blob/502a173302fe86ea69678e2ea0c2c77a9b147493/config/nvim/rc/colorscheme.toml
       hash: 502a173302fe86ea69678e2ea0c2c77a9b147493
       name: rc/colorscheme.toml
-  part: 中編
+  part: 後編
   other: null
