@@ -1,63 +1,64 @@
-- id: 643
-  date: 2024-11-02 23:00
+- id: 644
+  date: 2024-11-09 23:00
   author:
     name: natsukium
     url: https://github.com/natsukium
   vimrcs:
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/default.nix
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/default.nix
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/default.nix
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/ftdetect/astro.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/ftdetect/astro.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/ftdetect/astro.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/init.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/init.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/init.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/lua/misc.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/misc.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/lua/misc.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/lua/plugins/completion.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/completion.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/lua/plugins/completion.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/lua/plugins/dap.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/dap.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/lua/plugins/dap.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/lua/plugins/git.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/git.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/lua/plugins/git.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/lua/plugins/lsp.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/lsp.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/lua/plugins/lsp.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/lua/plugins/misc.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/misc.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/lua/plugins/misc.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/lua/plugins/test_runner.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/test_runner.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/lua/plugins/test_runner.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/lua/plugins/ui.lua
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/ui.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/lua/plugins/ui.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/nvim/plugins.nix
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/plugins.nix
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: nvim/plugins.nix
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/main/applications/vim/default.nix
-      hash: null
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/vim/default.nix
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: vim/default.nix
-    - url: https://github.com/natsukium/dotfiles/blob/main/applications/vim/vimrc
-      hash: null
+    - url: >-
+        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/vim/vimrc
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
       name: vim/vimrc
-  part: null
+  part: 後編
   other: null
