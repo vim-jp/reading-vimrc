@@ -48852,3 +48852,72 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$dBvi8ZHU_-rdnlGq3ORuLdS8cfAvynrSAhDQiWbW2jc
+- id: 644
+  date: 2024-11-09 23:00
+  author:
+    name: natsukium
+    url: https://github.com/natsukium
+  vimrcs:
+    - name: nvim/default.nix
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/default.nix
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/default.nix
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/ftdetect/astro.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/ftdetect/astro.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/ftdetect/astro.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/init.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/init.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/lua/misc.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/misc.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/misc.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/lua/plugins/completion.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/completion.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/completion.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/lua/plugins/dap.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/dap.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/dap.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/lua/plugins/git.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/git.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/git.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/lua/plugins/lsp.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/lsp.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/lsp.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/lua/plugins/misc.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/misc.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/misc.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/lua/plugins/test_runner.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/test_runner.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/test_runner.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/lua/plugins/ui.lua
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/ui.lua
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/ui.lua
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: nvim/plugins.nix
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/plugins.nix
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/plugins.nix
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: vim/default.nix
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/vim/default.nix
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/vim/default.nix
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+    - name: vim/vimrc
+      url: https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/vim/vimrc
+      raw_url: https://raw.githubusercontent.com/natsukium/dotfiles/40f2250453c116998412304eb2d0f40250b5bcc3/applications/vim/vimrc
+      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
+  part: 後編
+  other: null
+  members:
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$4MGRuO1X-9VMo8tGvFzimnG57hKS91W15gctyJo8Owk
