@@ -1,64 +1,155 @@
-- id: 644
-  date: 2024-11-09 23:00
+- id: 645
+  date: 2024-11-16 23:00
   author:
-    name: natsukium
-    url: https://github.com/natsukium
+    name: girishji
+    url: https://github.com/girishji
   vimrcs:
+    - url: https://github.com/girishji/dotfiles/blob/main/macvim/.gvimrc
+      hash: null
+      name: macvim/.gvimrc
+    - url: https://github.com/girishji/dotfiles/blob/main/nvim/.config/.gitignore
+      hash: null
+      name: nvim/.config/.gitignore
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/default.nix
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/default.nix
+        https://github.com/girishji/dotfiles/blob/main/nvim/.config/nvim/.gitignore
+      hash: null
+      name: nvim/.config/nvim/.gitignore
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/ftdetect/astro.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/ftdetect/astro.lua
+        https://github.com/girishji/dotfiles/blob/main/nvim/.config/nvim/init.lua
+      hash: null
+      name: nvim/.config/nvim/init.lua
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/init.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/init.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/cmake.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/cmake.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/misc.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/lua/misc.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/cpp.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/cpp.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/completion.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/lua/plugins/completion.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/c.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/c.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/dap.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/lua/plugins/dap.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/help.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/help.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/git.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/lua/plugins/git.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/java.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/java.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/lsp.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/lua/plugins/lsp.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/lua.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/lua.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/misc.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/lua/plugins/misc.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/man_extra.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/man_extra.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/test_runner.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/lua/plugins/test_runner.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/man.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/man.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/lua/plugins/ui.lua
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/lua/plugins/ui.lua
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/markdown.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/markdown.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/nvim/plugins.nix
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: nvim/plugins.nix
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/python.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/python.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/vim/default.nix
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: vim/default.nix
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/txt.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/txt.vim
     - url: >-
-        https://github.com/natsukium/dotfiles/blob/40f2250453c116998412304eb2d0f40250b5bcc3/applications/vim/vimrc
-      hash: 40f2250453c116998412304eb2d0f40250b5bcc3
-      name: vim/vimrc
-  part: 後編
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/vhs.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/vhs.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/ftplugin/vim.vim
+      hash: null
+      name: vim/.vim/after/ftplugin/vim.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/plugin/opts.vim
+      hash: null
+      name: vim/.vim/after/plugin/opts.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/syntax/help.vim
+      hash: null
+      name: vim/.vim/after/syntax/help.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/syntax/markdown.vim
+      hash: null
+      name: vim/.vim/after/syntax/markdown.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/syntax/sh.vim
+      hash: null
+      name: vim/.vim/after/syntax/sh.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/after/syntax/vim.vim
+      hash: null
+      name: vim/.vim/after/syntax/vim.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/autoload/abbr.vim
+      hash: null
+      name: vim/.vim/autoload/abbr.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/autoload/plug.vim
+      hash: null
+      name: vim/.vim/autoload/plug.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/autoload/text.vim
+      hash: null
+      name: vim/.vim/autoload/text.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/colors/defaultplus.vim
+      hash: null
+      name: vim/.vim/colors/defaultplus.vim
+    - url: https://github.com/girishji/dotfiles/blob/main/vim/.vim/doc/giri-nav.txt
+      hash: null
+      name: vim/.vim/doc/giri-nav.txt
+    - url: https://github.com/girishji/dotfiles/blob/main/vim/.vim/doc/giri.txt
+      hash: null
+      name: vim/.vim/doc/giri.txt
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/plugin/abbreviations.vim
+      hash: null
+      name: vim/.vim/plugin/abbreviations.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/plugin/autocommands.vim
+      hash: null
+      name: vim/.vim/plugin/autocommands.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/plugin/colors.vim
+      hash: null
+      name: vim/.vim/plugin/colors.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/plugin/commands.vim
+      hash: null
+      name: vim/.vim/plugin/commands.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/plugin/cscope_maps.vim
+      hash: null
+      name: vim/.vim/plugin/cscope_maps.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/plugin/keymappings.vim
+      hash: null
+      name: vim/.vim/plugin/keymappings.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/plugin/statusline.vim
+      hash: null
+      name: vim/.vim/plugin/statusline.vim
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/spell/en.utf-8.add
+      hash: null
+      name: vim/.vim/spell/en.utf-8.add
+    - url: >-
+        https://github.com/girishji/dotfiles/blob/main/vim/.vim/spell/en.utf-8.add.spl
+      hash: null
+      name: vim/.vim/spell/en.utf-8.add.spl
+    - url: https://github.com/girishji/dotfiles/blob/main/vim/.vim/vimrc
+      hash: null
+      name: vim/.vim/vimrc
+  part: 前編
   other: null
