@@ -49088,3 +49088,172 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$EBGiDbaUmANYtmwsQEC-WShgdyCEJ467XXxNB-VEqeo
+- id: 646
+  date: 2024-11-23 23:00
+  author:
+    name: girishji
+    url: https://github.com/girishji
+  vimrcs:
+    - name: macvim/.gvimrc
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/macvim/.gvimrc
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/macvim/.gvimrc
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: nvim/.config/.gitignore
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/nvim/.config/.gitignore
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/nvim/.config/.gitignore
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: nvim/.config/nvim/.gitignore
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/nvim/.config/nvim/.gitignore
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/nvim/.config/nvim/.gitignore
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: nvim/.config/nvim/init.lua
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/nvim/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/nvim/.config/nvim/init.lua
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/cmake.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/cmake.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/cmake.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/cpp.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/cpp.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/cpp.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/c.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/c.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/c.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/help.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/help.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/java.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/java.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/java.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/lua.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/lua.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/lua.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/man_extra.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/man_extra.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/man_extra.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/man.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/man.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/man.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/markdown.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/markdown.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/python.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/python.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/python.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/txt.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/txt.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/txt.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/vhs.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/vhs.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/vhs.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/ftplugin/vim.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/ftplugin/vim.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/plugin/opts.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/plugin/opts.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/plugin/opts.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/syntax/help.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/syntax/help.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/syntax/help.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/syntax/markdown.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/syntax/markdown.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/syntax/markdown.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/syntax/sh.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/syntax/sh.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/syntax/sh.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/after/syntax/vim.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/syntax/vim.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/after/syntax/vim.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/autoload/abbr.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/autoload/abbr.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/autoload/abbr.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/autoload/plug.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/autoload/plug.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/autoload/plug.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/autoload/text.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/autoload/text.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/autoload/text.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/colors/defaultplus.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/colors/defaultplus.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/colors/defaultplus.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/doc/giri-nav.txt
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/doc/giri-nav.txt
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/doc/giri-nav.txt
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/doc/giri.txt
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/doc/giri.txt
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/doc/giri.txt
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/plugin/abbreviations.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/abbreviations.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/abbreviations.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/plugin/autocommands.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/autocommands.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/autocommands.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/plugin/colors.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/colors.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/colors.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/plugin/commands.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/commands.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/commands.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/plugin/cscope_maps.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/cscope_maps.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/cscope_maps.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/plugin/keymappings.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/keymappings.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/keymappings.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/plugin/statusline.vim
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/statusline.vim
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/plugin/statusline.vim
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/spell/en.utf-8.add
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/spell/en.utf-8.add
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/spell/en.utf-8.add
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/spell/en.utf-8.add.spl
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/spell/en.utf-8.add.spl
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/spell/en.utf-8.add.spl
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+    - name: vim/.vim/vimrc
+      url: https://github.com/girishji/dotfiles/blob/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/vimrc
+      raw_url: https://raw.githubusercontent.com/girishji/dotfiles/a6e68e495da77656b657b045a20189f009745bb9/vim/.vim/vimrc
+      hash: a6e68e495da77656b657b045a20189f009745bb9
+  part: 後編
+  other: null
+  members:
+    - NI57721
+    - OgaKen
+    - Omochice
+    - kuuote
+    - monaqa (monaqa)
+    - thinca
+    - yuys13
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$vsR5Thj437LmpuyksLFTHNrsfGHZXplGpJtvlRzGBgg
