@@ -1,38 +1,108 @@
-- id: 647
-  date: 2024-11-30 23:00
+- id: 648
+  date: 2024-12-07 23:00
   author:
-    name: kat0h
-    url: https://github.com/kat0h
+    name: yuys13
+    url: https://github.com/yuys13
   vimrcs:
-    - url: https://github.com/kat0h/dotfiles/blob/master/dot_config/nvim/init.lua
-      hash: null
-      name: dot_config/nvim/init.lua
     - url: >-
-        https://github.com/kat0h/dotfiles/blob/master/dot_config/nvim/lua/base.lua
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/gitcommit.vim
       hash: null
-      name: dot_config/nvim/lua/base.lua
+      name: after/ftplugin/gitcommit.vim
     - url: >-
-        https://github.com/kat0h/dotfiles/blob/master/dot_config/nvim/lua/highlights.lua
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/gitconfig.vim
       hash: null
-      name: dot_config/nvim/lua/highlights.lua
+      name: after/ftplugin/gitconfig.vim
     - url: >-
-        https://github.com/kat0h/dotfiles/blob/master/dot_vim/jetpack_install.vim
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/go.vim
       hash: null
-      name: dot_vim/jetpack_install.vim
-    - url: https://github.com/kat0h/dotfiles/blob/master/dot_vim/keymap.vim
+      name: after/ftplugin/go.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/javascript.vim
       hash: null
-      name: dot_vim/keymap.vim
-    - url: https://github.com/kat0h/dotfiles/blob/master/dot_vim/plugin_install.vim
+      name: after/ftplugin/javascript.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/lua.vim
       hash: null
-      name: dot_vim/plugin_install.vim
-    - url: https://github.com/kat0h/dotfiles/blob/master/dot_vim/plugin_setting.vim
+      name: after/ftplugin/lua.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/markdown.vim
       hash: null
-      name: dot_vim/plugin_setting.vim
-    - url: https://github.com/kat0h/dotfiles/blob/master/dot_vimrc
+      name: after/ftplugin/markdown.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/nix.vim
       hash: null
-      name: dot_vimrc
-    - url: https://github.com/kat0h/dotfiles/blob/master/dot_vim/utils.vim
+      name: after/ftplugin/nix.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/typescript.vim
       hash: null
-      name: dot_vim/utils.vim
+      name: after/ftplugin/typescript.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/vim.vim
+      hash: null
+      name: after/ftplugin/vim.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/yaml.vim
+      hash: null
+      name: after/ftplugin/yaml.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/queries/toml/highlights.scm
+      hash: null
+      name: after/queries/toml/highlights.scm
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/queries/toml/injections.scm
+      hash: null
+      name: after/queries/toml/injections.scm
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/init.vim
+      hash: null
+      name: init.vim
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/lazy.lua
+      hash: null
+      name: lua/rc/lazy.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/colorschemes.lua
+      hash: null
+      name: lua/rc/plugins/colorschemes.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/dap.lua
+      hash: null
+      name: lua/rc/plugins/dap.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins.lua
+      hash: null
+      name: lua/rc/plugins.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/null-ls.lua
+      hash: null
+      name: lua/rc/plugins/null-ls.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-cmp.lua
+      hash: null
+      name: lua/rc/plugins/nvim-cmp.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-lsp.lua
+      hash: null
+      name: lua/rc/plugins/nvim-lsp.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-treesitter.lua
+      hash: null
+      name: lua/rc/plugins/nvim-treesitter.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/poc.lua
+      hash: null
+      name: lua/rc/plugins/poc.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/skk.lua
+      hash: null
+      name: lua/rc/plugins/skk.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/telescope.lua
+      hash: null
+      name: lua/rc/plugins/telescope.lua
+    - url: >-
+        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/ui.lua
+      hash: null
+      name: lua/rc/plugins/ui.lua
   part: null
   other: null
