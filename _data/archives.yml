@@ -49257,3 +49257,53 @@
     - thinca
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$vsR5Thj437LmpuyksLFTHNrsfGHZXplGpJtvlRzGBgg
+- id: 647
+  date: 2024-11-30 23:00
+  author:
+    name: kat0h
+    url: https://github.com/kat0h
+  vimrcs:
+    - name: dot_config/nvim/init.lua
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_config/nvim/init.lua
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+    - name: dot_config/nvim/lua/base.lua
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_config/nvim/lua/base.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_config/nvim/lua/base.lua
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+    - name: dot_config/nvim/lua/highlights.lua
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_config/nvim/lua/highlights.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_config/nvim/lua/highlights.lua
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+    - name: dot_vim/jetpack_install.vim
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/jetpack_install.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/jetpack_install.vim
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+    - name: dot_vim/keymap.vim
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/keymap.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/keymap.vim
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+    - name: dot_vim/plugin_install.vim
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/plugin_install.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/plugin_install.vim
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+    - name: dot_vim/plugin_setting.vim
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/plugin_setting.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/plugin_setting.vim
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+    - name: dot_vimrc
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vimrc
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vimrc
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+    - name: dot_vim/utils.vim
+      url: https://github.com/kat0h/dotfiles/blob/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/utils.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/7c371cd16f39e66f0960d3c847085ff64d19881d/dot_vim/utils.vim
+      hash: 7c371cd16f39e66f0960d3c847085ff64d19881d
+  part: null
+  other: null
+  members:
+    - Omochice
+    - kuuote
+    - monaqa (monaqa)
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$_8JsoPFWxra9disbESeLYWujXJwwxHZ-kW9-pEkR8IQ
