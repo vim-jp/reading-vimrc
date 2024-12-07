@@ -49307,3 +49307,117 @@
     - monaqa (monaqa)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$_8JsoPFWxra9disbESeLYWujXJwwxHZ-kW9-pEkR8IQ
+- id: 648
+  date: 2024-12-07 23:00
+  author:
+    name: yuys13
+    url: https://github.com/yuys13
+  vimrcs:
+    - name: after/ftplugin/gitcommit.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/gitcommit.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/gitcommit.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/gitconfig.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/gitconfig.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/gitconfig.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/go.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/go.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/go.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/javascript.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/javascript.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/javascript.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/lua.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/lua.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/lua.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/markdown.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/markdown.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/nix.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/nix.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/nix.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/typescript.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/typescript.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/typescript.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/vim.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/vim.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/ftplugin/yaml.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/yaml.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/ftplugin/yaml.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/queries/toml/highlights.scm
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/queries/toml/highlights.scm
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/queries/toml/highlights.scm
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: after/queries/toml/injections.scm
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/queries/toml/injections.scm
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/after/queries/toml/injections.scm
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: init.vim
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/init.vim
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/lazy.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/lazy.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/lazy.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/colorschemes.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/colorschemes.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/colorschemes.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/dap.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/dap.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/dap.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/null-ls.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/null-ls.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/null-ls.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/nvim-cmp.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-cmp.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-cmp.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/nvim-lsp.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-lsp.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-lsp.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/nvim-treesitter.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-treesitter.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-treesitter.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/poc.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/poc.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/poc.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/skk.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/skk.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/skk.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/telescope.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/telescope.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+    - name: lua/rc/plugins/ui.lua
+      url: https://github.com/yuys13/dotfiles/blob/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/ui.lua
+      raw_url: https://raw.githubusercontent.com/yuys13/dotfiles/1239d359de24273ca2008b2ffa8b4c90444b335b/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/ui.lua
+      hash: 1239d359de24273ca2008b2ffa8b4c90444b335b
+  part: null
+  other: null
+  members:
+    - Omochice
+    - sankantsu
+    - thinca
+    - yuys13
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$CZXBWiT4GWDz74i7PIwc87rLEXvOVbq3onfPzAepsh0
