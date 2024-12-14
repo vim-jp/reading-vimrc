@@ -1,108 +1,301 @@
-- id: 648
-  date: 2024-12-07 23:00
+- id: 649
+  date: 2024-12-14 23:00
   author:
-    name: yuys13
-    url: https://github.com/yuys13
+    name: tjdevries
+    url: https://github.com/tjdevries
   vimrcs:
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/gitcommit.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/c.lua
       hash: null
-      name: after/ftplugin/gitcommit.vim
+      name: after/ftplugin/c.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/gitconfig.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/cram.lua
       hash: null
-      name: after/ftplugin/gitconfig.vim
+      name: after/ftplugin/cram.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/go.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/css.lua
       hash: null
-      name: after/ftplugin/go.vim
+      name: after/ftplugin/css.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/javascript.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/dbee.lua
       hash: null
-      name: after/ftplugin/javascript.vim
+      name: after/ftplugin/dbee.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/lua.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/fennel.lua
       hash: null
-      name: after/ftplugin/lua.vim
+      name: after/ftplugin/fennel.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/markdown.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/gleam.lua
       hash: null
-      name: after/ftplugin/markdown.vim
+      name: after/ftplugin/gleam.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/nix.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/go.lua
       hash: null
-      name: after/ftplugin/nix.vim
+      name: after/ftplugin/go.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/typescript.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/help.lua
       hash: null
-      name: after/ftplugin/typescript.vim
+      name: after/ftplugin/help.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/vim.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/javascript.lua
       hash: null
-      name: after/ftplugin/vim.vim
+      name: after/ftplugin/javascript.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/ftplugin/yaml.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/json.lua
       hash: null
-      name: after/ftplugin/yaml.vim
+      name: after/ftplugin/json.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/queries/toml/highlights.scm
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/lua.lua
       hash: null
-      name: after/queries/toml/highlights.scm
+      name: after/ftplugin/lua.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/after/queries/toml/injections.scm
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/mojo.lua
       hash: null
-      name: after/queries/toml/injections.scm
+      name: after/ftplugin/mojo.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/init.vim
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/ocaml.lua
       hash: null
-      name: init.vim
+      name: after/ftplugin/ocaml.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/lazy.lua
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/odin.lua
       hash: null
-      name: lua/rc/lazy.lua
+      name: after/ftplugin/odin.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/colorschemes.lua
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/query.lua
       hash: null
-      name: lua/rc/plugins/colorschemes.lua
+      name: after/ftplugin/query.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/dap.lua
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/racket.lua
       hash: null
-      name: lua/rc/plugins/dap.lua
+      name: after/ftplugin/racket.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins.lua
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/sql.lua
       hash: null
-      name: lua/rc/plugins.lua
+      name: after/ftplugin/sql.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/null-ls.lua
+        https://github.com/tjdevries/config.nvim/blob/master/after/ftplugin/typescript.lua
       hash: null
-      name: lua/rc/plugins/null-ls.lua
+      name: after/ftplugin/typescript.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-cmp.lua
+        https://github.com/tjdevries/config.nvim/blob/master/after/plugin/php.lua
       hash: null
-      name: lua/rc/plugins/nvim-cmp.lua
+      name: after/plugin/php.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-lsp.lua
+        https://github.com/tjdevries/config.nvim/blob/master/colors/nightshade.vim
       hash: null
-      name: lua/rc/plugins/nvim-lsp.lua
+      name: colors/nightshade.vim
+    - url: https://github.com/tjdevries/config.nvim/blob/master/init.lua
+      hash: null
+      name: init.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/nvim-treesitter.lua
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/autoformat.lua
       hash: null
-      name: lua/rc/plugins/nvim-treesitter.lua
+      name: lua/custom/autoformat.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/poc.lua
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/clangd.lua
       hash: null
-      name: lua/rc/plugins/poc.lua
+      name: lua/custom/clangd.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/skk.lua
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/completion.lua
       hash: null
-      name: lua/rc/plugins/skk.lua
+      name: lua/custom/completion.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/lua/custom/dbee.lua
+      hash: null
+      name: lua/custom/dbee.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/telescope.lua
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/dotenv.lua
       hash: null
-      name: lua/rc/plugins/telescope.lua
+      name: lua/custom/dotenv.lua
     - url: >-
-        https://github.com/yuys13/dotfiles/blob/main/home/XDG_CONFIG_HOME/nvim/lua/rc/plugins/ui.lua
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/elixir.lua
       hash: null
-      name: lua/rc/plugins/ui.lua
-  part: null
+      name: lua/custom/elixir.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/lua/custom/f.lua
+      hash: null
+      name: lua/custom/f.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/avante.lua
+      hash: null
+      name: lua/custom/plugins/avante.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/cloak.lua
+      hash: null
+      name: lua/custom/plugins/cloak.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/colorschemes.lua
+      hash: null
+      name: lua/custom/plugins/colorschemes.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/colors.lua
+      hash: null
+      name: lua/custom/plugins/colors.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/completion.lua
+      hash: null
+      name: lua/custom/plugins/completion.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/dadbod.lua
+      hash: null
+      name: lua/custom/plugins/dadbod.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/dap.lua
+      hash: null
+      name: lua/custom/plugins/dap.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/dbee.lua
+      hash: null
+      name: lua/custom/plugins/dbee.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/devicons.lua
+      hash: null
+      name: lua/custom/plugins/devicons.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/drop.lua
+      hash: null
+      name: lua/custom/plugins/drop.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/edit_alternate.lua
+      hash: null
+      name: lua/custom/plugins/edit_alternate.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/firenvim.lua
+      hash: null
+      name: lua/custom/plugins/firenvim.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/fzf.lua
+      hash: null
+      name: lua/custom/plugins/fzf.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/harpoon.lua
+      hash: null
+      name: lua/custom/plugins/harpoon.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/init.lua
+      hash: null
+      name: lua/custom/plugins/init.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/lsp.lua
+      hash: null
+      name: lua/custom/plugins/lsp.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/mini.lua
+      hash: null
+      name: lua/custom/plugins/mini.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/notify.lua
+      hash: null
+      name: lua/custom/plugins/notify.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/oil.lua
+      hash: null
+      name: lua/custom/plugins/oil.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/parinfer.lua
+      hash: null
+      name: lua/custom/plugins/parinfer.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/quickfix.lua
+      hash: null
+      name: lua/custom/plugins/quickfix.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/sourcegraph.lua
+      hash: null
+      name: lua/custom/plugins/sourcegraph.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/statusline.lua
+      hash: null
+      name: lua/custom/plugins/statusline.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/telescope.lua
+      hash: null
+      name: lua/custom/plugins/telescope.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/treesitter.lua
+      hash: null
+      name: lua/custom/plugins/treesitter.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/plugins/zen.lua
+      hash: null
+      name: lua/custom/plugins/zen.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/present.lua
+      hash: null
+      name: lua/custom/present.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/snippets/elixir.lua
+      hash: null
+      name: lua/custom/snippets/elixir.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/snippets.lua
+      hash: null
+      name: lua/custom/snippets.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/snippets/ocaml.lua
+      hash: null
+      name: lua/custom/snippets/ocaml.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/statusline.lua
+      hash: null
+      name: lua/custom/statusline.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/telescope.lua
+      hash: null
+      name: lua/custom/telescope.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/telescope/multi-ripgrep.lua
+      hash: null
+      name: lua/custom/telescope/multi-ripgrep.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/to-obsidian-html.lua
+      hash: null
+      name: lua/custom/to-obsidian-html.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/lua/custom/treesitter.lua
+      hash: null
+      name: lua/custom/treesitter.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/plugin/clipboard.lua
+      hash: null
+      name: plugin/clipboard.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/plugin/filetypes.lua
+      hash: null
+      name: plugin/filetypes.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/plugin/keymaps.lua
+      hash: null
+      name: plugin/keymaps.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/plugin/menu.vim
+      hash: null
+      name: plugin/menu.vim
+    - url: https://github.com/tjdevries/config.nvim/blob/master/plugin/misery.lua
+      hash: null
+      name: plugin/misery.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/plugin/mojo.lua
+      hash: null
+      name: plugin/mojo.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/plugin/obsidian.lua
+      hash: null
+      name: plugin/obsidian.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/plugin/options.lua
+      hash: null
+      name: plugin/options.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/plugin/present.lua
+      hash: null
+      name: plugin/present.lua
+    - url: https://github.com/tjdevries/config.nvim/blob/master/plugin/terminal.lua
+      hash: null
+      name: plugin/terminal.lua
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/queries/lua/injections.scm
+      hash: null
+      name: queries/lua/injections.scm
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/queries/ocaml/folds.scm
+      hash: null
+      name: queries/ocaml/folds.scm
+    - url: >-
+        https://github.com/tjdevries/config.nvim/blob/master/queries/ocaml/highlights.scm
+      hash: null
+      name: queries/ocaml/highlights.scm
+  part: 前編
   other: null
