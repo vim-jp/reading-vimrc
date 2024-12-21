@@ -1,5 +1,5 @@
-- id: 650
-  date: 2024-12-21 23:00
+- id: 651
+  date: 2024-12-28 23:00
   author:
     name: tjdevries
     url: https://github.com/tjdevries
@@ -308,5 +308,5 @@
         https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/queries/ocaml/highlights.scm
       hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
       name: queries/ocaml/highlights.scm
-  part: 中編
+  part: 後編
   other: null
