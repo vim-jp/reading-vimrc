@@ -50057,3 +50057,322 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$yzlZlC8RKjtgY9lxRM4DTA98JT33fucNHrTOmC5J5Lk
+- id: 651
+  date: 2024-12-28 23:00
+  author:
+    name: tjdevries
+    url: https://github.com/tjdevries
+  vimrcs:
+    - name: after/ftplugin/c.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/c.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/c.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/cram.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/cram.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/cram.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/css.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/css.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/css.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/dbee.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/dbee.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/dbee.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/fennel.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/fennel.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/fennel.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/gleam.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/gleam.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/gleam.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/go.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/go.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/go.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/help.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/help.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/help.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/javascript.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/javascript.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/javascript.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/json.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/json.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/json.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/lua.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/lua.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/lua.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/mojo.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/mojo.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/mojo.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/ocaml.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/ocaml.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/ocaml.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/odin.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/odin.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/odin.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/query.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/query.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/query.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/racket.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/racket.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/racket.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/sql.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/sql.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/sql.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/ftplugin/typescript.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/typescript.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/ftplugin/typescript.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: after/plugin/php.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/plugin/php.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/after/plugin/php.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: colors/nightshade.vim
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/colors/nightshade.vim
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/colors/nightshade.vim
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: init.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/init.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/init.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/autoformat.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/autoformat.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/autoformat.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/clangd.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/clangd.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/clangd.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/completion.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/completion.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/completion.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/dbee.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/dbee.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/dbee.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/dotenv.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/dotenv.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/dotenv.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/elixir.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/elixir.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/elixir.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/f.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/f.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/f.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/avante.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/avante.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/avante.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/cloak.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/cloak.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/cloak.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/colorschemes.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/colorschemes.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/colorschemes.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/colors.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/colors.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/colors.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/completion.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/completion.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/completion.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/dadbod.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/dadbod.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/dadbod.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/dap.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/dap.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/dap.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/dbee.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/dbee.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/dbee.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/devicons.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/devicons.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/devicons.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/drop.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/drop.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/drop.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/edit_alternate.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/edit_alternate.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/edit_alternate.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/firenvim.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/firenvim.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/firenvim.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/fzf.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/fzf.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/fzf.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/harpoon.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/harpoon.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/harpoon.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/init.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/init.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/init.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/lsp.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/lsp.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/lsp.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/mini.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/mini.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/mini.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/notify.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/notify.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/notify.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/oil.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/oil.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/oil.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/parinfer.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/parinfer.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/parinfer.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/quickfix.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/quickfix.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/quickfix.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/sourcegraph.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/sourcegraph.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/sourcegraph.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/statusline.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/statusline.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/statusline.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/telescope.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/telescope.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/treesitter.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/treesitter.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/plugins/zen.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/zen.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/plugins/zen.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/present.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/present.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/present.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/snippets/elixir.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/snippets/elixir.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/snippets/elixir.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/snippets.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/snippets.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/snippets.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/snippets/ocaml.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/snippets/ocaml.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/snippets/ocaml.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/statusline.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/statusline.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/statusline.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/telescope.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/telescope.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/telescope.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/telescope/multi-ripgrep.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/telescope/multi-ripgrep.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/telescope/multi-ripgrep.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/to-obsidian-html.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/to-obsidian-html.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/to-obsidian-html.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: lua/custom/treesitter.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/lua/custom/treesitter.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/clipboard.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/clipboard.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/clipboard.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/filetypes.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/filetypes.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/filetypes.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/keymaps.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/keymaps.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/menu.vim
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/menu.vim
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/menu.vim
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/misery.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/misery.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/misery.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/mojo.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/mojo.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/mojo.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/obsidian.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/obsidian.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/obsidian.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/options.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/options.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/options.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/present.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/present.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/present.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: plugin/terminal.lua
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/terminal.lua
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/plugin/terminal.lua
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: queries/lua/injections.scm
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/queries/lua/injections.scm
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/queries/lua/injections.scm
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: queries/ocaml/folds.scm
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/queries/ocaml/folds.scm
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/queries/ocaml/folds.scm
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+    - name: queries/ocaml/highlights.scm
+      url: https://github.com/tjdevries/config.nvim/blob/006889bbfb6ff655e2d8e33b26453fa4d614b99b/queries/ocaml/highlights.scm
+      raw_url: https://raw.githubusercontent.com/tjdevries/config.nvim/006889bbfb6ff655e2d8e33b26453fa4d614b99b/queries/ocaml/highlights.scm
+      hash: 006889bbfb6ff655e2d8e33b26453fa4d614b99b
+  part: 後編
+  other: null
+  members:
+    - NI57721
+    - Omochice
+    - aileot (aileot)
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$e_5YSwsR6llselZtiSqP_7XkMHH-9TDGDTgJqC6U1tg
