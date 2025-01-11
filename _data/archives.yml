@@ -50393,3 +50393,19 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$-4g-KCCK4Rj7VsJsiqFZHIeL7FgycNx8CAv7fM3VnqI
+- id: 653
+  date: 2025-01-11 23:00
+  author:
+    name: daisuzu
+    url: https://github.com/daisuzu
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/daisuzu/dotvim/blob/4950fef98350b9a5865566b72cd4bd61afc49540/.vimrc
+      raw_url: https://raw.githubusercontent.com/daisuzu/dotvim/4950fef98350b9a5865566b72cd4bd61afc49540/.vimrc
+      hash: 4950fef98350b9a5865566b72cd4bd61afc49540
+  part: 中編
+  other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$cDexgQl9aE_9avheRzlrh8ZBe76jq_ZceTMrYwZqHo4
