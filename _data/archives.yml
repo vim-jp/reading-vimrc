@@ -50409,3 +50409,21 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$cDexgQl9aE_9avheRzlrh8ZBe76jq_ZceTMrYwZqHo4
+- id: 654
+  date: 2025-01-18 23:00
+  author:
+    name: daisuzu
+    url: https://github.com/daisuzu
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/daisuzu/dotvim/blob/4950fef98350b9a5865566b72cd4bd61afc49540/.vimrc
+      raw_url: https://raw.githubusercontent.com/daisuzu/dotvim/4950fef98350b9a5865566b72cd4bd61afc49540/.vimrc
+      hash: 4950fef98350b9a5865566b72cd4bd61afc49540
+  part: 後編
+  other: null
+  members:
+    - Omochice
+    - hokorobi (hokorobi)
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$8Yn4Yg83-S4UjWaiBrRt1VKLXmwgot2re_le30NMQ2w
