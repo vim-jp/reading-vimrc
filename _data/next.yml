@@ -1,5 +1,5 @@
-- id: 653
-  date: 2025-01-11 23:00
+- id: 654
+  date: 2025-01-18 23:00
   author:
     name: daisuzu
     url: https://github.com/daisuzu
@@ -8,5 +8,5 @@
         https://github.com/daisuzu/dotvim/blob/4950fef98350b9a5865566b72cd4bd61afc49540/.vimrc
       hash: 4950fef98350b9a5865566b72cd4bd61afc49540
       name: .vimrc
-  part: 中編
+  part: 後編
   other: null
