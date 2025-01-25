@@ -1,12 +1,47 @@
-- id: 654
-  date: 2025-01-18 23:00
+- id: 655
+  date: 2025-01-25 23:00
   author:
-    name: daisuzu
-    url: https://github.com/daisuzu
+    name: mikoto2000
+    url: https://github.com/mikoto2000
   vimrcs:
     - url: >-
-        https://github.com/daisuzu/dotvim/blob/4950fef98350b9a5865566b72cd4bd61afc49540/.vimrc
-      hash: 4950fef98350b9a5865566b72cd4bd61afc49540
-      name: .vimrc
-  part: 後編
+        https://github.com/mikoto2000/dotvim/blob/master/autoload/create_temp_file.vim
+      hash: null
+      name: autoload/create_temp_file.vim
+    - url: https://github.com/mikoto2000/dotvim/blob/master/autoload/m2h.vim
+      hash: null
+      name: autoload/m2h.vim
+    - url: >-
+        https://github.com/mikoto2000/dotvim/blob/master/autoload/send_to_simai.vim
+      hash: null
+      name: autoload/send_to_simai.vim
+    - url: >-
+        https://github.com/mikoto2000/dotvim/blob/master/autoload/sixel_previewer.vim
+      hash: null
+      name: autoload/sixel_previewer.vim
+    - url: https://github.com/mikoto2000/dotvim/blob/master/autoload/termsize.py
+      hash: null
+      name: autoload/termsize.py
+    - url: https://github.com/mikoto2000/dotvim/blob/master/gvimrc
+      hash: null
+      name: gvimrc
+    - url: https://github.com/mikoto2000/dotvim/blob/master/nvim/gvimrc
+      hash: null
+      name: nvim/gvimrc
+    - url: https://github.com/mikoto2000/dotvim/blob/master/nvim/vimrc
+      hash: null
+      name: nvim/vimrc
+    - url: https://github.com/mikoto2000/dotvim/blob/master/tabconf.vimrc
+      hash: null
+      name: tabconf.vimrc
+    - url: https://github.com/mikoto2000/dotvim/blob/master/vim/gvimrc
+      hash: null
+      name: vim/gvimrc
+    - url: https://github.com/mikoto2000/dotvim/blob/master/vimrc
+      hash: null
+      name: vimrc
+    - url: https://github.com/mikoto2000/dotvim/blob/master/vim/vimrc
+      hash: null
+      name: vim/vimrc
+  part: null
   other: null
