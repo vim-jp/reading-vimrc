@@ -50488,3 +50488,64 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$Oh-SOXS5UzYWPJ-dWZq1-Fi0DAgusFjWltjiBdUqZtQ
+- id: 656
+  date: 2025-02-01 23:00
+  author:
+    name: mikoto2000
+    url: https://github.com/mikoto2000
+  vimrcs:
+    - name: autoload/create_temp_file.vim
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/create_temp_file.vim
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/create_temp_file.vim
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: autoload/m2h.vim
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/m2h.vim
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/m2h.vim
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: autoload/send_to_simai.vim
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/send_to_simai.vim
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/send_to_simai.vim
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: autoload/sixel_previewer.vim
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/sixel_previewer.vim
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/sixel_previewer.vim
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: autoload/termsize.py
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/termsize.py
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/termsize.py
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: gvimrc
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/gvimrc
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/gvimrc
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: nvim/gvimrc
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/nvim/gvimrc
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/nvim/gvimrc
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: nvim/vimrc
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/nvim/vimrc
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/nvim/vimrc
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: tabconf.vimrc
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/tabconf.vimrc
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/tabconf.vimrc
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: vim/gvimrc
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/vim/gvimrc
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/vim/gvimrc
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: vimrc
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/vimrc
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/vimrc
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+    - name: vim/vimrc
+      url: https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/vim/vimrc
+      raw_url: https://raw.githubusercontent.com/mikoto2000/dotvim/25014fd9cc2d5e678b8584848bb595a9f195b55b/vim/vimrc
+      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
+  part: 後編
+  other: null
+  members:
+    - kuuote
+    - thinca
+    - 輪ごむ
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$rRKMIMHGOx8foI7HIbCOzBSCCj7AX-n5axd8waEM2Mg
