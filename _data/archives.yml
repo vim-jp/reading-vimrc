@@ -50549,3 +50549,200 @@
     - thinca
     - 輪ごむ
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$rRKMIMHGOx8foI7HIbCOzBSCCj7AX-n5axd8waEM2Mg
+- id: 657
+  date: 2025-02-08 23:00
+  author:
+    name: 2KAbhishek
+    url: https://github.com/2KAbhishek
+  vimrcs:
+    - name: init.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/init.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/init.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/core/autocmd.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/core/autocmd.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/core/autocmd.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/core/functions.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/core/functions.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/core/functions.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/core/keys.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/core/keys.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/core/keys.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/core/options.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/core/options.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/core/options.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/lib/icons.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/lib/icons.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/lib/icons.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/lib/util.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/lib/util.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/lib/util.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/ai.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/ai.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/ai.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/blink.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/blink.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/blink.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/bracketed.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/bracketed.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/bracketed.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/copilot-chat.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/copilot-chat.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/copilot-chat.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/copilot.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/copilot.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/copilot.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/lspconfig.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/lspconfig.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/lspsaga.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/lspsaga.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/lspsaga.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/mason.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/mason.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/mason.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/null-ls.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/null-ls.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/null-ls.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/pairs.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/pairs.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/pairs.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/refactoring.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/refactoring.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/refactoring.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/sniprun.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/sniprun.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/sniprun.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/spider.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/spider.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/spider.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/surround.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/surround.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/surround.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/textobjects.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/textobjects.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/textobjects.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lang/treesitter.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lang/treesitter.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/lazy.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lazy.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/lazy.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/list.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/list.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/list.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/ccc.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/ccc.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/ccc.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/dap.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/dap.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/dap.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/dbee.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/dbee.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/dbee.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/exercism.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/exercism.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/exercism.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/files.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/files.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/files.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/flash.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/flash.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/flash.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/gitlinker.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/gitlinker.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/gitlinker.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/gitsigns.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/gitsigns.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/marks.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/marks.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/marks.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/navigator.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/navigator.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/navigator.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/neotest.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/neotest.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/neotest.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/octohub.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/octohub.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/octohub.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/spectre.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/spectre.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/spectre.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/telescope-custom.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/telescope-custom.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/telescope-custom.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/telescope.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/telescope.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/telescope.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/tools/which-key.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/which-key.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/tools/which-key.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/ui/dressing.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/ui/dressing.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/ui/dressing.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/ui/lualine.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/ui/lualine.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/ui/lualine.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/ui/onedark.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/ui/onedark.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/ui/onedark.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: lua/plugins/ui/snacks.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/ui/snacks.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/lua/plugins/ui/snacks.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+    - name: plugin/after/highlights.lua
+      url: https://github.com/2KAbhishek/nvim2k/blob/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/plugin/after/highlights.lua
+      raw_url: https://raw.githubusercontent.com/2KAbhishek/nvim2k/7091a563ba6eed4138b5c5a61cd82db2c3dd6f02/plugin/after/highlights.lua
+      hash: 7091a563ba6eed4138b5c5a61cd82db2c3dd6f02
+  part: null
+  other: null
+  members:
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$V40iudr1qchvTklxf1JMmCLyp86LECOnoMpkwJCTDIM
