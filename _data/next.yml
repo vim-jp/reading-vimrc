@@ -1,56 +1,179 @@
-- id: 656
-  date: 2025-02-01 23:00
+- id: 657
+  date: 2025-02-08 23:00
   author:
-    name: mikoto2000
-    url: https://github.com/mikoto2000
+    name: 2KAbhishek
+    url: https://github.com/2KAbhishek
   vimrcs:
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/init.lua
+      hash: null
+      name: init.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/core/autocmd.lua
+      hash: null
+      name: lua/core/autocmd.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/core/functions.lua
+      hash: null
+      name: lua/core/functions.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/core/keys.lua
+      hash: null
+      name: lua/core/keys.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/core/options.lua
+      hash: null
+      name: lua/core/options.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/lib/icons.lua
+      hash: null
+      name: lua/lib/icons.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/lib/util.lua
+      hash: null
+      name: lua/lib/util.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/ai.lua
+      hash: null
+      name: lua/plugins/lang/ai.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/create_temp_file.vim
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: autoload/create_temp_file.vim
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/blink.lua
+      hash: null
+      name: lua/plugins/lang/blink.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/m2h.vim
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: autoload/m2h.vim
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/bracketed.lua
+      hash: null
+      name: lua/plugins/lang/bracketed.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/send_to_simai.vim
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: autoload/send_to_simai.vim
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/copilot-chat.lua
+      hash: null
+      name: lua/plugins/lang/copilot-chat.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/sixel_previewer.vim
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: autoload/sixel_previewer.vim
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/copilot.lua
+      hash: null
+      name: lua/plugins/lang/copilot.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/autoload/termsize.py
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: autoload/termsize.py
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/lspconfig.lua
+      hash: null
+      name: lua/plugins/lang/lspconfig.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/gvimrc
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: gvimrc
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/lspsaga.lua
+      hash: null
+      name: lua/plugins/lang/lspsaga.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/nvim/gvimrc
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: nvim/gvimrc
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/mason.lua
+      hash: null
+      name: lua/plugins/lang/mason.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/nvim/vimrc
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: nvim/vimrc
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/null-ls.lua
+      hash: null
+      name: lua/plugins/lang/null-ls.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/tabconf.vimrc
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: tabconf.vimrc
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/pairs.lua
+      hash: null
+      name: lua/plugins/lang/pairs.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/vim/gvimrc
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: vim/gvimrc
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/refactoring.lua
+      hash: null
+      name: lua/plugins/lang/refactoring.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/vimrc
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: vimrc
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/sniprun.lua
+      hash: null
+      name: lua/plugins/lang/sniprun.lua
     - url: >-
-        https://github.com/mikoto2000/dotvim/blob/25014fd9cc2d5e678b8584848bb595a9f195b55b/vim/vimrc
-      hash: 25014fd9cc2d5e678b8584848bb595a9f195b55b
-      name: vim/vimrc
-  part: 後編
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/spider.lua
+      hash: null
+      name: lua/plugins/lang/spider.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/surround.lua
+      hash: null
+      name: lua/plugins/lang/surround.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/textobjects.lua
+      hash: null
+      name: lua/plugins/lang/textobjects.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/treesitter.lua
+      hash: null
+      name: lua/plugins/lang/treesitter.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lazy.lua
+      hash: null
+      name: lua/plugins/lazy.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/list.lua
+      hash: null
+      name: lua/plugins/list.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/ccc.lua
+      hash: null
+      name: lua/plugins/tools/ccc.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/dap.lua
+      hash: null
+      name: lua/plugins/tools/dap.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/dbee.lua
+      hash: null
+      name: lua/plugins/tools/dbee.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/exercism.lua
+      hash: null
+      name: lua/plugins/tools/exercism.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/files.lua
+      hash: null
+      name: lua/plugins/tools/files.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/flash.lua
+      hash: null
+      name: lua/plugins/tools/flash.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/gitlinker.lua
+      hash: null
+      name: lua/plugins/tools/gitlinker.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/gitsigns.lua
+      hash: null
+      name: lua/plugins/tools/gitsigns.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/marks.lua
+      hash: null
+      name: lua/plugins/tools/marks.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/navigator.lua
+      hash: null
+      name: lua/plugins/tools/navigator.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/neotest.lua
+      hash: null
+      name: lua/plugins/tools/neotest.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/octohub.lua
+      hash: null
+      name: lua/plugins/tools/octohub.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/spectre.lua
+      hash: null
+      name: lua/plugins/tools/spectre.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/telescope-custom.lua
+      hash: null
+      name: lua/plugins/tools/telescope-custom.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/telescope.lua
+      hash: null
+      name: lua/plugins/tools/telescope.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/which-key.lua
+      hash: null
+      name: lua/plugins/tools/which-key.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/ui/dressing.lua
+      hash: null
+      name: lua/plugins/ui/dressing.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/ui/lualine.lua
+      hash: null
+      name: lua/plugins/ui/lualine.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/ui/onedark.lua
+      hash: null
+      name: lua/plugins/ui/onedark.lua
+    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/ui/snacks.lua
+      hash: null
+      name: lua/plugins/ui/snacks.lua
+    - url: >-
+        https://github.com/2KAbhishek/nvim2k/blob/main/plugin/after/highlights.lua
+      hash: null
+      name: plugin/after/highlights.lua
+  part: null
   other: null
