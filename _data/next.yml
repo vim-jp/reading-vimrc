@@ -1,179 +1,345 @@
-- id: 657
-  date: 2025-02-08 23:00
+- id: 658
+  date: 2025-02-15 23:00
   author:
-    name: 2KAbhishek
-    url: https://github.com/2KAbhishek
+    name: lambdalisue
+    url: https://github.com/lambdalisue
   vimrcs:
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/init.lua
-      hash: null
-      name: init.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/core/autocmd.lua
-      hash: null
-      name: lua/core/autocmd.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/core/functions.lua
-      hash: null
-      name: lua/core/functions.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/core/keys.lua
-      hash: null
-      name: lua/core/keys.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/core/options.lua
-      hash: null
-      name: lua/core/options.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/lib/icons.lua
-      hash: null
-      name: lua/lib/icons.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/lib/util.lua
-      hash: null
-      name: lua/lib/util.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/ai.lua
-      hash: null
-      name: lua/plugins/lang/ai.lua
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/blink.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/css.vim
       hash: null
-      name: lua/plugins/lang/blink.lua
+      name: after/ftplugin/css.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/bracketed.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/go.vim
       hash: null
-      name: lua/plugins/lang/bracketed.lua
+      name: after/ftplugin/go.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/copilot-chat.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/help.vim
       hash: null
-      name: lua/plugins/lang/copilot-chat.lua
+      name: after/ftplugin/help.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/copilot.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/html.vim
       hash: null
-      name: lua/plugins/lang/copilot.lua
+      name: after/ftplugin/html.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/lspconfig.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/javascript.vim
       hash: null
-      name: lua/plugins/lang/lspconfig.lua
+      name: after/ftplugin/javascript.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/lspsaga.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/json.vim
       hash: null
-      name: lua/plugins/lang/lspsaga.lua
+      name: after/ftplugin/json.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/mason.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/lua.vim
       hash: null
-      name: lua/plugins/lang/mason.lua
+      name: after/ftplugin/lua.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/null-ls.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/markdown.vim
       hash: null
-      name: lua/plugins/lang/null-ls.lua
+      name: after/ftplugin/markdown.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/pairs.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/proto.vim
       hash: null
-      name: lua/plugins/lang/pairs.lua
+      name: after/ftplugin/proto.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/refactoring.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/python.vim
       hash: null
-      name: lua/plugins/lang/refactoring.lua
+      name: after/ftplugin/python.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/sniprun.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/qf.vim
       hash: null
-      name: lua/plugins/lang/sniprun.lua
+      name: after/ftplugin/qf.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/spider.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/rust.vim
       hash: null
-      name: lua/plugins/lang/spider.lua
+      name: after/ftplugin/rust.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/surround.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/sh.vim
       hash: null
-      name: lua/plugins/lang/surround.lua
+      name: after/ftplugin/sh.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/textobjects.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/sql.vim
       hash: null
-      name: lua/plugins/lang/textobjects.lua
+      name: after/ftplugin/sql.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lang/treesitter.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/terminal.vim
       hash: null
-      name: lua/plugins/lang/treesitter.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/lazy.lua
-      hash: null
-      name: lua/plugins/lazy.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/list.lua
-      hash: null
-      name: lua/plugins/list.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/ccc.lua
-      hash: null
-      name: lua/plugins/tools/ccc.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/dap.lua
-      hash: null
-      name: lua/plugins/tools/dap.lua
+      name: after/ftplugin/terminal.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/dbee.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/terraform.vim
       hash: null
-      name: lua/plugins/tools/dbee.lua
+      name: after/ftplugin/terraform.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/exercism.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/tsv.vim
       hash: null
-      name: lua/plugins/tools/exercism.lua
+      name: after/ftplugin/tsv.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/files.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/typescript.vim
       hash: null
-      name: lua/plugins/tools/files.lua
+      name: after/ftplugin/typescript.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/flash.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/vim.vim
       hash: null
-      name: lua/plugins/tools/flash.lua
+      name: after/ftplugin/vim.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/gitlinker.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/vimspec.vim
       hash: null
-      name: lua/plugins/tools/gitlinker.lua
+      name: after/ftplugin/vimspec.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/gitsigns.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/yaml.vim
       hash: null
-      name: lua/plugins/tools/gitsigns.lua
+      name: after/ftplugin/yaml.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/marks.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/after/ftplugin/zsh.vim
       hash: null
-      name: lua/plugins/tools/marks.lua
+      name: after/ftplugin/zsh.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/navigator.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/coc-settings.json
       hash: null
-      name: lua/plugins/tools/navigator.lua
+      name: coc-settings.json
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/neotest.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/conf.d/statusline.vim
       hash: null
-      name: lua/plugins/tools/neotest.lua
+      name: conf.d/statusline.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/octohub.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/fall/custom.ts
       hash: null
-      name: lua/plugins/tools/octohub.lua
+      name: fall/custom.ts
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/spectre.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/ftdetect/docker.vim
       hash: null
-      name: lua/plugins/tools/spectre.lua
+      name: ftdetect/docker.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/telescope-custom.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/ftdetect/env.vim
       hash: null
-      name: lua/plugins/tools/telescope-custom.lua
+      name: ftdetect/env.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/telescope.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/ftdetect/envrc.vim
       hash: null
-      name: lua/plugins/tools/telescope.lua
+      name: ftdetect/envrc.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/tools/which-key.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/ftdetect/gitconfig.vim
       hash: null
-      name: lua/plugins/tools/which-key.lua
+      name: ftdetect/gitconfig.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/ui/dressing.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/ftdetect/jsonc.vim
       hash: null
-      name: lua/plugins/ui/dressing.lua
+      name: ftdetect/jsonc.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/ui/lualine.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/ftdetect/terminal.vim
       hash: null
-      name: lua/plugins/ui/lualine.lua
+      name: ftdetect/terminal.vim
+    - url: https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/ginit.vim
+      hash: null
+      name: ginit.vim
+    - url: https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/init.vim
+      hash: null
+      name: init.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/ui/onedark.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/jetpack.vim
       hash: null
-      name: lua/plugins/ui/onedark.lua
-    - url: https://github.com/2KAbhishek/nvim2k/blob/main/lua/plugins/ui/snacks.lua
-      hash: null
-      name: lua/plugins/ui/snacks.lua
+      name: jetpack.vim
     - url: >-
-        https://github.com/2KAbhishek/nvim2k/blob/main/plugin/after/highlights.lua
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/backandforward.vim
       hash: null
-      name: plugin/after/highlights.lua
-  part: null
+      name: plugin.d/backandforward.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/battery.vim
+      hash: null
+      name: plugin.d/battery.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/chameleon.vim
+      hash: null
+      name: plugin.d/chameleon.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/coc.vim
+      hash: null
+      name: plugin.d/coc.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/comment.lua
+      hash: null
+      name: plugin.d/comment.lua
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/copilot.vim
+      hash: null
+      name: plugin.d/copilot.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/copilotchat.lua
+      hash: null
+      name: plugin.d/copilotchat.lua
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/copilotchat.vim
+      hash: null
+      name: plugin.d/copilotchat.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/ddc.vim
+      hash: null
+      name: plugin.d/ddc.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/denops-sillicon.vim
+      hash: null
+      name: plugin.d/denops-sillicon.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/denops.vim
+      hash: null
+      name: plugin.d/denops.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/dmacro.vim
+      hash: null
+      name: plugin.d/dmacro.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/eft.vim
+      hash: null
+      name: plugin.d/eft.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/fall.vim
+      hash: null
+      name: plugin.d/fall.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/fern-git-status.vim
+      hash: null
+      name: plugin.d/fern-git-status.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/fern.vim
+      hash: null
+      name: plugin.d/fern.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/gin.vim
+      hash: null
+      name: plugin.d/gin.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/gina.vim
+      hash: null
+      name: plugin.d/gina.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/glyph-palette.vim
+      hash: null
+      name: plugin.d/glyph-palette.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/iceberg.vim
+      hash: null
+      name: plugin.d/iceberg.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/initial.vim
+      hash: null
+      name: plugin.d/initial.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/junkfile.vim
+      hash: null
+      name: plugin.d/junkfile.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/kensaku.vim
+      hash: null
+      name: plugin.d/kensaku.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/markdown.lua
+      hash: null
+      name: plugin.d/markdown.lua
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/mr.vim
+      hash: null
+      name: plugin.d/mr.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/nvim-insx.lua
+      hash: null
+      name: plugin.d/nvim-insx.lua
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/nvim-treesitter.lua
+      hash: null
+      name: plugin.d/nvim-treesitter.lua
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/openbrowser.vim
+      hash: null
+      name: plugin.d/openbrowser.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/previm.vim
+      hash: null
+      name: plugin.d/previm.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/quickhl.vim
+      hash: null
+      name: plugin.d/quickhl.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/quickrun.vim
+      hash: null
+      name: plugin.d/quickrun.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/refine.vim
+      hash: null
+      name: plugin.d/refine.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/skkeleton.vim
+      hash: null
+      name: plugin.d/skkeleton.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/skkeleton_indicator.lua
+      hash: null
+      name: plugin.d/skkeleton_indicator.lua
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/suda.vim
+      hash: null
+      name: plugin.d/suda.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/undotree.vim
+      hash: null
+      name: plugin.d/undotree.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/vim-backslash.vim
+      hash: null
+      name: plugin.d/vim-backslash.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/vim-cursorword.vim
+      hash: null
+      name: plugin.d/vim-cursorword.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/vim-operator-breakline.vim
+      hash: null
+      name: plugin.d/vim-operator-breakline.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/vim-operator-replace.vim
+      hash: null
+      name: plugin.d/vim-operator-replace.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/vim-parenmatch.vim
+      hash: null
+      name: plugin.d/vim-parenmatch.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/vim-sandwich.vim
+      hash: null
+      name: plugin.d/vim-sandwich.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/vim-template.vim
+      hash: null
+      name: plugin.d/vim-template.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/vim-textobj-multiblock.vim
+      hash: null
+      name: plugin.d/vim-textobj-multiblock.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin.d/wifi.vim
+      hash: null
+      name: plugin.d/wifi.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin/base64.vim
+      hash: null
+      name: plugin/base64.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin/floating.vim
+      hash: null
+      name: plugin/floating.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin/uuid.vim
+      hash: null
+      name: plugin/uuid.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/plugin/yank.vim
+      hash: null
+      name: plugin/yank.vim
+    - url: >-
+        https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/template/LICENSE.md
+      hash: null
+      name: template/LICENSE.md
+    - url: https://github.com/lambdalisue/dotfiles/blob/main/.config/nvim/vimrc.min
+      hash: null
+      name: vimrc.min
+  part: 前編
   other: null
