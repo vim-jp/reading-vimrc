@@ -1,5 +1,5 @@
-- id: 659
-  date: 2025-02-22 23:00
+- id: 660
+  date: 2025-03-01 23:00
   author:
     name: lambdalisue
     url: https://github.com/lambdalisue
@@ -344,5 +344,5 @@
         https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/vimrc.min
       hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
       name: vimrc.min
-  part: 中編
+  part: 後編
   other: null
