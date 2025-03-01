@@ -51453,3 +51453,356 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$QqCxqi55eYtuNVPOYA3Ic7G-j_C_5NiIbLbdakMvvKQ
+- id: 660
+  date: 2025-03-01 23:00
+  author:
+    name: lambdalisue
+    url: https://github.com/lambdalisue
+  vimrcs:
+    - name: after/ftplugin/css.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/css.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/css.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/go.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/go.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/go.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/help.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/help.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/html.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/html.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/html.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/javascript.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/javascript.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/javascript.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/json.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/json.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/json.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/lua.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/lua.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/lua.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/markdown.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/markdown.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/proto.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/proto.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/proto.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/python.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/python.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/python.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/qf.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/qf.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/qf.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/rust.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/rust.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/rust.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/sh.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/sh.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/sh.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/sql.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/sql.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/sql.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/terminal.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/terminal.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/terminal.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/terraform.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/terraform.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/terraform.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/tsv.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/tsv.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/tsv.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/typescript.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/typescript.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/typescript.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/vim.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/vim.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/vimspec.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/vimspec.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/vimspec.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/yaml.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/yaml.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/yaml.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: after/ftplugin/zsh.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/zsh.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/after/ftplugin/zsh.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: coc-settings.json
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/coc-settings.json
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: conf.d/statusline.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/conf.d/statusline.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/conf.d/statusline.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: fall/custom.ts
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/fall/custom.ts
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/fall/custom.ts
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: ftdetect/docker.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/docker.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/docker.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: ftdetect/env.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/env.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/env.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: ftdetect/envrc.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/envrc.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/envrc.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: ftdetect/gitconfig.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/gitconfig.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/gitconfig.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: ftdetect/jsonc.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/jsonc.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/jsonc.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: ftdetect/terminal.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/terminal.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ftdetect/terminal.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: ginit.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ginit.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/ginit.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: init.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/init.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: jetpack.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/jetpack.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/jetpack.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/backandforward.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/backandforward.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/backandforward.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/battery.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/battery.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/battery.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/chameleon.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/chameleon.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/chameleon.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/coc.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/coc.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/coc.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/comment.lua
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/comment.lua
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/comment.lua
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/copilot.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/copilot.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/copilot.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/copilotchat.lua
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/copilotchat.lua
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/copilotchat.lua
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/copilotchat.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/copilotchat.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/copilotchat.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/ddc.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/ddc.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/ddc.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/denops-sillicon.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/denops-sillicon.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/denops-sillicon.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/denops.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/denops.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/denops.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/dmacro.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/dmacro.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/dmacro.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/eft.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/eft.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/eft.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/fall.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/fall.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/fall.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/fern-git-status.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/fern-git-status.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/fern-git-status.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/fern.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/fern.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/fern.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/gin.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/gin.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/gin.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/gina.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/gina.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/gina.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/glyph-palette.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/glyph-palette.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/glyph-palette.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/iceberg.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/iceberg.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/iceberg.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/initial.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/initial.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/initial.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/junkfile.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/junkfile.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/junkfile.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/kensaku.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/kensaku.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/kensaku.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/markdown.lua
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/markdown.lua
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/markdown.lua
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/mr.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/mr.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/mr.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/nvim-insx.lua
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/nvim-insx.lua
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/nvim-insx.lua
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/nvim-treesitter.lua
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/nvim-treesitter.lua
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/nvim-treesitter.lua
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/openbrowser.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/openbrowser.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/openbrowser.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/previm.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/previm.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/previm.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/quickhl.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/quickhl.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/quickhl.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/quickrun.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/quickrun.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/quickrun.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/refine.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/refine.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/refine.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/skkeleton.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/skkeleton.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/skkeleton.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/skkeleton_indicator.lua
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/skkeleton_indicator.lua
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/skkeleton_indicator.lua
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/suda.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/suda.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/suda.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/undotree.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/undotree.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/undotree.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/vim-backslash.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-backslash.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-backslash.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/vim-cursorword.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-cursorword.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-cursorword.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/vim-operator-breakline.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-operator-breakline.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-operator-breakline.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/vim-operator-replace.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-operator-replace.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-operator-replace.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/vim-parenmatch.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-parenmatch.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-parenmatch.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/vim-sandwich.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-sandwich.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-sandwich.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/vim-template.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-template.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-template.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/vim-textobj-multiblock.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-textobj-multiblock.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/vim-textobj-multiblock.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin.d/wifi.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/wifi.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin.d/wifi.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin/base64.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin/base64.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin/base64.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin/floating.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin/floating.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin/floating.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin/uuid.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin/uuid.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin/uuid.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: plugin/yank.vim
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin/yank.vim
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/plugin/yank.vim
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: template/LICENSE.md
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/template/LICENSE.md
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/template/LICENSE.md
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+    - name: vimrc.min
+      url: https://github.com/lambdalisue/dotfiles/blob/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/vimrc.min
+      raw_url: https://raw.githubusercontent.com/lambdalisue/dotfiles/e1b1e1017c3764684da3a92d77f9745bb3aa8474/.config/nvim/vimrc.min
+      hash: e1b1e1017c3764684da3a92d77f9745bb3aa8474
+  part: 後編
+  other: null
+  members:
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$O0ncJzGPsEgyf-Dh5g4JlAtYZOFl0SD73-XQ5T3jS3A
