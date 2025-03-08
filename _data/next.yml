@@ -1,150 +1,176 @@
-- id: 661
-  date: 2025-03-08 23:00
+- id: 662
+  date: 2025-03-15 23:00
   author:
     name: Shougo
     url: https://github.com/Shougo
   vimrcs:
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/after/queries/toml/highlights.scm
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/after/queries/toml/highlights.scm
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: after/queries/toml/highlights.scm
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/after/queries/toml/injections.scm
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/after/queries/toml/injections.scm
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: after/queries/toml/injections.scm
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/after/queries/vimdoc/highlights.scm
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/after/queries/vimdoc/highlights.scm
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: after/queries/vimdoc/highlights.scm
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/autoload/job/nvim.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/autoload/job/nvim.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: autoload/job/nvim.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/autoload/job.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/autoload/job.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: autoload/job.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/autoload/job/vim.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/autoload/job/vim.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: autoload/job/vim.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/autoload/vimrc.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/autoload/vimrc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: autoload/vimrc.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/colors/candy.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/colors/candy.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: colors/candy.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/ginit.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/ginit.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: ginit.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/init.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/init.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: init.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddc.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddc.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddc.toml
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddc.ts
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddc.ts
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddc.ts
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddc.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddc.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddt.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddt.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddt.toml
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddt.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddt.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddt.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddu.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddu.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddu.toml
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddu.ts
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddu.ts
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddu.ts
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddu-ui-ff.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddu-ui-ff.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddu-ui-ff.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddu-ui-filer.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddu-ui-filer.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddu-ui-filer.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddu.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddu.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddu.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ddx.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ddx.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ddx.toml
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/denops.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/denops.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/denops.toml
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/dpp.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/dpp.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/dpp.toml
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/dpp.ts
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/dpp.ts
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/dpp.ts
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/dpp.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/dpp.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/dpp.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/filetype.rc.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/filetype.rc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/filetype.rc.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/ft.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/ft.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/ft.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/gui.rc.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/gui.rc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/gui.rc.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/lazy.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/lazy.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/lazy.toml
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/mappings.rc.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/mappings.rc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/mappings.rc.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/merge.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/merge.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/merge.toml
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/neovim.rc.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/neovim.rc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/neovim.rc.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/neovim.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/neovim.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/neovim.toml
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/options.rc.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/options.rc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/options.rc.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/unix.rc.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/unix.rc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/unix.rc.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/vim9.rc.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/vim9.rc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/vim9.rc.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/vim9.vim
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/vim9.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/vim9.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/vimrc
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/vimrc
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/vimrc
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/vim.toml
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/vim.toml
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/vim.toml
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/rc/windows.rc.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/rc/windows.rc.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: rc/windows.rc.vim
     - url: >-
-        https://github.com/Shougo/shougo-s-github/blob/master/vim/syntax/gihyo.vim
-      hash: null
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/syntax/gihyo.vim
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: syntax/gihyo.vim
-    - url: https://github.com/Shougo/shougo-s-github/blob/master/vim/vimrc
-      hash: null
+    - url: >-
+        https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/vimrc
+      hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: vimrc
-  part: 前編
+  part: 中編
   other: null
