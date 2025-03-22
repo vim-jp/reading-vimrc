@@ -1,5 +1,5 @@
-- id: 662
-  date: 2025-03-15 23:00
+- id: 663
+  date: 2025-03-22 23:00
   author:
     name: Shougo
     url: https://github.com/Shougo
@@ -172,5 +172,5 @@
         https://github.com/Shougo/shougo-s-github/blob/ad8c241657815be65bea4db59417579dad9e36a7/vim/vimrc
       hash: ad8c241657815be65bea4db59417579dad9e36a7
       name: vimrc
-  part: 中編
+  part: 後編
   other: null
