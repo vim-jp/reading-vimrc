@@ -1,5 +1,5 @@
-- id: 667
-  date: 2025-04-19 23:00
+- id: 668
+  date: 2025-04-26 23:00
   author:
     name: mimikun
     url: https://github.com/mimikun
@@ -12,16 +12,14 @@
         https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/snippets/all.json
       hash: null
       name: snippets/all.json
-    - url: >-
-        https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/init.lua
+    - url: https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/init.lua
       hash: null
       name: init.lua
     - url: >-
         https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/selene.toml
       hash: null
       name: selene.toml
-    - url: >-
-        https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/Makefile
+    - url: https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/Makefile
       hash: null
       name: Makefile
     - url: >-
@@ -3936,13 +3934,12 @@
         https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/.typos.toml
       hash: null
       name: .typos.toml
-    - url: >-
-        https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/vim.yml
+    - url: https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/vim.yml
       hash: null
       name: vim.yml
     - url: >-
         https://github.com/mimikun/dotfiles/blob/master/dot_config/nvim/dotfyle.json
       hash: null
       name: dotfyle.json
-  part: 前編
+  part: 後編
   other: null
