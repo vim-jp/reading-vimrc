@@ -62524,3 +62524,692 @@
     - reyalka
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$VwqV0BT1qLK3Qi3Vy6YyBwjQz6V99av84LCyY9dHNqI
+- id: 670
+  date: 2025-05-10 23:00
+  author:
+    name: kuuote
+    url: https://github.com/kuuote
+  vimrcs:
+    - name: after/ftplugin/vim.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/after/ftplugin/vim.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: after/queries/unifieddiff/highlights.scm
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/after/queries/unifieddiff/highlights.scm
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/after/queries/unifieddiff/highlights.scm
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: after/queries/unifieddiff/unifieddiff.scm
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/after/queries/unifieddiff/unifieddiff.scm
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/after/queries/unifieddiff/unifieddiff.scm
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: after/syntax/diff.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/after/syntax/diff.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/after/syntax/diff.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/operandi/type/mycommand.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/operandi/type/mycommand.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/operandi/type/mycommand.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/operandi/type/myterm.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/operandi/type/myterm.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/operandi/type/myterm.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/p/ddu/ff.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/p/ddu/ff.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/p/ddu/ff.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/p/ddu.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/p/ddu.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/p/ddu.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/p/gin.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/p/gin.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/p/gin.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/autocmd/auto_mkdir.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/autocmd/auto_mkdir.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/autocmd/auto_mkdir.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/autocmd/shebang.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/autocmd/shebang.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/autocmd/shebang.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/denops_loader.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/denops_loader.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/denops_loader.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/denops.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/denops.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/denops.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/dpp.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/dpp.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/dpp.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/feat/clipboard.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/feat/clipboard.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/feat/clipboard.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/feat/format.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/feat/format.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/feat/format.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/feat/terminal.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/feat/terminal.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/feat/terminal.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/feat/tweet.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/feat/tweet.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/feat/tweet.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/git.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/git.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/git.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/inline/cache.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/inline/cache.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/inline/cache.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/inline.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/inline.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/inline.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/keycode.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/keycode.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/keycode.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/lazy.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/lazy.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/lazy.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: autoload/vimrc/mru.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/mru.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/autoload/vimrc/mru.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: coc-settings.json
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/coc-settings.json
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/dpp.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/dpp.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/dpp.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/dpp.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/dpp.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/dpp.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/fallback.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/fallback.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/fallback.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/makestate.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/makestate.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/makestate.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/coc.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/coc.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/coc.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/colorscheme.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/colorscheme.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/colorscheme.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddc/main.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddc/main.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddc/main.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddc/manual.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddc/manual.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddc/manual.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddc.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddc.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddc.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddc.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddc.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddc.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddt.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddt.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddt.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddu/ff.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/ff.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/ff.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddu/filer.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/filer.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/filer.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddu/lib/helper.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/lib/helper.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/lib/helper.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddu/main.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/main.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/main.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddu/template.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/template.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu/template.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/ddu.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/ddu.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/denippet.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/denippet.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/denippet.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/deno.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/deno.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/deno.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/dpp.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/dpp.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/dpp.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/filetype_help.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/filetype_help.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/filetype_help.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/filetype_vim.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/filetype_vim.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/filetype_vim.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/lspoints.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/lspoints.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/lspoints.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/lspoints.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/lspoints.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/lspoints.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/main.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/main.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/main.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/colorscheme.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/colorscheme.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/colorscheme.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/diagnostic.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/diagnostic.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/diagnostic.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/dial.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/dial.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/dial.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/insx.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/insx.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/insx.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/insx/nix.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/insx/nix.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/insx/nix.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/lspconfig.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/lspconfig.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/main.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/main.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/main.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/nvim_lsp.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/nvim_lsp.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/nvim_lsp.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/telescope.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/telescope.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/telescope.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/nvim/treesitter.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/treesitter.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/nvim/treesitter.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/skkeleton_state_popup.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/skkeleton_state_popup.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/skkeleton_state_popup.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/skkeleton.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/skkeleton.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/skkeleton.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/vim/lexima/nix.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim/lexima/nix.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim/lexima/nix.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/vim/lexima.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim/lexima.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim/lexima.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/vim/lexima/vim.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim/lexima/vim.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim/lexima/vim.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/vim_lsp.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim_lsp.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim_lsp.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/vim/main.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim/main.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/vim/main.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/x.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/x.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/x.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/z/emacs/emacs.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/z/emacs/emacs.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/z/emacs/emacs.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/z/emacs/magit.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/z/emacs/magit.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/z/emacs/magit.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/plug/z.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/z.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/plug/z.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/autocmd.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/autocmd.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/autocmd.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/aomi-grayscale_dark_transparent.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/aomi-grayscale_dark_transparent.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/aomi-grayscale_dark_transparent.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/aomi-grayscale_dark.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/aomi-grayscale_dark.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/aomi-grayscale_dark.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/aomi_grayscale_light.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/aomi_grayscale_light.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/aomi_grayscale_light.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/ayu_dark.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/ayu_dark.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/ayu_dark.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/ayu_light.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/ayu_light.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/ayu_light.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/ayu_mirage.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/ayu_mirage.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/ayu_mirage.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/candy.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/candy.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/candy.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/carbonfox.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/carbonfox.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/carbonfox.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/catppuccin-latte_bluenote.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/catppuccin-latte_bluenote.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/catppuccin-latte_bluenote.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/catppuccin-latte.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/catppuccin-latte.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/catppuccin-latte.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/catppuccin-mocha_transparent.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/catppuccin-mocha_transparent.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/catppuccin-mocha_transparent.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/catppuccin-mocha.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/catppuccin-mocha.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/catppuccin-mocha.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/common/transparent.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/common/transparent.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/common/transparent.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/dawnfox.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/dawnfox.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/dawnfox.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/default.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/default.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/default.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/dracula.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/dracula.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/dracula.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/edge_black.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/edge_black.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/edge_black.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/edge_dark_transparent.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/edge_dark_transparent.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/edge_dark_transparent.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/edge_dark.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/edge_dark.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/edge_dark.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/edge_light.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/edge_light.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/edge_light.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/elly.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/elly.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/elly.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/everforest_dark.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/everforest_dark.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/everforest_dark.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/everforest_light.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/everforest_light.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/everforest_light.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/github_dark.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/github_dark.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/github_dark.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/github_light.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/github_light.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/github_light.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/gruvbit_monaqa.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/gruvbit_monaqa.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/gruvbit_monaqa.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/gruvbox.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/gruvbox.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/gruvbox.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/hydrangea.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/hydrangea.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/hydrangea.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/iceberg.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/iceberg.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/iceberg.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/momiji.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/momiji.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/momiji.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/nightfox.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/nightfox.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/nightfox.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/quantum_dark.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/quantum_dark.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/quantum_dark.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/quantum_light.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/quantum_light.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/quantum_light.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/rigel.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/rigel.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/rigel.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/shirotelin.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/shirotelin.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/shirotelin.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/solarized8_light.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/solarized8_light.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/solarized8_light.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/sonokai.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/sonokai.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/sonokai.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/terafox.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/terafox.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/terafox.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/tokyonight.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/tokyonight.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/tokyonight.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/vadelma_dark.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/vadelma_dark.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/vadelma_dark.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/def/vadelma_light.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/vadelma_light.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/def/vadelma_light.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors/select.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/select.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors/select.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/colors.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/colors.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/mappings.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mappings.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mappings.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/mode/ic/map.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode/ic/map.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode/ic/map.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/mode/ic/opt.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode/ic/opt.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode/ic/opt.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/mode/ov/map.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode/ov/map.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode/ov/map.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/mode/t/map.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode/t/map.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode/t/map.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/mode.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/mode.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/nvim/hack.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/nvim/hack.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/nvim/hack.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/nvim/opt.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/nvim/opt.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/nvim/opt.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/nvim/ui_select.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/nvim/ui_select.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/nvim/ui_select.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/on_autocmd/cmd_undefined.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/on_autocmd/cmd_undefined.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/on_autocmd/cmd_undefined.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/on_autocmd/quickfixcmdpost.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/on_autocmd/quickfixcmdpost.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/on_autocmd/quickfixcmdpost.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/on_autocmd.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/on_autocmd.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/on_autocmd.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/opt.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/opt.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/opt.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/vim/bracketed_paste.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/vim/bracketed_paste.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/vim/bracketed_paste.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/vim/compat_uiselect.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/vim/compat_uiselect.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/vim/compat_uiselect.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: conf/rc/vim/opt.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/vim/opt.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/conf/rc/vim/opt.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@ddc-sources/lsnippet.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@ddc-sources/lsnippet.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@ddc-sources/lsnippet.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@ddu-kinds/nixpkgs.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@ddu-kinds/nixpkgs.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@ddu-kinds/nixpkgs.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@ddu-sources/nixpkgs.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@ddu-sources/nixpkgs.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@ddu-sources/nixpkgs.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@lspoints/config.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@lspoints/config.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@lspoints/config.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@vimrc/blocksort.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/blocksort.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/blocksort.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@vimrc/lib/lambda/autocmd.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/lib/lambda/autocmd.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/lib/lambda/autocmd.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@vimrc/lib/lambda/map.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/lib/lambda/map.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/lib/lambda/map.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@vimrc/loader.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/loader.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/loader.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@vimrc/tmux.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/tmux.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/tmux.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: denops/@vimrc/yank.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/yank.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/denops/@vimrc/yank.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: f
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/f
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/f
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: fall/custom.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/fall/custom.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/fall/custom.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: ftplugin/help.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/help.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: ftplugin/nix.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/nix.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/nix.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: ftplugin/qf.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/qf.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/qf.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: ftplugin/toml.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/toml.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/toml.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: ftplugin/vim.vim
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/ftplugin/vim.vim
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: f.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/f.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/f.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: init
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/init
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/init
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: lua/vimrc/conv.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/conv.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/conv.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: lua/vimrc/feat/select_action.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/feat/select_action.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/feat/select_action.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: lua/vimrc/feat/ui_select_fzf.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/feat/ui_select_fzf.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/feat/ui_select_fzf.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: lua/vimrc/plug/skkeleton/tsuki2-263mod.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/plug/skkeleton/tsuki2-263mod.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/plug/skkeleton/tsuki2-263mod.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: lua/vimrc/plug/skkeleton/tsukimod.txt
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/plug/skkeleton/tsukimod.txt
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/plug/skkeleton/tsukimod.txt
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: lua/vimrc/treesitter_hack.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/treesitter_hack.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/treesitter_hack.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: lua/vimrc/ui_select.lua
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/ui_select.lua
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/lua/vimrc/ui_select.lua
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: README.md
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/README.md
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/README.md
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: script/time/time.sh
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/script/time/time.sh
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/script/time/time.sh
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: script/time/time.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/script/time/time.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/script/time/time.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: snippets/markdown.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/markdown.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/markdown.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: snippets/sh.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/sh.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/sh.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: snippets/toml.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/toml.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/toml.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: snippets/typescript.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/typescript.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/typescript.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: snippets/vim.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/vim.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/vim.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: snippets/vim.ts
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/vim.ts
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/snippets/vim.ts
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: stylua.toml
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/stylua.toml
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/stylua.toml
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: t
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/t
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/t
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+    - name: vimrc
+      url: https://github.com/kuuote/dotvim/blob/27f069bc2e21a11d1c71eeb53042da30a27c0b78/vimrc
+      raw_url: https://raw.githubusercontent.com/kuuote/dotvim/27f069bc2e21a11d1c71eeb53042da30a27c0b78/vimrc
+      hash: 27f069bc2e21a11d1c71eeb53042da30a27c0b78
+  part: 中編
+  other: null
+  members:
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$mt-HtNevNWURwhXABbBI3GorRdavTCbdpC1zBFrgRBo
