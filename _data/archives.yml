@@ -64746,3 +64746,581 @@
     - thinca
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$vn_xMSzzDjD4MRvjNCKp2Q6ZESWvACgNOEudzgPibuk
+- id: 674
+  date: 2025-06-07 23:00
+  author:
+    name: yasunori0418
+    url: https://github.com/yasunori0418
+  vimrcs:
+    - name: after/lsp/denols.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/denols.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/denols.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/efm.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/efm.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/efm.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/intelephense.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/intelephense.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/intelephense.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/kotlin_language_server.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/kotlin_language_server.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/kotlin_language_server.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/kotlin_ls.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/kotlin_ls.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/kotlin_ls.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/lua_ls.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/lua_ls.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/lua_ls.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/nixd.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/nixd.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/nixd.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/pyright.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/pyright.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/pyright.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/ts_ls.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/ts_ls.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/ts_ls.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/ts_query_ls.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/ts_query_ls.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/ts_query_ls.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/vtsls.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/vtsls.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/vtsls.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/lsp/yamlls.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/yamlls.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/lsp/yamlls.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/queries/blade/highlights.scm
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/blade/highlights.scm
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/blade/highlights.scm
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/queries/blade/injections.scm
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/blade/injections.scm
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/blade/injections.scm
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/queries/kanata/highlights.scm
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/kanata/highlights.scm
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/kanata/highlights.scm
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/queries/toml/highlights.scm
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/toml/highlights.scm
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/toml/highlights.scm
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: after/queries/toml/injections.scm
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/toml/injections.scm
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/after/queries/toml/injections.scm
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: autoload/user.vim
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/autoload/user.vim
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/autoload/user.vim
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: denops/user/deps.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/denops/user/deps.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/denops/user/deps.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: denops/user/main.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/denops/user/main.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/denops/user/main.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: dpp/config.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/config.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/config.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: dpp/deps.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/deps.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/deps.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: dpp/helper/inlineVimrcs.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/helper/inlineVimrcs.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/helper/inlineVimrcs.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: dpp/helper/lazy.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/helper/lazy.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/helper/lazy.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: dpp/helper/toml.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/helper/toml.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/helper/toml.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: dpp/helper.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/helper.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/dpp/helper.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/aerial.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/aerial.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/aerial.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ccc.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ccc.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ccc.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/cmdline.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/cmdline.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/cmdline.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/codeium.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/codeium.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/codeium.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/csvview.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/csvview.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/csvview.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/dap.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dap.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dap.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/dap_python.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dap_python.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dap_python.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/dap_ui.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dap_ui.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dap_ui.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddc/config.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddc/config.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddc/config.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddc/deps.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddc/deps.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddc/deps.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddc/hook.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddc/hook.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddc/hook.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddu/config.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/config.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/config.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddu/deps.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/deps.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/deps.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddu/ff.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/ff.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/ff.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddu/filer.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/filer.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/filer.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddu/helper.ts
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/helper.ts
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/helper.ts
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ddu/hook.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/hook.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ddu/hook.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/denippet.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/denippet.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/denippet.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/deol.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/deol.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/deol.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/devicons.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/devicons.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/devicons.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/dial.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dial.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dial.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/dppft.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dppft.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/dppft.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/eft.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/eft.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/eft.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/elin.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/elin.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/elin.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/fidget.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/fidget.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/fidget.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/gin.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/gin.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/gin.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/gitsigns.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/gitsigns.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/heirline.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/heirline.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/heirline.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/hlchunk.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/hlchunk.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/hlchunk.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/hooks_file-template.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/hooks_file-template.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/hooks_file-template.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/illuminate.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/illuminate.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/illuminate.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/insx.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/insx.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/insx.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/jsontoml.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/jsontoml.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/jsontoml.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/jsonyaml.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/jsonyaml.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/jsonyaml.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/lightbulb.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/lightbulb.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/lightbulb.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/mason.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/mason.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/mason.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/molder.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/molder.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/molder.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/mr.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/mr.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/mr.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/navic.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/navic.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/navic.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/nightfox.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/nightfox.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/nightfox.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/obsidian.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/obsidian.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/obsidian.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ollama.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ollama.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ollama.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/parinfer-rust.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/parinfer-rust.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/parinfer-rust.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/previm/previm.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/previm/previm.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/previm/previm.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/previm/previm_markdown.css
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/previm/previm_markdown.css
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/previm/previm_markdown.css
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/rainbow_delimiters.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/rainbow_delimiters.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/rainbow_delimiters.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/sandwich.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/sandwich.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/sandwich.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/silicon.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/silicon.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/silicon.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/skkeleton.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/skkeleton.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/skkeleton.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/skkeleton_state_popup.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/skkeleton_state_popup.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/skkeleton_state_popup.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/statusline_skk.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/statusline_skk.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/statusline_skk.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/treesitter.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/treesitter.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ts_textobjects.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ts_textobjects.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ts_textobjects.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/tsnode_marker.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/tsnode_marker.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/tsnode_marker.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/ufo.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ufo.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/ufo.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: hooks/vsnip.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/vsnip.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/hooks/vsnip.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: init.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/init.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/lsp/diagnostic.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/diagnostic.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/diagnostic.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/lsp/init.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/init.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/init.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/lsp/keymaps.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/keymaps.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/lsp/servers/typos_lsp.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/servers/typos_lsp.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/servers/typos_lsp.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/lsp/utils.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/utils.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/lsp/utils.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/ddc/cmdline_completion.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/ddc/cmdline_completion.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/ddc/cmdline_completion.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/ddc/init.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/ddc/init.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/ddc/init.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/ddc/utils.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/ddc/utils.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/ddc/utils.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/ddu.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/ddu.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/ddu.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/efm_configs.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/efm_configs.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/efm_configs.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/gitsigns.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/gitsigns.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/color.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/color.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/color.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/diagnostics.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/diagnostics.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/diagnostics.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/file.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/file.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/file.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/git.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/git.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/git.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/init.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/init.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/init.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/lsp.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/lsp.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/lsp.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/mode.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/mode.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/mode.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/ruler.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/ruler.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/ruler.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/statusline.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/statusline.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/statusline.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/tabline.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/tabline.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/tabline.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/heirline/winbar.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/winbar.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/heirline/winbar.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/insx/helper.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/insx/helper.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/insx/helper.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/insx/pair.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/insx/pair.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/insx/pair.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/insx/quote.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/insx/quote.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/insx/quote.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/molder.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/molder.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/molder.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/plugins/skkeleton.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/skkeleton.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/plugins/skkeleton.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/rc.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/rc.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/rc.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: lua/user/utils.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/utils.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/lua/user/utils.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: rc/autocmds.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/autocmds.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/autocmds.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: rc/commands.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/commands.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/commands.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: rc/digraphs.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/digraphs.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/digraphs.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: rc/keymaps.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/keymaps.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: rc/neovide.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/neovide.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/neovide.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: rc/options.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/options.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/rc/options.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/global.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/global.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/global.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/json.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/json.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/json.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/make.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/make.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/make.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/markdown.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/markdown.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/markdown.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/php.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/php.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/php.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/sh.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/sh.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/sh.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/systemd.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/systemd.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/systemd.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/toml.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/toml.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/toml.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: snippets/vim.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/vim.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/snippets/vim.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: test/lua/user/utils_spec.lua
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/test/lua/user/utils_spec.lua
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/test/lua/user/utils_spec.lua
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/ai.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/ai.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/ai.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/dap.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/dap.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/dap.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/ddc.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/ddc.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/ddc.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/ddu.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/ddu.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/ddu.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/denops.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/denops.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/denops.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/dpp.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/dpp.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/dpp.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/filetype.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/filetype.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/filetype.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/git.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/git.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/git.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/lazy.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/lazy.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/lazy.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/lsp.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/lsp.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/lsp.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/no_lazy.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/no_lazy.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/no_lazy.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/tools.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/tools.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/tools.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+    - name: toml/treesitter.toml
+      url: https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/treesitter.toml
+      raw_url: https://raw.githubusercontent.com/yasunori0418/dotfiles/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/treesitter.toml
+      hash: fa44176a9804b145bb1cc077cf8867b44612693a
+  part: 前編
+  other: null
+  members:
+    - Omochice
+    - kuuote
+    - thinca
+    - yasunori
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$a6NYV6RM58u_j9_Doxe8SPbLyLL1bh-X2-W3zIAgAJ8
