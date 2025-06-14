@@ -1,5 +1,5 @@
-- id: 675
-  date: 2025-06-14 23:00
+- id: 676
+  date: 2025-06-21 23:00
   author:
     name: yasunori0418
     url: https://github.com/yasunori0418
@@ -568,5 +568,5 @@
         https://github.com/yasunori0418/dotfiles/blob/fa44176a9804b145bb1cc077cf8867b44612693a/home/.config/nvim/toml/treesitter.toml
       hash: fa44176a9804b145bb1cc077cf8867b44612693a
       name: toml/treesitter.toml
-  part: 中編
+  part: 後編
   other: null
