@@ -66842,3 +66842,137 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$zG06IMjpDvHpO6FMAa84ZDtHTLi_Gh2Q4XtlMymPxbk
+- id: 679
+  date: 2025-07-12 23:00
+  author:
+    name: get-me-power
+    url: https://github.com/get-me-power
+  vimrcs:
+    - name: after/ftplugin/cs.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/cs.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/cs.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: after/ftplugin/gina-commit.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/gina-commit.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/gina-commit.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: after/ftplugin/gitcommit.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/gitcommit.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/gitcommit.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: after/ftplugin/go.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/go.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/go.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: after/ftplugin/markdown.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/markdown.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: after/ftplugin/python.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/python.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/python.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: after/ftplugin/vimspec.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/vimspec.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/vimspec.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: after/ftplugin/vim.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/after/ftplugin/vim.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: bin/linux_build.sh
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/bin/linux_build.sh
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/bin/linux_build.sh
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: bin/mac_build.sh
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/bin/mac_build.sh
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/bin/mac_build.sh
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: dict/git-commit
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/dict/git-commit
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/dict/git-commit
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: minpac.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/minpac.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/minpac.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/airline.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/airline.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/airline.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/autofmt.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/autofmt.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/autofmt.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/caw.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/caw.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/caw.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/devicons.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/devicons.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/devicons.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/fzf.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/fzf.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/fzf.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/gina.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/gina.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/gina.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/lsp.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/lsp.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/lsp.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/omnisharp.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/omnisharp.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/omnisharp.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/openbrowser.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/openbrowser.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/openbrowser.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/palette.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/palette.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/palette.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/polyglot.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/polyglot.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/polyglot.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/previm.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/previm.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/previm.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/quickrun.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/quickrun.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/quickrun.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/ref.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/ref.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/ref.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/termdebug.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/termdebug.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/termdebug.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: plugin.d/vaffle.vim
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/vaffle.vim
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/plugin.d/vaffle.vim
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: vimrc
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/vimrc
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/vimrc
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+    - name: vimrc.min
+      url: https://github.com/get-me-power/dotvim/blob/1c52b5ca243991161a1816adb499d2af80c769fb/vimrc.min
+      raw_url: https://raw.githubusercontent.com/get-me-power/dotvim/1c52b5ca243991161a1816adb499d2af80c769fb/vimrc.min
+      hash: 1c52b5ca243991161a1816adb499d2af80c769fb
+  part: null
+  other: null
+  members:
+    - NI57721
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$7K2_DHfacToWzkWPcfc7mAk9vNmSP3-H2v_ZV33P_60
