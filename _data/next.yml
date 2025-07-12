@@ -1,176 +1,107 @@
-- id: 678
-  date: 2025-07-05 23:00
+- id: 679
+  date: 2025-07-12 23:00
   author:
-    name: Kuniwak
-    url: https://github.com/Kuniwak
+    name: get-me-power
+    url: https://github.com/get-me-power
   vimrcs:
+    - url: https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/cs.vim
+      hash: null
+      name: after/ftplugin/cs.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.gvimrc
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .gvimrc
+        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/gina-commit.vim
+      hash: null
+      name: after/ftplugin/gina-commit.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.ideavimrc
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .ideavimrc
+        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/gitcommit.vim
+      hash: null
+      name: after/ftplugin/gitcommit.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/go.vim
+      hash: null
+      name: after/ftplugin/go.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/bash.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/bash.vim
+        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/markdown.vim
+      hash: null
+      name: after/ftplugin/markdown.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/coffee.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/coffee.vim
+        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/python.vim
+      hash: null
+      name: after/ftplugin/python.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/d.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/d.vim
+        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/vimspec.vim
+      hash: null
+      name: after/ftplugin/vimspec.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/groovy.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/groovy.vim
+        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/vim.vim
+      hash: null
+      name: after/ftplugin/vim.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/bin/linux_build.sh
+      hash: null
+      name: bin/linux_build.sh
+    - url: https://github.com/get-me-power/dotvim/blob/master/bin/mac_build.sh
+      hash: null
+      name: bin/mac_build.sh
+    - url: https://github.com/get-me-power/dotvim/blob/master/dict/git-commit
+      hash: null
+      name: dict/git-commit
+    - url: https://github.com/get-me-power/dotvim/blob/master/minpac.vim
+      hash: null
+      name: minpac.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/airline.vim
+      hash: null
+      name: plugin.d/airline.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/autofmt.vim
+      hash: null
+      name: plugin.d/autofmt.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/caw.vim
+      hash: null
+      name: plugin.d/caw.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/devicons.vim
+      hash: null
+      name: plugin.d/devicons.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/fzf.vim
+      hash: null
+      name: plugin.d/fzf.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/gina.vim
+      hash: null
+      name: plugin.d/gina.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/lsp.vim
+      hash: null
+      name: plugin.d/lsp.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/haskell.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/haskell.vim
+        https://github.com/get-me-power/dotvim/blob/master/plugin.d/omnisharp.vim
+      hash: null
+      name: plugin.d/omnisharp.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/html.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/html.vim
+        https://github.com/get-me-power/dotvim/blob/master/plugin.d/openbrowser.vim
+      hash: null
+      name: plugin.d/openbrowser.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/palette.vim
+      hash: null
+      name: plugin.d/palette.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/polyglot.vim
+      hash: null
+      name: plugin.d/polyglot.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/previm.vim
+      hash: null
+      name: plugin.d/previm.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/quickrun.vim
+      hash: null
+      name: plugin.d/quickrun.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/ref.vim
+      hash: null
+      name: plugin.d/ref.vim
     - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/javascript.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/javascript.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/java.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/java.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/json.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/json.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/less.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/less.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/markdown.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/markdown.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/perl.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/perl.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/python.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/python.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/qf.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/qf.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/ruby.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/ruby.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/swift.swift-package-manager.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/swift.swift-package-manager.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/swift.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/swift.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/tsv.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/tsv.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/ftplugin/typescript.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/ftplugin/typescript.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/after/python.vim
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/after/python.vim
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vimrc
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vimrc
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vimrc.bundle
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vimrc.bundle
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/coffee.mocha.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/coffee.mocha.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/dockerfile.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/dockerfile.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/javascript.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/javascript.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/perl.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/perl.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/promela.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/promela.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/python.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/python.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/ruby.rspec.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/ruby.rspec.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/sh.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/sh.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/swift.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/swift.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/typescript.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/typescript.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/snippets/zsh.snip
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/snippets/zsh.snip
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/splashes/js_op_priority.txt
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/splashes/js_op_priority.txt
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/splashes/profile.txt
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/splashes/profile.txt
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/splashes/profile_white.txt
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/splashes/profile_white.txt
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/splashes/pull_request_manner.markdown
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/splashes/pull_request_manner.markdown
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/splashes/start_allyourbase.txt
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/splashes/start_allyourbase.txt
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.vim/splashes/start.txt
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .vim/splashes/start.txt
-    - url: >-
-        https://github.com/Kuniwak/dotfiles/blob/9ff6b11bdb2437ec7349c1659320b530ab7b4508/.xvimrc
-      hash: 9ff6b11bdb2437ec7349c1659320b530ab7b4508
-      name: .xvimrc
-  part: 後編
+        https://github.com/get-me-power/dotvim/blob/master/plugin.d/termdebug.vim
+      hash: null
+      name: plugin.d/termdebug.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/vaffle.vim
+      hash: null
+      name: plugin.d/vaffle.vim
+    - url: https://github.com/get-me-power/dotvim/blob/master/vimrc
+      hash: null
+      name: vimrc
+    - url: https://github.com/get-me-power/dotvim/blob/master/vimrc.min
+      hash: null
+      name: vimrc.min
+  part: null
   other: null
