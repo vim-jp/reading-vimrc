@@ -1,107 +1,11 @@
-- id: 679
-  date: 2025-07-12 23:00
+- id: 680
+  date: 2025-07-19 23:00
   author:
-    name: get-me-power
-    url: https://github.com/get-me-power
+    name: satorunooshie
+    url: https://github.com/satorunooshie
   vimrcs:
-    - url: https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/cs.vim
+    - url: https://github.com/satorunooshie/dotfiles/blob/main/.vimrc
       hash: null
-      name: after/ftplugin/cs.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/gina-commit.vim
-      hash: null
-      name: after/ftplugin/gina-commit.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/gitcommit.vim
-      hash: null
-      name: after/ftplugin/gitcommit.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/go.vim
-      hash: null
-      name: after/ftplugin/go.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/markdown.vim
-      hash: null
-      name: after/ftplugin/markdown.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/python.vim
-      hash: null
-      name: after/ftplugin/python.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/vimspec.vim
-      hash: null
-      name: after/ftplugin/vimspec.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/after/ftplugin/vim.vim
-      hash: null
-      name: after/ftplugin/vim.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/bin/linux_build.sh
-      hash: null
-      name: bin/linux_build.sh
-    - url: https://github.com/get-me-power/dotvim/blob/master/bin/mac_build.sh
-      hash: null
-      name: bin/mac_build.sh
-    - url: https://github.com/get-me-power/dotvim/blob/master/dict/git-commit
-      hash: null
-      name: dict/git-commit
-    - url: https://github.com/get-me-power/dotvim/blob/master/minpac.vim
-      hash: null
-      name: minpac.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/airline.vim
-      hash: null
-      name: plugin.d/airline.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/autofmt.vim
-      hash: null
-      name: plugin.d/autofmt.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/caw.vim
-      hash: null
-      name: plugin.d/caw.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/devicons.vim
-      hash: null
-      name: plugin.d/devicons.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/fzf.vim
-      hash: null
-      name: plugin.d/fzf.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/gina.vim
-      hash: null
-      name: plugin.d/gina.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/lsp.vim
-      hash: null
-      name: plugin.d/lsp.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/plugin.d/omnisharp.vim
-      hash: null
-      name: plugin.d/omnisharp.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/plugin.d/openbrowser.vim
-      hash: null
-      name: plugin.d/openbrowser.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/palette.vim
-      hash: null
-      name: plugin.d/palette.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/polyglot.vim
-      hash: null
-      name: plugin.d/polyglot.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/previm.vim
-      hash: null
-      name: plugin.d/previm.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/quickrun.vim
-      hash: null
-      name: plugin.d/quickrun.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/ref.vim
-      hash: null
-      name: plugin.d/ref.vim
-    - url: >-
-        https://github.com/get-me-power/dotvim/blob/master/plugin.d/termdebug.vim
-      hash: null
-      name: plugin.d/termdebug.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/plugin.d/vaffle.vim
-      hash: null
-      name: plugin.d/vaffle.vim
-    - url: https://github.com/get-me-power/dotvim/blob/master/vimrc
-      hash: null
-      name: vimrc
-    - url: https://github.com/get-me-power/dotvim/blob/master/vimrc.min
-      hash: null
-      name: vimrc.min
+      name: .vimrc
   part: null
   other: null
