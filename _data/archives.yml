@@ -66976,3 +66976,21 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$7K2_DHfacToWzkWPcfc7mAk9vNmSP3-H2v_ZV33P_60
+- id: 680
+  date: 2025-07-19 23:00
+  author:
+    name: satorunooshie
+    url: https://github.com/satorunooshie
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/satorunooshie/dotfiles/blob/604f28d52164880fae140c93748499b86f086cb5/.vimrc
+      raw_url: https://raw.githubusercontent.com/satorunooshie/dotfiles/604f28d52164880fae140c93748499b86f086cb5/.vimrc
+      hash: 604f28d52164880fae140c93748499b86f086cb5
+  part: null
+  other: null
+  members:
+    - Omochice
+    - atusy
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$_CGnlnu2oGJilOM-QksRwtVgPQBO8xygUhr2zuSgL2M
