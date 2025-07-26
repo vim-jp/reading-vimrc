@@ -66994,3 +66994,58 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$_CGnlnu2oGJilOM-QksRwtVgPQBO8xygUhr2zuSgL2M
+- id: 681
+  date: 2025-07-26 23:00
+  author:
+    name: Hakkadaikon
+    url: https://github.com/Hakkadaikon
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.vimrc
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.vimrc
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/init.vim
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/init.vim
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/lib/osc52.vim
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lib/osc52.vim
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lib/osc52.vim
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/lua/my/colorscheme.lua
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/colorscheme.lua
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/colorscheme.lua
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/lua/my/common.lua
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/common.lua
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/common.lua
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/lua/my/init.lua
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/init.lua
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/init.lua
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/lua/my/keymap.lua
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/keymap.lua
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/keymap.lua
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/lua/my/lazy.lua
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/lazy.lua
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/lazy.lua
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/lua/my/lsp.lua
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/lsp.lua
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/lsp.lua
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+    - name: .config/nvim/lua/my/tabstop.lua
+      url: https://github.com/Hakkadaikon/dotfiles/blob/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/tabstop.lua
+      raw_url: https://raw.githubusercontent.com/Hakkadaikon/dotfiles/bce035631328521365a17ddf7acd86cab09c023a/home/.config/nvim/lua/my/tabstop.lua
+      hash: bce035631328521365a17ddf7acd86cab09c023a
+  part: null
+  other: null
+  members:
+    - Hakkadaikon
+    - Omochice
+    - gw31415 (Amadeus_vn)
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$01Q-qAcuTiZheU3J1j949AMhcSoA_g6dnkYpLuPqkQs
