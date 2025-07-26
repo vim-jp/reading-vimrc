@@ -1,11 +1,47 @@
-- id: 680
-  date: 2025-07-19 23:00
+- id: 681
+  date: 2025-07-26 23:00
   author:
-    name: satorunooshie
-    url: https://github.com/satorunooshie
+    name: Hakkadaikon
+    url: https://github.com/Hakkadaikon
   vimrcs:
-    - url: https://github.com/satorunooshie/dotfiles/blob/main/.vimrc
+    - url: https://github.com/Hakkadaikon/dotfiles/blob/master/home/.vimrc
       hash: null
       name: .vimrc
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/init.vim
+      hash: null
+      name: .config/nvim/init.vim
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/lib/osc52.vim
+      hash: null
+      name: .config/nvim/lib/osc52.vim
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/lua/my/colorscheme.lua
+      hash: null
+      name: .config/nvim/lua/my/colorscheme.lua
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/lua/my/common.lua
+      hash: null
+      name: .config/nvim/lua/my/common.lua
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/lua/my/init.lua
+      hash: null
+      name: .config/nvim/lua/my/init.lua
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/lua/my/keymap.lua
+      hash: null
+      name: .config/nvim/lua/my/keymap.lua
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/lua/my/lazy.lua
+      hash: null
+      name: .config/nvim/lua/my/lazy.lua
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/lua/my/lsp.lua
+      hash: null
+      name: .config/nvim/lua/my/lsp.lua
+    - url: >-
+        https://github.com/Hakkadaikon/dotfiles/blob/master/home/.config/nvim/lua/my/tabstop.lua
+      hash: null
+      name: .config/nvim/lua/my/tabstop.lua
   part: null
   other: null
