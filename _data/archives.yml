@@ -67524,8 +67524,8 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$u6_2aiTZZfCER0Yk-H3etnlprpoPCGUIvVrDfNn6pEY
-- id: 682
-  date: 2025-08-02 23:00
+- id: 683
+  date: 2025-08-09 23:00
   author:
     name: Omochice
     url: https://github.com/Omochice
@@ -67990,7 +67990,7 @@
       url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/vimrc.core
       raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/vimrc.core
       hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
-  part: 前編
+  part: 中編
   other: null
   members:
     - Omochice
