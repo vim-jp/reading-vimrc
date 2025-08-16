@@ -67998,3 +67998,479 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$x4nqLP3SCOvjuqYbB0SVuiZ0Cthm3L-yRxXApcaRdWQ
+- id: 683
+  date: 2025-08-09 23:00
+  author:
+    name: Omochice
+    url: https://github.com/Omochice
+  vimrcs:
+    - name: after/ftplugin/gitcommit.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/ftplugin/gitcommit.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/ftplugin/gitcommit.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: after/lsp/denols.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/denols.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/denols.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: after/lsp/lua_ls.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/lua_ls.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/lua_ls.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: after/lsp/nixd.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/nixd.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/nixd.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: after/lsp/taplo.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/taplo.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/taplo.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: after/lsp/ts_ls.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/ts_ls.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/ts_ls.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: after/lsp/yamlls.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/yamlls.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/yamlls.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: after/lsp/zk.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/zk.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/after/lsp/zk.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: autoload/myvimrc/fcitx.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/myvimrc/fcitx.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/myvimrc/fcitx.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: autoload/myvimrc/util.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/myvimrc/util.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/myvimrc/util.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: autoload/myvimrc/zenhan.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/myvimrc/zenhan.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/myvimrc/zenhan.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: autoload/omochice/checkbox.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/omochice/checkbox.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/omochice/checkbox.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: autoload/omochice/listitem.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/omochice/listitem.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/autoload/omochice/listitem.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: default.nix
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/default.nix
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/default.nix
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: ftdetect/tofu.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/ftdetect/tofu.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/ftdetect/tofu.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: ftdetect/yaml.gitlab.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/ftdetect/yaml.gitlab.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/ftdetect/yaml.gitlab.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: init.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/init.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/init.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: lua/vimrc/lsp-helper.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/lua/vimrc/lsp-helper.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/lua/vimrc/lsp-helper.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: plugin/omochice/clipboard.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/plugin/omochice/clipboard.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/plugin/omochice/clipboard.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: postfix/go.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/postfix/go.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/postfix/go.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: postfix/javascript.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/postfix/javascript.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/postfix/javascript.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: postfix/lua.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/postfix/lua.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/postfix/lua.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: postfix/vim.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/postfix/vim.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/postfix/vim.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/colorscheme.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/colorscheme.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/colorscheme.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/ddc.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ddc.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ddc.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/ddu.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ddu.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ddu.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/denops.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/denops.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/denops.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/disable_plugin.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/disable_plugin.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/disable_plugin.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/dpp.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/dpp.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/dpp.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/eta/review.eta
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/eta/review.eta
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/eta/review.eta
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/capture.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/capture.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/capture.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/ccc.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ccc.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ccc.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/contextment.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/contextment.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/contextment.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/ddc.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ddc.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ddc.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/ddc-previewer-floating.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ddc-previewer-floating.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ddc-previewer-floating.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/ddu.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ddu.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ddu.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/ddu-ui-ff.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ddu-ui-ff.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ddu-ui-ff.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/dial.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/dial.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/dial.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/eft.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/eft.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/eft.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/emmet.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/emmet.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/emmet.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/fern.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/fern.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/fern.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/ft.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ft.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/ft.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/gin.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/gin.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/gin.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/gitsigns.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/gitsigns.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/hlchunk.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/hlchunk.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/hlchunk.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/lexima.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/lexima.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/lexima.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/lightline.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/lightline.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/lightline.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/lspconfig.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/lspconfig.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/noice.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/noice.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/noice.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/nvim-navic.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/nvim-navic.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/nvim-navic.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/nvim-notify.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/nvim-notify.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/nvim-notify.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/oil.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/oil.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/oil.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/parrot.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/parrot.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/parrot.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/pum.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/pum.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/pum.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/quickrun.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/quickrun.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/quickrun.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/sandwich.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/sandwich.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/sandwich.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/searchx.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/searchx.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/searchx.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/skkeleton.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/skkeleton.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/skkeleton.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/tataku.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/tataku.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/tataku.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/tataku.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/tataku.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/tataku.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/toy-postfix.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/toy-postfix.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/toy-postfix.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/treesitter.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/treesitter.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/vim-lsp.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/vim-lsp.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/vim-lsp.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/vim-lsp.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/vim-lsp.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/vim-lsp.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/hooks/vsnip.lua
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/vsnip.lua
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/hooks/vsnip.lua
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/lazy.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/lazy.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/lazy.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/non-lazy.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/non-lazy.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/non-lazy.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/tataku.toml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/tataku.toml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/tataku.toml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/ts/ddc.ts
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ts/ddc.ts
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ts/ddc.ts
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/ts/ddu.ts
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ts/ddu.ts
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ts/ddu.ts
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/ts/dpp.ts
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ts/dpp.ts
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/ts/dpp.ts
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: rc/vimrc
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/vimrc
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/rc/vimrc
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/applescript.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/applescript.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/applescript.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/c.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/c.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/c.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/fortran.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/fortran.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/fortran.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/gitcommit.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/gitcommit.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/gitcommit.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/go.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/go.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/go.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/help.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/help.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/help.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/html.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/html.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/html.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/java.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/java.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/java.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/json.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/json.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/json.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/markdown.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/markdown.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/markdown.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/objc.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/objc.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/objc.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/pod.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/pod.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/pod.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/python.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/python.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/python.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/ruby.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/ruby.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/ruby.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/sh.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/sh.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/sh.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/tex.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/tex.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/tex.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/typescript.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/typescript.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/typescript.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/vim.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/vim.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/vim.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: snippets/vue.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/vue.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/snippets/vue.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/_/file-LICENSE-cc-by.txt
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/_/file-LICENSE-cc-by.txt
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/_/file-LICENSE-cc-by.txt
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/_/file-WTFPL.txt
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/_/file-WTFPL.txt
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/_/file-WTFPL.txt
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/json5/base-renovate.json5
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/json5/base-renovate.json5
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/json5/base-renovate.json5
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/json/base-biome.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/json/base-biome.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/json/base-biome.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/jsonc/base-deno.jsonc
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/jsonc/base-deno.jsonc
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/jsonc/base-deno.jsonc
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/jsonc/base-tsconfig.json
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/jsonc/base-tsconfig.json
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/jsonc/base-tsconfig.json
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/markdown/base-pull-request.md
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/markdown/base-pull-request.md
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/markdown/base-pull-request.md
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/oil/base-deno.oil
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/oil/base-deno.oil
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/oil/base-deno.oil
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/oil/base-denops.oil
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/oil/base-denops.oil
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/oil/base-denops.oil
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/oil/base-golang.oil
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/oil/base-golang.oil
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/oil/base-golang.oil
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/oil/base-lua-plugin.oil
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/oil/base-lua-plugin.oil
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/oil/base-lua-plugin.oil
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/plantuml/base-activity.pu
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/plantuml/base-activity.pu
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/plantuml/base-activity.pu
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/plantuml/base-sequence.pu
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/plantuml/base-sequence.pu
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/plantuml/base-sequence.pu
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/plantuml/base-state.pu
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/plantuml/base-state.pu
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/plantuml/base-state.pu
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/typescript/base-cliffy.ts
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/typescript/base-cliffy.ts
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/typescript/base-cliffy.ts
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/typescript/base-denops.ts
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/typescript/base-denops.ts
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/typescript/base-denops.ts
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/typescript/base-denotest.ts
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/typescript/base-denotest.ts
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/typescript/base-denotest.ts
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/typescript/base-vitest.ts
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/typescript/base-vitest.ts
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/typescript/base-vitest.ts
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/vim/snip-themis.vim
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/vim/snip-themis.vim
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/vim/snip-themis.vim
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/vue/base-component-setup.vue
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/vue/base-component-setup.vue
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/vue/base-component-setup.vue
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/yaml/base-lefthook.yaml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/yaml/base-lefthook.yaml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/yaml/base-lefthook.yaml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: templates/yaml/base-taskfile.yml
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/yaml/base-taskfile.yml
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/templates/yaml/base-taskfile.yml
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: vimrc
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/vimrc
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/vimrc
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+    - name: vimrc.core
+      url: https://github.com/Omochice/dotfiles/blob/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/vimrc.core
+      raw_url: https://raw.githubusercontent.com/Omochice/dotfiles/e3ffed1df8985b328468b7dd73b0bac1a775639d/config/nvim/vimrc.core
+      hash: e3ffed1df8985b328468b7dd73b0bac1a775639d
+  part: 後編
+  other: null
+  members:
+    - Hakkadaikon
+    - NI57721
+    - Omochice
+    - kuuote
+    - s3-odara
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$KaFAXe-QIjbaSgSxAG__EqV1LGqfuBMpR_cu_buoSjY
