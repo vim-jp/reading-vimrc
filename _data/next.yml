@@ -1,5 +1,5 @@
-- id: 686
-  date: 2025-08-30 23:00
+- id: 687
+  date: 2025-09-06 23:00
   author:
     name: kyoh86
     url: https://github.com/kyoh86
@@ -1000,5 +1000,5 @@
         https://github.com/kyoh86/dotfiles/blob/59bc4cb1d92c6424097b796966b590c2ba24156e/nvim/vsnip/yaml.json
       hash: 59bc4cb1d92c6424097b796966b590c2ba24156e
       name: vsnip/yaml.json
-  part: 中編
+  part: 後編
   other: null
