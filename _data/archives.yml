@@ -71506,3 +71506,85 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$pxWGOGOLVr-YImu6FMZ3B47wctX_pXOR4XB_qQ3mH6s
+- id: 688
+  date: 2025-09-13 23:00
+  author:
+    name: gen740
+    url: https://github.com/gen740
+  vimrcs:
+    - name: ftplugin/netrw.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/ftplugin/netrw.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/ftplugin/netrw.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: ftplugin/nix.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/ftplugin/nix.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/ftplugin/nix.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: ftplugin/qf.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/ftplugin/qf.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/ftplugin/qf.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: init.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/init.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/biome.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/biome.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/biome.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/clangd.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/clangd.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/clangd.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/cmake.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/cmake.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/cmake.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/copilot.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/copilot.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/copilot.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/cssls.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/cssls.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/cssls.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/htmlls.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/htmlls.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/htmlls.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/jsonls.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/jsonls.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/jsonls.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/lua_ls.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/lua_ls.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/lua_ls.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/nixd.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/nixd.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/nixd.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/pyright.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/pyright.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/pyright.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/ruff.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/ruff.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/ruff.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/vtsls.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/vtsls.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/vtsls.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+    - name: lsp/yamlls.lua
+      url: https://github.com/gen740/my-nix-conf/blob/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/yamlls.lua
+      raw_url: https://raw.githubusercontent.com/gen740/my-nix-conf/bdb2778a79dc603f1de4845e7605ee8c7428b751/home-manager/nvim/lsp/yamlls.lua
+      hash: bdb2778a79dc603f1de4845e7605ee8c7428b751
+  part: null
+  other: null
+  members:
+    - Omochice
+    - gen740 (Gen)
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$A3VRGKRcjFzRC5bmFQQ3TbQcviN31yA6vvGP1WVup3U
