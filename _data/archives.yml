@@ -71588,3 +71588,653 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$A3VRGKRcjFzRC5bmFQQ3TbQcviN31yA6vvGP1WVup3U
+- id: 689
+  date: 2025-09-20 23:00
+  author:
+    name: monaqa
+    url: https://github.com/monaqa
+  vimrcs:
+    - name: snippets/lua.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/lua.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/lua.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: snippets/global.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/global.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/global.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: snippets/typst.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/typst.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/typst.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: snippets/lilypond.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/lilypond.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/lilypond.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: snippets/svelte.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/svelte.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/snippets/svelte.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: init.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/init.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: coc-settings.json
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/coc-settings.json
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/toml/aerial.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/toml/aerial.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/toml/aerial.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/nu/indents.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/nu/indents.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/nu/indents.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/nu/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/nu/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/nu/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/python/folds.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/python/folds.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/python/folds.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/markdown/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/markdown/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/markdown/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/typst/indents.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/indents.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/indents.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/typst/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/typst/folds.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/folds.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/folds.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/typst/aerial.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/aerial.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/aerial.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/typst/clipping.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/clipping.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/clipping.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/typst/injections.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/injections.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/typst/injections.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/lua/folds.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/lua/folds.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/lua/folds.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/lua/aerial.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/lua/aerial.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/lua/aerial.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/bash/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/bash/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/bash/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/markdown_inline/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/markdown_inline/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/markdown_inline/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/gitcommit/injections.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/gitcommit/injections.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/gitcommit/injections.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/c/aerial.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/c/aerial.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/c/aerial.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/koka/indents.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/koka/indents.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/koka/indents.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: queries/koka/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/koka/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/queries/koka/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/rust_analyzer.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/rust_analyzer.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/rust_analyzer.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/lua_ls.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/lua_ls.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/lua_ls.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/jsonls.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/jsonls.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/jsonls.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/tinymist.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/tinymist.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/tinymist.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/tombi.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/tombi.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/tombi.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/ruff.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/ruff.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/ruff.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/pyright.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/pyright.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/pyright.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/ts_ls.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/ts_ls.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/ts_ls.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/deno.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/deno.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/deno.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/yamlls.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/yamlls.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/yamlls.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lsp/svelte.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/svelte.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lsp/svelte.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/textedit.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/textedit.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/textedit.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/git.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/git.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/git.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/telescope.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/telescope.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/filer.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/filer.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/filer.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/coc.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/coc.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/coc.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/layout.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/layout.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/layout.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/denops.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/denops.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/denops.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/monaqa.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/monaqa.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/monaqa.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/paren.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/paren.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/paren.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/treesitter.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/treesitter.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/ai.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/ai.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/ai.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/misc.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/misc.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/misc.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/filetype.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/filetype.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/filetype.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/plugins/nvim_lsp.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/nvim_lsp.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/plugins/nvim_lsp.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/str.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/str.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/str.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/shorthand.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/shorthand.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/shorthand.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/cabbr.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/cabbr.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/cabbr.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/lsp.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/lsp.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/lsp.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/window.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/window.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/window.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/tree.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/tree.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/tree.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/edit.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/edit.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/edit.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/logic.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/logic.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/logic.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa/snippet.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/snippet.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa/snippet.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/monaqa.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/monaqa.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/lilypond.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/lilypond.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/lilypond.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/obsidian.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/obsidian.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/obsidian.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/util/vec.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/util/vec.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/util/vec.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/clipboard.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/clipboard.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/clipboard.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/keymap.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/keymap.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/keymap.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/option.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/option.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/option.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/submode.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/submode.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/submode.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/command.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/command.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/command.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/types.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/types.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/types.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/util.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/util.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/util.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/abbr.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/abbr.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/abbr.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/filetype.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/filetype.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/filetype.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/autocmd.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/autocmd.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/autocmd.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/lazy.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/lazy.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/lazy.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lua/rc/nvim_lsp.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/nvim_lsp.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lua/rc/nvim_lsp.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: lazy-lock.json
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lazy-lock.json
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/lazy-lock.json
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: README.md
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/README.md
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/README.md
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/oil.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/oil.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/oil.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/tex.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/tex.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/tex.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/lua.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/lua.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/lua.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/markdown.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/markdown.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/markdown.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/tsv.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/tsv.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/tsv.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/vim.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/vim.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/vim.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/kdl.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/kdl.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/kdl.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/typst.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/typst.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/typst.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/lilypond.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/lilypond.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/lilypond.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/git.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/git.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/git.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/python.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/python.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/python.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/rst.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/rst.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/rst.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/obsidian.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/obsidian.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/obsidian.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/applescript.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/applescript.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/applescript.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/diff.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/diff.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/diff.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/json.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/json.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/json.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/cpp.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/cpp.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/cpp.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/satysfi_v0_1_0.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/satysfi_v0_1_0.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/satysfi_v0_1_0.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/nim.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/nim.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/nim.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/rust.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/rust.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/rust.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/mermaid.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/mermaid.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/mermaid.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/xml.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/xml.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/xml.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/norg.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/norg.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/norg.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/javascript.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/javascript.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/javascript.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/typescriptreact.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/typescriptreact.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/typescriptreact.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/go.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/go.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/go.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/satysfi.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/satysfi.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/satysfi.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/help.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/help.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/help.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/html.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/html.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/html.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/qf.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/qf.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/qf.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/todome.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/todome.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/todome.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/astro.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/astro.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/astro.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/yaml.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/yaml.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/yaml.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/toml.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/toml.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/toml.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/c.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/c.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/c.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/typescript.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/typescript.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/typescript.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/gina-commit.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/gina-commit.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/gina-commit.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/css.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/css.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/css.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/julia.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/julia.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/julia.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/svelte.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/svelte.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/svelte.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/vhs.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/vhs.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/vhs.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/ftplugin/fish.lua
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/fish.lua
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/ftplugin/fish.lua
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/norg/indents.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/norg/indents.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/norg/indents.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/norg/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/norg/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/norg/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/norg/clipping.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/norg/clipping.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/norg/clipping.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/vim/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/vim/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/vim/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi_v0_1_0/indents.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi_v0_1_0/indents.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi_v0_1_0/indents.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi_v0_1_0/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi_v0_1_0/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi_v0_1_0/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/todome/aerial.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/todome/aerial.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/todome/aerial.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/nu/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/nu/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/nu/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/python/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/python/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/python/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/denops_gitter/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/denops_gitter/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/denops_gitter/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/denops_gitter/injections.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/denops_gitter/injections.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/denops_gitter/injections.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/org/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/org/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/org/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/markdown/injections.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/markdown/injections.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/markdown/injections.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/rust/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/rust/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/rust/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/rust/injections.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/rust/injections.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/rust/injections.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/typst/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/typst/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/typst/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/lua/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/lua/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/lua/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/lua/aerial.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/lua/aerial.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/lua/aerial.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/lilypond/indents.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/lilypond/indents.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/lilypond/indents.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/lilypond/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/lilypond/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/lilypond/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/jsonl/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/jsonl/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/jsonl/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi/indents.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi/indents.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi/indents.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi/matchup.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi/matchup.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi/matchup.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi_new/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi_new/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi_new/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi-v0_0_x/indents.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi-v0_0_x/indents.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi-v0_0_x/indents.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi-v0_0_x/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi-v0_0_x/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi-v0_0_x/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/satysfi-v0_0_x/matchup.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi-v0_0_x/matchup.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/satysfi-v0_0_x/matchup.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/unifieddiff/highlights.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/unifieddiff/highlights.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/unifieddiff/highlights.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/unifieddiff/folds.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/unifieddiff/folds.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/unifieddiff/folds.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: after/queries/unifieddiff/aerial.scm
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/unifieddiff/aerial.scm
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/after/queries/unifieddiff/aerial.scm
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: resource/markdown.css
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/resource/markdown.css
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/resource/markdown.css
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: resource/monaqa.txt
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/resource/monaqa.txt
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/resource/monaqa.txt
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: resource/github-markdown-light.css
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/resource/github-markdown-light.css
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/resource/github-markdown-light.css
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: resource/save_clipboard_image.applescript
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/resource/save_clipboard_image.applescript
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/resource/save_clipboard_image.applescript
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: syntax/nim.vim
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/syntax/nim.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/syntax/nim.vim
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: syntax/todo6.vim
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/syntax/todo6.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/syntax/todo6.vim
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+    - name: syntax/fish.vim
+      url: https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/syntax/fish.vim
+      raw_url: https://raw.githubusercontent.com/monaqa/dotfiles/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/syntax/fish.vim
+      hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
+  part: 前編
+  other: null
+  members:
+    - Hakkadaikon
+    - NI57721
+    - Omochice
+    - hokorobi (@hokorobi-572dfb6bc43b8c601971a473:gitter.im)
+    - kuuote
+    - monaqa (monaqa)
+    - satler
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$9fqlCuDK3qOOqYM7WBG_aHL8I-RPavjgj3OkLkzXeOw
