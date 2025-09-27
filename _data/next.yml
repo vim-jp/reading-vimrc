@@ -1,5 +1,5 @@
-- id: 690
-  date: 2025-09-27 23:00
+- id: 691
+  date: 2025-10-04 23:00
   author:
     name: monaqa
     url: https://github.com/monaqa
@@ -636,5 +636,5 @@
         https://github.com/monaqa/dotfiles/blob/6072f31d1d2ee395be22b46c837d9c0710ae12b8/.config/nvim/syntax/fish.vim
       hash: 6072f31d1d2ee395be22b46c837d9c0710ae12b8
       name: syntax/fish.vim
-  part: 中編
+  part: 後編
   other: null
