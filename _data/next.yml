@@ -1,14 +1,16 @@
-- id: 692
-  date: 2025-10-11 23:00
+- id: 693
+  date: 2025-10-18 23:00
   author:
     name: kennypete
     url: https://github.com/kennypete
   vimrcs:
-    - url: https://github.com/kennypete/.vimrc/blob/main/.vimrc
-      hash: null
+    - url: >-
+        https://github.com/kennypete/.vimrc/blob/53f51ae28ad6d754551ef0fc917a7bde0adf5020/.vimrc
+      hash: 53f51ae28ad6d754551ef0fc917a7bde0adf5020
       name: .vimrc
-    - url: https://github.com/kennypete/.vimrc/blob/main/.gvimrc
-      hash: null
+    - url: >-
+        https://github.com/kennypete/.vimrc/blob/53f51ae28ad6d754551ef0fc917a7bde0adf5020/.gvimrc
+      hash: 53f51ae28ad6d754551ef0fc917a7bde0adf5020
       name: .gvimrc
-  part: null
+  part: 後編
   other: null
