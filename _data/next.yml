@@ -1,16 +1,2188 @@
-- id: 693
-  date: 2025-10-18 23:00
+- id: 694
+  date: 2025-10-25 23:00
   author:
-    name: kennypete
-    url: https://github.com/kennypete
+    name: Genki-S
+    url: https://github.com/Genki-S
   vimrcs:
     - url: >-
-        https://github.com/kennypete/.vimrc/blob/53f51ae28ad6d754551ef0fc917a7bde0adf5020/.vimrc
-      hash: 53f51ae28ad6d754551ef0fc917a7bde0adf5020
-      name: .vimrc
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/vim/vim.snip
+      hash: null
+      name: nvim/snippets/vim/vim.snip
     - url: >-
-        https://github.com/kennypete/.vimrc/blob/53f51ae28ad6d754551ef0fc917a7bde0adf5020/.gvimrc
-      hash: 53f51ae28ad6d754551ef0fc917a7bde0adf5020
-      name: .gvimrc
-  part: 後編
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/typescript.snip
+      hash: null
+      name: nvim/snippets/typescript.snip
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/go/go.snip
+      hash: null
+      name: nvim/snippets/go/go.snip
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/go/go.vim
+      hash: null
+      name: nvim/snippets/go/go.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/python.snip
+      hash: null
+      name: nvim/snippets/python.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/rust/rust.snip
+      hash: null
+      name: nvim/snippets/rust/rust.snip
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/sh.snip
+      hash: null
+      name: nvim/snippets/sh.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/elm/elm.snip
+      hash: null
+      name: nvim/snippets/elm/elm.snip
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/rust.snip
+      hash: null
+      name: nvim/snippets/rust.snip
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/ruby.snip
+      hash: null
+      name: nvim/snippets/ruby.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/gdscript.snip
+      hash: null
+      name: nvim/snippets/gdscript.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/typescriptreact.snip
+      hash: null
+      name: nvim/snippets/typescriptreact.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/zsh/zsh.snip
+      hash: null
+      name: nvim/snippets/zsh/zsh.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/snippets/neosnippet/neosnippet.snip
+      hash: null
+      name: nvim/snippets/neosnippet/neosnippet.snip
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/ftplugin/elm.vim
+      hash: null
+      name: nvim/ftplugin/elm.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/ftplugin/gitcommit.vim
+      hash: null
+      name: nvim/ftplugin/gitcommit.vim
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/ftplugin/yaml.vim
+      hash: null
+      name: nvim/ftplugin/yaml.vim
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/ftplugin/go.vim
+      hash: null
+      name: nvim/ftplugin/go.vim
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/init-dein.vim
+      hash: null
+      name: nvim/init-dein.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/ftdetect/gdscript.vim
+      hash: null
+      name: nvim/ftdetect/gdscript.vim
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/ftdetect/gsl.vim
+      hash: null
+      name: nvim/ftdetect/gsl.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/ftdetect/terraform.vim
+      hash: null
+      name: nvim/ftdetect/terraform.vim
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/init.vim
+      hash: null
+      name: nvim/init.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/LanguageClient-neovim/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/LanguageClient-neovim/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/LanguageClient-neovim/languageserver-settings/go.json
+      hash: null
+      name: >-
+        nvim/plugin-settings/LanguageClient-neovim/languageserver-settings/go.json
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/LanguageClient-neovim/languageserver-settings/yaml.json
+      hash: null
+      name: >-
+        nvim/plugin-settings/LanguageClient-neovim/languageserver-settings/yaml.json
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/LanguageClient-neovim/languageserver-settings/elm.json
+      hash: null
+      name: >-
+        nvim/plugin-settings/LanguageClient-neovim/languageserver-settings/elm.json
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-lookup/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-lookup/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/devdocs.vim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/devdocs.vim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-textobj-function/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-textobj-function/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-altercmd/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-altercmd/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-easy-align/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-easy-align/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/rust.vim/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/rust.vim/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/syntastic/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/syntastic/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/syntastic/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/syntastic/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/lightline.vim/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/lightline.vim/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/lightline.vim/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/lightline.vim/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/tagbar/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/tagbar/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/tagbar/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/tagbar/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-grepper/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-grepper/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-grepper/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-grepper/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-rest-console/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-rest-console/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-operator-surround/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-operator-surround/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/deoplete.nvim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/deoplete.nvim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/deoplete.nvim/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/deoplete.nvim/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-slime/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-slime/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/open-browser.vim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/open-browser.vim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-quickhl/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-quickhl/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/QFGrep/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/QFGrep/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-unimpaired/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-unimpaired/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/emmet-vim/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/emmet-vim/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-textobj-between/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-textobj-between/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-addon-local-vimrc/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-addon-local-vimrc/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-dispatch/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-dispatch/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-dispatch/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-dispatch/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/sideways.vim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/sideways.vim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/splitjoin.vim/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/splitjoin.vim/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/splitjoin.vim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/splitjoin.vim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-fugitive/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-fugitive/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-fugitive/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-fugitive/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/denite.nvim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/denite.nvim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/denite.nvim/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/denite.nvim/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/neosnippet.vim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/neosnippet.vim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/neosnippet.vim/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/neosnippet.vim/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-abolish/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-abolish/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/windsurf.vim/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/windsurf.vim/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/windsurf.vim/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/windsurf.vim/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/defx.nvim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/defx.nvim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/defx.nvim/hook_post_source.vim
+      hash: null
+      name: nvim/plugin-settings/defx.nvim/hook_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-test/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-test/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-projectionist/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-projectionist/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-projectionist/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-projectionist/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-go/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-go/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-go/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-go/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/switch.vim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/switch.vim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-textobj-indent/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-textobj-indent/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/indent-blankline.nvim/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/indent-blankline.nvim/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-operator-assign/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-operator-assign/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-smartchr/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/vim-smartchr/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-exchange/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-exchange/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/nvim-treesitter-context/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/nvim-treesitter-context/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/nvim-treesitter-context/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/nvim-treesitter-context/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/caw.vim/hook_source.vim
+      hash: null
+      name: nvim/plugin-settings/caw.vim/hook_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/caw.vim/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/caw.vim/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/plugin-settings/vim-easymotion/hook_add.vim
+      hash: null
+      name: nvim/plugin-settings/vim-easymotion/hook_add.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/autoload/test/gdscript/gut.vim
+      hash: null
+      name: nvim/autoload/test/gdscript/gut.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/autoload/operator/assign/ft/go.vim
+      hash: null
+      name: nvim/autoload/operator/assign/ft/go.vim
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/after/syntax/go.vim
+      hash: null
+      name: nvim/after/syntax/go.vim
+    - url: https://github.com/Genki-S/dotfiles/blob/master/nvim/plugins.yaml
+      hash: null
+      name: nvim/plugins.yaml
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/syntax/typescriptcommon.vim
+      hash: null
+      name: nvim/syntax/typescriptcommon.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/syntax/typescriptreact.vim
+      hash: null
+      name: nvim/syntax/typescriptreact.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/compiler/gut_runner_quickfix.vim
+      hash: null
+      name: nvim/compiler/gut_runner_quickfix.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/nvim/compiler/pre-commit.vim
+      hash: null
+      name: nvim/compiler/pre-commit.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/c.snip
+      hash: null
+      name: vimfiles/vim/snippets/c.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/scss.snip
+      hash: null
+      name: vimfiles/vim/snippets/scss.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/zsh.snip
+      hash: null
+      name: vimfiles/vim/snippets/zsh.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/cmdwin.snip
+      hash: null
+      name: vimfiles/vim/snippets/cmdwin.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/mail.snip
+      hash: null
+      name: vimfiles/vim/snippets/mail.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/sh.snip
+      hash: null
+      name: vimfiles/vim/snippets/sh.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/_.snip
+      hash: null
+      name: vimfiles/vim/snippets/_.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/javascript.snip
+      hash: null
+      name: vimfiles/vim/snippets/javascript.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/programming_contest.snip
+      hash: null
+      name: vimfiles/vim/snippets/programming_contest.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/go.snip
+      hash: null
+      name: vimfiles/vim/snippets/go.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/coffee.snip
+      hash: null
+      name: vimfiles/vim/snippets/coffee.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/ruby.snip
+      hash: null
+      name: vimfiles/vim/snippets/ruby.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/neosnippet.snip
+      hash: null
+      name: vimfiles/vim/snippets/neosnippet.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/cpp.snip
+      hash: null
+      name: vimfiles/vim/snippets/cpp.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/swift.snip
+      hash: null
+      name: vimfiles/vim/snippets/swift.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/java.snip
+      hash: null
+      name: vimfiles/vim/snippets/java.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/plantuml.snip
+      hash: null
+      name: vimfiles/vim/snippets/plantuml.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/snippets/mmd.snip
+      hash: null
+      name: vimfiles/vim/snippets/mmd.snip
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/java.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/java.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/scss.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/scss.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/cpp.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/cpp.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/ruby.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/ruby.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/modula2.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/modula2.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/json.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/json.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/coffee.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/coffee.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/markdown.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/markdown.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/tex.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/tex.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/yaml.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/yaml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/html.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/html.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/go.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/go.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftplugin/man.vim
+      hash: null
+      name: vimfiles/vim/ftplugin/man.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/marvim/haml/hash_to_html_attributes.mv7
+      hash: null
+      name: vimfiles/vim/marvim/haml/hash_to_html_attributes.mv7
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/elm.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/elm.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/cmdwin.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/cmdwin.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/scala.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/scala.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/coffee.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/coffee.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/markdown.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/markdown.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/org.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/org.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/terraform.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/terraform.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/csv.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/csv.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/tmux.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/tmux.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/rest.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/rest.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/scilab.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/scilab.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/swift.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/swift.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/Jenkinsfile.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/Jenkinsfile.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/go.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/go.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/nginx.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/nginx.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/ftdetect/plantuml.vim
+      hash: null
+      name: vimfiles/vim/ftdetect/plantuml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/resources/thesaurus/mthesaur.txt
+      hash: null
+      name: vimfiles/vim/resources/thesaurus/mthesaur.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/TweetVim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/TweetVim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-unstack/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-unstack/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-unstack/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-unstack/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/im_control.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/im_control.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/investigate.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/investigate.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/investigate.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/investigate.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-entire/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-entire/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-lookup/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-lookup/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/devdocs.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/devdocs.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/devdocs.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/devdocs.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-startify/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-startify/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/operator-camelize.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/operator-camelize.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vimux/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vimux/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vimux/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vimux/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-function/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-function/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-speeddating/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-speeddating/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-json/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-json/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-fakeclip/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-fakeclip/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-capslock/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-capslock/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-quickrun/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-quickrun/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-quickrun/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-quickrun/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-session/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-session/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-altercmd/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-altercmd/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-easy-align/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-easy-align/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/unite-rails/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/unite-rails/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/cosco.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/cosco.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/gist-vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/gist-vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/syntastic/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/syntastic/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/syntastic/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/syntastic/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-datetime/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-datetime/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/lightline.vim/setting.yml
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/lightline.vim/setting.yml
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/lightline.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/lightline.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/lightline.vim/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/lightline.vim/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/lightline.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/lightline.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-operator-replace/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-operator-replace/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-surround/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-surround/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/dry.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/dry.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/marvim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/marvim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-rubyblock/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-rubyblock/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-bookmarks/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-bookmarks/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/migemo/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/migemo/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/clam.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/clam.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/tagbar/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/tagbar/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/tagbar/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/tagbar/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/alpaca_english/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/alpaca_english/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/LaTeX-Box/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/LaTeX-Box/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vimfiler/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vimfiler/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vimfiler/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vimfiler/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-comment/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-comment/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/evervim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/evervim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/evervim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/evervim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-grepper/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-grepper/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-rest-console/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-rest-console/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-gitgutter/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-gitgutter/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-gitgutter/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-gitgutter/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-characterize/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-characterize/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/tabular/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/tabular/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/splice.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/splice.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-variable-segment/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-variable-segment/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-jsx/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-jsx/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-rubysymbol/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-rubysymbol/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-enclosedsyntax/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-enclosedsyntax/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/glowshi-ft.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/glowshi-ft.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/neocomplete/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/neocomplete/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-slime/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-slime/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/clever-f.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/clever-f.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/clever-f.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/clever-f.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/dash.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/dash.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/dash.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/dash.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-user/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-user/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-ctrlspace/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-ctrlspace/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/unite-mark/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/unite-mark/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/simplenote.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/simplenote.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/open-browser.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/open-browser.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-indent-guides/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-indent-guides/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-quickhl/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-quickhl/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-signify/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-signify/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-watchdogs/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-watchdogs/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/QFGrep/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/QFGrep/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-unimpaired/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-unimpaired/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/emmet-vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/emmet-vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-submode/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-submode/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-ref/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-ref/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-ref/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-ref/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-between/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-between/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-addon-local-vimrc/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-addon-local-vimrc/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-dispatch/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-dispatch/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/sideways.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/sideways.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/splitjoin.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/splitjoin.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/splitjoin.vim/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/splitjoin.vim/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/splitjoin.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/splitjoin.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-fold/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-fold/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textmanip/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textmanip/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/unite-tag/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/unite-tag/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-fugitive/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-fugitive/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-rails/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-rails/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-rails/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-rails/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/unite.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/unite.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/unite.vim/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/unite.vim/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/unite.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/unite.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-abolish/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-abolish/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/incsearch.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/incsearch.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-asterisk/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-asterisk/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/UnconditionalPaste/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/UnconditionalPaste/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-sneak/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-sneak/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-sneak/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-sneak/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-autoformat/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-autoformat/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/lexima.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/lexima.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/lexima.vim/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/lexima.vim/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/lexima.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/lexima.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/qfixhowm/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/qfixhowm/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-test/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-test/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-projectionist/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-projectionist/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-projectionist/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-projectionist/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-online-thesaurus/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-online-thesaurus/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-go/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-go/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-go/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-go/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/VimCalc/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/VimCalc/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/switch.vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/switch.vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/switch.vim/switch.yml
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/switch.vim/switch.yml
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/switch.vim/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/switch.vim/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/switch.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/switch.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/nerdcommenter/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/nerdcommenter/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-indent/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-indent/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/indentLine/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/indentLine/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/neobundle.vim/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/neobundle.vim/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/eclim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/eclim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/MatchTagAlways/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/MatchTagAlways/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-autofix/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-autofix/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-operator-assign/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-operator-assign/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-snippets/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-snippets/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-unite-giti/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-unite-giti/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-smartchr/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-smartchr/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/textobj-word-column.vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/textobj-word-column.vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/elm-vim/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/elm-vim/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/elm-vim/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/elm-vim/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/previm/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/previm/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-signature/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-signature/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-ruby-debugger/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-ruby-debugger/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-hardtime/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-hardtime/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-hardtime/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-hardtime/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-exchange/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-exchange/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-colors-solarized/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-colors-solarized/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-vigemo/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-vigemo/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/neosnippet/on_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/neosnippet/on_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/neosnippet/on_post_source.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/neosnippet/on_post_source.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/neosnippet/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/neosnippet/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/plugins/vim-textobj-underscore/on_bundle.vim
+      hash: null
+      name: vimfiles/vim/vimrc/plugins/vim-textobj-underscore/on_bundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/autocmds.vim
+      hash: null
+      name: vimfiles/vim/vimrc/autocmds.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/functions.vim
+      hash: null
+      name: vimfiles/vim/vimrc/functions.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/highlights.vim
+      hash: null
+      name: vimfiles/vim/vimrc/highlights.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/options.vim
+      hash: null
+      name: vimfiles/vim/vimrc/options.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/mappings.vim
+      hash: null
+      name: vimfiles/vim/vimrc/mappings.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/vimrc/commands.vim
+      hash: null
+      name: vimfiles/vim/vimrc/commands.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/plugin/eclim.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/plugin/eclim.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/indent/javascript.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/indent/javascript.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/indent/xml.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/indent/xml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/indent/css.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/indent/css.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/indent/dtd.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/indent/dtd.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/indent/indentanything.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/indent/indentanything.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/indent/html.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/indent/html.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/forrestdocument.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/forrestdocument.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/spring.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/spring.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/log4j.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/log4j.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/ivy.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/ivy.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/javascript.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/javascript.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/tld.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/tld.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/ant.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/ant.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/xml.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/xml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/mvn_pom.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/mvn_pom.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/java.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/java.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/java-xml.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/java-xml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/webxml.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/webxml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/commonsvalidator.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/commonsvalidator.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/make.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/make.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/forreststatus.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/forreststatus.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/groovy.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/groovy.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/gant.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/gant.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/xml_complete.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/xml_complete.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/hibernate.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/hibernate.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/xsd.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/xsd.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/css.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/css.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/eclipse_classpath.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/eclipse_classpath.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/dtd.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/dtd.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/eclimhelp.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/eclimhelp.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/strutsconfig.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/strutsconfig.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/wsdl.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/wsdl.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/html.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/html.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/junitresult.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/ftplugin/junitresult.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/bin/bash_complete
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/bin/bash_complete
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/java_tools.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/java_tools.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/settings_groovy.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/settings_groovy.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/vimplugin.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/vimplugin.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/settings_java.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/settings_java.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/ftdetect_jdt.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/ftdetect_jdt.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/ftdetect.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/ftdetect.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/eclim.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/eclim.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/settings_web.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/settings_web.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/plugin/project.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/plugin/project.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/dltk/buildpath.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/dltk/buildpath.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/refactoring.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/refactoring.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/locate.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/locate.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/util.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/util.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/project.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/project.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/history.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/history.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/eclim.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/core/eclim.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/code_completion.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/code_completion.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/search.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/search.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/path.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/path.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/search.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/search.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/complete.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/complete.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/django.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/django.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/validate.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/python/validate.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/settings.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/settings.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/refactor.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/refactor.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/java.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/java.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/ant.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/ant.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/android.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/android.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/unittests.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/unittests.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/search.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/search.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/debug.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/debug.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/complete.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/complete.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/inspection.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/inspection.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/import.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/import.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/webxml.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/webxml.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/javadoc.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/javadoc.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/methods.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/methods.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/types.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/types.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/classpath.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/classpath.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/maven.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/maven.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/logging.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/logging.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/format.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/format.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/validate.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/java/validate.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/html/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/html/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/search.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/search.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/complete.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/complete.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/validate.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/validate.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/buildpath.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/php/buildpath.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/xml/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/xml/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/validation.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/validation.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/search.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/search.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/complete.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/complete.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/import.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/import.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/validate.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/scala/validate.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/groovy/complete.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/groovy/complete.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/groovy/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/groovy/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/groovy/validate.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/groovy/validate.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/javascript/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/javascript/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/search.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/search.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/complete.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/complete.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/inspection.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/inspection.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/project.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/project.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/validate.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/c/validate.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/search.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/search.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/complete.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/complete.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/validate.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/validate.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/buildpath.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/vim/ruby/buildpath.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/archive/news.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/archive/news.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/archive/changes.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/archive/changes.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/contribute.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/contribute.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/development/plugins.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/development/plugins.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/development/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/development/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/development/architecture.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/development/architecture.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/development/gettingstarted.txt
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/doc/development/gettingstarted.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/development/commands.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/development/commands.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/relatedprojects.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/relatedprojects.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/features.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/features.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/404.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/404.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/index.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/index.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/install.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/install.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/faq.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/faq.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/changes.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/changes.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/eclimd.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/eclimd.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/gettingstarted.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/gettingstarted.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/cheatsheet.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/cheatsheet.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/doc/gettinghelp.txt
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/doc/gettinghelp.txt
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/spring.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/spring.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/forrest.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/forrest.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/webxml.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/webxml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/commonsvalidator.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/commonsvalidator.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/gant.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/gant.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/hibernate.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/hibernate.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/junit.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/junit.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/eclimhelp.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/eclimhelp.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/wsdl.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/taglisttoo/lang/wsdl.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/vimplugin.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/vimplugin.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/css/complete.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/css/complete.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/css/validate.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/css/validate.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/ant/ivy.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/ant/ivy.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/ant/doc.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/ant/doc.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/ant/complete.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/ant/complete.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/ant/util.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/ant/util.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/search.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/search.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/tools.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/tools.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/debug.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/debug.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/refactor.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/refactor.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/src.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/src.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/doc.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/doc.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/import.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/import.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/complete.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/complete.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/correct.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/correct.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/logging.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/logging.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/junit.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/junit.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/classpath.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/classpath.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/maven.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/maven.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/util.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/util.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/hierarchy.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/hierarchy.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/new.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/new.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/impl.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/java/impl.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/html/complete.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/html/complete.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/html/util.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/html/util.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/html/validate.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/html/validate.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/lang.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/lang.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/definition.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/definition.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/complete.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/complete.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/format.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/format.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/util.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/util.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/validate.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/xml/validate.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/project/problems.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/project/problems.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/project/util.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/project/util.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/project/tree.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/project/tree.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/project/run.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/project/run.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/lang/hierarchy.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/lang/hierarchy.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/buffers.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/buffers.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/largefile.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/largefile.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/template.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/template.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/locate.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/locate.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/util.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/util.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/license.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/license.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/history.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/common/history.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/cygwin.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/cygwin.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/util.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/util.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/display/fold.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/display/fold.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/display/signs.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/display/signs.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/display/window.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/display/window.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/display/menu.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/display/menu.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/groovy/complete.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/groovy/complete.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/web.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/web.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/javascript/complete.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/javascript/complete.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/javascript/util.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/javascript/util.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/tree.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/tree.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/help.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/help.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/client/python/nailgun.py
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/client/python/nailgun.py
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/client/python/nailgun.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/client/python/nailgun.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/client/nailgun.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim/client/nailgun.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/autoload/eclim.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/forrestdocument.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/forrestdocument.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/spring.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/spring.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/log4j.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/log4j.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/ivy.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/ivy.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/tld.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/tld.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/ant.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/ant.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/xml.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/xml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/mvn_pom.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/mvn_pom.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/java.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/java.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/sql.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/sql.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/webxml.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/webxml.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/commonsvalidator.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/commonsvalidator.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/perl.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/perl.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/groovy_simple_template.vim
+      hash: null
+      name: >-
+        vimfiles/vim/manual-bundles/eclim/eclim/syntax/groovy_simple_template.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/forreststatus.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/forreststatus.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/gant.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/gant.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/hibernate.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/hibernate.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/css.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/css.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/eclim_filelist.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/eclim_filelist.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/eclipse_classpath.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/eclipse_classpath.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/eclimhelp.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/eclimhelp.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/hg.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/hg.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/strutsconfig.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/strutsconfig.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/wsdl.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/wsdl.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/html.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/html.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/mysql.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/mysql.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/syntax/junitresult.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/syntax/junitresult.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/dict/java
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/dict/java
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_make.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_make.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_maven.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_maven.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_xmllint.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_xmllint.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_ant.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_ant.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_javadoc.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_javadoc.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_mvn.vim
+      hash: null
+      name: vimfiles/vim/manual-bundles/eclim/eclim/compiler/eclim_mvn.vim
+    - url: https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/bundles.yml
+      hash: null
+      name: vimfiles/vim/bundles.yml
+    - url: https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/.agignore
+      hash: null
+      name: vimfiles/vim/.agignore
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/autoload/ref/cppref.vim
+      hash: null
+      name: vimfiles/vim/autoload/ref/cppref.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/after/syntax/java.vim
+      hash: null
+      name: vimfiles/vim/after/syntax/java.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/syntax/log.vim
+      hash: null
+      name: vimfiles/vim/syntax/log.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/neobundle.vim
+      hash: null
+      name: vimfiles/vim/neobundle.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/compiler/minitest.vim
+      hash: null
+      name: vimfiles/vim/compiler/minitest.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/compiler/pre-commit.vim
+      hash: null
+      name: vimfiles/vim/compiler/pre-commit.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/compiler/rails_best_practices.vim
+      hash: null
+      name: vimfiles/vim/compiler/rails_best_practices.vim
+    - url: >-
+        https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vim/bundles/NeoBundle.lock
+      hash: null
+      name: vimfiles/vim/bundles/NeoBundle.lock
+    - url: https://github.com/Genki-S/dotfiles/blob/master/vimfiles/vimrc
+      hash: null
+      name: vimfiles/vimrc
+  part: null
   other: null
