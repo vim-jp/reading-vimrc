@@ -1,5 +1,5 @@
-- id: 695
-  date: 2025-11-01 23:00
+- id: 696
+  date: 2025-11-08 23:00
   author:
     name: Genki-S
     url: https://github.com/Genki-S
@@ -2200,5 +2200,5 @@
         https://github.com/Genki-S/dotfiles/blob/5c0a6c69a54c644f7964738f275147c1f9eefe87/vimfiles/vimrc
       hash: 5c0a6c69a54c644f7964738f275147c1f9eefe87
       name: vimfiles/vimrc
-  part: 中編
+  part: 後編
   other: null
