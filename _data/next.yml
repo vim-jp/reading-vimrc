@@ -1,609 +1,636 @@
-- id: 697
-  date: 2025-11-15 23:00
+- id: 698
+  date: 2025-11-22 23:00
   author:
     name: LazyVim
     url: https://github.com/LazyVim
   vimrcs:
-    - url: https://github.com/LazyVim/LazyVim/blob/main/init.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/init.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: init.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/tests/minit.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/tests/minit.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: tests/minit.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/tests/util/util_spec.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/tests/util/util_spec.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: tests/util/util_spec.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/tests/dd_spec.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/tests/dd_spec.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: tests/dd_spec.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/tests/extras/extra_spec.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/tests/extras/extra_spec.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: tests/extras/extra_spec.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/queries/lua/highlights.scm
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/queries/lua/highlights.scm
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: queries/lua/highlights.scm
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/init.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/init.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/init.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/inject.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/inject.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/inject.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/news.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/news.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/news.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/init.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/init.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/init.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/json.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/json.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/json.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/terminal.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/terminal.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/terminal.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/plugin.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/plugin.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/plugin.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/extras.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/extras.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/extras.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/lualine.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/lualine.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/lualine.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/lsp.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/lsp.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/lsp.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/pick.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/pick.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/pick.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/mini.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/mini.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/mini.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/root.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/root.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/root.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/cmp.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/cmp.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/cmp.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/treesitter.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/treesitter.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/treesitter.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/format.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/format.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/format.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/util/deprecated.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/deprecated.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/util/deprecated.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/health.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/health.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/health.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/init.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/config/init.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/config/init.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/autocmds.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/config/autocmds.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/config/autocmds.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/config/keymaps.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/config/keymaps.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/options.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/config/options.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/config/options.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/init.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/init.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/init.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/formatting.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/formatting.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/formatting.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/xtras.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/xtras.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/xtras.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/linting.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/linting.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/linting.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/lsp/init.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/lsp/init.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/lsp/init.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/lsp/keymaps.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/lsp/keymaps.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/lsp/keymaps.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/editor.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/editor.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/editor.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/colorscheme.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/colorscheme.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/colorscheme.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/util.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/util.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/util.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/treesitter.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/treesitter.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/treesitter.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/ui.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/ui.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/ui.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/coding.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/coding.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/coding.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/linting/eslint.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/linting/eslint.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/linting/eslint.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/alpha.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/alpha.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/alpha.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/treesitter-context.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/treesitter-context.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/treesitter-context.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/smear-cursor.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/smear-cursor.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/smear-cursor.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/mini-indentscope.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/mini-indentscope.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/mini-indentscope.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/mini-starter.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/mini-starter.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/mini-starter.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/mini-animate.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/mini-animate.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/mini-animate.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/dashboard-nvim.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/dashboard-nvim.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/dashboard-nvim.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/indent-blankline.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/indent-blankline.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/indent-blankline.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ui/edgy.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/edgy.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ui/edgy.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/test/core.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/test/core.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/test/core.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/dot.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/dot.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/dot.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/gitui.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/gitui.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/gitui.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/chezmoi.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/chezmoi.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/chezmoi.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/project.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/project.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/project.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/octo.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/octo.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/octo.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/mini-hipatterns.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/mini-hipatterns.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/mini-hipatterns.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/startuptime.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/startuptime.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/startuptime.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/gh.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/gh.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/gh.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/util/rest.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/rest.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/util/rest.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lsp/neoconf.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lsp/neoconf.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lsp/neoconf.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lsp/none-ls.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lsp/none-ls.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lsp/none-ls.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/vscode.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/vscode.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/vscode.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/tex.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/tex.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/tex.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/markdown.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/markdown.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/markdown.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/rego.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/rego.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/rego.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/erlang.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/erlang.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/erlang.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/typst.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/typst.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/typst.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/lean.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/lean.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/lean.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/git.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/git.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/git.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/docker.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/docker.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/docker.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/python.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/python.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/python.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/ruby.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/ruby.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/ruby.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/json.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/json.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/json.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/tailwind.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/tailwind.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/tailwind.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/scala.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/scala.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/scala.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/zig.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/zig.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/zig.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/angular.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/angular.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/angular.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/gleam.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/gleam.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/gleam.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/nix.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/nix.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/nix.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/solidity.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/solidity.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/solidity.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/helm.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/helm.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/helm.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/sql.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/sql.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/sql.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/haskell.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/haskell.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/haskell.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/java.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/java.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/java.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/rust.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/rust.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/rust.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/vue.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/vue.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/vue.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/elm.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/elm.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/elm.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/thrift.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/thrift.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/thrift.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/clangd.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/clangd.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/clangd.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/prisma.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/prisma.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/prisma.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/go.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/go.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/go.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/ember.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/ember.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/ember.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/cmake.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/cmake.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/cmake.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/ansible.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/ansible.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/ansible.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/clojure.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/clojure.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/clojure.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/astro.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/astro.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/astro.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/yaml.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/yaml.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/yaml.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/toml.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/toml.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/toml.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/twig.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/twig.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/twig.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/dotnet.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/dotnet.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/dotnet.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/typescript.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/typescript.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/typescript.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/php.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/php.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/php.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/julia.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/julia.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/julia.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/svelte.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/svelte.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/svelte.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/dart.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/dart.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/dart.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/ocaml.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/ocaml.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/ocaml.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/r.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/r.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/r.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/terraform.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/terraform.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/terraform.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/elixir.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/elixir.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/elixir.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/kotlin.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/kotlin.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/kotlin.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/lang/nushell.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/nushell.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/lang/nushell.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/codeium.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/codeium.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/codeium.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/tabnine.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/tabnine.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/tabnine.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/copilot.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/copilot.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/copilot.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/copilot-chat.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/copilot-chat.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/copilot-chat.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/sidekick.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/sidekick.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/sidekick.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/supermaven.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/supermaven.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/supermaven.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/claudecode.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/claudecode.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/claudecode.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/copilot-native.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/copilot-native.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/copilot-native.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/ai/avante.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/avante.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/ai/avante.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/formatting/biome.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/formatting/biome.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/formatting/biome.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/formatting/black.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/formatting/black.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/formatting/black.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/formatting/prettier.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/formatting/prettier.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/formatting/prettier.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/coding/mini-comment.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/mini-comment.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/coding/mini-comment.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/coding/mini-surround.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/mini-surround.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/coding/mini-surround.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/coding/nvim-cmp.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/nvim-cmp.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/coding/nvim-cmp.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/coding/neogen.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/neogen.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/coding/neogen.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/coding/yanky.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/yanky.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/coding/yanky.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/coding/blink.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/blink.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/coding/blink.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/coding/luasnip.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/luasnip.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/coding/luasnip.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/coding/mini-snippets.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/mini-snippets.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/coding/mini-snippets.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/dap/nlua.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/dap/nlua.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/dap/nlua.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/dap/core.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/dap/core.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/dap/core.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/aerial.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/aerial.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/aerial.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/fzf.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/fzf.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/fzf.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/telescope.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/telescope.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/telescope.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/snacks_explorer.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/snacks_explorer.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/snacks_explorer.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/overseer.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/overseer.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/overseer.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/refactoring.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/refactoring.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/refactoring.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/navic.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/navic.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/navic.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/neo-tree.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/neo-tree.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/neo-tree.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/inc-rename.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/inc-rename.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/inc-rename.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/snacks_picker.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/snacks_picker.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/snacks_picker.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/illuminate.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/illuminate.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/illuminate.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/dial.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/dial.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/dial.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/harpoon2.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/harpoon2.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/harpoon2.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/mini-diff.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/mini-diff.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/mini-diff.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/outline.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/outline.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/outline.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/leap.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/leap.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/leap.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/mini-move.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/mini-move.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/mini-move.lua
     - url: >-
-        https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/plugins/extras/editor/mini-files.lua
-      hash: null
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/mini-files.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/plugins/extras/editor/mini-files.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/types.lua
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/types.lua
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: lua/lazyvim/types.lua
-    - url: https://github.com/LazyVim/LazyVim/blob/main/doc/LazyVim.txt
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/doc/LazyVim.txt
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: doc/LazyVim.txt
-    - url: https://github.com/LazyVim/LazyVim/blob/main/selene.toml
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/selene.toml
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: selene.toml
-    - url: https://github.com/LazyVim/LazyVim/blob/main/stylua.toml
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/stylua.toml
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: stylua.toml
-    - url: https://github.com/LazyVim/LazyVim/blob/main/.neoconf.json
-      hash: null
+    - url: >-
+        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/.neoconf.json
+      hash: c64a61734fc9d45470a72603395c02137802bc6f
       name: .neoconf.json
-  part: null
+  part: 中編
   other: null
