@@ -1,636 +1,2217 @@
-- id: 699
-  date: 2025-11-29 23:00
+- id: 700
+  date: 2025-12-06 23:00
   author:
-    name: LazyVim
-    url: https://github.com/LazyVim
+    name: wsdjeg
+    url: https://github.com/wsdjeg
   vimrcs:
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/init.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: init.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/tests/minit.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: tests/minit.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/tests/util/util_spec.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: tests/util/util_spec.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/tests/dd_spec.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: tests/dd_spec.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/tests/extras/extra_spec.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: tests/extras/extra_spec.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/queries/lua/highlights.scm
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: queries/lua/highlights.scm
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/init.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/init.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/inject.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/inject.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/news.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/news.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/init.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/init.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/json.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/json.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/terminal.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/terminal.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/plugin.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/plugin.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/extras.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/extras.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/lualine.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/lualine.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/lsp.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/lsp.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/pick.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/pick.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/mini.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/mini.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/root.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/root.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/cmp.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/cmp.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/treesitter.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/treesitter.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/format.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/format.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/util/deprecated.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/util/deprecated.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/health.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/health.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/config/init.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/config/init.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/config/autocmds.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/config/autocmds.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/config/keymaps.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/config/keymaps.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/config/options.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/config/options.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/init.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/init.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/formatting.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/formatting.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/xtras.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/xtras.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/linting.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/linting.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/lsp/init.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/lsp/init.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/lsp/keymaps.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/lsp/keymaps.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/editor.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/editor.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/colorscheme.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/colorscheme.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/util.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/util.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/treesitter.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/treesitter.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/ui.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/ui.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/coding.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/coding.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/linting/eslint.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/linting/eslint.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/alpha.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/alpha.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/treesitter-context.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/treesitter-context.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/smear-cursor.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/smear-cursor.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/mini-indentscope.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/mini-indentscope.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/mini-starter.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/mini-starter.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/mini-animate.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/mini-animate.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/dashboard-nvim.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/dashboard-nvim.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/indent-blankline.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/indent-blankline.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ui/edgy.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ui/edgy.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/test/core.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/test/core.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/dot.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/dot.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/gitui.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/gitui.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/chezmoi.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/chezmoi.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/project.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/project.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/octo.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/octo.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/mini-hipatterns.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/mini-hipatterns.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/startuptime.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/startuptime.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/gh.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/gh.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/util/rest.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/util/rest.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lsp/neoconf.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lsp/neoconf.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lsp/none-ls.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lsp/none-ls.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/vscode.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/vscode.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/tex.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/tex.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/markdown.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/markdown.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/rego.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/rego.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/erlang.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/erlang.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/typst.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/typst.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/lean.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/lean.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/git.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/git.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/docker.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/docker.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/python.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/python.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/ruby.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/ruby.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/json.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/json.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/tailwind.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/tailwind.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/scala.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/scala.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/zig.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/zig.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/angular.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/angular.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/gleam.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/gleam.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/nix.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/nix.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/solidity.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/solidity.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/helm.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/helm.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/sql.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/sql.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/haskell.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/haskell.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/java.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/java.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/rust.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/rust.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/vue.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/vue.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/elm.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/elm.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/thrift.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/thrift.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/clangd.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/clangd.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/prisma.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/prisma.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/go.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/go.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/ember.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/ember.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/cmake.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/cmake.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/ansible.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/ansible.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/clojure.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/clojure.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/astro.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/astro.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/yaml.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/yaml.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/toml.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/toml.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/twig.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/twig.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/dotnet.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/dotnet.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/typescript.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/typescript.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/php.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/php.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/julia.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/julia.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/svelte.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/svelte.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/dart.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/dart.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/ocaml.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/ocaml.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/r.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/r.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/terraform.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/terraform.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/elixir.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/elixir.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/kotlin.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/kotlin.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/lang/nushell.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/lang/nushell.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/codeium.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/codeium.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/tabnine.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/tabnine.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/copilot.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/copilot.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/copilot-chat.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/copilot-chat.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/sidekick.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/sidekick.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/supermaven.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/supermaven.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/claudecode.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/claudecode.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/copilot-native.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/copilot-native.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/ai/avante.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/ai/avante.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/formatting/biome.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/formatting/biome.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/formatting/black.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/formatting/black.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/formatting/prettier.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/formatting/prettier.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/mini-comment.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/coding/mini-comment.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/mini-surround.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/coding/mini-surround.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/nvim-cmp.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/coding/nvim-cmp.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/neogen.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/coding/neogen.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/yanky.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/coding/yanky.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/blink.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/coding/blink.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/luasnip.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/coding/luasnip.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/coding/mini-snippets.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/coding/mini-snippets.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/dap/nlua.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/dap/nlua.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/dap/core.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/dap/core.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/aerial.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/aerial.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/fzf.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/fzf.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/telescope.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/telescope.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/snacks_explorer.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/snacks_explorer.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/overseer.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/overseer.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/refactoring.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/refactoring.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/navic.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/navic.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/neo-tree.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/neo-tree.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/inc-rename.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/inc-rename.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/snacks_picker.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/snacks_picker.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/illuminate.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/illuminate.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/dial.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/dial.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/harpoon2.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/harpoon2.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/mini-diff.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/mini-diff.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/outline.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/outline.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/leap.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/leap.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/mini-move.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/mini-move.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/plugins/extras/editor/mini-files.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/plugins/extras/editor/mini-files.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/lua/lazyvim/types.lua
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: lua/lazyvim/types.lua
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/doc/LazyVim.txt
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: doc/LazyVim.txt
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/selene.toml
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: selene.toml
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/stylua.toml
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: stylua.toml
-    - url: >-
-        https://github.com/LazyVim/LazyVim/blob/c64a61734fc9d45470a72603395c02137802bc6f/.neoconf.json
-      hash: c64a61734fc9d45470a72603395c02137802bc6f
-      name: .neoconf.json
-  part: 後編
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/init.vim
+      hash: null
+      name: init.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/ginit.vim
+      hash: null
+      name: ginit.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/vimrc
+      hash: null
+      name: vimrc
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-lspconfig-0.1.3.vim
+      hash: null
+      name: config/plugins/nvim-lspconfig-0.1.3.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/neomake.vim
+      hash: null
+      name: config/plugins/neomake.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/neo-tree.vim
+      hash: null
+      name: config/plugins/neo-tree.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/neocomplete.vim
+      hash: null
+      name: config/plugins/neocomplete.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/denite.vim
+      hash: null
+      name: config/plugins/denite.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/asyncomplete-necovim.vim
+      hash: null
+      name: config/plugins/asyncomplete-necovim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/asyncomplete-buffer.vim
+      hash: null
+      name: config/plugins/asyncomplete-buffer.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-gutentags.vim
+      hash: null
+      name: config/plugins/vim-gutentags.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-tree.vim
+      hash: null
+      name: config/plugins/nvim-tree.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-multiple-cursors.vim
+      hash: null
+      name: config/plugins/vim-multiple-cursors.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-cmp.vim
+      hash: null
+      name: config/plugins/nvim-cmp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-lspconfig-0.1.4.vim
+      hash: null
+      name: config/plugins/nvim-lspconfig-0.1.4.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vimfiler.vim
+      hash: null
+      name: config/plugins/vimfiler.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/taglist.vim
+      hash: null
+      name: config/plugins/taglist.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/coc.vim
+      hash: null
+      name: config/plugins/coc.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nerdcommenter.vim
+      hash: null
+      name: config/plugins/nerdcommenter.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/defx-git.vim
+      hash: null
+      name: config/plugins/defx-git.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/gruvbox.vim
+      hash: null
+      name: config/plugins/gruvbox.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-startify.vim
+      hash: null
+      name: config/plugins/vim-startify.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/coc.nvim-release.vim
+      hash: null
+      name: config/plugins/coc.nvim-release.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-ref.vim
+      hash: null
+      name: config/plugins/vim-ref.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/tagbar.vim
+      hash: null
+      name: config/plugins/tagbar.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/syntastic.vim
+      hash: null
+      name: config/plugins/syntastic.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-airline.vim
+      hash: null
+      name: config/plugins/vim-airline.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-signify.vim
+      hash: null
+      name: config/plugins/vim-signify.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/goyo.vim
+      hash: null
+      name: config/plugins/goyo.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/unite-radio.vim
+      hash: null
+      name: config/plugins/unite-radio.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-zettelkasten.vim
+      hash: null
+      name: config/plugins/vim-zettelkasten.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nerdtree.vim
+      hash: null
+      name: config/plugins/nerdtree.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/asyncomplete-omni.vim
+      hash: null
+      name: config/plugins/asyncomplete-omni.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-javacomplete2.vim
+      hash: null
+      name: config/plugins/vim-javacomplete2.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/defx.vim
+      hash: null
+      name: config/plugins/defx.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/telescope.nvim-0.1.8.vim
+      hash: null
+      name: config/plugins/telescope.nvim-0.1.8.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/ag.vim
+      hash: null
+      name: config/plugins/ag.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/open-browser.vim
+      hash: null
+      name: config/plugins/open-browser.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/hop.vim
+      hash: null
+      name: config/plugins/hop.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/telescope.nvim-0.1.5.vim
+      hash: null
+      name: config/plugins/telescope.nvim-0.1.5.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/jedi-vim.vim
+      hash: null
+      name: config/plugins/jedi-vim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-treesitter-0.9.1.vim
+      hash: null
+      name: config/plugins/nvim-treesitter-0.9.1.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-glaive.vim
+      hash: null
+      name: config/plugins/vim-glaive.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/phpcomplete-extended.vim
+      hash: null
+      name: config/plugins/phpcomplete-extended.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/asyncomplete-clang.vim
+      hash: null
+      name: config/plugins/asyncomplete-clang.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/splitjoin.vim
+      hash: null
+      name: config/plugins/splitjoin.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-surround.vim
+      hash: null
+      name: config/plugins/nvim-surround.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/telescope.nvim-0.1.2.vim
+      hash: null
+      name: config/plugins/telescope.nvim-0.1.2.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/neosnippet.vim
+      hash: null
+      name: config/plugins/neosnippet.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/unite-gtags.vim
+      hash: null
+      name: config/plugins/unite-gtags.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/unite.vim
+      hash: null
+      name: config/plugins/unite.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/asyncomplete.vim
+      hash: null
+      name: config/plugins/asyncomplete.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/completor.vim
+      hash: null
+      name: config/plugins/completor.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-web-devicons.vim
+      hash: null
+      name: config/plugins/nvim-web-devicons.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/LeaderF.vim
+      hash: null
+      name: config/plugins/LeaderF.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/neocomplcache.vim
+      hash: null
+      name: config/plugins/neocomplcache.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/ctrlsf.vim
+      hash: null
+      name: config/plugins/ctrlsf.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-lspconfig-latest.vim
+      hash: null
+      name: config/plugins/nvim-lspconfig-latest.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/deoplete.vim
+      hash: null
+      name: config/plugins/deoplete.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-grepper.vim
+      hash: null
+      name: config/plugins/vim-grepper.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/deoplete-clang.vim
+      hash: null
+      name: config/plugins/deoplete-clang.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/nvim-lspconfig.vim
+      hash: null
+      name: config/plugins/nvim-lspconfig.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/java_getset.vim
+      hash: null
+      name: config/plugins/java_getset.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/ctrlp.vim
+      hash: null
+      name: config/plugins/ctrlp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins/vim-expand-region.vim
+      hash: null
+      name: config/plugins/vim-expand-region.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/supertab.vim
+      hash: null
+      name: config/plugins_before/supertab.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/echodoc.vim
+      hash: null
+      name: config/plugins_before/echodoc.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/vimfiler.vim
+      hash: null
+      name: config/plugins_before/vimfiler.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/vim-jplus.vim
+      hash: null
+      name: config/plugins_before/vim-jplus.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/YouCompleteMe.vim
+      hash: null
+      name: config/plugins_before/YouCompleteMe.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/ultisnips.vim
+      hash: null
+      name: config/plugins_before/ultisnips.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/ctrlsf.vim
+      hash: null
+      name: config/plugins_before/ctrlsf.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/neco-vim.vim
+      hash: null
+      name: config/plugins_before/neco-vim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/config/plugins_before/ale.vim
+      hash: null
+      name: config/plugins_before/ale.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/after/syntax/help.vim
+      hash: null
+      name: after/syntax/help.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim.vim
+      hash: null
+      name: autoload/SpaceVim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/vimfiler/columns/gitstatus.vim
+      hash: null
+      name: autoload/vimfiler/columns/gitstatus.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/vimfiler/columns/filetypeicon.vim
+      hash: null
+      name: autoload/vimfiler/columns/filetypeicon.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/lsp.vim
+      hash: null
+      name: autoload/SpaceVim/lsp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/paser.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/paser.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/nord.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/nord.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/jellybeans.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/jellybeans.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/onedark.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/onedark.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/srcery.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/srcery.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/gruvbox.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/gruvbox.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/SpaceVim.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/SpaceVim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/material.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/material.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/solarized.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/solarized.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/dracula.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/dracula.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/one.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/one.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/NeoSolarized.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/NeoSolarized.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/molokai.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/molokai.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/hybrid.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/hybrid.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide/theme/palenight.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide/theme/palenight.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/search.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/search.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/tab.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/tab.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/gd.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/gd.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/leader.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/leader.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/guide.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/guide.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/space.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/space.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/z.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/z.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/g_capital_d.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/g_capital_d.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/g.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/g.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/enter.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/enter.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping/frequency.vim
+      hash: null
+      name: autoload/SpaceVim/mapping/frequency.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins.vim
+      hash: null
+      name: autoload/SpaceVim/plugins.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/issue.vim
+      hash: null
+      name: autoload/SpaceVim/issue.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lsp.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lsp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/tools.vim
+      hash: null
+      name: autoload/SpaceVim/layers/tools.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/debug.vim
+      hash: null
+      name: autoload/SpaceVim/layers/debug.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/denite.vim
+      hash: null
+      name: autoload/SpaceVim/layers/denite.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/cscope.vim
+      hash: null
+      name: autoload/SpaceVim/layers/cscope.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/tools/zeal.vim
+      hash: null
+      name: autoload/SpaceVim/layers/tools/zeal.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/tools/dash.vim
+      hash: null
+      name: autoload/SpaceVim/layers/tools/dash.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/tools/mpv.vim
+      hash: null
+      name: autoload/SpaceVim/layers/tools/mpv.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/tools/cpicker.vim
+      hash: null
+      name: autoload/SpaceVim/layers/tools/cpicker.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/tools/screensaver.vim
+      hash: null
+      name: autoload/SpaceVim/layers/tools/screensaver.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/japanese.vim
+      hash: null
+      name: autoload/SpaceVim/layers/japanese.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/core/statuscolumn.vim
+      hash: null
+      name: autoload/SpaceVim/layers/core/statuscolumn.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/core/banner.vim
+      hash: null
+      name: autoload/SpaceVim/layers/core/banner.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/core/statusline.vim
+      hash: null
+      name: autoload/SpaceVim/layers/core/statusline.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/core/tabline.vim
+      hash: null
+      name: autoload/SpaceVim/layers/core/tabline.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/github.vim
+      hash: null
+      name: autoload/SpaceVim/layers/github.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/framework/django.vim
+      hash: null
+      name: autoload/SpaceVim/layers/framework/django.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/foldsearch.vim
+      hash: null
+      name: autoload/SpaceVim/layers/foldsearch.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/games.vim
+      hash: null
+      name: autoload/SpaceVim/layers/games.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/shell.vim
+      hash: null
+      name: autoload/SpaceVim/layers/shell.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/telescope.vim
+      hash: null
+      name: autoload/SpaceVim/layers/telescope.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/mail.vim
+      hash: null
+      name: autoload/SpaceVim/layers/mail.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/xmake.vim
+      hash: null
+      name: autoload/SpaceVim/layers/xmake.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/ctrlspace.vim
+      hash: null
+      name: autoload/SpaceVim/layers/ctrlspace.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/git.vim
+      hash: null
+      name: autoload/SpaceVim/layers/git.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/fzf.vim
+      hash: null
+      name: autoload/SpaceVim/layers/fzf.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/fuzzy.vim
+      hash: null
+      name: autoload/SpaceVim/layers/fuzzy.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/vim.vim
+      hash: null
+      name: autoload/SpaceVim/layers/vim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/org.vim
+      hash: null
+      name: autoload/SpaceVim/layers/org.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/chinese.vim
+      hash: null
+      name: autoload/SpaceVim/layers/chinese.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/exprfold.vim
+      hash: null
+      name: autoload/SpaceVim/layers/exprfold.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/lasso.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/lasso.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/pascal.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/pascal.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/fortran.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/fortran.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/hy.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/hy.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/coffeescript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/coffeescript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/pact.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/pact.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/elm.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/elm.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/purescript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/purescript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/splus.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/splus.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/javascript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/javascript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/matlab.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/matlab.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/jr.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/jr.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/xml.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/xml.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/moonscript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/moonscript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/vue.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/vue.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/factor.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/factor.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/wdl.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/wdl.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/nim.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/nim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/extra.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/extra.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/java.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/java.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/rust.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/rust.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/puppet.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/puppet.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/sql.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/sql.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/haskell.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/haskell.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/livescript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/livescript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/solidity.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/solidity.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/io.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/io.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/vbnet.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/vbnet.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/pony.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/pony.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/tcl.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/tcl.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/dockerfile.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/dockerfile.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/postscript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/postscript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/lisp.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/lisp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/fsharp.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/fsharp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/nix.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/nix.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/perl.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/perl.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/scala.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/scala.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/zig.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/zig.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/ruby.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/ruby.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/json.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/json.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/rst.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/rst.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/python.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/python.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/chapel.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/chapel.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/foxpro.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/foxpro.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/powershell.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/powershell.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/xquery.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/xquery.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/reason.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/reason.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/forth.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/forth.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/vim.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/vim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/idris.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/idris.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/markdown.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/markdown.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/racket.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/racket.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/eiffel.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/eiffel.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/erlang.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/erlang.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/swig.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/swig.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/lua.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/lua.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/groovy.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/groovy.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/teal.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/teal.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/org.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/org.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/j.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/j.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/liquid.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/liquid.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/verilog.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/verilog.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/batch.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/batch.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/prolog.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/prolog.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/smalltalk.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/smalltalk.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/elixir.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/elixir.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/kotlin.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/kotlin.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/red.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/red.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/processing.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/processing.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/octave.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/octave.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/janet.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/janet.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/scheme.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/scheme.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/qml.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/qml.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/goby.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/goby.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/latex.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/latex.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/ocaml.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/ocaml.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/aspectj.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/aspectj.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/dart.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/dart.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/sml.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/sml.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/e.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/e.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/r.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/r.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/s.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/s.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/d.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/d.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/wolfram.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/wolfram.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/julia.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/julia.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/fennel.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/fennel.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/autoit.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/autoit.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/ipynb.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/ipynb.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/agda.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/agda.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/php.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/php.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/slim.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/slim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/v.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/v.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/typescript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/typescript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/vala.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/vala.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/actionscript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/actionscript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/c.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/c.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/toml.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/toml.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/autohotkey.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/autohotkey.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/povray.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/povray.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/assembly.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/assembly.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/hack.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/hack.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/rescript.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/rescript.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/supercollider.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/supercollider.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/jsonnet.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/jsonnet.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/swift.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/swift.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/clojure.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/clojure.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/html.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/html.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/cmake.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/cmake.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/crystal.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/crystal.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/go.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/go.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/graphql.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/graphql.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/ring.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/ring.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/asciidoc.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/asciidoc.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/yang.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/yang.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/plantuml.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/plantuml.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/csharp.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/csharp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/gosu.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/gosu.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/haxe.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/haxe.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/sh.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/sh.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/lang/WebAssembly.vim
+      hash: null
+      name: autoload/SpaceVim/layers/lang/WebAssembly.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/format.vim
+      hash: null
+      name: autoload/SpaceVim/layers/format.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/sudo.vim
+      hash: null
+      name: autoload/SpaceVim/layers/sudo.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/core.vim
+      hash: null
+      name: autoload/SpaceVim/layers/core.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/tmux.vim
+      hash: null
+      name: autoload/SpaceVim/layers/tmux.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/checkers.vim
+      hash: null
+      name: autoload/SpaceVim/layers/checkers.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/gtags.vim
+      hash: null
+      name: autoload/SpaceVim/layers/gtags.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/chat.vim
+      hash: null
+      name: autoload/SpaceVim/layers/chat.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/autocomplete.vim
+      hash: null
+      name: autoload/SpaceVim/layers/autocomplete.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/treesitter.vim
+      hash: null
+      name: autoload/SpaceVim/layers/treesitter.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/floobits.vim
+      hash: null
+      name: autoload/SpaceVim/layers/floobits.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/ui.vim
+      hash: null
+      name: autoload/SpaceVim/layers/ui.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/unite.vim
+      hash: null
+      name: autoload/SpaceVim/layers/unite.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/incsearch.vim
+      hash: null
+      name: autoload/SpaceVim/layers/incsearch.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/edit.vim
+      hash: null
+      name: autoload/SpaceVim/layers/edit.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/leaderf.vim
+      hash: null
+      name: autoload/SpaceVim/layers/leaderf.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/zettelkasten.vim
+      hash: null
+      name: autoload/SpaceVim/layers/zettelkasten.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/ssh.vim
+      hash: null
+      name: autoload/SpaceVim/layers/ssh.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/VersionControl.vim
+      hash: null
+      name: autoload/SpaceVim/layers/VersionControl.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/colorscheme.vim
+      hash: null
+      name: autoload/SpaceVim/layers/colorscheme.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/indentmove.vim
+      hash: null
+      name: autoload/SpaceVim/layers/indentmove.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/test.vim
+      hash: null
+      name: autoload/SpaceVim/layers/test.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/operator.vim
+      hash: null
+      name: autoload/SpaceVim/layers/operator.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers/ctrlp.vim
+      hash: null
+      name: autoload/SpaceVim/layers/ctrlp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/bin/get_complete
+      hash: null
+      name: autoload/SpaceVim/bin/get_complete
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/bin/complete
+      hash: null
+      name: autoload/SpaceVim/bin/complete
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/health.vim
+      hash: null
+      name: autoload/SpaceVim/health.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/pmd.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/pmd.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/todo.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/todo.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/highlight.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/highlight.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/tasks.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/tasks.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/foldsearch.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/foldsearch.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/flygrep.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/flygrep.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/helpgrep.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/helpgrep.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/searcher.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/searcher.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/iedit.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/iedit.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/tabmanager.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/tabmanager.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/pastebin.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/pastebin.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/runner.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/runner.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/sidebar.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/sidebar.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/scrollbar.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/scrollbar.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/autosave.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/autosave.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/a.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/a.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/mkdir.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/mkdir.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/gitcommit.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/gitcommit.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/repl.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/repl.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/manager.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/manager.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/help.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/help.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/quickfix.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/quickfix.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/windisk.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/windisk.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/bashcomplete.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/bashcomplete.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/find.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/find.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/history.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/history.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/projectmanager.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/projectmanager.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/ctrlg.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/ctrlg.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/plugins/windowsmanager.vim
+      hash: null
+      name: autoload/SpaceVim/plugins/windowsmanager.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/health/clipboard.vim
+      hash: null
+      name: autoload/SpaceVim/health/clipboard.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/health/python.vim
+      hash: null
+      name: autoload/SpaceVim/health/python.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/health/lua.vim
+      hash: null
+      name: autoload/SpaceVim/health/lua.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/health/environment.vim
+      hash: null
+      name: autoload/SpaceVim/health/environment.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/custom.vim
+      hash: null
+      name: autoload/SpaceVim/custom.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/server.vim
+      hash: null
+      name: autoload/SpaceVim/server.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/layers.vim
+      hash: null
+      name: autoload/SpaceVim/layers.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/logger.vim
+      hash: null
+      name: autoload/SpaceVim/logger.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/autocmds.vim
+      hash: null
+      name: autoload/SpaceVim/autocmds.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/default.vim
+      hash: null
+      name: autoload/SpaceVim/default.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api.vim
+      hash: null
+      name: autoload/SpaceVim/api.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/system.vim
+      hash: null
+      name: autoload/SpaceVim/api/system.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/tab.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/tab.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/highlight.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/highlight.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/compatible.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/compatible.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/key.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/key.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/regex.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/regex.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/statusline.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/statusline.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/signatures.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/signatures.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/message.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/message.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/command.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/command.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/sid.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/sid.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/mapping.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/mapping.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/buffer.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/buffer.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/floating.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/floating.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim/window.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim/window.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/file.vim
+      hash: null
+      name: autoload/SpaceVim/api/file.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1254.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1254.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp775.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp775.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1255.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1255.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1257.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1257.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp950.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp950.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1256.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1256.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1252.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1252.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1253.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1253.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1251.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1251.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1250.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1250.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/utf8.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/utf8.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp500.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp500.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp850.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp850.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp852.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp852.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp932.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp932.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/utf32be.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/utf32be.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp857.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp857.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/utf16.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/utf16.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp936.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp936.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/utf16be.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/utf16be.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1026.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1026.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_8.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_8.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/tablebase.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/tablebase.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_9.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_9.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp855.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp855.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp869.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp869.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp864.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp864.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_4.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_4.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp737.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp737.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_14.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_14.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_15.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_15.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_5.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_5.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp865.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp865.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_7.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_7.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/utf32.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/utf32.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_16.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_16.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_6.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_6.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp866.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp866.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_2.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_2.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp862.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp862.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_euc_jp.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_euc_jp.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_13.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_13.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp863.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp863.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_3.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_3.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/utf16le.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/utf16le.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_1.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_1.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp875.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp875.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp861.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp861.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_11.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_11.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_8859_10.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_8859_10.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp860.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp860.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp874.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp874.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/utf32le.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/utf32le.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/ascii.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/ascii.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp437.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp437.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/base.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/base.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp949.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp949.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/error.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/error.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp1258.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp1258.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/codecs/_cp037.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/codecs/_cp037.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv/bytes.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv/bytes.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/unicode/spinners.vim
+      hash: null
+      name: autoload/SpaceVim/api/unicode/spinners.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/unicode/icon.vim
+      hash: null
+      name: autoload/SpaceVim/api/unicode/icon.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/unicode/box.vim
+      hash: null
+      name: autoload/SpaceVim/api/unicode/box.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/unicode/tree.vim
+      hash: null
+      name: autoload/SpaceVim/api/unicode/tree.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/web/xml.vim
+      hash: null
+      name: autoload/SpaceVim/api/web/xml.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/web/http.vim
+      hash: null
+      name: autoload/SpaceVim/api/web/http.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/web/html.vim
+      hash: null
+      name: autoload/SpaceVim/api/web/html.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/messletters.vim
+      hash: null
+      name: autoload/SpaceVim/api/messletters.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/transient_state.vim
+      hash: null
+      name: autoload/SpaceVim/api/transient_state.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/time.vim
+      hash: null
+      name: autoload/SpaceVim/api/time.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/prompt.vim
+      hash: null
+      name: autoload/SpaceVim/api/prompt.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/vim.vim
+      hash: null
+      name: autoload/SpaceVim/api/vim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/logger.vim
+      hash: null
+      name: autoload/SpaceVim/api/logger.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/bash/complete.vim
+      hash: null
+      name: autoload/SpaceVim/api/bash/complete.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/cmdlinemenu.vim
+      hash: null
+      name: autoload/SpaceVim/api/cmdlinemenu.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/job.vim
+      hash: null
+      name: autoload/SpaceVim/api/job.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/clock.vim
+      hash: null
+      name: autoload/SpaceVim/api/clock.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/language.vim
+      hash: null
+      name: autoload/SpaceVim/api/language.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/iconv.vim
+      hash: null
+      name: autoload/SpaceVim/api/iconv.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/neovim/gui.vim
+      hash: null
+      name: autoload/SpaceVim/api/neovim/gui.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/neovim/version.vim
+      hash: null
+      name: autoload/SpaceVim/api/neovim/version.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/neovim/floating.vim
+      hash: null
+      name: autoload/SpaceVim/api/neovim/floating.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/color.vim
+      hash: null
+      name: autoload/SpaceVim/api/color.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/notify.vim
+      hash: null
+      name: autoload/SpaceVim/api/notify.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/data/list.vim
+      hash: null
+      name: autoload/SpaceVim/api/data/list.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/data/json.vim
+      hash: null
+      name: autoload/SpaceVim/api/data/json.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/data/number.vim
+      hash: null
+      name: autoload/SpaceVim/api/data/number.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/data/base64.vim
+      hash: null
+      name: autoload/SpaceVim/api/data/base64.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/data/toml.vim
+      hash: null
+      name: autoload/SpaceVim/api/data/toml.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/data/dict.vim
+      hash: null
+      name: autoload/SpaceVim/api/data/dict.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/data/string.vim
+      hash: null
+      name: autoload/SpaceVim/api/data/string.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/data/quopri.vim
+      hash: null
+      name: autoload/SpaceVim/api/data/quopri.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/api/password.vim
+      hash: null
+      name: autoload/SpaceVim/api/password.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/util.vim
+      hash: null
+      name: autoload/SpaceVim/util.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/commands/debug.vim
+      hash: null
+      name: autoload/SpaceVim/commands/debug.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/options.vim
+      hash: null
+      name: autoload/SpaceVim/options.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/mapping.vim
+      hash: null
+      name: autoload/SpaceVim/mapping.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/SpaceVim/commands.vim
+      hash: null
+      name: autoload/SpaceVim/commands.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/leaderf/colorscheme/SpaceVim.vim
+      hash: null
+      name: autoload/leaderf/colorscheme/SpaceVim.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/autoload/airline/extensions/tabline/formatters/spacevim.vim
+      hash: null
+      name: autoload/airline/extensions/tabline/formatters/spacevim.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/colors/SpaceVim.vim
+      hash: null
+      name: colors/SpaceVim.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/doc/SpaceVim.cnx
+      hash: null
+      name: doc/SpaceVim.cnx
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/doc/SpaceVim.txt
+      hash: null
+      name: doc/SpaceVim.txt
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/ftplugin/SpaceVimTabsManager.vim
+      hash: null
+      name: ftplugin/SpaceVimTabsManager.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/ftplugin/SpaceVimPlugManager.vim
+      hash: null
+      name: ftplugin/SpaceVimPlugManager.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/ftplugin/SpaceVimLayerManager.vim
+      hash: null
+      name: ftplugin/SpaceVimLayerManager.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim.lua
+      hash: null
+      name: lua/spacevim.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/config/nvim-cmp.lua
+      hash: null
+      name: lua/config/nvim-cmp.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/config/neo-tree.lua
+      hash: null
+      name: lua/config/neo-tree.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/telescope/_extensions/neoyank.lua
+      hash: null
+      name: lua/telescope/_extensions/neoyank.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/telescope/_extensions/task.lua
+      hash: null
+      name: lua/telescope/_extensions/task.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/telescope/_extensions/project.lua
+      hash: null
+      name: lua/telescope/_extensions/project.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/telescope/_extensions/neomru.lua
+      hash: null
+      name: lua/telescope/_extensions/neomru.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/telescope/_extensions/scriptnames.lua
+      hash: null
+      name: lua/telescope/_extensions/scriptnames.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/telescope/_extensions/messages.lua
+      hash: null
+      name: lua/telescope/_extensions/messages.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/telescope/_extensions/bookmarks.lua
+      hash: null
+      name: lua/telescope/_extensions/bookmarks.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/logger.lua
+      hash: null
+      name: lua/spacevim/logger.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/diagnostic.lua
+      hash: null
+      name: lua/spacevim/diagnostic.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/autocmds.lua
+      hash: null
+      name: lua/spacevim/autocmds.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/iedit.lua
+      hash: null
+      name: lua/spacevim/plugin/iedit.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/tabline.lua
+      hash: null
+      name: lua/spacevim/plugin/tabline.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/searcher.lua
+      hash: null
+      name: lua/spacevim/plugin/searcher.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/record-key.lua
+      hash: null
+      name: lua/spacevim/plugin/record-key.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/statusline.lua
+      hash: null
+      name: lua/spacevim/plugin/statusline.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/flygrep.lua
+      hash: null
+      name: lua/spacevim/plugin/flygrep.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/guide.lua
+      hash: null
+      name: lua/spacevim/plugin/guide.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/tasks.lua
+      hash: null
+      name: lua/spacevim/plugin/tasks.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/todo.lua
+      hash: null
+      name: lua/spacevim/plugin/todo.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/search.lua
+      hash: null
+      name: lua/spacevim/plugin/search.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/projectmanager.lua
+      hash: null
+      name: lua/spacevim/plugin/projectmanager.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/windisk.lua
+      hash: null
+      name: lua/spacevim/plugin/windisk.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/tomlprew.lua
+      hash: null
+      name: lua/spacevim/plugin/tomlprew.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/repl.lua
+      hash: null
+      name: lua/spacevim/plugin/repl.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/a.lua
+      hash: null
+      name: lua/spacevim/plugin/a.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/mkdir.lua
+      hash: null
+      name: lua/spacevim/plugin/mkdir.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/autosave.lua
+      hash: null
+      name: lua/spacevim/plugin/autosave.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/scrollbar.lua
+      hash: null
+      name: lua/spacevim/plugin/scrollbar.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/pastebin.lua
+      hash: null
+      name: lua/spacevim/plugin/pastebin.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/runner.lua
+      hash: null
+      name: lua/spacevim/plugin/runner.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/logevents.lua
+      hash: null
+      name: lua/spacevim/plugin/logevents.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugin/hop.lua
+      hash: null
+      name: lua/spacevim/plugin/hop.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/plugins.lua
+      hash: null
+      name: lua/spacevim/plugins.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/lsp.lua
+      hash: null
+      name: lua/spacevim/lsp.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/layer.lua
+      hash: null
+      name: lua/spacevim/layer.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/layer/core/tabline.lua
+      hash: null
+      name: lua/spacevim/layer/core/tabline.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/layer/lang/java.lua
+      hash: null
+      name: lua/spacevim/layer/lang/java.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/layer/core.lua
+      hash: null
+      name: lua/spacevim/layer/core.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/statusline.lua
+      hash: null
+      name: lua/spacevim/api/vim/statusline.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/keys.lua
+      hash: null
+      name: lua/spacevim/api/vim/keys.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/regex.lua
+      hash: null
+      name: lua/spacevim/api/vim/regex.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/compatible.lua
+      hash: null
+      name: lua/spacevim/api/vim/compatible.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/option.lua
+      hash: null
+      name: lua/spacevim/api/vim/option.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/highlight.lua
+      hash: null
+      name: lua/spacevim/api/vim/highlight.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/floating.lua
+      hash: null
+      name: lua/spacevim/api/vim/floating.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/window.lua
+      hash: null
+      name: lua/spacevim/api/vim/window.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/buffer.lua
+      hash: null
+      name: lua/spacevim/api/vim/buffer.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/command.lua
+      hash: null
+      name: lua/spacevim/api/vim/command.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim/argv.lua
+      hash: null
+      name: lua/spacevim/api/vim/argv.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/logger.lua
+      hash: null
+      name: lua/spacevim/api/logger.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/vim.lua
+      hash: null
+      name: lua/spacevim/api/vim.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/prompt.lua
+      hash: null
+      name: lua/spacevim/api/prompt.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/time.lua
+      hash: null
+      name: lua/spacevim/api/time.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/euc_jp_previous.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/euc_jp_previous.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp949_next.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp949_next.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp949_back.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp949_back.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp932_back.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp932_back.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp936_previous.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp936_previous.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/euc_jp_back.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/euc_jp_back.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp949.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp949.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp932_next.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp932_next.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/euc_jp_next.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/euc_jp_next.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp950.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp950.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp932_previous.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp932_previous.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp936_back.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp936_back.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp950_previous.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp950_previous.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp936_next.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp936_next.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/euc_jp.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/euc_jp.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp932.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp932.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp950_back.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp950_back.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp936.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp936.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp949_previous.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp949_previous.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv/codecs/cp950_next.lua
+      hash: null
+      name: lua/spacevim/api/iconv/codecs/cp950_next.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/messletters.lua
+      hash: null
+      name: lua/spacevim/api/messletters.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/unicode/spinners.lua
+      hash: null
+      name: lua/spacevim/api/unicode/spinners.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/file.lua
+      hash: null
+      name: lua/spacevim/api/file.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/neojob.lua
+      hash: null
+      name: lua/spacevim/api/neojob.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/system.lua
+      hash: null
+      name: lua/spacevim/api/system.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/password.lua
+      hash: null
+      name: lua/spacevim/api/password.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/notify.lua
+      hash: null
+      name: lua/spacevim/api/notify.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/color.lua
+      hash: null
+      name: lua/spacevim/api/color.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/iconv.lua
+      hash: null
+      name: lua/spacevim/api/iconv.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/language.lua
+      hash: null
+      name: lua/spacevim/api/language.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/job.lua
+      hash: null
+      name: lua/spacevim/api/job.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/neovim/floating.lua
+      hash: null
+      name: lua/spacevim/api/neovim/floating.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/data/json.lua
+      hash: null
+      name: lua/spacevim/api/data/json.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/data/list.lua
+      hash: null
+      name: lua/spacevim/api/data/list.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/data/string.lua
+      hash: null
+      name: lua/spacevim/api/data/string.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/data/dict.lua
+      hash: null
+      name: lua/spacevim/api/data/dict.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/data/toml.lua
+      hash: null
+      name: lua/spacevim/api/data/toml.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api/cmdlinemenu.lua
+      hash: null
+      name: lua/spacevim/api/cmdlinemenu.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/command.lua
+      hash: null
+      name: lua/spacevim/command.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/api.lua
+      hash: null
+      name: lua/spacevim/api.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/treesitter.lua
+      hash: null
+      name: lua/spacevim/treesitter.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/default.lua
+      hash: null
+      name: lua/spacevim/default.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/spacevim/opt.lua
+      hash: null
+      name: lua/spacevim/opt.lua
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/lua/easing.lua
+      hash: null
+      name: lua/easing.lua
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimTabsManager.vim
+      hash: null
+      name: syntax/SpaceVimTabsManager.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimGitLogPopup.vim
+      hash: null
+      name: syntax/SpaceVimGitLogPopup.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimTasksInfo.vim
+      hash: null
+      name: syntax/SpaceVimTasksInfo.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimFindArgv.vim
+      hash: null
+      name: syntax/SpaceVimFindArgv.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimQuickFix.vim
+      hash: null
+      name: syntax/SpaceVimQuickFix.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimGitRemoteManager.vim
+      hash: null
+      name: syntax/SpaceVimGitRemoteManager.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimLog.vim
+      hash: null
+      name: syntax/SpaceVimLog.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimTodoManager.vim
+      hash: null
+      name: syntax/SpaceVimTodoManager.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimPlugManager.vim
+      hash: null
+      name: syntax/SpaceVimPlugManager.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/syntax/leaderGuide.vim
+      hash: null
+      name: syntax/leaderGuide.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimREPL.vim
+      hash: null
+      name: syntax/SpaceVimREPL.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/syntax/HelpDescribe.vim
+      hash: null
+      name: syntax/HelpDescribe.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimFlyGrep.vim
+      hash: null
+      name: syntax/SpaceVimFlyGrep.vim
+    - url: >-
+        https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimLayerManager.vim
+      hash: null
+      name: syntax/SpaceVimLayerManager.vim
+    - url: https://github.com/wsdjeg/SpaceVim/blob/master/syntax/SpaceVimRunner.vim
+      hash: null
+      name: syntax/SpaceVimRunner.vim
+  part: null
   other: null
