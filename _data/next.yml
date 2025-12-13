@@ -1,5 +1,5 @@
-- id: 701
-  date: 2025-12-13 23:00
+- id: 702
+  date: 2025-12-20 23:00
   author:
     name: wsdjeg
     url: https://github.com/wsdjeg
@@ -2256,5 +2256,5 @@
         https://github.com/wsdjeg/SpaceVim/blob/eed9d8f14951d9802665aa3429e449b71bb15a3a/syntax/SpaceVimRunner.vim
       hash: eed9d8f14951d9802665aa3429e449b71bb15a3a
       name: syntax/SpaceVimRunner.vim
-  part: 中編
+  part: 後編
   other: null
