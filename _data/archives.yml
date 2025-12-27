@@ -88826,3 +88826,209 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$vXxbQ09UghJGTuXnN6bF0RoyVG5nZZf2oXPpIpSFOA8
+- id: 703
+  date: 2025-12-27 23:00
+  author:
+    name: ryugen04
+    url: https://github.com/ryugen04
+  vimrcs:
+    - name: snippets/all.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/snippets/all.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/snippets/all.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: init.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/init.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/core/indent.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/indent.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/indent.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/core/keys.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/keys.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/keys.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/core/env.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/env.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/env.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/core/commands.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/commands.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/commands.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/core/options.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/options.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/core/options.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/init.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/init.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/init.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/ui/init.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/ui/init.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/ui/init.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/ui/statusline.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/ui/statusline.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/ui/statusline.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/ui/colorscheme.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/ui/colorscheme.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/ui/colorscheme.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/ui/tree.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/ui/tree.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/ui/tree.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/tools/git.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/git.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/git.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/tools/telescope.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/telescope.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/telescope.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/tools/clipboard.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/clipboard.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/clipboard.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/tools/auto-session.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/auto-session.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/auto-session.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/tools/whichkey.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/whichkey.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/whichkey.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/tools/toggleterm.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/toggleterm.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/tools/toggleterm.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/lang/markdown.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/markdown.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/markdown.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/lang/flutter.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/flutter.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/flutter.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/lang/java.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/java.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/java.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/lang/java-dap.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/java-dap.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/java-dap.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/lang/kotlin.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/kotlin.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/lang/kotlin.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/dap-ui.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/dap-ui.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/dap-ui.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/lsp-performance.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/lsp-performance.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/lsp-performance.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/trouble.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/trouble.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/trouble.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/test.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/test.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/test.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/luasnip.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/luasnip.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/luasnip.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/cmp.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/cmp.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/cmp.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/treesitter.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/treesitter.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/dap.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/dap.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/dap.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/ai.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/ai.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/ai.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/format.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/format.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/format.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/mason.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/mason.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/mason.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/coding/performance-tips.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/performance-tips.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/coding/performance-tips.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/editor/init.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/init.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/init.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/editor/flash.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/flash.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/flash.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/editor/bigfile.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/bigfile.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/bigfile.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/editor/matchup.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/matchup.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/matchup.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/editor/dial.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/dial.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/dial.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/editor/comment.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/comment.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/comment.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/editor/kitty-navigator.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/kitty-navigator.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/kitty-navigator.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/plugins/configs/editor/hop.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/hop.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/plugins/configs/editor/hop.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/commaands/doc_generate.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/commaands/doc_generate.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/commaands/doc_generate.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lua/jacoco.lua
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/jacoco.lua
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lua/jacoco.lua
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: lazy-lock.json
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lazy-lock.json
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/lazy-lock.json
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: README.md
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/README.md
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/README.md
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+    - name: .luarc.json
+      url: https://github.com/ryugen04/dotfiles/blob/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/.luarc.json
+      raw_url: https://raw.githubusercontent.com/ryugen04/dotfiles/66e2bcaec6976d477794152084fc012c2ac05207/packages/nvim/.config/nvim/.luarc.json
+      hash: 66e2bcaec6976d477794152084fc012c2ac05207
+  part: null
+  other: null
+  members:
+    - Hakkadaikon
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$Ri_QB1pjiWtJJYwvZrIhbAjkwXZu5e7p9zFprd94teQ
