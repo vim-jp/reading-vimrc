@@ -89032,3 +89032,25 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$Ri_QB1pjiWtJJYwvZrIhbAjkwXZu5e7p9zFprd94teQ
+- id: 704
+  date: 2026-01-03 23:00
+  author:
+    name: kennypete
+    url: https://github.com/kennypete
+  vimrcs:
+    - name: .vimrc
+      url: https://github.com/kennypete/.vimrc/blob/56679696616af1d9b5b9fdad680dc0edf5aae394/.vimrc
+      raw_url: https://raw.githubusercontent.com/kennypete/.vimrc/56679696616af1d9b5b9fdad680dc0edf5aae394/.vimrc
+      hash: 56679696616af1d9b5b9fdad680dc0edf5aae394
+    - name: .gvimrc
+      url: https://github.com/kennypete/.vimrc/blob/56679696616af1d9b5b9fdad680dc0edf5aae394/.gvimrc
+      raw_url: https://raw.githubusercontent.com/kennypete/.vimrc/56679696616af1d9b5b9fdad680dc0edf5aae394/.gvimrc
+      hash: 56679696616af1d9b5b9fdad680dc0edf5aae394
+  part: null
+  other: null
+  members:
+    - Hakkadaikon
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$5KZ-_u_I8Gr103xLuKDxK6Tu0ZyS2GPsD6mqMoh2DV8
