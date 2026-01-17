@@ -1,16 +1,477 @@
-- id: 705
-  date: 2026-01-10 23:00
+- id: 706
+  date: 2026-01-17 23:00
   author:
-    name: kennypete
-    url: https://github.com/kennypete
+    name: christoomey
+    url: https://github.com/christoomey
   vimrcs:
     - url: >-
-        https://github.com/kennypete/.vimrc/blob/56679696616af1d9b5b9fdad680dc0edf5aae394/.vimrc
-      hash: 56679696616af1d9b5b9fdad680dc0edf5aae394
-      name: .vimrc
+        https://github.com/christoomey/dotfiles/blob/master/vim/ftplugin/scss.vim
+      hash: null
+      name: vim/ftplugin/scss.vim
     - url: >-
-        https://github.com/kennypete/.vimrc/blob/56679696616af1d9b5b9fdad680dc0edf5aae394/.gvimrc
-      hash: 56679696616af1d9b5b9fdad680dc0edf5aae394
-      name: .gvimrc
-  part: 後編
+        https://github.com/christoomey/dotfiles/blob/master/vim/ftplugin/ruby.vim
+      hash: null
+      name: vim/ftplugin/ruby.vim
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/ftplugin/svelte.vim
+      hash: null
+      name: vim/ftplugin/svelte.vim
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/coc-settings.json
+      hash: null
+      name: vim/coc-settings.json
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/ftdetect/dotenv.vim
+      hash: null
+      name: vim/ftdetect/dotenv.vim
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/init.vim
+      hash: null
+      name: vim/init.vim
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/vimrc
+      hash: null
+      name: vim/vimrc
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/trusted-local
+      hash: null
+      name: vim/rcfiles/trusted-local
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/folding
+      hash: null
+      name: vim/rcfiles/folding
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/search-and-replace
+      hash: null
+      name: vim/rcfiles/search-and-replace
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/general
+      hash: null
+      name: vim/rcfiles/general
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/tabs-windows
+      hash: null
+      name: vim/rcfiles/tabs-windows
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/project-notes
+      hash: null
+      name: vim/rcfiles/project-notes
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/completion
+      hash: null
+      name: vim/rcfiles/completion
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/html
+      hash: null
+      name: vim/rcfiles/html
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/todo
+      hash: null
+      name: vim/rcfiles/todo
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/vlc
+      hash: null
+      name: vim/rcfiles/vlc
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/visual
+      hash: null
+      name: vim/rcfiles/visual
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/chrome
+      hash: null
+      name: vim/rcfiles/chrome
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/help-files
+      hash: null
+      name: vim/rcfiles/help-files
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/convenience
+      hash: null
+      name: vim/rcfiles/convenience
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/prose
+      hash: null
+      name: vim/rcfiles/prose
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcfiles/git
+      hash: null
+      name: vim/rcfiles/git
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/arglist-thank-you-next
+      hash: null
+      name: vim/rcplugins/arglist-thank-you-next
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/spec-runner
+      hash: null
+      name: vim/rcplugins/spec-runner
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/trusted-local
+      hash: null
+      name: vim/rcplugins/trusted-local
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/repeat
+      hash: null
+      name: vim/rcplugins/repeat
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/vip
+      hash: null
+      name: vim/rcplugins/vip
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/exchange
+      hash: null
+      name: vim/rcplugins/exchange
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/svelte
+      hash: null
+      name: vim/rcplugins/svelte
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/text-objects
+      hash: null
+      name: vim/rcplugins/text-objects
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/html5
+      hash: null
+      name: vim/rcplugins/html5
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/tmux-navigator
+      hash: null
+      name: vim/rcplugins/tmux-navigator
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/lightline
+      hash: null
+      name: vim/rcplugins/lightline
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/file-line
+      hash: null
+      name: vim/rcplugins/file-line
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/rsi
+      hash: null
+      name: vim/rcplugins/rsi
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/fugitive
+      hash: null
+      name: vim/rcplugins/fugitive
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/markdown
+      hash: null
+      name: vim/rcplugins/markdown
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/typescript
+      hash: null
+      name: vim/rcplugins/typescript
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/quicklink
+      hash: null
+      name: vim/rcplugins/quicklink
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/rake
+      hash: null
+      name: vim/rcplugins/rake
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/vinegar
+      hash: null
+      name: vim/rcplugins/vinegar
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/eunuch
+      hash: null
+      name: vim/rcplugins/eunuch
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/golden-ratio
+      hash: null
+      name: vim/rcplugins/golden-ratio
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/gsub
+      hash: null
+      name: vim/rcplugins/gsub
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/github-colorscheme
+      hash: null
+      name: vim/rcplugins/github-colorscheme
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/abolish
+      hash: null
+      name: vim/rcplugins/abolish
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/easy-align
+      hash: null
+      name: vim/rcplugins/easy-align
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/better-whitespace
+      hash: null
+      name: vim/rcplugins/better-whitespace
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/emmet
+      hash: null
+      name: vim/rcplugins/emmet
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/projectionist
+      hash: null
+      name: vim/rcplugins/projectionist
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/commentary
+      hash: null
+      name: vim/rcplugins/commentary
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/jellybeans
+      hash: null
+      name: vim/rcplugins/jellybeans
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/conflicted
+      hash: null
+      name: vim/rcplugins/conflicted
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/markdown-header-mappings
+      hash: null
+      name: vim/rcplugins/markdown-header-mappings
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/polyglot
+      hash: null
+      name: vim/rcplugins/polyglot
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/json
+      hash: null
+      name: vim/rcplugins/json
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/auto-pairs.vim
+      hash: null
+      name: vim/rcplugins/auto-pairs.vim
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/scala
+      hash: null
+      name: vim/rcplugins/scala
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/graphql
+      hash: null
+      name: vim/rcplugins/graphql
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/display-table-name
+      hash: null
+      name: vim/rcplugins/display-table-name
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/rhubarb
+      hash: null
+      name: vim/rcplugins/rhubarb
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/visual-star-search
+      hash: null
+      name: vim/rcplugins/visual-star-search
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/system-copy
+      hash: null
+      name: vim/rcplugins/system-copy
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/mkdir
+      hash: null
+      name: vim/rcplugins/mkdir
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/tmux-runner
+      hash: null
+      name: vim/rcplugins/tmux-runner
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/lexima.vim
+      hash: null
+      name: vim/rcplugins/lexima.vim
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/titlecase
+      hash: null
+      name: vim/rcplugins/titlecase
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/unimpaired
+      hash: null
+      name: vim/rcplugins/unimpaired
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/fzf-branch-files
+      hash: null
+      name: vim/rcplugins/fzf-branch-files
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/sort-motion
+      hash: null
+      name: vim/rcplugins/sort-motion
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/javascript
+      hash: null
+      name: vim/rcplugins/javascript
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/replace-with-register
+      hash: null
+      name: vim/rcplugins/replace-with-register
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/goyo-limelight-writing
+      hash: null
+      name: vim/rcplugins/goyo-limelight-writing
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/surround
+      hash: null
+      name: vim/rcplugins/surround
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/endwise
+      hash: null
+      name: vim/rcplugins/endwise
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/coc
+      hash: null
+      name: vim/rcplugins/coc
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/rfactory
+      hash: null
+      name: vim/rcplugins/rfactory
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/one-colorscheme
+      hash: null
+      name: vim/rcplugins/one-colorscheme
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/ack
+      hash: null
+      name: vim/rcplugins/ack
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/ruby
+      hash: null
+      name: vim/rcplugins/ruby
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/vim-pad
+      hash: null
+      name: vim/rcplugins/vim-pad
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/fzf
+      hash: null
+      name: vim/rcplugins/fzf
+    - url: https://github.com/christoomey/dotfiles/blob/master/vim/rcplugins/css3
+      hash: null
+      name: vim/rcplugins/css3
+    - url: https://github.com/christoomey/dotfiles/blob/master/nvim/init.lua
+      hash: null
+      name: nvim/init.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/config/basic.lua
+      hash: null
+      name: nvim/lua/config/basic.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/config/lazy.lua
+      hash: null
+      name: nvim/lua/config/lazy.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/config/legacy.lua
+      hash: null
+      name: nvim/lua/config/legacy.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/oil.lua
+      hash: null
+      name: nvim/lua/plugins/oil.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/focus.lua
+      hash: null
+      name: nvim/lua/plugins/focus.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/tmux-nagivator.lua
+      hash: null
+      name: nvim/lua/plugins/tmux-nagivator.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/catppuccin.lua
+      hash: null
+      name: nvim/lua/plugins/catppuccin.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/trusted-local.lua
+      hash: null
+      name: nvim/lua/plugins/trusted-local.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/autopairs.lua
+      hash: null
+      name: nvim/lua/plugins/autopairs.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/telescope.lua
+      hash: null
+      name: nvim/lua/plugins/telescope.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/treesitter-endwise.lua
+      hash: null
+      name: nvim/lua/plugins/treesitter-endwise.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/replace-with-register.lua
+      hash: null
+      name: nvim/lua/plugins/replace-with-register.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/nvim-cmp.lua
+      hash: null
+      name: nvim/lua/plugins/nvim-cmp.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/scala-metals.lua
+      hash: null
+      name: nvim/lua/plugins/scala-metals.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/todo-comments.lua
+      hash: null
+      name: nvim/lua/plugins/todo-comments.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/custom-text-objects.lua
+      hash: null
+      name: nvim/lua/plugins/custom-text-objects.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/jellybeans.lua
+      hash: null
+      name: nvim/lua/plugins/jellybeans.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/system-copy.lua
+      hash: null
+      name: nvim/lua/plugins/system-copy.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/fugitive.lua
+      hash: null
+      name: nvim/lua/plugins/fugitive.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/unimpaired.lua
+      hash: null
+      name: nvim/lua/plugins/unimpaired.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/nvim-lspconfig.lua
+      hash: null
+      name: nvim/lua/plugins/nvim-lspconfig.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/telescope-git-branch.lua
+      hash: null
+      name: nvim/lua/plugins/telescope-git-branch.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/rhubarb.lua
+      hash: null
+      name: nvim/lua/plugins/rhubarb.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/comment.lua
+      hash: null
+      name: nvim/lua/plugins/comment.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/conform.lua
+      hash: null
+      name: nvim/lua/plugins/conform.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/mini.lua
+      hash: null
+      name: nvim/lua/plugins/mini.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/tmux-runner.lua
+      hash: null
+      name: nvim/lua/plugins/tmux-runner.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/which-key.lua
+      hash: null
+      name: nvim/lua/plugins/which-key.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/react-extract.lua
+      hash: null
+      name: nvim/lua/plugins/react-extract.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/treesitter.lua
+      hash: null
+      name: nvim/lua/plugins/treesitter.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/surround.lua
+      hash: null
+      name: nvim/lua/plugins/surround.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/vim-sleuth.lua
+      hash: null
+      name: nvim/lua/plugins/vim-sleuth.lua
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/lua/plugins/rsi.lua
+      hash: null
+      name: nvim/lua/plugins/rsi.lua
+    - url: https://github.com/christoomey/dotfiles/blob/master/nvim/.gitignore
+      hash: null
+      name: nvim/.gitignore
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/doc/kickstart.txt
+      hash: null
+      name: nvim/doc/kickstart.txt
+    - url: https://github.com/christoomey/dotfiles/blob/master/nvim/.stylua.toml
+      hash: null
+      name: nvim/.stylua.toml
+    - url: https://github.com/christoomey/dotfiles/blob/master/nvim/rcfiles/folding
+      hash: null
+      name: nvim/rcfiles/folding
+    - url: >-
+        https://github.com/christoomey/dotfiles/blob/master/nvim/rcfiles/project-notes
+      hash: null
+      name: nvim/rcfiles/project-notes
+    - url: https://github.com/christoomey/dotfiles/blob/master/nvim/rcfiles/todo
+      hash: null
+      name: nvim/rcfiles/todo
+    - url: https://github.com/christoomey/dotfiles/blob/master/nvim/rcfiles/search
+      hash: null
+      name: nvim/rcfiles/search
+    - url: https://github.com/christoomey/dotfiles/blob/master/nvim/rcfiles/chrome
+      hash: null
+      name: nvim/rcfiles/chrome
+  part: null
   other: null
