@@ -89595,3 +89595,520 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$9xfoFzKfPEVHfCMA_nXDhDefyn9rOy97mDVuUXSNfB4
+- id: 707
+  date: 2026-01-24 23:00
+  author:
+    name: christoomey
+    url: https://github.com/christoomey
+  vimrcs:
+    - name: vim/ftplugin/scss.vim
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/ftplugin/scss.vim
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/ftplugin/scss.vim
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/ftplugin/ruby.vim
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/ftplugin/ruby.vim
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/ftplugin/ruby.vim
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/ftplugin/svelte.vim
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/ftplugin/svelte.vim
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/ftplugin/svelte.vim
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/coc-settings.json
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/coc-settings.json
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/ftdetect/dotenv.vim
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/ftdetect/dotenv.vim
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/ftdetect/dotenv.vim
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/init.vim
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/init.vim
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/init.vim
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/vimrc
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/vimrc
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/vimrc
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/trusted-local
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/trusted-local
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/trusted-local
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/folding
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/folding
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/folding
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/search-and-replace
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/search-and-replace
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/search-and-replace
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/general
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/general
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/general
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/tabs-windows
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/tabs-windows
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/tabs-windows
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/project-notes
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/project-notes
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/project-notes
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/completion
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/completion
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/completion
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/html
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/html
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/html
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/todo
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/todo
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/todo
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/vlc
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/vlc
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/vlc
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/visual
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/visual
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/visual
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/chrome
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/chrome
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/chrome
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/help-files
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/help-files
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/help-files
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/convenience
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/convenience
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/convenience
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/prose
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/prose
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/prose
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcfiles/git
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/git
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcfiles/git
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/arglist-thank-you-next
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/arglist-thank-you-next
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/arglist-thank-you-next
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/spec-runner
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/spec-runner
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/spec-runner
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/trusted-local
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/trusted-local
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/trusted-local
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/repeat
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/repeat
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/repeat
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/vip
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/vip
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/vip
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/exchange
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/exchange
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/exchange
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/svelte
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/svelte
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/svelte
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/text-objects
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/text-objects
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/text-objects
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/html5
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/html5
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/html5
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/tmux-navigator
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/tmux-navigator
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/tmux-navigator
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/lightline
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/lightline
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/lightline
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/file-line
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/file-line
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/file-line
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/rsi
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/rsi
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/rsi
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/fugitive
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/fugitive
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/fugitive
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/markdown
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/markdown
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/markdown
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/typescript
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/typescript
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/typescript
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/quicklink
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/quicklink
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/quicklink
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/rake
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/rake
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/rake
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/vinegar
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/vinegar
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/vinegar
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/eunuch
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/eunuch
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/eunuch
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/golden-ratio
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/golden-ratio
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/golden-ratio
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/gsub
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/gsub
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/gsub
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/github-colorscheme
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/github-colorscheme
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/github-colorscheme
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/abolish
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/abolish
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/abolish
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/easy-align
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/easy-align
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/easy-align
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/better-whitespace
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/better-whitespace
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/better-whitespace
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/emmet
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/emmet
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/emmet
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/projectionist
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/projectionist
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/projectionist
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/commentary
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/commentary
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/commentary
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/jellybeans
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/jellybeans
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/jellybeans
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/conflicted
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/conflicted
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/conflicted
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/markdown-header-mappings
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/markdown-header-mappings
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/markdown-header-mappings
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/polyglot
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/polyglot
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/polyglot
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/json
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/json
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/json
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/auto-pairs.vim
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/auto-pairs.vim
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/auto-pairs.vim
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/scala
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/scala
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/scala
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/graphql
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/graphql
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/graphql
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/display-table-name
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/display-table-name
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/display-table-name
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/rhubarb
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/rhubarb
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/rhubarb
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/visual-star-search
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/visual-star-search
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/visual-star-search
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/system-copy
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/system-copy
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/system-copy
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/mkdir
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/mkdir
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/mkdir
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/tmux-runner
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/tmux-runner
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/tmux-runner
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/lexima.vim
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/lexima.vim
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/lexima.vim
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/titlecase
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/titlecase
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/titlecase
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/unimpaired
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/unimpaired
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/unimpaired
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/fzf-branch-files
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/fzf-branch-files
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/fzf-branch-files
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/sort-motion
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/sort-motion
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/sort-motion
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/javascript
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/javascript
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/javascript
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/replace-with-register
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/replace-with-register
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/replace-with-register
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/goyo-limelight-writing
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/goyo-limelight-writing
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/goyo-limelight-writing
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/surround
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/surround
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/surround
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/endwise
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/endwise
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/endwise
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/coc
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/coc
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/coc
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/rfactory
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/rfactory
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/rfactory
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/one-colorscheme
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/one-colorscheme
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/one-colorscheme
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/ack
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/ack
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/ack
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/ruby
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/ruby
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/ruby
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/vim-pad
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/vim-pad
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/vim-pad
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/fzf
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/fzf
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/fzf
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: vim/rcplugins/css3
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/css3
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/vim/rcplugins/css3
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/init.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/init.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/config/basic.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/config/basic.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/config/basic.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/config/lazy.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/config/lazy.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/config/lazy.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/config/legacy.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/config/legacy.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/config/legacy.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/oil.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/oil.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/oil.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/focus.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/focus.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/focus.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/tmux-nagivator.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/tmux-nagivator.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/tmux-nagivator.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/catppuccin.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/catppuccin.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/catppuccin.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/trusted-local.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/trusted-local.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/trusted-local.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/autopairs.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/autopairs.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/autopairs.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/telescope.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/telescope.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/treesitter-endwise.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/treesitter-endwise.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/treesitter-endwise.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/replace-with-register.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/replace-with-register.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/replace-with-register.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/nvim-cmp.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/nvim-cmp.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/nvim-cmp.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/scala-metals.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/scala-metals.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/scala-metals.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/todo-comments.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/todo-comments.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/todo-comments.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/custom-text-objects.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/custom-text-objects.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/custom-text-objects.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/jellybeans.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/jellybeans.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/jellybeans.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/system-copy.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/system-copy.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/system-copy.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/fugitive.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/fugitive.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/fugitive.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/unimpaired.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/unimpaired.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/unimpaired.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/nvim-lspconfig.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/nvim-lspconfig.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/nvim-lspconfig.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/telescope-git-branch.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/telescope-git-branch.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/telescope-git-branch.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/rhubarb.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/rhubarb.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/rhubarb.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/comment.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/comment.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/comment.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/conform.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/conform.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/conform.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/mini.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/mini.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/mini.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/tmux-runner.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/tmux-runner.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/tmux-runner.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/which-key.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/which-key.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/which-key.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/react-extract.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/react-extract.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/react-extract.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/treesitter.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/treesitter.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/surround.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/surround.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/surround.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/vim-sleuth.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/vim-sleuth.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/vim-sleuth.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/lua/plugins/rsi.lua
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/rsi.lua
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/lua/plugins/rsi.lua
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/.gitignore
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/.gitignore
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/.gitignore
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/doc/kickstart.txt
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/doc/kickstart.txt
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/doc/kickstart.txt
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/.stylua.toml
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/.stylua.toml
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/.stylua.toml
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/rcfiles/folding
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/folding
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/folding
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/rcfiles/project-notes
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/project-notes
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/project-notes
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/rcfiles/todo
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/todo
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/todo
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/rcfiles/search
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/search
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/search
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+    - name: nvim/rcfiles/chrome
+      url: https://github.com/christoomey/dotfiles/blob/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/chrome
+      raw_url: https://raw.githubusercontent.com/christoomey/dotfiles/1f3ef0095910458a65d17d7ebec9b7de10eff83b/nvim/rcfiles/chrome
+      hash: 1f3ef0095910458a65d17d7ebec9b7de10eff83b
+  part: 後編
+  other: null
+  members:
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$4rUk-gxvWLYjbt3_uWU2YhpUk-C3_ldOSsECXPzSI2w
