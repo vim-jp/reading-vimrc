@@ -90112,3 +90112,107 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$4rUk-gxvWLYjbt3_uWU2YhpUk-C3_ldOSsECXPzSI2w
+- id: 708
+  date: 2026-01-31 23:00
+  author:
+    name: kat0h
+    url: https://github.com/kat0h
+  vimrcs:
+    - name: dot_vimrc
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_vimrc
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_vimrc
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_vim/jetpack_install.vim
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/jetpack_install.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/jetpack_install.vim
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_vim/plugin_install.vim
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/plugin_install.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/plugin_install.vim
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_vim/keymap.vim
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/keymap.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/keymap.vim
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_vim/utils.vim
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/utils.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/utils.vim
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_vim/plugin_setting.vim
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/plugin_setting.vim
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_vim/plugin_setting.vim
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/dot_stylua.toml
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/dot_stylua.toml
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/dot_stylua.toml
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/LICENSE.md
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/LICENSE.md
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/LICENSE.md
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/init.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/init.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/dot_gitignore
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/dot_gitignore
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/dot_gitignore
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/lazy_setup.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/lazy_setup.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/lazy_setup.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/kickstart/health.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/health.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/health.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/kickstart/plugins/autopairs.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/autopairs.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/autopairs.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/kickstart/plugins/indent_line.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/indent_line.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/indent_line.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/kickstart/plugins/neo-tree.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/neo-tree.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/neo-tree.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/kickstart/plugins/debug.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/debug.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/debug.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/kickstart/plugins/gitsigns.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/gitsigns.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/kickstart/plugins/lint.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/lint.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/kickstart/plugins/lint.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/lua/custom/plugins/init.lua
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/custom/plugins/init.lua
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/lua/custom/plugins/init.lua
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/README.md
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/README.md
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/README.md
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/doc/kickstart.txt
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/doc/kickstart.txt
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/doc/kickstart.txt
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+    - name: dot_config/nvim/doc/tags
+      url: https://github.com/kat0h/dotfiles/blob/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/doc/tags
+      raw_url: https://raw.githubusercontent.com/kat0h/dotfiles/ab627cff0122128d584696e83a408c5f197adaea/dot_config/nvim/doc/tags
+      hash: ab627cff0122128d584696e83a408c5f197adaea
+  part: null
+  other: null
+  members:
+    - Hakkadaikon
+    - NI57721
+    - Omochice
+    - Peacock (Yoichi Takai)
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$gYe13nXhieGGAsBwVXaK8-qqxCCo6GbbOE2V-tOeWow
