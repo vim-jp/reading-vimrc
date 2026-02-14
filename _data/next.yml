@@ -1,5 +1,5 @@
-- id: 710
-  date: 2026-02-14 23:00
+- id: 711
+  date: 2026-02-21 23:00
   author:
     name: ryoppippi
     url: https://github.com/ryoppippi
@@ -932,5 +932,5 @@
         https://github.com/ryoppippi/dotfiles/blob/2bdaf9cae69be991a92b721d69452c775c52be9d/nix/modules/home/programs/neovim/default.nix
       hash: 2bdaf9cae69be991a92b721d69452c775c52be9d
       name: nix/modules/home/programs/neovim/default.nix
-  part: 中編
+  part: 後編
   other: null
