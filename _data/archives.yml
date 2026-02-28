@@ -93041,3 +93041,42 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$5sdL7e54CoHhThpNhpuKmtFReS8-DqXHeEn7yyYv94g
+- id: 712
+  date: 2026-02-28 23:00
+  author:
+    name: zztkm
+    url: https://github.com/zztkm
+  vimrcs:
+    - name: vim/.vimrc
+      url: https://github.com/zztkm/dotfiles/blob/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/vim/.vimrc
+      raw_url: https://raw.githubusercontent.com/zztkm/dotfiles/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/vim/.vimrc
+      hash: 4138f24d513d03c8a77a3fe7b370d7c8167d3ef9
+    - name: nvim-config/init.lua
+      url: https://github.com/zztkm/dotfiles/blob/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/init.lua
+      raw_url: https://raw.githubusercontent.com/zztkm/dotfiles/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/init.lua
+      hash: 4138f24d513d03c8a77a3fe7b370d7c8167d3ef9
+    - name: nvim-config/lua/autocmds.lua
+      url: https://github.com/zztkm/dotfiles/blob/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/lua/autocmds.lua
+      raw_url: https://raw.githubusercontent.com/zztkm/dotfiles/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/lua/autocmds.lua
+      hash: 4138f24d513d03c8a77a3fe7b370d7c8167d3ef9
+    - name: nvim-config/lua/keymaps.lua
+      url: https://github.com/zztkm/dotfiles/blob/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/lua/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/zztkm/dotfiles/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/lua/keymaps.lua
+      hash: 4138f24d513d03c8a77a3fe7b370d7c8167d3ef9
+    - name: nvim-config/lua/plugins/config.lua
+      url: https://github.com/zztkm/dotfiles/blob/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/lua/plugins/config.lua
+      raw_url: https://raw.githubusercontent.com/zztkm/dotfiles/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/lua/plugins/config.lua
+      hash: 4138f24d513d03c8a77a3fe7b370d7c8167d3ef9
+    - name: nvim-config/lua/options.lua
+      url: https://github.com/zztkm/dotfiles/blob/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/lua/options.lua
+      raw_url: https://raw.githubusercontent.com/zztkm/dotfiles/4138f24d513d03c8a77a3fe7b370d7c8167d3ef9/nvim-config/lua/options.lua
+      hash: 4138f24d513d03c8a77a3fe7b370d7c8167d3ef9
+  part: null
+  other: null
+  members:
+    - Hakkadaikon
+    - Omochice
+    - Peacock
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$-UV2IoJgYyMa8xjYvR_nRQgf3MW6lTGuGtryW2QvVHE
