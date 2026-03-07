@@ -359,5 +359,5 @@
     - url: https://github.com/hydeik/dotfiles/blob/den/modules/hydeik/editors.nix
       hash: null
       name: modules/hydeik/editors.nix
-  part: null
+  part: 前編
   other: null
