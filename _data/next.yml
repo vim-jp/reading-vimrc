@@ -1,5 +1,5 @@
-- id: 714
-  date: 2026-03-14 23:00
+- id: 715
+  date: 2026-03-21 23:00
   author:
     name: hydeik
     url: https://github.com/hydeik
@@ -364,5 +364,5 @@
         https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/modules/hydeik/editors.nix
       hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
       name: modules/hydeik/editors.nix
-  part: 中編
+  part: 後編
   other: null
