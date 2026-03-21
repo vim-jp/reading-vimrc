@@ -93827,3 +93827,377 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$nmEt6twu_wBLc5X3K_m5gDu9Kb2nI0V6944VkC9gyrc
+- id: 715
+  date: 2026-03-21 23:00
+  author:
+    name: hydeik
+    url: https://github.com/hydeik
+  vimrcs:
+    - name: dots/config/nvim/init.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/init.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/init.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/core/init.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/init.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/init.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/core/autocmds.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/autocmds.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/autocmds.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/core/keymaps.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/keymaps.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/core/platform.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/platform.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/platform.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/core/config.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/config.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/config.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/core/options.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/options.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/options.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/core/lazy.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/lazy.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/core/lazy.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/oil.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/oil.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/oil.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/linting/core.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/linting/core.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/linting/core.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/noice.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/noice.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/noice.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/gitlinker.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/gitlinker.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/gitlinker.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/flash.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/flash.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/flash.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/catppuccin.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/catppuccin.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/catppuccin.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/telescope.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/telescope.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/telescope.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/jujutsu.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/jujutsu.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/jujutsu.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/mini/icons.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/mini/icons.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/mini/icons.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/mini/indentscope.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/mini/indentscope.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/mini/indentscope.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/mini/ai.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/mini/ai.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/mini/ai.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/mini/surround.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/mini/surround.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/mini/surround.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/ts-comments.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ts-comments.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ts-comments.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lasterisk.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lasterisk.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lasterisk.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/difftastic.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/difftastic.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/difftastic.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/nvim-cmp.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/nvim-cmp.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/nvim-cmp.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/trouble.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/trouble.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/trouble.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/todo-comments.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/todo-comments.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/todo-comments.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/ccc.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ccc.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ccc.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/quicker.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/quicker.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/quicker.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/diffview.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/diffview.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/diffview.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lsp/keymaps.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lsp/keymaps.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lsp/keymaps.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lsp/core.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lsp/core.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lsp/core.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/neo-tree.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/neo-tree.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/neo-tree.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/inc-rename.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/inc-rename.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/inc-rename.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/yanky.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/yanky.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/yanky.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/smart-splits.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/smart-splits.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/smart-splits.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/blink.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/blink.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/blink.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/markdown.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/markdown.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/markdown.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/git.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/git.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/git.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/python.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/python.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/python.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/json.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/json.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/json.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/nix.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/nix.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/nix.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/biome.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/biome.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/biome.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/bash.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/bash.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/bash.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/rust.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/rust.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/rust.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/fortran.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/fortran.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/fortran.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/yaml.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/yaml.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/yaml.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/toml.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/toml.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/toml.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/typescript.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/typescript.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/typescript.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lang/nushell.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/nushell.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lang/nushell.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/dial.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/dial.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/dial.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/gitsigns.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/gitsigns.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/gitsigns.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/ai/codecompanion.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/codecompanion.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/codecompanion.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/ai/copilot.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/copilot.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/copilot.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/ai/mcphub.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/mcphub.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/mcphub.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/ai/sidekick.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/sidekick.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/sidekick.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/ai/copilot-native.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/copilot-native.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/ai/copilot-native.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/formatting/core.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/formatting/core.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/formatting/core.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/lazydev.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lazydev.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/lazydev.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/kanagawa.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/kanagawa.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/kanagawa.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/which-key.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/which-key.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/which-key.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/treesitter.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/treesitter.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/treesitter.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/overlook.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/overlook.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/overlook.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/nvim-navic.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/nvim-navic.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/nvim-navic.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/snacks/dashboard.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/dashboard.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/dashboard.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/snacks/explorer.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/explorer.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/explorer.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/snacks/picker.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/picker.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/picker.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/snacks/utils.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/utils.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/utils.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/snacks/ui.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/ui.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/ui.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/snacks/core.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/core.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/core.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/snacks/lazygit.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/lazygit.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/snacks/lazygit.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/dap/nlua.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/dap/nlua.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/dap/nlua.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/dap/core.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/dap/core.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/dap/core.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/heirline/colors.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/colors.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/colors.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/heirline/statusline.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/statusline.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/statusline.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/heirline/winbar.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/winbar.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/winbar.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/heirline/statuscolumn.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/statuscolumn.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/statuscolumn.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/heirline/core.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/core.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/heirline/core.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/haunt.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/haunt.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/haunt.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/nvim-insx.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/nvim-insx.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/nvim-insx.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/plugins/operator-convert-case.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/operator-convert-case.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/plugins/operator-convert-case.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/utils/init.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/init.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/init.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/utils/lsp.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/lsp.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/lsp.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/utils/cmp.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/cmp.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/cmp.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/utils/lazy.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/lazy.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/lazy.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/lua/rc/utils/format.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/format.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/lua/rc/utils/format.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/stylua.toml
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/stylua.toml
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/stylua.toml
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/config/nvim/filetype.lua
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/filetype.lua
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/config/nvim/filetype.lua
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: dots/.editorconfig
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/.editorconfig
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/dots/.editorconfig
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: .editorconfig
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/.editorconfig
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/.editorconfig
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+    - name: modules/hydeik/editors.nix
+      url: https://github.com/hydeik/dotfiles/blob/265b342a49fabd5c26b789daccd889a8ed3f8241/modules/hydeik/editors.nix
+      raw_url: https://raw.githubusercontent.com/hydeik/dotfiles/265b342a49fabd5c26b789daccd889a8ed3f8241/modules/hydeik/editors.nix
+      hash: 265b342a49fabd5c26b789daccd889a8ed3f8241
+  part: 後編
+  other: null
+  members:
+    - Hakkadaikon
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$AQB7Kq1hfXm91J_0eXIDx5cD2t9yQ1sfuc2Fs1e8P6s
