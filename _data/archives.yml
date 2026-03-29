@@ -94208,40 +94208,40 @@
     url: https://github.com/silverneko
   vimrcs:
     - name: plugin/statusline.vim
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/plugin/statusline.vim
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/plugin/statusline.vim
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/plugin/statusline.vim
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/plugin/statusline.vim
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
     - name: plugin/lspconfig.vim
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/plugin/lspconfig.vim
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/plugin/lspconfig.vim
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/plugin/lspconfig.vim
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/plugin/lspconfig.vim
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
     - name: plugin/gitbranch.vim
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/plugin/gitbranch.vim
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/plugin/gitbranch.vim
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/plugin/gitbranch.vim
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/plugin/gitbranch.vim
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
     - name: plugin/autocomplete.vim
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/plugin/autocomplete.vim
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/plugin/autocomplete.vim
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/plugin/autocomplete.vim
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/plugin/autocomplete.vim
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
     - name: vimrc
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/vimrc
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/vimrc
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/vimrc
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/vimrc
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
     - name: autoload/gitbranch.vim
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/autoload/gitbranch.vim
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/autoload/gitbranch.vim
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/autoload/gitbranch.vim
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/autoload/gitbranch.vim
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
     - name: autoload/plug.vim
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/autoload/plug.vim
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/autoload/plug.vim
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/autoload/plug.vim
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/autoload/plug.vim
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
     - name: autoload/highlightedyank.vim
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/autoload/highlightedyank.vim
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/autoload/highlightedyank.vim
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/autoload/highlightedyank.vim
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/autoload/highlightedyank.vim
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
     - name: autoload/ctrlp.vim
-      url: https://github.com/silverneko/dotfiles/tree/master/vim/autoload/ctrlp.vim
-      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/tree/master/vim/autoload/ctrlp.vim
+      url: https://github.com/silverneko/dotfiles/blob/226e9cabc34a0ed67565d75e103701ae6526de99/vim/autoload/ctrlp.vim
+      raw_url: https://raw.githubusercontent.com/silverneko/dotfiles/226e9cabc34a0ed67565d75e103701ae6526de99/vim/autoload/ctrlp.vim
       hash: 226e9cabc34a0ed67565d75e103701ae6526de99
   part: null
   other: null
