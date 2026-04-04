@@ -1,42 +1,146 @@
-- id: 716
-  date: 2026-03-28 23:00
+- id: 717
+  date: 2026-04-04 23:00
   author:
-    name: silverneko
-    url: https://github.com/silverneko
+    name: monkoose
+    url: https://github.com/monkoose
   vimrcs:
-    - url: >-
-        https://github.com/silverneko/dotfiles/tree/master/vim/plugin/statusline.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/c.vim
       hash: null
-      name: plugin/statusline.vim
-    - url: >-
-        https://github.com/silverneko/dotfiles/tree/master/vim/plugin/lspconfig.vim
+      name: after/ftplugin/c.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/css.vim
       hash: null
-      name: plugin/lspconfig.vim
-    - url: >-
-        https://github.com/silverneko/dotfiles/tree/master/vim/plugin/gitbranch.vim
+      name: after/ftplugin/css.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/d.vim
       hash: null
-      name: plugin/gitbranch.vim
-    - url: >-
-        https://github.com/silverneko/dotfiles/tree/master/vim/plugin/autocomplete.vim
+      name: after/ftplugin/d.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/fish.vim
       hash: null
-      name: plugin/autocomplete.vim
-    - url: https://github.com/silverneko/dotfiles/tree/master/vim/vimrc
+      name: after/ftplugin/fish.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/fugitive.vim
+      hash: null
+      name: after/ftplugin/fugitive.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/gitcommit.vim
+      hash: null
+      name: after/ftplugin/gitcommit.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/go.vim
+      hash: null
+      name: after/ftplugin/go.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/html.vim
+      hash: null
+      name: after/ftplugin/html.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/javascript.vim
+      hash: null
+      name: after/ftplugin/javascript.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/lisp.vim
+      hash: null
+      name: after/ftplugin/lisp.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/lua.vim
+      hash: null
+      name: after/ftplugin/lua.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/man.vim
+      hash: null
+      name: after/ftplugin/man.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/netrw.vim
+      hash: null
+      name: after/ftplugin/netrw.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/qf.vim
+      hash: null
+      name: after/ftplugin/qf.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/scss.vim
+      hash: null
+      name: after/ftplugin/scss.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/svelte.vim
+      hash: null
+      name: after/ftplugin/svelte.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/typescript.vim
+      hash: null
+      name: after/ftplugin/typescript.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/vim.vim
+      hash: null
+      name: after/ftplugin/vim.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/after/ftplugin/zsh.vim
+      hash: null
+      name: after/ftplugin/zsh.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/autoload/custom/endofline.vim
+      hash: null
+      name: autoload/custom/endofline.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/autoload/custom/last_edit.vim
+      hash: null
+      name: autoload/custom/last_edit.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/autoload/custom/minpac.vim
+      hash: null
+      name: autoload/custom/minpac.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/autoload/custom/on_yank.vim
+      hash: null
+      name: autoload/custom/on_yank.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/autoload/custom/search.vim
+      hash: null
+      name: autoload/custom/search.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/autoload/custom/undo_ftplugin.vim
+      hash: null
+      name: autoload/custom/undo_ftplugin.vim
+    - url: >-
+        https://github.com/monkoose/vim-setup/blob/main/autoload/custom/unimpaired.vim
+      hash: null
+      name: autoload/custom/unimpaired.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/autoload/myfunctions.vim
+      hash: null
+      name: autoload/myfunctions.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/autoload/mypopup.vim
+      hash: null
+      name: autoload/mypopup.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/autoload/myterm.vim
+      hash: null
+      name: autoload/myterm.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/autoload/popupurls.vim
+      hash: null
+      name: autoload/popupurls.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/colors/boa.vim
+      hash: null
+      name: colors/boa.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/config/maps.vim
+      hash: null
+      name: config/maps.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/config/options.vim
+      hash: null
+      name: config/options.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/config/plugins.vim
+      hash: null
+      name: config/plugins.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/config/statusline.vim
+      hash: null
+      name: config/statusline.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/plugin/fzf.vim
+      hash: null
+      name: plugin/fzf.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/syntax/go.vim
+      hash: null
+      name: syntax/go.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/syntax/lua.vim
+      hash: null
+      name: syntax/lua.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/syntax/make.vim
+      hash: null
+      name: syntax/make.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/syntax/vim.vim
+      hash: null
+      name: syntax/vim.vim
+    - url: https://github.com/monkoose/vim-setup/blob/main/coc-settings.json
+      hash: null
+      name: coc-settings.json
+    - url: https://github.com/monkoose/vim-setup/blob/main/vimrc
       hash: null
       name: vimrc
-    - url: >-
-        https://github.com/silverneko/dotfiles/tree/master/vim/autoload/gitbranch.vim
-      hash: null
-      name: autoload/gitbranch.vim
-    - url: https://github.com/silverneko/dotfiles/tree/master/vim/autoload/plug.vim
-      hash: null
-      name: autoload/plug.vim
-    - url: >-
-        https://github.com/silverneko/dotfiles/tree/master/vim/autoload/highlightedyank.vim
-      hash: null
-      name: autoload/highlightedyank.vim
-    - url: >-
-        https://github.com/silverneko/dotfiles/tree/master/vim/autoload/ctrlp.vim
-      hash: null
-      name: autoload/ctrlp.vim
   part: null
   other: null
