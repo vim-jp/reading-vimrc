@@ -1,176 +1,956 @@
-- id: 718
-  date: 2026-04-11 23:00
+- id: 719
+  date: 2026-04-18 23:00
   author:
-    name: monkoose
-    url: https://github.com/monkoose
+    name: skywind3000
+    url: https://github.com/skywind3000
   vimrcs:
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/c.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/c.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asclib/buffer.vim
+      hash: null
+      name: master/autoload/asclib/buffer.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/css.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/css.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asclib/common.vim
+      hash: null
+      name: master/autoload/asclib/common.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/d.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/d.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asclib/compat.vim
+      hash: null
+      name: master/autoload/asclib/compat.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/core.vim
+      hash: null
+      name: master/autoload/asclib/core.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/dash.vim
+      hash: null
+      name: master/autoload/asclib/dash.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/git.vim
+      hash: null
+      name: master/autoload/asclib/git.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/ini.vim
+      hash: null
+      name: master/autoload/asclib/ini.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/log.vim
+      hash: null
+      name: master/autoload/asclib/log.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/lua.vim
+      hash: null
+      name: master/autoload/asclib/lua.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/mcm.vim
+      hash: null
+      name: master/autoload/asclib/mcm.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/path.vim
+      hash: null
+      name: master/autoload/asclib/path.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/fish.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/fish.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asclib/platform.vim
+      hash: null
+      name: master/autoload/asclib/platform.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/fugitive.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/fugitive.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asclib/python.vim
+      hash: null
+      name: master/autoload/asclib/python.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/gitcommit.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/gitcommit.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asclib/setting.vim
+      hash: null
+      name: master/autoload/asclib/setting.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/go.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/go.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asclib/string.vim
+      hash: null
+      name: master/autoload/asclib/string.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/style.vim
+      hash: null
+      name: master/autoload/asclib/style.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/svn.vim
+      hash: null
+      name: master/autoload/asclib/svn.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/task.vim
+      hash: null
+      name: master/autoload/asclib/task.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/text.vim
+      hash: null
+      name: master/autoload/asclib/text.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/ui.vim
+      hash: null
+      name: master/autoload/asclib/ui.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/utils.vim
+      hash: null
+      name: master/autoload/asclib/utils.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/vcs.vim
+      hash: null
+      name: master/autoload/asclib/vcs.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib/win32.vim
+      hash: null
+      name: master/autoload/asclib/win32.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/html.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/html.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asclib/window.vim
+      hash: null
+      name: master/autoload/asclib/window.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/javascript.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/javascript.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/program/capture.vim
+      hash: null
+      name: master/autoload/asyncrun/program/capture.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/lisp.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/lisp.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/program/echo.vim
+      hash: null
+      name: master/autoload/asyncrun/program/echo.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/lua.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/lua.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/program/shebang.vim
+      hash: null
+      name: master/autoload/asyncrun/program/shebang.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/man.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/man.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/external.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/external.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/netrw.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/netrw.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/floaterm_reuse.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/floaterm_reuse.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/qf.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/qf.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/floaterm.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/floaterm.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/scss.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/scss.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/gnome_tab.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/gnome_tab.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/svelte.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/svelte.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/gnome.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/gnome.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/typescript.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/typescript.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/iterm.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/iterm.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/vim.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/vim.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/konsole.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/konsole.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/after/ftplugin/zsh.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: after/ftplugin/zsh.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/macos.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/macos.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/custom/endofline.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/custom/endofline.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/quickui.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/quickui.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/custom/last_edit.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/custom/last_edit.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/termhelp.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/termhelp.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/custom/minpac.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/custom/minpac.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/tmux.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/tmux.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/custom/on_yank.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/custom/on_yank.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/xfce.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/xfce.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/custom/search.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/custom/search.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/runner/xterm.vim
+      hash: null
+      name: master/autoload/asyncrun/runner/xterm.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/custom/undo_ftplugin.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/custom/undo_ftplugin.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/compat.vim
+      hash: null
+      name: master/autoload/asyncrun/compat.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/custom/unimpaired.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/custom/unimpaired.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/info.vim
+      hash: null
+      name: master/autoload/asyncrun/info.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/myfunctions.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/myfunctions.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/locator.vim
+      hash: null
+      name: master/autoload/asyncrun/locator.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/mypopup.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/mypopup.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/macos.vim
+      hash: null
+      name: master/autoload/asyncrun/macos.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/myterm.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/myterm.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/asyncrun/utils.vim
+      hash: null
+      name: master/autoload/asyncrun/utils.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/autoload/popupurls.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: autoload/popupurls.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/colorexp/colors.vim
+      hash: null
+      name: master/autoload/colorexp/colors.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/colors/boa.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: colors/boa.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/colorexp/export.vim
+      hash: null
+      name: master/autoload/colorexp/export.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/config/maps.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: config/maps.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/colorexp/names.vim
+      hash: null
+      name: master/autoload/colorexp/names.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/config/options.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: config/options.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/colorexp/palette.vim
+      hash: null
+      name: master/autoload/colorexp/palette.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/config/plugins.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: config/plugins.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/colorexp/palette9.vim
+      hash: null
+      name: master/autoload/colorexp/palette9.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/config/statusline.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: config/statusline.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/dash/defaults.vim
+      hash: null
+      name: master/autoload/dash/defaults.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/dist/vim/fs.vim
+      hash: null
+      name: master/autoload/dist/vim/fs.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/gdv/diffview.vim
+      hash: null
+      name: master/autoload/gdv/diffview.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/gdv/flog.vim
+      hash: null
+      name: master/autoload/gdv/flog.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/gdv/fugitive.vim
+      hash: null
+      name: master/autoload/gdv/fugitive.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/gdv/git.vim
+      hash: null
+      name: master/autoload/gdv/git.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/gdv/matcher.vim
+      hash: null
+      name: master/autoload/gdv/matcher.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/gdv/stage.vim
+      hash: null
+      name: master/autoload/gdv/stage.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/plugin/fzf.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: plugin/fzf.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/gptcommit/config.vim
+      hash: null
+      name: master/autoload/gptcommit/config.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/syntax/go.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: syntax/go.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/gptcommit/gpt.vim
+      hash: null
+      name: master/autoload/gptcommit/gpt.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/syntax/lua.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: syntax/lua.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/gptcommit/utils.vim
+      hash: null
+      name: master/autoload/gptcommit/utils.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/syntax/make.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: syntax/make.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/module/mode/default_mode.vim
+      hash: null
+      name: master/autoload/module/mode/default_mode.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/syntax/vim.vim
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: syntax/vim.vim
+        https://github.com/skywind3000/vim/blob/master/autoload/module/mode/gdb_mode.vim
+      hash: null
+      name: master/autoload/module/mode/gdb_mode.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/coc-settings.json
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: coc-settings.json
+        https://github.com/skywind3000/vim/blob/master/autoload/module/mode/git_mode.vim
+      hash: null
+      name: master/autoload/module/mode/git_mode.vim
     - url: >-
-        https://github.com/monkoose/vim-setup/blob/1a20c620e62ead11cb7b458bff5f0a826daa3081/vimrc
-      hash: 1a20c620e62ead11cb7b458bff5f0a826daa3081
-      name: vimrc
-  part: 後編
+        https://github.com/skywind3000/vim/blob/master/autoload/module/mode/golang_mode.vim
+      hash: null
+      name: master/autoload/module/mode/golang_mode.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/mode/quickmenu_mode.vim
+      hash: null
+      name: master/autoload/module/mode/quickmenu_mode.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/mode/task_mode.vim
+      hash: null
+      name: master/autoload/module/mode/task_mode.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/mode/test_region.vim
+      hash: null
+      name: master/autoload/module/mode/test_region.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/action.vim
+      hash: null
+      name: master/autoload/module/action.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/alternative.vim
+      hash: null
+      name: master/autoload/module/alternative.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/colors.vim
+      hash: null
+      name: master/autoload/module/colors.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/compat.vim
+      hash: null
+      name: master/autoload/module/compat.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/complete.vim
+      hash: null
+      name: master/autoload/module/complete.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/module/conda.vim
+      hash: null
+      name: master/autoload/module/conda.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/copilot.vim
+      hash: null
+      name: master/autoload/module/copilot.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/module/cpp.vim
+      hash: null
+      name: master/autoload/module/cpp.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/drivers.vim
+      hash: null
+      name: master/autoload/module/drivers.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/extension.vim
+      hash: null
+      name: master/autoload/module/extension.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/generic.vim
+      hash: null
+      name: master/autoload/module/generic.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/gitlib.vim
+      hash: null
+      name: master/autoload/module/gitlib.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/module/go.vim
+      hash: null
+      name: master/autoload/module/go.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/module/lsp.vim
+      hash: null
+      name: master/autoload/module/lsp.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/module/misc.vim
+      hash: null
+      name: master/autoload/module/misc.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/module/mock.vim
+      hash: null
+      name: master/autoload/module/mock.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/module/mode.vim
+      hash: null
+      name: master/autoload/module/mode.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/project.vim
+      hash: null
+      name: master/autoload/module/project.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/prompt.vim
+      hash: null
+      name: master/autoload/module/prompt.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/quickfix.vim
+      hash: null
+      name: master/autoload/module/quickfix.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/snipmate.vim
+      hash: null
+      name: master/autoload/module/snipmate.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/module/tags.vim
+      hash: null
+      name: master/autoload/module/tags.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/module/variable.vim
+      hash: null
+      name: master/autoload/module/variable.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/navigator/charname.vim
+      hash: null
+      name: master/autoload/navigator/charname.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/navigator/config.vim
+      hash: null
+      name: master/autoload/navigator/config.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/navigator/display.vim
+      hash: null
+      name: master/autoload/navigator/display.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/navigator/layout.vim
+      hash: null
+      name: master/autoload/navigator/layout.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/navigator/state.vim
+      hash: null
+      name: master/autoload/navigator/state.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/navigator/test.vim
+      hash: null
+      name: master/autoload/navigator/test.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/navigator/utils.vim
+      hash: null
+      name: master/autoload/navigator/utils.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/notify/config.vim
+      hash: null
+      name: master/autoload/notify/config.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/notify/test.vim
+      hash: null
+      name: master/autoload/notify/test.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/notify/tipwin.vim
+      hash: null
+      name: master/autoload/notify/tipwin.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/preload/README.txt
+      hash: null
+      name: master/autoload/preload/README.txt
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/module/__init__.py
+      hash: null
+      name: master/autoload/python/module/__init__.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/module/cpp.py
+      hash: null
+      name: master/autoload/python/module/cpp.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/parser/__init__.py
+      hash: null
+      name: master/autoload/python/parser/__init__.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/parser/ctoken_help.py
+      hash: null
+      name: master/autoload/python/parser/ctoken_help.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/parser/ctoken_pygments.py
+      hash: null
+      name: master/autoload/python/parser/ctoken_pygments.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/parser/ctoken_reader.py
+      hash: null
+      name: master/autoload/python/parser/ctoken_reader.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/parser/ctoken_regex.py
+      hash: null
+      name: master/autoload/python/parser/ctoken_regex.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/parser/ctoken_type.py
+      hash: null
+      name: master/autoload/python/parser/ctoken_type.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/parser/ctoken.py
+      hash: null
+      name: master/autoload/python/parser/ctoken.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/pyvim/__init__.py
+      hash: null
+      name: master/autoload/python/pyvim/__init__.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/pyvim/buffer.py
+      hash: null
+      name: master/autoload/python/pyvim/buffer.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/pyvim/core.py
+      hash: null
+      name: master/autoload/python/pyvim/core.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/pyvim/pyglex.py
+      hash: null
+      name: master/autoload/python/pyvim/pyglex.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/pyvim/utils.py
+      hash: null
+      name: master/autoload/python/pyvim/utils.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/ascinit.py
+      hash: null
+      name: master/autoload/python/ascinit.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/python/treesitter.py
+      hash: null
+      name: master/autoload/python/treesitter.py
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/command.vim
+      hash: null
+      name: master/autoload/quickui/command.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/confirm.vim
+      hash: null
+      name: master/autoload/quickui/confirm.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/context.vim
+      hash: null
+      name: master/autoload/quickui/context.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/quickui/core.vim
+      hash: null
+      name: master/autoload/quickui/core.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/highlight.vim
+      hash: null
+      name: master/autoload/quickui/highlight.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/input.vim
+      hash: null
+      name: master/autoload/quickui/input.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/listbox.vim
+      hash: null
+      name: master/autoload/quickui/listbox.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/quickui/menu.vim
+      hash: null
+      name: master/autoload/quickui/menu.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/palette.vim
+      hash: null
+      name: master/autoload/quickui/palette.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/palette9.vim
+      hash: null
+      name: master/autoload/quickui/palette9.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/preview.vim
+      hash: null
+      name: master/autoload/quickui/preview.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/readline.vim
+      hash: null
+      name: master/autoload/quickui/readline.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/style.vim
+      hash: null
+      name: master/autoload/quickui/style.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/quickui/tags.vim
+      hash: null
+      name: master/autoload/quickui/tags.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/terminal.vim
+      hash: null
+      name: master/autoload/quickui/terminal.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/textbox.vim
+      hash: null
+      name: master/autoload/quickui/textbox.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/tools.vim
+      hash: null
+      name: master/autoload/quickui/tools.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/utils.vim
+      hash: null
+      name: master/autoload/quickui/utils.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/quickui/window.vim
+      hash: null
+      name: master/autoload/quickui/window.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/textobj/user.vim
+      hash: null
+      name: master/autoload/textobj/user.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/tweak/cherry.py
+      hash: null
+      name: master/autoload/tweak/cherry.py
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/tweak/cherry.vim
+      hash: null
+      name: master/autoload/tweak/cherry.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/autoload/tweak/pastebin.vim
+      hash: null
+      name: master/autoload/tweak/pastebin.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asclib.vim
+      hash: null
+      name: master/autoload/asclib.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/asynctask.vim
+      hash: null
+      name: master/autoload/asynctask.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/auxlib.py
+      hash: null
+      name: master/autoload/auxlib.py
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/auxlib.vim
+      hash: null
+      name: master/autoload/auxlib.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/comptask.vim
+      hash: null
+      name: master/autoload/comptask.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/cpatch.vim
+      hash: null
+      name: master/autoload/cpatch.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/dash.vim
+      hash: null
+      name: master/autoload/dash.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/minibox.vim
+      hash: null
+      name: master/autoload/minibox.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/navigator.vim
+      hash: null
+      name: master/autoload/navigator.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/plug.vim
+      hash: null
+      name: master/autoload/plug.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/preview.vim
+      hash: null
+      name: master/autoload/preview.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/projectile.vim
+      hash: null
+      name: master/autoload/projectile.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/quickmenu.vim
+      hash: null
+      name: master/autoload/quickmenu.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/snippet.vim
+      hash: null
+      name: master/autoload/snippet.vim
+    - url: https://github.com/skywind3000/vim/blob/master/autoload/svnhelp.vim
+      hash: null
+      name: master/autoload/svnhelp.vim
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/comcast.txt
+      hash: null
+      name: master/cheat/comcast.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/cut.txt
+      hash: null
+      name: master/cheat/cut.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/errno.txt
+      hash: null
+      name: master/cheat/errno.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/git.txt
+      hash: null
+      name: master/cheat/git.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/install.txt
+      hash: null
+      name: master/cheat/install.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/linux.txt
+      hash: null
+      name: master/cheat/linux.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/nano.txt
+      hash: null
+      name: master/cheat/nano.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/nc.txt
+      hash: null
+      name: master/cheat/nc.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/redis.txt
+      hash: null
+      name: master/cheat/redis.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/regex.txt
+      hash: null
+      name: master/cheat/regex.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/socat.txt
+      hash: null
+      name: master/cheat/socat.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/tcconfig.txt
+      hash: null
+      name: master/cheat/tcconfig.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/tcpdump.txt
+      hash: null
+      name: master/cheat/tcpdump.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/tr.txt
+      hash: null
+      name: master/cheat/tr.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/vim.txt
+      hash: null
+      name: master/cheat/vim.txt
+    - url: https://github.com/skywind3000/vim/blob/master/cheat/windows.txt
+      hash: null
+      name: master/cheat/windows.txt
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/__init__.vim
+      hash: null
+      name: master/colors/patch/__init__.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/borland.vim
+      hash: null
+      name: master/colors/patch/borland.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/borlandc.vim
+      hash: null
+      name: master/colors/patch/borlandc.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/patch/desert256.vim
+      hash: null
+      name: master/colors/patch/desert256.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/eclipse.vim
+      hash: null
+      name: master/colors/patch/eclipse.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/patch/everforest.vim
+      hash: null
+      name: master/colors/patch/everforest.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/iceberg.vim
+      hash: null
+      name: master/colors/patch/iceberg.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/lilypink.vim
+      hash: null
+      name: master/colors/patch/lilypink.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/monokai.vim
+      hash: null
+      name: master/colors/patch/monokai.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/patch/mountaineer.vim
+      hash: null
+      name: master/colors/patch/mountaineer.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/nord.vim
+      hash: null
+      name: master/colors/patch/nord.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/paradox.vim
+      hash: null
+      name: master/colors/patch/paradox.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/parsec.vim
+      hash: null
+      name: master/colors/patch/parsec.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/README.md
+      hash: null
+      name: master/colors/patch/README.md
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/patch/rootwater.vim
+      hash: null
+      name: master/colors/patch/rootwater.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/soft-era.vim
+      hash: null
+      name: master/colors/patch/soft-era.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/sublime.vim
+      hash: null
+      name: master/colors/patch/sublime.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/patch/tender.vim
+      hash: null
+      name: master/colors/patch/tender.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/patch/white-sand.vim
+      hash: null
+      name: master/colors/patch/white-sand.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/quickui/borland.vim
+      hash: null
+      name: master/colors/quickui/borland.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/quickui/default.vim
+      hash: null
+      name: master/colors/quickui/default.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/quickui/gruvbox.vim
+      hash: null
+      name: master/colors/quickui/gruvbox.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/quickui/papercol_dark.vim
+      hash: null
+      name: master/colors/quickui/papercol_dark.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/quickui/papercol_light.vim
+      hash: null
+      name: master/colors/quickui/papercol_light.vim
+    - url: >-
+        https://github.com/skywind3000/vim/blob/master/colors/quickui/solarized.vim
+      hash: null
+      name: master/colors/quickui/solarized.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/quickui/system.vim
+      hash: null
+      name: master/colors/quickui/system.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/antarctic.vim
+      hash: null
+      name: master/colors/antarctic.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/apprentice.vim
+      hash: null
+      name: master/colors/apprentice.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/borland256.vim
+      hash: null
+      name: master/colors/borland256.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/borlandc.vim
+      hash: null
+      name: master/colors/borlandc.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/borlandm.vim
+      hash: null
+      name: master/colors/borlandm.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/coc_patch.vim
+      hash: null
+      name: master/colors/coc_patch.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/desert256.vim
+      hash: null
+      name: master/colors/desert256.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/eclipse.vim
+      hash: null
+      name: master/colors/eclipse.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/gaea.vim
+      hash: null
+      name: master/colors/gaea.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/kolor.vim
+      hash: null
+      name: master/colors/kolor.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/lilypink2.vim
+      hash: null
+      name: master/colors/lilypink2.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/monokai-vim.vim
+      hash: null
+      name: master/colors/monokai-vim.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/monokai.vim
+      hash: null
+      name: master/colors/monokai.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/oceanblack2.vim
+      hash: null
+      name: master/colors/oceanblack2.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/oceanblack256.vim
+      hash: null
+      name: master/colors/oceanblack256.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/onehalfdark.vim
+      hash: null
+      name: master/colors/onehalfdark.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/onehalflight.vim
+      hash: null
+      name: master/colors/onehalflight.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/papercol.vim
+      hash: null
+      name: master/colors/papercol.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/paradox.vim
+      hash: null
+      name: master/colors/paradox.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/rmnv.vim
+      hash: null
+      name: master/colors/rmnv.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/seoul256-light.vim
+      hash: null
+      name: master/colors/seoul256-light.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/seoul256.vim
+      hash: null
+      name: master/colors/seoul256.vim
+    - url: https://github.com/skywind3000/vim/blob/master/colors/sublime.vim
+      hash: null
+      name: master/colors/sublime.vim
+    - url: https://github.com/skywind3000/vim/blob/master/doc/apc.txt
+      hash: null
+      name: master/doc/apc.txt
+    - url: https://github.com/skywind3000/vim/blob/master/doc/asyncrun.txt
+      hash: null
+      name: master/doc/asyncrun.txt
+    - url: https://github.com/skywind3000/vim/blob/master/doc/asynctasks.txt
+      hash: null
+      name: master/doc/asynctasks.txt
+    - url: https://github.com/skywind3000/vim/blob/master/doc/terminal_help.txt
+      hash: null
+      name: master/doc/terminal_help.txt
+    - url: https://github.com/skywind3000/vim/blob/master/doc/textobj-user.txt
+      hash: null
+      name: master/doc/textobj-user.txt
+    - url: https://github.com/skywind3000/vim/blob/master/doc/whatsnew.md
+      hash: null
+      name: master/doc/whatsnew.md
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/c.vim
+      hash: null
+      name: master/ftplugin/c.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/comp.vim
+      hash: null
+      name: master/ftplugin/comp.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/cpp.vim
+      hash: null
+      name: master/ftplugin/cpp.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/cs.vim
+      hash: null
+      name: master/ftplugin/cs.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/dosini.vim
+      hash: null
+      name: master/ftplugin/dosini.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/gitcommit.vim
+      hash: null
+      name: master/ftplugin/gitcommit.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/go.vim
+      hash: null
+      name: master/ftplugin/go.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/gomod.vim
+      hash: null
+      name: master/ftplugin/gomod.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/haskell.vim
+      hash: null
+      name: master/ftplugin/haskell.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/help.vim
+      hash: null
+      name: master/ftplugin/help.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/hlsl.vim
+      hash: null
+      name: master/ftplugin/hlsl.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/html.vim
+      hash: null
+      name: master/ftplugin/html.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/java.vim
+      hash: null
+      name: master/ftplugin/java.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/javascript.vim
+      hash: null
+      name: master/ftplugin/javascript.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/json.vim
+      hash: null
+      name: master/ftplugin/json.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/lisp.vim
+      hash: null
+      name: master/ftplugin/lisp.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/lua.vim
+      hash: null
+      name: master/ftplugin/lua.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/markdown.vim
+      hash: null
+      name: master/ftplugin/markdown.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/mineswp.vim
+      hash: null
+      name: master/ftplugin/mineswp.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/pascal.vim
+      hash: null
+      name: master/ftplugin/pascal.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/python.vim
+      hash: null
+      name: master/ftplugin/python.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/qf.vim
+      hash: null
+      name: master/ftplugin/qf.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/rust.vim
+      hash: null
+      name: master/ftplugin/rust.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/scala.vim
+      hash: null
+      name: master/ftplugin/scala.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/taskini.vim
+      hash: null
+      name: master/ftplugin/taskini.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/terminal.vim
+      hash: null
+      name: master/ftplugin/terminal.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/termlite.vim
+      hash: null
+      name: master/ftplugin/termlite.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/typescript.vim
+      hash: null
+      name: master/ftplugin/typescript.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/vim-plug.vim
+      hash: null
+      name: master/ftplugin/vim-plug.vim
+    - url: https://github.com/skywind3000/vim/blob/master/ftplugin/vim.vim
+      hash: null
+      name: master/ftplugin/vim.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/config.vim
+      hash: null
+      name: master/init/config.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/gui.vim
+      hash: null
+      name: master/init/gui.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/ignores.vim
+      hash: null
+      name: master/init/ignores.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/keymaps.vim
+      hash: null
+      name: master/init/keymaps.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/menu.vim
+      hash: null
+      name: master/init/menu.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/misc.vim
+      hash: null
+      name: master/init/misc.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/plugins.vim
+      hash: null
+      name: master/init/plugins.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/status.vim
+      hash: null
+      name: master/init/status.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/tools.vim
+      hash: null
+      name: master/init/tools.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/unix.vim
+      hash: null
+      name: master/init/unix.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/viminit.vim
+      hash: null
+      name: master/init/viminit.vim
+    - url: https://github.com/skywind3000/vim/blob/master/init/vimmake.vim
+      hash: null
+      name: master/init/vimmake.vim
+    - url: https://github.com/skywind3000/vim/blob/master/lib/vimhelp.py
+      hash: null
+      name: master/lib/vimhelp.py
+    - url: https://github.com/skywind3000/vim/blob/master/lua/config/custom.lua
+      hash: null
+      name: master/lua/config/custom.lua
+    - url: https://github.com/skywind3000/vim/blob/master/lua/config/extra.lua
+      hash: null
+      name: master/lua/config/extra.lua
+    - url: https://github.com/skywind3000/vim/blob/master/lua/config/init.lua
+      hash: null
+      name: master/lua/config/init.lua
+    - url: https://github.com/skywind3000/vim/blob/master/lua/core/ascmini.lua
+      hash: null
+      name: master/lua/core/ascmini.lua
+    - url: https://github.com/skywind3000/vim/blob/master/lua/core/init.lua
+      hash: null
+      name: master/lua/core/init.lua
+    - url: https://github.com/skywind3000/vim/blob/master/lua/core/loader.lua
+      hash: null
+      name: master/lua/core/loader.lua
+    - url: https://github.com/skywind3000/vim/blob/master/lua/core/utils.lua
+      hash: null
+      name: master/lua/core/utils.lua
+    - url: https://github.com/skywind3000/vim/blob/m
+      hash: null
+      name: m
+  part: 前編
   other: null
