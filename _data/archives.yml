@@ -94620,1907 +94620,1907 @@
     name: skywind3000
     url: https://github.com/skywind3000
   vimrcs:
-    - name: master/autoload/asclib/buffer.vim
+    - name: autoload/asclib/buffer.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/buffer.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/buffer.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/common.vim
+    - name: autoload/asclib/common.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/common.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/common.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/compat.vim
+    - name: autoload/asclib/compat.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/compat.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/compat.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/core.vim
+    - name: autoload/asclib/core.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/core.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/core.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/dash.vim
+    - name: autoload/asclib/dash.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/dash.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/dash.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/git.vim
+    - name: autoload/asclib/git.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/git.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/git.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/ini.vim
+    - name: autoload/asclib/ini.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/ini.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/ini.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/log.vim
+    - name: autoload/asclib/log.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/log.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/log.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/lua.vim
+    - name: autoload/asclib/lua.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/lua.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/lua.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/mcm.vim
+    - name: autoload/asclib/mcm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/mcm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/mcm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/path.vim
+    - name: autoload/asclib/path.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/path.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/path.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/platform.vim
+    - name: autoload/asclib/platform.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/platform.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/platform.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/python.vim
+    - name: autoload/asclib/python.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/python.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/python.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/setting.vim
+    - name: autoload/asclib/setting.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/setting.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/setting.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/string.vim
+    - name: autoload/asclib/string.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/string.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/string.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/style.vim
+    - name: autoload/asclib/style.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/style.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/style.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/svn.vim
+    - name: autoload/asclib/svn.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/svn.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/svn.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/task.vim
+    - name: autoload/asclib/task.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/task.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/task.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/text.vim
+    - name: autoload/asclib/text.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/text.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/text.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/ui.vim
+    - name: autoload/asclib/ui.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/ui.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/ui.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/utils.vim
+    - name: autoload/asclib/utils.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/utils.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/utils.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/vcs.vim
+    - name: autoload/asclib/vcs.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/vcs.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/vcs.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/win32.vim
+    - name: autoload/asclib/win32.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/win32.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/win32.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib/window.vim
+    - name: autoload/asclib/window.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/window.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib/window.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/program/capture.vim
+    - name: autoload/asyncrun/program/capture.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/program/capture.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/program/capture.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/program/echo.vim
+    - name: autoload/asyncrun/program/echo.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/program/echo.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/program/echo.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/program/shebang.vim
+    - name: autoload/asyncrun/program/shebang.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/program/shebang.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/program/shebang.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/external.vim
+    - name: autoload/asyncrun/runner/external.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/external.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/external.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/floaterm_reuse.vim
+    - name: autoload/asyncrun/runner/floaterm_reuse.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/floaterm_reuse.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/floaterm_reuse.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/floaterm.vim
+    - name: autoload/asyncrun/runner/floaterm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/floaterm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/floaterm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/gnome_tab.vim
+    - name: autoload/asyncrun/runner/gnome_tab.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/gnome_tab.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/gnome_tab.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/gnome.vim
+    - name: autoload/asyncrun/runner/gnome.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/gnome.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/gnome.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/iterm.vim
+    - name: autoload/asyncrun/runner/iterm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/iterm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/iterm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/konsole.vim
+    - name: autoload/asyncrun/runner/konsole.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/konsole.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/konsole.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/macos.vim
+    - name: autoload/asyncrun/runner/macos.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/macos.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/macos.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/quickui.vim
+    - name: autoload/asyncrun/runner/quickui.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/quickui.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/quickui.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/termhelp.vim
+    - name: autoload/asyncrun/runner/termhelp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/termhelp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/termhelp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/tmux.vim
+    - name: autoload/asyncrun/runner/tmux.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/tmux.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/tmux.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/xfce.vim
+    - name: autoload/asyncrun/runner/xfce.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/xfce.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/xfce.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/runner/xterm.vim
+    - name: autoload/asyncrun/runner/xterm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/xterm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/runner/xterm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/compat.vim
+    - name: autoload/asyncrun/compat.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/compat.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/compat.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/info.vim
+    - name: autoload/asyncrun/info.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/info.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/info.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/locator.vim
+    - name: autoload/asyncrun/locator.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/locator.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/locator.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/macos.vim
+    - name: autoload/asyncrun/macos.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/macos.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/macos.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asyncrun/utils.vim
+    - name: autoload/asyncrun/utils.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/utils.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asyncrun/utils.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/colorexp/colors.vim
+    - name: autoload/colorexp/colors.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/colors.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/colors.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/colorexp/export.vim
+    - name: autoload/colorexp/export.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/export.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/export.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/colorexp/names.vim
+    - name: autoload/colorexp/names.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/names.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/names.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/colorexp/palette.vim
+    - name: autoload/colorexp/palette.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/palette.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/palette.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/colorexp/palette9.vim
+    - name: autoload/colorexp/palette9.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/palette9.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/colorexp/palette9.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/dash/defaults.vim
+    - name: autoload/dash/defaults.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/dash/defaults.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/dash/defaults.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/dist/vim/fs.vim
+    - name: autoload/dist/vim/fs.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/dist/vim/fs.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/dist/vim/fs.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gdv/diffview.vim
+    - name: autoload/gdv/diffview.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/diffview.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/diffview.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gdv/flog.vim
+    - name: autoload/gdv/flog.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/flog.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/flog.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gdv/fugitive.vim
+    - name: autoload/gdv/fugitive.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/fugitive.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/fugitive.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gdv/git.vim
+    - name: autoload/gdv/git.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/git.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/git.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gdv/matcher.vim
+    - name: autoload/gdv/matcher.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/matcher.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/matcher.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gdv/stage.vim
+    - name: autoload/gdv/stage.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/stage.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gdv/stage.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gptcommit/config.vim
+    - name: autoload/gptcommit/config.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gptcommit/config.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gptcommit/config.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gptcommit/gpt.vim
+    - name: autoload/gptcommit/gpt.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gptcommit/gpt.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gptcommit/gpt.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/gptcommit/utils.vim
+    - name: autoload/gptcommit/utils.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gptcommit/utils.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/gptcommit/utils.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mode/default_mode.vim
+    - name: autoload/module/mode/default_mode.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/default_mode.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/default_mode.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mode/gdb_mode.vim
+    - name: autoload/module/mode/gdb_mode.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/gdb_mode.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/gdb_mode.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mode/git_mode.vim
+    - name: autoload/module/mode/git_mode.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/git_mode.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/git_mode.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mode/golang_mode.vim
+    - name: autoload/module/mode/golang_mode.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/golang_mode.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/golang_mode.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mode/quickmenu_mode.vim
+    - name: autoload/module/mode/quickmenu_mode.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/quickmenu_mode.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/quickmenu_mode.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mode/task_mode.vim
+    - name: autoload/module/mode/task_mode.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/task_mode.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/task_mode.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mode/test_region.vim
+    - name: autoload/module/mode/test_region.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/test_region.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode/test_region.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/action.vim
+    - name: autoload/module/action.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/action.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/action.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/alternative.vim
+    - name: autoload/module/alternative.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/alternative.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/alternative.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/colors.vim
+    - name: autoload/module/colors.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/colors.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/colors.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/compat.vim
+    - name: autoload/module/compat.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/compat.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/compat.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/complete.vim
+    - name: autoload/module/complete.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/complete.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/complete.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/conda.vim
+    - name: autoload/module/conda.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/conda.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/conda.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/copilot.vim
+    - name: autoload/module/copilot.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/copilot.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/copilot.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/cpp.vim
+    - name: autoload/module/cpp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/cpp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/cpp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/drivers.vim
+    - name: autoload/module/drivers.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/drivers.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/drivers.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/extension.vim
+    - name: autoload/module/extension.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/extension.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/extension.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/generic.vim
+    - name: autoload/module/generic.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/generic.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/generic.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/gitlib.vim
+    - name: autoload/module/gitlib.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/gitlib.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/gitlib.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/go.vim
+    - name: autoload/module/go.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/go.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/go.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/lsp.vim
+    - name: autoload/module/lsp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/lsp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/lsp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/misc.vim
+    - name: autoload/module/misc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/misc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/misc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mock.vim
+    - name: autoload/module/mock.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mock.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mock.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/mode.vim
+    - name: autoload/module/mode.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/mode.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/project.vim
+    - name: autoload/module/project.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/project.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/project.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/prompt.vim
+    - name: autoload/module/prompt.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/prompt.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/prompt.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/quickfix.vim
+    - name: autoload/module/quickfix.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/quickfix.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/quickfix.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/snipmate.vim
+    - name: autoload/module/snipmate.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/snipmate.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/snipmate.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/tags.vim
+    - name: autoload/module/tags.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/tags.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/tags.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/module/variable.vim
+    - name: autoload/module/variable.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/variable.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/module/variable.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/navigator/charname.vim
+    - name: autoload/navigator/charname.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/charname.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/charname.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/navigator/config.vim
+    - name: autoload/navigator/config.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/config.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/config.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/navigator/display.vim
+    - name: autoload/navigator/display.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/display.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/display.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/navigator/layout.vim
+    - name: autoload/navigator/layout.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/layout.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/layout.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/navigator/state.vim
+    - name: autoload/navigator/state.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/state.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/state.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/navigator/test.vim
+    - name: autoload/navigator/test.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/test.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/test.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/navigator/utils.vim
+    - name: autoload/navigator/utils.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/utils.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator/utils.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/notify/config.vim
+    - name: autoload/notify/config.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/notify/config.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/notify/config.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/notify/test.vim
+    - name: autoload/notify/test.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/notify/test.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/notify/test.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/notify/tipwin.vim
+    - name: autoload/notify/tipwin.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/notify/tipwin.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/notify/tipwin.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/preload/README.txt
+    - name: autoload/preload/README.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/preload/README.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/preload/README.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/module/__init__.py
+    - name: autoload/python/module/__init__.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/module/__init__.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/module/__init__.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/module/cpp.py
+    - name: autoload/python/module/cpp.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/module/cpp.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/module/cpp.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/parser/__init__.py
+    - name: autoload/python/parser/__init__.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/__init__.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/__init__.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/parser/ctoken_help.py
+    - name: autoload/python/parser/ctoken_help.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_help.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_help.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/parser/ctoken_pygments.py
+    - name: autoload/python/parser/ctoken_pygments.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_pygments.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_pygments.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/parser/ctoken_reader.py
+    - name: autoload/python/parser/ctoken_reader.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_reader.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_reader.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/parser/ctoken_regex.py
+    - name: autoload/python/parser/ctoken_regex.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_regex.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_regex.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/parser/ctoken_type.py
+    - name: autoload/python/parser/ctoken_type.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_type.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken_type.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/parser/ctoken.py
+    - name: autoload/python/parser/ctoken.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/parser/ctoken.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/pyvim/__init__.py
+    - name: autoload/python/pyvim/__init__.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/__init__.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/__init__.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/pyvim/buffer.py
+    - name: autoload/python/pyvim/buffer.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/buffer.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/buffer.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/pyvim/core.py
+    - name: autoload/python/pyvim/core.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/core.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/core.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/pyvim/pyglex.py
+    - name: autoload/python/pyvim/pyglex.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/pyglex.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/pyglex.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/pyvim/utils.py
+    - name: autoload/python/pyvim/utils.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/utils.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/pyvim/utils.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/ascinit.py
+    - name: autoload/python/ascinit.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/ascinit.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/ascinit.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/python/treesitter.py
+    - name: autoload/python/treesitter.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/treesitter.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/python/treesitter.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/command.vim
+    - name: autoload/quickui/command.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/command.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/command.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/confirm.vim
+    - name: autoload/quickui/confirm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/confirm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/confirm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/context.vim
+    - name: autoload/quickui/context.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/context.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/context.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/core.vim
+    - name: autoload/quickui/core.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/core.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/core.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/highlight.vim
+    - name: autoload/quickui/highlight.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/highlight.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/highlight.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/input.vim
+    - name: autoload/quickui/input.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/input.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/input.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/listbox.vim
+    - name: autoload/quickui/listbox.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/listbox.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/listbox.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/menu.vim
+    - name: autoload/quickui/menu.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/menu.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/menu.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/palette.vim
+    - name: autoload/quickui/palette.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/palette.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/palette.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/palette9.vim
+    - name: autoload/quickui/palette9.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/palette9.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/palette9.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/preview.vim
+    - name: autoload/quickui/preview.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/preview.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/preview.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/readline.vim
+    - name: autoload/quickui/readline.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/readline.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/readline.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/style.vim
+    - name: autoload/quickui/style.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/style.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/style.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/tags.vim
+    - name: autoload/quickui/tags.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/tags.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/tags.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/terminal.vim
+    - name: autoload/quickui/terminal.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/terminal.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/terminal.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/textbox.vim
+    - name: autoload/quickui/textbox.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/textbox.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/textbox.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/tools.vim
+    - name: autoload/quickui/tools.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/tools.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/tools.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/utils.vim
+    - name: autoload/quickui/utils.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/utils.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/utils.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickui/window.vim
+    - name: autoload/quickui/window.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/window.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickui/window.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/textobj/user.vim
+    - name: autoload/textobj/user.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/textobj/user.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/textobj/user.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/tweak/cherry.py
+    - name: autoload/tweak/cherry.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/tweak/cherry.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/tweak/cherry.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/tweak/cherry.vim
+    - name: autoload/tweak/cherry.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/tweak/cherry.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/tweak/cherry.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/tweak/pastebin.vim
+    - name: autoload/tweak/pastebin.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/tweak/pastebin.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/tweak/pastebin.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asclib.vim
+    - name: autoload/asclib.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asclib.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/asynctask.vim
+    - name: autoload/asynctask.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asynctask.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/asynctask.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/auxlib.py
+    - name: autoload/auxlib.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/auxlib.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/auxlib.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/auxlib.vim
+    - name: autoload/auxlib.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/auxlib.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/auxlib.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/comptask.vim
+    - name: autoload/comptask.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/comptask.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/comptask.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/cpatch.vim
+    - name: autoload/cpatch.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/cpatch.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/cpatch.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/dash.vim
+    - name: autoload/dash.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/dash.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/dash.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/minibox.vim
+    - name: autoload/minibox.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/minibox.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/minibox.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/navigator.vim
+    - name: autoload/navigator.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/navigator.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/plug.vim
+    - name: autoload/plug.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/plug.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/plug.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/preview.vim
+    - name: autoload/preview.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/preview.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/preview.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/projectile.vim
+    - name: autoload/projectile.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/projectile.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/projectile.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/quickmenu.vim
+    - name: autoload/quickmenu.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickmenu.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/quickmenu.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/snippet.vim
+    - name: autoload/snippet.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/snippet.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/snippet.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/autoload/svnhelp.vim
+    - name: autoload/svnhelp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/svnhelp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/autoload/svnhelp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/comcast.txt
+    - name: cheat/comcast.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/comcast.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/comcast.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/cut.txt
+    - name: cheat/cut.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/cut.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/cut.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/errno.txt
+    - name: cheat/errno.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/errno.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/errno.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/git.txt
+    - name: cheat/git.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/git.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/git.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/install.txt
+    - name: cheat/install.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/install.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/install.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/linux.txt
+    - name: cheat/linux.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/linux.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/linux.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/nano.txt
+    - name: cheat/nano.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/nano.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/nano.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/nc.txt
+    - name: cheat/nc.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/nc.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/nc.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/redis.txt
+    - name: cheat/redis.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/redis.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/redis.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/regex.txt
+    - name: cheat/regex.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/regex.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/regex.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/socat.txt
+    - name: cheat/socat.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/socat.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/socat.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/tcconfig.txt
+    - name: cheat/tcconfig.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/tcconfig.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/tcconfig.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/tcpdump.txt
+    - name: cheat/tcpdump.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/tcpdump.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/tcpdump.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/tr.txt
+    - name: cheat/tr.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/tr.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/tr.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/vim.txt
+    - name: cheat/vim.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/vim.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/vim.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/cheat/windows.txt
+    - name: cheat/windows.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/windows.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/cheat/windows.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/__init__.vim
+    - name: colors/patch/__init__.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/__init__.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/__init__.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/borland.vim
+    - name: colors/patch/borland.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/borland.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/borland.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/borlandc.vim
+    - name: colors/patch/borlandc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/borlandc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/borlandc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/desert256.vim
+    - name: colors/patch/desert256.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/desert256.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/desert256.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/eclipse.vim
+    - name: colors/patch/eclipse.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/eclipse.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/eclipse.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/everforest.vim
+    - name: colors/patch/everforest.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/everforest.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/everforest.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/iceberg.vim
+    - name: colors/patch/iceberg.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/iceberg.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/iceberg.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/lilypink.vim
+    - name: colors/patch/lilypink.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/lilypink.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/lilypink.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/monokai.vim
+    - name: colors/patch/monokai.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/monokai.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/monokai.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/mountaineer.vim
+    - name: colors/patch/mountaineer.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/mountaineer.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/mountaineer.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/nord.vim
+    - name: colors/patch/nord.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/nord.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/nord.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/paradox.vim
+    - name: colors/patch/paradox.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/paradox.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/paradox.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/parsec.vim
+    - name: colors/patch/parsec.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/parsec.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/parsec.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/README.md
+    - name: colors/patch/README.md
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/README.md
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/README.md
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/rootwater.vim
+    - name: colors/patch/rootwater.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/rootwater.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/rootwater.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/soft-era.vim
+    - name: colors/patch/soft-era.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/soft-era.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/soft-era.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/sublime.vim
+    - name: colors/patch/sublime.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/sublime.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/sublime.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/tender.vim
+    - name: colors/patch/tender.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/tender.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/tender.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/patch/white-sand.vim
+    - name: colors/patch/white-sand.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/white-sand.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/patch/white-sand.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/quickui/borland.vim
+    - name: colors/quickui/borland.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/borland.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/borland.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/quickui/default.vim
+    - name: colors/quickui/default.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/default.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/default.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/quickui/gruvbox.vim
+    - name: colors/quickui/gruvbox.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/gruvbox.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/gruvbox.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/quickui/papercol_dark.vim
+    - name: colors/quickui/papercol_dark.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/papercol_dark.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/papercol_dark.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/quickui/papercol_light.vim
+    - name: colors/quickui/papercol_light.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/papercol_light.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/papercol_light.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/quickui/solarized.vim
+    - name: colors/quickui/solarized.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/solarized.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/solarized.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/quickui/system.vim
+    - name: colors/quickui/system.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/system.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/quickui/system.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/antarctic.vim
+    - name: colors/antarctic.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/antarctic.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/antarctic.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/apprentice.vim
+    - name: colors/apprentice.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/apprentice.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/apprentice.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/borland256.vim
+    - name: colors/borland256.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/borland256.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/borland256.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/borlandc.vim
+    - name: colors/borlandc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/borlandc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/borlandc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/borlandm.vim
+    - name: colors/borlandm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/borlandm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/borlandm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/coc_patch.vim
+    - name: colors/coc_patch.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/coc_patch.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/coc_patch.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/desert256.vim
+    - name: colors/desert256.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/desert256.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/desert256.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/eclipse.vim
+    - name: colors/eclipse.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/eclipse.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/eclipse.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/gaea.vim
+    - name: colors/gaea.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/gaea.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/gaea.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/kolor.vim
+    - name: colors/kolor.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/kolor.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/kolor.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/lilypink2.vim
+    - name: colors/lilypink2.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/lilypink2.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/lilypink2.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/monokai-vim.vim
+    - name: colors/monokai-vim.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/monokai-vim.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/monokai-vim.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/monokai.vim
+    - name: colors/monokai.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/monokai.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/monokai.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/oceanblack2.vim
+    - name: colors/oceanblack2.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/oceanblack2.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/oceanblack2.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/oceanblack256.vim
+    - name: colors/oceanblack256.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/oceanblack256.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/oceanblack256.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/onehalfdark.vim
+    - name: colors/onehalfdark.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/onehalfdark.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/onehalfdark.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/onehalflight.vim
+    - name: colors/onehalflight.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/onehalflight.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/onehalflight.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/papercol.vim
+    - name: colors/papercol.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/papercol.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/papercol.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/paradox.vim
+    - name: colors/paradox.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/paradox.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/paradox.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/rmnv.vim
+    - name: colors/rmnv.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/rmnv.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/rmnv.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/seoul256-light.vim
+    - name: colors/seoul256-light.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/seoul256-light.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/seoul256-light.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/seoul256.vim
+    - name: colors/seoul256.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/seoul256.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/seoul256.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/colors/sublime.vim
+    - name: colors/sublime.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/sublime.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/colors/sublime.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/doc/apc.txt
+    - name: doc/apc.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/apc.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/apc.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/doc/asyncrun.txt
+    - name: doc/asyncrun.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/asyncrun.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/asyncrun.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/doc/asynctasks.txt
+    - name: doc/asynctasks.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/asynctasks.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/asynctasks.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/doc/terminal_help.txt
+    - name: doc/terminal_help.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/terminal_help.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/terminal_help.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/doc/textobj-user.txt
+    - name: doc/textobj-user.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/textobj-user.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/textobj-user.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/doc/whatsnew.md
+    - name: doc/whatsnew.md
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/whatsnew.md
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/doc/whatsnew.md
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/etc/zim.zsh
+    - name: etc/zim.zsh
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/etc/zim.zsh
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/etc/zim.zsh
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/c.vim
+    - name: ftplugin/c.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/c.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/c.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/comp.vim
+    - name: ftplugin/comp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/comp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/comp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/cpp.vim
+    - name: ftplugin/cpp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/cpp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/cpp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/cs.vim
+    - name: ftplugin/cs.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/cs.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/cs.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/dosini.vim
+    - name: ftplugin/dosini.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/dosini.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/dosini.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/gitcommit.vim
+    - name: ftplugin/gitcommit.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/gitcommit.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/gitcommit.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/go.vim
+    - name: ftplugin/go.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/go.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/go.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/gomod.vim
+    - name: ftplugin/gomod.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/gomod.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/gomod.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/haskell.vim
+    - name: ftplugin/haskell.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/haskell.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/haskell.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/help.vim
+    - name: ftplugin/help.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/help.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/help.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/hlsl.vim
+    - name: ftplugin/hlsl.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/hlsl.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/hlsl.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/html.vim
+    - name: ftplugin/html.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/html.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/html.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/java.vim
+    - name: ftplugin/java.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/java.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/java.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/javascript.vim
+    - name: ftplugin/javascript.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/javascript.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/javascript.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/json.vim
+    - name: ftplugin/json.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/json.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/json.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/lisp.vim
+    - name: ftplugin/lisp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/lisp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/lisp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/lua.vim
+    - name: ftplugin/lua.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/lua.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/lua.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/markdown.vim
+    - name: ftplugin/markdown.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/markdown.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/markdown.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/mineswp.vim
+    - name: ftplugin/mineswp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/mineswp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/mineswp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/pascal.vim
+    - name: ftplugin/pascal.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/pascal.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/pascal.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/python.vim
+    - name: ftplugin/python.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/python.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/python.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/qf.vim
+    - name: ftplugin/qf.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/qf.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/qf.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/rust.vim
+    - name: ftplugin/rust.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/rust.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/rust.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/scala.vim
+    - name: ftplugin/scala.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/scala.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/scala.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/taskini.vim
+    - name: ftplugin/taskini.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/taskini.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/taskini.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/terminal.vim
+    - name: ftplugin/terminal.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/terminal.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/terminal.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/termlite.vim
+    - name: ftplugin/termlite.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/termlite.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/termlite.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/typescript.vim
+    - name: ftplugin/typescript.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/typescript.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/typescript.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/vim-plug.vim
+    - name: ftplugin/vim-plug.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/vim-plug.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/vim-plug.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/ftplugin/vim.vim
+    - name: ftplugin/vim.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/vim.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/ftplugin/vim.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/config.vim
+    - name: init/config.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/config.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/config.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/gui.vim
+    - name: init/gui.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/gui.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/gui.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/ignores.vim
+    - name: init/ignores.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/ignores.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/ignores.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/keymaps.vim
+    - name: init/keymaps.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/keymaps.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/keymaps.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/menu.vim
+    - name: init/menu.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/menu.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/menu.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/misc.vim
+    - name: init/misc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/misc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/misc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/plugins.vim
+    - name: init/plugins.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/plugins.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/plugins.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/status.vim
+    - name: init/status.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/status.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/status.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/tools.vim
+    - name: init/tools.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/tools.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/tools.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/unix.vim
+    - name: init/unix.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/unix.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/unix.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/viminit.vim
+    - name: init/viminit.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/viminit.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/viminit.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init/vimmake.vim
+    - name: init/vimmake.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/vimmake.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init/vimmake.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lib/vimhelp.py
+    - name: lib/vimhelp.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lib/vimhelp.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lib/vimhelp.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/config/custom.lua
+    - name: lua/config/custom.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/config/custom.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/config/custom.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/config/extra.lua
+    - name: lua/config/extra.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/config/extra.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/config/extra.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/config/init.lua
+    - name: lua/config/init.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/config/init.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/config/init.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/core/ascmini.lua
+    - name: lua/core/ascmini.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/core/ascmini.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/core/ascmini.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/core/init.lua
+    - name: lua/core/init.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/core/init.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/core/init.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/core/loader.lua
+    - name: lua/core/loader.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/core/loader.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/core/loader.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/core/utils.lua
+    - name: lua/core/utils.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/core/utils.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/core/utils.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/leaderf/snippet.lua
+    - name: lua/leaderf/snippet.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/leaderf/snippet.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/leaderf/snippet.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/basic.lua
+    - name: lua/plugins/basic.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/basic.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/basic.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/colors.lua
+    - name: lua/plugins/colors.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/colors.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/colors.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/filetypes.lua
+    - name: lua/plugins/filetypes.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/filetypes.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/filetypes.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/games.lua
+    - name: lua/plugins/games.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/games.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/games.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/init.lua
+    - name: lua/plugins/init.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/init.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/init.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/leaderf.lua
+    - name: lua/plugins/leaderf.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/leaderf.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/leaderf.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/lsp.lua
+    - name: lua/plugins/lsp.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/lsp.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/lsp.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/notify.lua
+    - name: lua/plugins/notify.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/notify.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/notify.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/options.lua
+    - name: lua/plugins/options.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/options.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/options.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/packages.lua
+    - name: lua/plugins/packages.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/packages.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/packages.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/styles.lua
+    - name: lua/plugins/styles.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/styles.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/styles.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/telescope.lua
+    - name: lua/plugins/telescope.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/telescope.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/telescope.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/plugins/treesitter.lua
+    - name: lua/plugins/treesitter.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/treesitter.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/plugins/treesitter.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/lua/README.txt
+    - name: lua/README.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/README.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/lua/README.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/altmeta.vim
+    - name: plugin/altmeta.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/altmeta.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/altmeta.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/asyncrun.vim
+    - name: plugin/asyncrun.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/asyncrun.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/asyncrun.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/asynctasks.vim
+    - name: plugin/asynctasks.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/asynctasks.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/asynctasks.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/bufferhint.vim
+    - name: plugin/bufferhint.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/bufferhint.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/bufferhint.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/colorexp.vim
+    - name: plugin/colorexp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/colorexp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/colorexp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/commands.vim
+    - name: plugin/commands.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/commands.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/commands.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/commentary.vim
+    - name: plugin/commentary.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/commentary.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/commentary.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/cpatch.vim
+    - name: plugin/cpatch.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/cpatch.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/cpatch.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/cppman.vim
+    - name: plugin/cppman.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/cppman.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/cppman.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/escript.vim
+    - name: plugin/escript.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/escript.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/escript.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/finalize.vim
+    - name: plugin/finalize.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/finalize.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/finalize.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/gdv.vim
+    - name: plugin/gdv.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/gdv.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/gdv.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/gptcommit.vim
+    - name: plugin/gptcommit.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/gptcommit.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/gptcommit.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/gutentags_plus.vim
+    - name: plugin/gutentags_plus.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/gutentags_plus.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/gutentags_plus.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/highlight.vim
+    - name: plugin/highlight.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/highlight.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/highlight.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/indentmove.vim
+    - name: plugin/indentmove.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/indentmove.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/indentmove.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/leaderf_snippet.py
+    - name: plugin/leaderf_snippet.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/leaderf_snippet.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/leaderf_snippet.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/leaderf_snippet.vim
+    - name: plugin/leaderf_snippet.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/leaderf_snippet.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/leaderf_snippet.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/localrc.vim
+    - name: plugin/localrc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/localrc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/localrc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/menu_help.vim
+    - name: plugin/menu_help.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/menu_help.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/menu_help.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/menu_init.vim
+    - name: plugin/menu_init.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/menu_init.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/menu_init.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/menu_keys.vim
+    - name: plugin/menu_keys.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/menu_keys.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/menu_keys.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/navigator.vim
+    - name: plugin/navigator.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/navigator.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/navigator.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/preload.vim
+    - name: plugin/preload.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/preload.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/preload.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/preview.vim
+    - name: plugin/preview.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/preview.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/preview.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/quickui.vim
+    - name: plugin/quickui.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/quickui.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/quickui.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/rtformat.vim
+    - name: plugin/rtformat.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/rtformat.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/rtformat.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/script_load.vim
+    - name: plugin/script_load.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/script_load.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/script_load.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/search_plus.vim
+    - name: plugin/search_plus.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/search_plus.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/search_plus.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/signtune.vim
+    - name: plugin/signtune.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/signtune.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/signtune.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/task_help.vim
+    - name: plugin/task_help.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/task_help.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/task_help.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/task_ui_source.vim
+    - name: plugin/task_ui_source.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/task_ui_source.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/task_ui_source.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/template.vim
+    - name: plugin/template.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/template.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/template.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/terminal_help.vim
+    - name: plugin/terminal_help.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/terminal_help.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/terminal_help.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/terminal_tools.vim
+    - name: plugin/terminal_tools.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/terminal_tools.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/terminal_tools.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/textobjs.vim
+    - name: plugin/textobjs.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/textobjs.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/textobjs.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/textproc.vim
+    - name: plugin/textproc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/textproc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/textproc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/user_interface.vim
+    - name: plugin/user_interface.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/user_interface.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/user_interface.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/vinegar.vim
+    - name: plugin/vinegar.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/vinegar.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/vinegar.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/plugin/wprofile.vim
+    - name: plugin/wprofile.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/wprofile.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/plugin/wprofile.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/airline.vim
+    - name: site/bundle/airline.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/airline.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/airline.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/ale.vim
+    - name: site/bundle/ale.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/ale.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/ale.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/autoformat.vim
+    - name: site/bundle/autoformat.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/autoformat.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/autoformat.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/clap.vim
+    - name: site/bundle/clap.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/clap.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/clap.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/coc.vim
+    - name: site/bundle/coc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/coc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/coc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/colors.vim
+    - name: site/bundle/colors.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/colors.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/colors.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/copilot.vim
+    - name: site/bundle/copilot.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/copilot.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/copilot.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/cycle.vim
+    - name: site/bundle/cycle.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/cycle.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/cycle.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/defx.vim
+    - name: site/bundle/defx.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/defx.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/defx.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/deoplete.vim
+    - name: site/bundle/deoplete.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/deoplete.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/deoplete.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/devdocs.vim
+    - name: site/bundle/devdocs.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/devdocs.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/devdocs.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/dirvish.vim
+    - name: site/bundle/dirvish.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/dirvish.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/dirvish.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/doge.vim
+    - name: site/bundle/doge.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/doge.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/doge.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/easymotion.vim
+    - name: site/bundle/easymotion.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/easymotion.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/easymotion.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/emmet.vim
+    - name: site/bundle/emmet.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/emmet.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/emmet.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/floaterm.vim
+    - name: site/bundle/floaterm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/floaterm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/floaterm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/fzf.vim
+    - name: site/bundle/fzf.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/fzf.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/fzf.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/gdb.vim
+    - name: site/bundle/gdb.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/gdb.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/gdb.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/git.vim
+    - name: site/bundle/git.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/git.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/git.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/go.vim
+    - name: site/bundle/go.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/go.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/go.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/lcn.vim
+    - name: site/bundle/lcn.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/lcn.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/lcn.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/leaderf.vim
+    - name: site/bundle/leaderf.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/leaderf.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/leaderf.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/lightline.vim
+    - name: site/bundle/lightline.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/lightline.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/lightline.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/lsp.vim
+    - name: site/bundle/lsp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/lsp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/lsp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/matchup.vim
+    - name: site/bundle/matchup.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/matchup.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/matchup.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/minisnip.vim
+    - name: site/bundle/minisnip.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/minisnip.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/minisnip.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/neodebug.vim
+    - name: site/bundle/neodebug.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/neodebug.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/neodebug.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/neoformat.vim
+    - name: site/bundle/neoformat.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/neoformat.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/neoformat.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/neosnippet.vim
+    - name: site/bundle/neosnippet.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/neosnippet.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/neosnippet.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/nerdtree.vim
+    - name: site/bundle/nerdtree.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/nerdtree.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/nerdtree.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/outliner.vim
+    - name: site/bundle/outliner.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/outliner.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/outliner.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/snipmate.vim
+    - name: site/bundle/snipmate.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/snipmate.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/snipmate.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/stargate.vim
+    - name: site/bundle/stargate.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/stargate.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/stargate.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/supertab.vim
+    - name: site/bundle/supertab.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/supertab.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/supertab.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/switch.vim
+    - name: site/bundle/switch.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/switch.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/switch.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/tabnine.vim
+    - name: site/bundle/tabnine.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/tabnine.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/tabnine.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/targets.vim
+    - name: site/bundle/targets.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/targets.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/targets.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/ultisnips.vim
+    - name: site/bundle/ultisnips.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/ultisnips.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/ultisnips.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/vimspector.vim
+    - name: site/bundle/vimspector.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/vimspector.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/vimspector.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/vimwiki.vim
+    - name: site/bundle/vimwiki.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/vimwiki.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/vimwiki.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/which_key.vim
+    - name: site/bundle/which_key.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/which_key.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/which_key.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/ycm.vim
+    - name: site/bundle/ycm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/ycm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/ycm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/bundle/yegappan.vim
+    - name: site/bundle/yegappan.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/yegappan.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/bundle/yegappan.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/doc/bash.txt
+    - name: site/doc/bash.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/bash.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/bash.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/doc/emacs.txt
+    - name: site/doc/emacs.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/emacs.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/emacs.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/doc/gdb.txt
+    - name: site/doc/gdb.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/gdb.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/gdb.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/doc/git.txt
+    - name: site/doc/git.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/git.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/git.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/doc/ip.txt
+    - name: site/doc/ip.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/ip.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/ip.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/doc/nano.txt
+    - name: site/doc/nano.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/nano.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/nano.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/doc/vim.txt
+    - name: site/doc/vim.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/vim.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/doc/vim.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/escript/dump_colors.vim
+    - name: site/escript/dump_colors.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/dump_colors.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/dump_colors.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/escript/list_path.vim
+    - name: site/escript/list_path.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/list_path.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/list_path.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/escript/list_rtp.vim
+    - name: site/escript/list_rtp.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/list_rtp.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/list_rtp.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/escript/lua_package.vim
+    - name: site/escript/lua_package.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/lua_package.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/lua_package.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/escript/README.txt
+    - name: site/escript/README.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/README.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/README.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/escript/script_names.vim
+    - name: site/escript/script_names.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/script_names.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/escript/script_names.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/lua/kickstart.lua
+    - name: site/lua/kickstart.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/lua/kickstart.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/lua/kickstart.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/minisnip/all/html.snip
+    - name: site/minisnip/all/html.snip
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/minisnip/all/html.snip
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/minisnip/all/html.snip
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/after_object.vim
+    - name: site/opt/after_object.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/after_object.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/after_object.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/ale_cppcheck.vim
+    - name: site/opt/ale_cppcheck.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/ale_cppcheck.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/ale_cppcheck.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/ale_splint.vim
+    - name: site/opt/ale_splint.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/ale_splint.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/ale_splint.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/altmeta.old
+    - name: site/opt/altmeta.old
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/altmeta.old
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/altmeta.old
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/angry.vim
+    - name: site/opt/angry.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/angry.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/angry.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/apc.vim
+    - name: site/opt/apc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/apc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/apc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/apc2.vim
+    - name: site/opt/apc2.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/apc2.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/apc2.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/apm.vim
+    - name: site/opt/apm.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/apm.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/apm.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/argtextobj.vim
+    - name: site/opt/argtextobj.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/argtextobj.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/argtextobj.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/calendar.vim
+    - name: site/opt/calendar.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/calendar.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/calendar.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/dash.vim
+    - name: site/opt/dash.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/dash.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/dash.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/echofunc.vim
+    - name: site/opt/echofunc.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/echofunc.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/echofunc.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/global.vim
+    - name: site/opt/global.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/global.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/global.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/hexhigh.vim
+    - name: site/opt/hexhigh.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/hexhigh.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/hexhigh.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/indent-object.vim
+    - name: site/opt/indent-object.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/indent-object.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/indent-object.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/module.old
+    - name: site/opt/module.old
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/module.old
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/module.old
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/taglist.vim
+    - name: site/opt/taglist.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/taglist.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/taglist.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/termdebug1.vim
+    - name: site/opt/termdebug1.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/termdebug1.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/termdebug1.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/txt.vim
+    - name: site/opt/txt.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/txt.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/txt.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/unimpaired.vim
+    - name: site/opt/unimpaired.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/unimpaired.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/unimpaired.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/opt/vimim.vim
+    - name: site/opt/vimim.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/vimim.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/opt/vimim.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/samples/lsp_servers.vim
+    - name: site/samples/lsp_servers.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/samples/lsp_servers.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/samples/lsp_servers.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/samples/quickkeys.ahk
+    - name: site/samples/quickkeys.ahk
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/samples/quickkeys.ahk
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/samples/quickkeys.ahk
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/c.snippets
+    - name: site/snippets/c.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/c.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/c.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/cmake.snippets
+    - name: site/snippets/cmake.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/cmake.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/cmake.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/cpp.snippets
+    - name: site/snippets/cpp.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/cpp.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/cpp.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/gitconfig.snippets
+    - name: site/snippets/gitconfig.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/gitconfig.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/gitconfig.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/html.snippets
+    - name: site/snippets/html.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/html.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/html.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/lua.snippets
+    - name: site/snippets/lua.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/lua.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/lua.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/python.snippets
+    - name: site/snippets/python.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/python.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/python.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/README.txt
+    - name: site/snippets/README.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/README.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/README.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/snippets/vim.snippets
+    - name: site/snippets/vim.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/vim.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/snippets/vim.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/c/hello.txt
+    - name: site/template/c/hello.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/c/hello.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/c/hello.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cmake/default.txt
+    - name: site/template/cmake/default.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cmake/default.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cmake/default.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cmake/executable.txt
+    - name: site/template/cmake/executable.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cmake/executable.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cmake/executable.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cpp/catch2.txt
+    - name: site/template/cpp/catch2.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/catch2.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/catch2.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cpp/child.txt
+    - name: site/template/cpp/child.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/child.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/child.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cpp/gtest.txt
+    - name: site/template/cpp/gtest.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/gtest.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/gtest.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cpp/header.txt
+    - name: site/template/cpp/header.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/header.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/header.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cpp/hello.txt
+    - name: site/template/cpp/hello.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/hello.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/hello.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cpp/test.txt
+    - name: site/template/cpp/test.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/test.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/test.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cpp/test1.txt
+    - name: site/template/cpp/test1.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/test1.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cpp/test1.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/cs/hello.txt
+    - name: site/template/cs/hello.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cs/hello.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/cs/hello.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/dosini/emake.txt
+    - name: site/template/dosini/emake.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/dosini/emake.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/dosini/emake.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/gitconfig/config.txt
+    - name: site/template/gitconfig/config.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/gitconfig/config.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/gitconfig/config.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/go/hello.txt
+    - name: site/template/go/hello.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/go/hello.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/go/hello.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/html/react-init.txt
+    - name: site/template/html/react-init.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/html/react-init.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/html/react-init.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/taskini/cmake.txt
+    - name: site/template/taskini/cmake.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/taskini/cmake.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/taskini/cmake.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/taskini/golang.txt
+    - name: site/template/taskini/golang.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/taskini/golang.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/taskini/golang.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/vim/init_vimrc.txt
+    - name: site/template/vim/init_vimrc.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/vim/init_vimrc.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/vim/init_vimrc.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/template/hello.txt
+    - name: site/template/hello.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/hello.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/template/hello.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/autocorrect.cmd
+    - name: site/text/autocorrect.cmd
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/autocorrect.cmd
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/autocorrect.cmd
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/comment_surround.py
+    - name: site/text/comment_surround.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/comment_surround.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/comment_surround.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/format_html.py
+    - name: site/text/format_html.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/format_html.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/format_html.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/format_json.py
+    - name: site/text/format_json.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/format_json.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/format_json.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/html_to_dokuwiki.cmd
+    - name: site/text/html_to_dokuwiki.cmd
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/html_to_dokuwiki.cmd
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/html_to_dokuwiki.cmd
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/html_to_markdown.cmd
+    - name: site/text/html_to_markdown.cmd
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/html_to_markdown.cmd
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/html_to_markdown.cmd
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/html_to_text.py
+    - name: site/text/html_to_text.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/html_to_text.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/html_to_text.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/lower.py
+    - name: site/text/lower.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/lower.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/lower.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/markdown_to_dokuwiki.cmd
+    - name: site/text/markdown_to_dokuwiki.cmd
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/markdown_to_dokuwiki.cmd
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/markdown_to_dokuwiki.cmd
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/markdown_to_html.cmd
+    - name: site/text/markdown_to_html.cmd
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/markdown_to_html.cmd
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/markdown_to_html.cmd
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/passwd_user_home.awk
+    - name: site/text/passwd_user_home.awk
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/passwd_user_home.awk
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/passwd_user_home.awk
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/remove_markdown_images.py
+    - name: site/text/remove_markdown_images.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/remove_markdown_images.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/remove_markdown_images.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/remove_markdown_links.py
+    - name: site/text/remove_markdown_links.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/remove_markdown_links.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/remove_markdown_links.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/run_python_code.py
+    - name: site/text/run_python_code.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/run_python_code.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/run_python_code.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/upper.py
+    - name: site/text/upper.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/upper.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/upper.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/zhconv_cn.py
+    - name: site/text/zhconv_cn.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/zhconv_cn.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/zhconv_cn.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/text/zhconv_tw.py
+    - name: site/text/zhconv_tw.py
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/zhconv_tw.py
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/text/zhconv_tw.py
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/ultisnips/c.snippets
+    - name: site/ultisnips/c.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/ultisnips/c.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/ultisnips/c.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/ultisnips/cpp.snippets
+    - name: site/ultisnips/cpp.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/ultisnips/cpp.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/ultisnips/cpp.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/ultisnips/README.txt
+    - name: site/ultisnips/README.txt
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/ultisnips/README.txt
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/ultisnips/README.txt
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/site/ultisnips/vim.snippets
+    - name: site/ultisnips/vim.snippets
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/ultisnips/vim.snippets
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/site/ultisnips/vim.snippets
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/syntax/actionscript.vim
+    - name: syntax/actionscript.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/actionscript.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/actionscript.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/syntax/clap_tasks.vim
+    - name: syntax/clap_tasks.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/clap_tasks.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/clap_tasks.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/syntax/gprof.vim
+    - name: syntax/gprof.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/gprof.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/gprof.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/syntax/navigator.vim
+    - name: syntax/navigator.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/navigator.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/navigator.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/syntax/python.vim
+    - name: syntax/python.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/python.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/python.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/syntax/quickmenu.vim
+    - name: syntax/quickmenu.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/quickmenu.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/quickmenu.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/syntax/taskini.vim
+    - name: syntax/taskini.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/taskini.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/syntax/taskini.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/bundle.vim
+    - name: bundle.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/bundle.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/bundle.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init-vscode.vim
+    - name: init-vscode.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init-vscode.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init-vscode.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/init.vim
+    - name: init.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/init.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/neovim.lua
+    - name: neovim.lua
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/neovim.lua
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/neovim.lua
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/skywind.vim
+    - name: skywind.vim
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/skywind.vim
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/skywind.vim
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
-    - name: master/vimrc.unix
+    - name: vimrc.unix
       url: https://github.com/skywind3000/vim/blob/db040049297f2c6e6ad472a96a8b0540f6cd1d79/vimrc.unix
       raw_url: https://raw.githubusercontent.com/skywind3000/vim/db040049297f2c6e6ad472a96a8b0540f6cd1d79/vimrc.unix
       hash: db040049297f2c6e6ad472a96a8b0540f6cd1d79
