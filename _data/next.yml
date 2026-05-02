@@ -1,818 +1,832 @@
-- id: 721
-  date: 2026-05-02 23:00
+- id: 722
+  date: 2026-05-09 23:00
   author:
     name: delphinus
     url: https://github.com/delphinus
   vimrcs:
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/goneovim/settings.toml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/goneovim/settings.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/goneovim/settings.toml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/applescript.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/applescript.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/applescript.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/c.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/c.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/c.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/css.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/css.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/css.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/fish.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/fish.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/fish.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/floaterm.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/floaterm.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/floaterm.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/FTerm.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/FTerm.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/FTerm.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/git.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/git.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/git.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/gitcommit.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/gitcommit.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/gitcommit.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/gitmessagerpopup.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/gitmessagerpopup.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/gitmessagerpopup.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/go_gohtmltmpl.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/go_gohtmltmpl.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/go_gohtmltmpl.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/go.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/go.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/go.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/godoc.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/godoc.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/godoc.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/help.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/help.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/help.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/html_javascript.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/html_javascript.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/html_javascript.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/json.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/json.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/json.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/lua.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/lua.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/lua.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/man.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/man.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/man.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/markdown.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/markdown.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/markdown.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/packer.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/packer.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/packer.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/perl.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/perl.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/perl.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/php.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/php.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/php.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/python.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/python.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/python.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/qf.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/qf.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/qf.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/quickfix.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/quickfix.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/quickfix.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/ruby.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/ruby.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/ruby.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/scss.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/scss.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/scss.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/sh.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/sh.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/sh.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/tagbar.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/tagbar.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/tagbar.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/toml.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/toml.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/toml.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/undotree.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/undotree.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/undotree.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/vim.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/vim.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/vim.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/ftplugin/vue.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/ftplugin/vue.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/ftplugin/vue.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/clangd.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/clangd.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/clangd.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/copilot.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/copilot.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/copilot.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/denols.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/denols.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/denols.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/gopls.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/gopls.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/gopls.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/harper_ls.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/harper_ls.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/harper_ls.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/lua_ls.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/lua_ls.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/lua_ls.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/perlnavigator.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/perlnavigator.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/perlnavigator.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/pyright.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/pyright.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/pyright.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/lsp/ts_ls.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/lsp/ts_ls.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/lsp/ts_ls.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/queries/markdown/highlights.scm
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/queries/markdown/highlights.scm
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/queries/markdown/highlights.scm
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/queries/markdown/injections.scm
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/queries/markdown/injections.scm
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/queries/markdown/injections.scm
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/queries/terraform/highlights.scm
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/queries/terraform/highlights.scm
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/queries/terraform/highlights.scm
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/queries/toml/injections.scm
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/queries/toml/injections.scm
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/queries/toml/injections.scm
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/queries/yaml/injections.scm
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/queries/yaml/injections.scm
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/queries/yaml/injections.scm
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/syntax/perl/carp.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/syntax/perl/carp.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/syntax/perl/carp.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/syntax/perl/heredoc-mysql.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/syntax/perl/heredoc-mysql.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/syntax/perl/heredoc-mysql.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/syntax/perl/moose.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/syntax/perl/moose.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/syntax/perl/moose.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/syntax/perl/test-more.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/syntax/perl/test-more.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/syntax/perl/test-more.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/syntax/perl/try-tiny.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/syntax/perl/try-tiny.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/syntax/perl/try-tiny.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/syntax/perl/vim-perl.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/syntax/perl/vim-perl.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/syntax/perl/vim-perl.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/syntax/gohtmltmpl.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/syntax/gohtmltmpl.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/syntax/gohtmltmpl.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/after/syntax/json.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/after/syntax/json.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/after/syntax/json.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/init/qfixhowm.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/init/qfixhowm.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/init/qfixhowm.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/init/ref.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/init/ref.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/init/ref.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/init/unite.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/init/unite.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/init/unite.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/init/vimfiler.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/init/vimfiler.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/init/vimfiler.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/init/vimproc.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/init/vimproc.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/init/vimproc.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/init/watchdogs.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/init/watchdogs.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/init/watchdogs.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/ale.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/ale.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/ale.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/cache.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/cache.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/cache.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/color_wheel.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/color_wheel.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/color_wheel.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/datetime.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/datetime.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/datetime.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/devicons.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/devicons.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/devicons.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/fssh.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/fssh.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/fssh.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/gista.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/gista.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/gista.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/incsearch.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/incsearch.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/incsearch.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/perl.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/perl.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/perl.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/perlpath.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/perlpath.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/perlpath.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/qfixhowm.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/qfixhowm.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/qfixhowm.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/ref.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/ref.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/ref.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/syntax_info.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/syntax_info.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/syntax_info.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/title.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/title.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/title.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/tmux.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/tmux.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/tmux.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/delphinus/unite.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/delphinus/unite.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/delphinus/unite.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/tmuxline/themes/lightline_delphinus.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/tmuxline/themes/lightline_delphinus.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/tmuxline/themes/lightline_delphinus.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/unite/sources/rails/collector/json_schema.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/unite/sources/rails/collector/json_schema.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/unite/sources/rails/collector/json_schema.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/autoload/unite/sources/rails/collector/typescripts.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/autoload/unite/sources/rails/collector/typescripts.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/autoload/unite/sources/rails/collector/typescripts.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/dict/migemo/utf-8/han2zen.dat
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/dict/migemo/utf-8/han2zen.dat
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/dict/migemo/utf-8/han2zen.dat
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/dict/migemo/utf-8/hira2kata.dat
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/dict/migemo/utf-8/hira2kata.dat
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/dict/migemo/utf-8/hira2kata.dat
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/dict/migemo/utf-8/migemo-dict
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/dict/migemo/utf-8/migemo-dict
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/dict/migemo/utf-8/migemo-dict
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/dict/migemo/utf-8/roma2hira.dat
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/dict/migemo/utf-8/roma2hira.dat
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/dict/migemo/utf-8/roma2hira.dat
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/dict/migemo/utf-8/zen2han.dat
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/dict/migemo/utf-8/zen2han.dat
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/dict/migemo/utf-8/zen2han.dat
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/dict/perl.dict
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/dict/perl.dict
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/dict/perl.dict
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/ftdetect/mine.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/ftdetect/mine.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/ftdetect/mine.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/lazy/all.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/lazy/all.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/lazy/all.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/lazy/help_tags.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/lazy/help_tags.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/lazy/help_tags.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/lazy/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/lazy/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/lazy/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/options/commands.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/options/commands.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/options/commands.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/options/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/options/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/options/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/options/mapping.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/options/mapping.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/options/mapping.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/options/set.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/options/set.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/options/set.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/options/term.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/options/term.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/options/term.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/plugins/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/plugins/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/plugins/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/plugins/package.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/plugins/package.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/plugins/package.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/telescope/frecency/truncator.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/telescope/frecency/truncator.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/telescope/frecency/truncator.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/telescope/frecency.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/telescope/frecency.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/telescope/frecency.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/telescope/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/telescope/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/telescope/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/lsp/auto_formatting.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/lsp/auto_formatting.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/lsp/auto_formatting.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/lualine/filename.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/lualine/filename.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/lualine/filename.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/lualine/lsp_clients.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/lualine/lsp_clients.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/lualine/lsp_clients.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/palette/colors.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/palette/colors.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/palette/colors.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/palette/nord.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/palette/nord.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/palette/nord.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/palette/sweetie.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/palette/sweetie.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/palette/sweetie.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/palette/tokyonight.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/palette/tokyonight.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/palette/tokyonight.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/ccc.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/ccc.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/ccc.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/colorwheel.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/colorwheel.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/colorwheel.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/interval.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/interval.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/interval.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/lazy_require.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/lazy_require.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/lazy_require.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/lazy.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/lazy.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/lazy.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/lsp.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/lsp.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/lsp.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/lualine.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/lualine.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/lualine.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/octo.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/octo.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/octo.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/palette.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/palette.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/palette.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/serialize.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/serialize.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/serialize.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/terminal.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/terminal.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/terminal.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils/timer.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils/timer.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils/timer.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/difftool.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/difftool.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/difftool.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/skkeleton_cmp.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/skkeleton_cmp.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/skkeleton_cmp.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/core/utils.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/core/utils.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/core/utils.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/delphinus/markdown.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/delphinus/markdown.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/delphinus/markdown.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/lazies/blink.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/lazies/blink.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/lazies/blink.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/lazies/cmp.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/lazies/cmp.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/lazies/cmp.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/lazies/lsp.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/lazies/lsp.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/lazies/lsp.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/lazies/minimal.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/lazies/minimal.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/lazies/minimal.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/lazies/opt.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/lazies/opt.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/lazies/opt.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/lazies/skkeleton.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/lazies/skkeleton.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/lazies/skkeleton.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/lazies/start.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/lazies/start.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/lazies/start.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lua/lazies/telescope.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lua/lazies/telescope.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lua/lazies/telescope.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/mason/packages/golangci-lint/package.yaml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/mason/packages/golangci-lint/package.yaml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/mason/packages/golangci-lint/package.yaml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/mason/packages/perlnavigator/package.yaml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/mason/packages/perlnavigator/package.yaml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/mason/packages/perlnavigator/package.yaml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/plugin/fssh.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/plugin/fssh.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/plugin/fssh.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/filetype.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/filetype.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/filetype.lua
-    - url: https://github.com/delphinus/dotfiles/blob/master/.config/nvim/init.lua
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/bare/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/bare/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/bare/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/bench-migemo/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/bench-migemo/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/bench-migemo/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/bench-migemo/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/bench-migemo/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/bench-migemo/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/dashboard/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/dashboard/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/dashboard/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/dashboard/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/dashboard/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/dashboard/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/dashboard-frecency/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/dashboard-frecency/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/dashboard-frecency/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/dashboard-frecency/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/dashboard-frecency/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/dashboard-frecency/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/gitsigns/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/gitsigns/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/gitsigns/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/gitsigns/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/gitsigns/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/gitsigns/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/anim_test.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/anim_test.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/anim_test.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/animated.gif
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/animated.gif
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/animated.gif
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/float_image_test.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/float_image_test.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/float_image_test.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/kitty_test.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/kitty_test.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/kitty_test.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/sample.gif
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/sample.gif
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/sample.gif
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/sample.jpg
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/sample.jpg
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/sample.jpg
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/sample.png
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/sample.png
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/sample.png
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/sample.webp
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/sample.webp
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/sample.webp
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/test_animated.md
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/test_animated.md
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/test_animated.md
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/test_image_render.md
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/test_image_render.md
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/test_image_render.md
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/image-nvim/test.md
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/image-nvim/test.md
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/image-nvim/test.md
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/md-render/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/md-render/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/md-render/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/md-render/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/md-render/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/md-render/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/noice/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/noice/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/noice/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/noice/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/noice/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/noice/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/nvim-restart/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/nvim-restart/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/nvim-restart/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/nvim-restart/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/nvim-restart/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/nvim-restart/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/perlnavigator/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/perlnavigator/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/perlnavigator/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/perlnavigator/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/perlnavigator/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/perlnavigator/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/render-markdown/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/render-markdown/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/render-markdown/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/render-markdown/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/render-markdown/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/render-markdown/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/rtbrowse/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/rtbrowse/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/rtbrowse/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/rtbrowse/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/rtbrowse/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/rtbrowse/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/skkeleton/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/skkeleton/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/skkeleton/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/skkeleton/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/skkeleton/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/skkeleton/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/snacks/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/snacks/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/snacks/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/snacks-lazy/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/snacks-lazy/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/snacks-lazy/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/snacks-lazy/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/snacks-lazy/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/snacks-lazy/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/telescope/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/telescope/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/telescope/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/telescope/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/telescope/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/telescope/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/telescope-treesitter/debug.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/telescope-treesitter/debug.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/telescope-treesitter/debug.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/telescope-treesitter/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/telescope-treesitter/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/telescope-treesitter/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/telescope-treesitter/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/telescope-treesitter/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/telescope-treesitter/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/telescope-treesitter/README.md
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/telescope-treesitter/README.md
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/telescope-treesitter/README.md
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/termite/init.lua
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/termite/init.lua
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/termite/init.lua
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/termite/lazy-lock.json
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/termite/lazy-lock.json
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/termite/lazy-lock.json
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.config/nvim-dev/.stylua.toml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.config/nvim-dev/.stylua.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .config/nvim-dev/.stylua.toml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.vim/rc/dein/default.toml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/dein/default.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/dein/default.toml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.vim/rc/dein/defx_lazy.toml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/dein/defx_lazy.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/dein/defx_lazy.toml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.vim/rc/dein/denite_lazy.toml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/dein/denite_lazy.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/dein/denite_lazy.toml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.vim/rc/dein/deoplete_lazy.toml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/dein/deoplete_lazy.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/dein/deoplete_lazy.toml
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/rc/dein/lazy.toml
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/dein/lazy.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/dein/lazy.toml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.vim/rc/dein/lightline.toml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/dein/lightline.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/dein/lightline.toml
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.vim/rc/dein/nvim-lua.toml
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/dein/nvim-lua.toml
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/dein/nvim-lua.toml
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/rc/commands.vim
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/commands.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/commands.vim
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/rc/dein.vim
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/dein.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/dein.vim
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/rc/map.vim
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/map.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/map.vim
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/rc/set.vim
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/set.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/set.vim
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/rc/term.vim
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/rc/term.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/rc/term.vim
     - url: >-
-        https://github.com/delphinus/dotfiles/blob/master/.vim/syntax/pentadactyl.vim
-      hash: null
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/syntax/pentadactyl.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/syntax/pentadactyl.vim
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/gvimrc
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/gvimrc
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/gvimrc
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/mk_color.vim
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/mk_color.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/mk_color.vim
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/vimparse.pl
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/vimparse.pl
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/vimparse.pl
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/vimrc
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/vimrc
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/vimrc
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vim/vimrc.simple
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vim/vimrc.simple
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vim/vimrc.simple
-    - url: https://github.com/delphinus/dotfiles/blob/master/.vimrc_first.vim
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.vimrc_first.vim
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .vimrc_first.vim
-    - url: https://github.com/delphinus/dotfiles/blob/master/.xvimrc
-      hash: null
+    - url: >-
+        https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.xvimrc
+      hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .xvimrc
-  part: null
+  part: 中編
   other: null
