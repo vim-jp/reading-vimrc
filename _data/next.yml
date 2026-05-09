@@ -1,5 +1,5 @@
-- id: 722
-  date: 2026-05-09 23:00
+- id: 723
+  date: 2026-05-16 23:00
   author:
     name: delphinus
     url: https://github.com/delphinus
@@ -828,5 +828,5 @@
         https://github.com/delphinus/dotfiles/blob/495d23b6015ee8f3888cbe82731c432033b86005/.xvimrc
       hash: 495d23b6015ee8f3888cbe82731c432033b86005
       name: .xvimrc
-  part: 中編
+  part: 後編
   other: null
