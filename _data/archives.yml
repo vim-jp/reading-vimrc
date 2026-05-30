@@ -101078,3 +101078,909 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$X-q7Yn5ngKz2GF4QwyduLFCRVJbp5t-FJb_emKi4854
+- id: 725
+  date: 2026-05-30 23:00
+  author:
+    name: bennyyip
+    url: https://github.com/bennyyip
+  vimrcs:
+    - name: after/ftplugin/c.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/c.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/c.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/colortemplate.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/colortemplate.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/colortemplate.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/cpp.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/cpp.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/cpp.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/markdown_illume.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown_illume.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown_illume.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/markdown_obsidian.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown_obsidian.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown_obsidian.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/markdown.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/sh.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/sh.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/sh.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/srt.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/srt.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/srt.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/tex.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/tex.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/tex.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/text.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/text.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/text.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/vim.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/vim.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/ftplugin/xxd_cursor.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/xxd_cursor.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/xxd_cursor.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/syntax/c.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/c.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/c.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/syntax/json.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/json.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/json.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: after/syntax/markdown.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/markdown.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/markdown.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/lightline/colorscheme/gruvbox9.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme/gruvbox9.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme/gruvbox9.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/lightline/colorscheme/retrobox.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme/retrobox.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme/retrobox.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/lightline/colorscheme.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/async.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/async.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/async.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/buf.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/buf.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/buf.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/git.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/git.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/git.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/gotodef.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/gotodef.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/gotodef.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/guifont_size.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/guifont_size.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/guifont_size.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/hlblink.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/hlblink.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/hlblink.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/os.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/os.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/os.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/plugpac_helper.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/plugpac_helper.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/plugpac_helper.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/plugpac.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/plugpac.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/plugpac.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/rooter.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/rooter.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/rooter.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/share.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/share.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/share.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/term.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/term.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/term.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/text.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/text.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/text.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/utils.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/utils.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/utils.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/vim_snippets.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/vim_snippets.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/vim_snippets.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/window.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/window.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/window.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: autoload/zoom.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/zoom.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/zoom.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: colors/flexoki.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/colors/flexoki.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/colors/flexoki.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: colortemplate/flexoki.colortemplate
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/colortemplate/flexoki.colortemplate
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/colortemplate/flexoki.colortemplate
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: doc/cheatsheet.txt
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/cheatsheet.txt
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/cheatsheet.txt
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: doc/mru.txt
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/mru.txt
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/mru.txt
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: doc/vimtips.txt
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/vimtips.txt
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/vimtips.txt
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/c.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/c.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/c.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/cmake.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/cmake.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/cmake.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/cpp.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/cpp.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/cpp.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/css.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/css.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/css.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/html.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/html.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/html.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/javascript.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/javascript.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/javascript.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/json_vim9.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/json_vim9.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/json_vim9.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/json.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/json.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/json.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/lua.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/lua.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/lua.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/python.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/python.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/python.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/scss.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/scss.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/scss.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/sh.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/sh.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/sh.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/sql.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/sql.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/sql.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/toml.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/toml.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/toml.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/typescript.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/typescript.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/typescript.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/xml.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/xml.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/xml.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/zig.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/zig.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/zig.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/ftplugin/zsh.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/zsh.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/zsh.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/formatters/README.md
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/README.md
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/README.md
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/misc/plugin/autoreply.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/autoreply.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/autoreply.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/misc/plugin/marks.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/marks.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/marks.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/misc/plugin/mru.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/mru.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/mru.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/misc/plugin/oscyank.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/oscyank.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/oscyank.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/misc/plugin/project.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/project.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/project.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/misc/plugin/sayonara.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/sayonara.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/sayonara.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/misc/plugin/unimpaired.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/unimpaired.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/unimpaired.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/polygot/compiler/dune.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/compiler/dune.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/compiler/dune.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/polygot/compiler/ninja.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/compiler/ninja.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/compiler/ninja.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/polygot/ftplugin/menhir.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/ftplugin/menhir.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/ftplugin/menhir.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/polygot/ftplugin/ocaml.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/ftplugin/ocaml.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/ftplugin/ocaml.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/polygot/indent/ocaml.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/indent/ocaml.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/indent/ocaml.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/polygot/plugin/endwise.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/plugin/endwise.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/plugin/endwise.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/polygot/syntax/menhir.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/syntax/menhir.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/syntax/menhir.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-man/autoload/man.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/autoload/man.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/autoload/man.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-man/ftplugin/man.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/ftplugin/man.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/ftplugin/man.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-man/plugin/man.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/plugin/man.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/plugin/man.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-man/README.rst
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/README.rst
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/README.rst
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/after/ftplugin/initex/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/initex/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/initex/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/after/ftplugin/julia/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/julia/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/julia/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/after/ftplugin/plaintex/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/plaintex/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/plaintex/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/after/ftplugin/tex/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/tex/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/tex/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/after/ftplugin/vim/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/vim/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/vim/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/operator/sandwich/act.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/act.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/act.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/operator/sandwich/lib.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/lib.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/lib.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/operator/sandwich/operator.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/operator.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/operator.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/operator/sandwich/stuff.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/stuff.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/stuff.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/operator/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/filetype/tex.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/filetype/tex.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/filetype/tex.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/f.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/f.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/f.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/i.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/i.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/i.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/t.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/t.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/t.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/clock.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/clock.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/clock.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/constants.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/constants.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/constants.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/highlight.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/highlight.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/highlight.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/messenger.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/messenger.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/messenger.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/opt.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/opt.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/opt.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich/util.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/util.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/util.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich/lib.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/lib.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/lib.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich/recipes.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/recipes.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/recipes.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich/textobj.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/textobj.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/textobj.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/autoload/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/doc/compound-sandwich
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/compound-sandwich
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/compound-sandwich
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/doc/operator-sandwich.jax
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/operator-sandwich.jax
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/operator-sandwich.jax
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/doc/operator-sandwich.txt
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/operator-sandwich.txt
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/operator-sandwich.txt
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/doc/sandwich.jax
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/sandwich.jax
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/sandwich.jax
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/doc/sandwich.txt
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/sandwich.txt
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/sandwich.txt
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/doc/textobj-sandwich.jax
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/textobj-sandwich.jax
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/textobj-sandwich.jax
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/doc/textobj-sandwich.txt
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/textobj-sandwich.txt
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/textobj-sandwich.txt
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/macros/sandwich/ftplugin/tex.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/macros/sandwich/ftplugin/tex.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/macros/sandwich/ftplugin/tex.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/macros/sandwich/keymap/surround.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/macros/sandwich/keymap/surround.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/macros/sandwich/keymap/surround.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/plugin/operator/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/operator/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/operator/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/plugin/textobj/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/textobj/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/textobj/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/plugin/sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.bat
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.bat
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.bat
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.sh
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.sh
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.sh
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/surround/test-surround.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/surround/test-surround.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/surround/test-surround.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/.themisrc
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/.themisrc
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/.themisrc
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/operator-add.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-add.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-add.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/operator-delete.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-delete.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-delete.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/operator-replace.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-replace.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-replace.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/README
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/README
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/README
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/test-magicchar-f.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-f.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-f.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/test-magicchar-t-emmet.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-t-emmet.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-t-emmet.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/test-magicchar-t.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-t.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-t.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/textobj-auto.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/textobj-auto.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/textobj-auto.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/test/textobj-query.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/textobj-query.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/textobj-query.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/.gitignore
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/.gitignore
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/.gitignore
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/.travis.yml
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/.travis.yml
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/.travis.yml
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-sandwich/README.md
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/README.md
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/README.md
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-scratchpad/autoload/scratchpad.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-scratchpad/autoload/scratchpad.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-scratchpad/autoload/scratchpad.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/opt/vim-scratchpad/plugin/scratchpad.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-scratchpad/plugin/scratchpad.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-scratchpad/plugin/scratchpad.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/action.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/action.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/action.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/bookmark.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/bookmark.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/bookmark.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/fmt.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/fmt.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/fmt.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/g.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/g.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/g.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/history.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/history.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/history.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/mark.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/mark.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/mark.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/os.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/os.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/os.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/popup.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/popup.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/popup.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir/sort.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/sort.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/sort.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/autoload/dir.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/doc/tags
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/doc/tags
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/doc/tags
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/doc/vim-dir.txt
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/doc/vim-dir.txt
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/doc/vim-dir.txt
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/ftplugin/dir.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/ftplugin/dir.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/ftplugin/dir.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/plugin/dir.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/plugin/dir.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/plugin/dir.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/syntax/dir.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/syntax/dir.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/syntax/dir.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/LICENSE
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/LICENSE
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/LICENSE
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-dir/README.rst
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/README.rst
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/README.rst
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-quickfix/autoload/qf.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/autoload/qf.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/autoload/qf.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-quickfix/ftplugin/qf.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/ftplugin/qf.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/ftplugin/qf.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-quickfix/plugin/qf.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/plugin/qf.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/plugin/qf.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/vim-quickfix/syntax/qf.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/syntax/qf.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/syntax/qf.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/yat/autoload/yat.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/autoload/yat.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/autoload/yat.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/yat/ftplugin/yat.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/ftplugin/yat.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/ftplugin/yat.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/yat/plugin/yat.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/plugin/yat.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/plugin/yat.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack/local/start/yat/syntax/yat.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/syntax/yat.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/syntax/yat.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/async.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/async.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/async.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/autocmd.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/autocmd.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/autocmd.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/color.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/color.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/color.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/command.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/command.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/command.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/complete.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/complete.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/complete.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/find.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/find.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/find.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/foldtext.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/foldtext.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/foldtext.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/keymap.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/keymap.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/keymap.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/line.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/line.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/line.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/nolitter.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/nolitter.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/nolitter.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/osc52.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/osc52.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/osc52.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/scratch.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/scratch.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/scratch.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/term.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/term.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/term.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/tmux.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/tmux.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/tmux.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/tui.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/tui.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/tui.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/unix.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/unix.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/unix.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: plugin/windows.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/windows.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/windows.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: projectvimrc/cpp.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/projectvimrc/cpp.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/projectvimrc/cpp.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: projectvimrc/sdl.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/projectvimrc/sdl.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/projectvimrc/sdl.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/auto-pairs.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/auto-pairs.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/auto-pairs.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/devdocs.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/devdocs.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/devdocs.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/git-lens.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/git-lens.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/git-lens.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/lsp.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/lsp.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/lsp.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/NrrwRgn.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/NrrwRgn.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/NrrwRgn.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-clrzr.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-clrzr.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-clrzr.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-linediff.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-linediff.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-linediff.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-rainbow.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-rainbow.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-rainbow.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-taglist.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-taglist.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-taglist.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-termdebug.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-termdebug.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-termdebug.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-traces.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-traces.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-traces.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-ultisnips.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-ultisnips.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-ultisnips.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-vim-cycle.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-cycle.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-cycle.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-vim-exchange.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-exchange.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-exchange.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-vim-interestingwords.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-interestingwords.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-interestingwords.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-vim-sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-vim-sneak.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-sneak.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-sneak.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-vim-swap.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-swap.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-swap.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/pre-vista.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vista.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vista.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-abolish.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-abolish.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-abolish.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-alias.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-alias.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-alias.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-c-cpp-modern.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-c-cpp-modern.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-c-cpp-modern.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-cpp-enhanced-highlight.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-cpp-enhanced-highlight.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-cpp-enhanced-highlight.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-dir.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-dir.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-dir.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-easy-align.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-easy-align.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-easy-align.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-fugitive.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-fugitive.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-fugitive.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-highlight-yanked.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-highlight-yanked.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-highlight-yanked.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-lion.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-lion.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-lion.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-movefast.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-movefast.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-movefast.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vim-sandwich.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-sandwich.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-sandwich.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: rc/vista.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vista.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vista.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: UltiSnips/all.snippets
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/all.snippets
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/all.snippets
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: UltiSnips/c.snippets
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/c.snippets
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/c.snippets
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: UltiSnips/cpp.snippets
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/cpp.snippets
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/cpp.snippets
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: UltiSnips/lua.snippets
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/lua.snippets
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/lua.snippets
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: UltiSnips/markdown.snippets
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/markdown.snippets
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/markdown.snippets
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: UltiSnips/python.snippets
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/python.snippets
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/python.snippets
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: UltiSnips/sh.snippets
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/sh.snippets
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/sh.snippets
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: UltiSnips/tex.snippets
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/tex.snippets
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/tex.snippets
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: .gitignore
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/.gitignore
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/.gitignore
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: gvimrc
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/gvimrc
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/gvimrc
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: pack.vim
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack.vim
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/pack.vim
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: README.md
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/README.md
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/README.md
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: update.sh
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/update.sh
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/update.sh
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+    - name: vimrc
+      url: https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/vimrc
+      raw_url: https://raw.githubusercontent.com/bennyyip/dot-vim/ccdd4d7d89b207cdbed14bc203268a983edca651/vimrc
+      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
+  part: 後編
+  other: null
+  members:
+    - Hakkadaikon
+    - Omochice
+    - kuuote
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$rzkJL8RlABuTaZdEdFhn-sxc0iDeF5A3bH_AJ0AG1-Y
