@@ -1,900 +1,917 @@
-- id: 725
-  date: 2026-05-30 23:00
+- id: 726
+  date: 2026-06-06 23:00
   author:
-    name: bennyyip
-    url: https://github.com/bennyyip
+    name: ashleybaldock
+    url: https://github.com/ashleybaldock
   vimrcs:
     - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/c.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/c.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/colortemplate.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/colortemplate.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/cpp.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/cpp.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown_illume.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/markdown_illume.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown_obsidian.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/markdown_obsidian.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/markdown.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/markdown.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/sh.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/sh.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/srt.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/srt.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/tex.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/tex.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/text.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/text.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/vim.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/vim.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/ftplugin/xxd_cursor.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/ftplugin/xxd_cursor.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/c.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/syntax/c.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/json.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/syntax/json.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/after/syntax/markdown.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: after/syntax/markdown.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme/gruvbox9.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/lightline/colorscheme/gruvbox9.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme/retrobox.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/lightline/colorscheme/retrobox.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/lightline/colorscheme.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/lightline/colorscheme.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/async.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/async.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/buf.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/buf.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/git.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/git.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/gotodef.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/gotodef.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/guifont_size.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/guifont_size.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/hlblink.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/hlblink.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/os.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/os.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/plugpac_helper.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/plugpac_helper.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/plugpac.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/plugpac.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/rooter.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/rooter.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/share.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/share.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/term.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/term.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/text.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/text.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/utils.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/utils.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/vim_snippets.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/vim_snippets.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/window.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/window.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/autoload/zoom.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: autoload/zoom.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/colors/flexoki.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: colors/flexoki.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/colortemplate/flexoki.colortemplate
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: colortemplate/flexoki.colortemplate
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/cheatsheet.txt
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: doc/cheatsheet.txt
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/mru.txt
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: doc/mru.txt
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/doc/vimtips.txt
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: doc/vimtips.txt
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/c.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/c.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/cmake.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/cmake.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/cpp.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/cpp.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/css.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/css.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/html.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/html.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/javascript.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/javascript.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/json_vim9.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/json_vim9.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/json.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/json.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/lua.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/lua.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/python.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/python.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/scss.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/scss.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/sh.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/sh.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/sql.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/sql.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/toml.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/toml.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/typescript.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/typescript.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/xml.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/xml.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/zig.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/zig.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/ftplugin/zsh.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/ftplugin/zsh.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/formatters/README.md
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/formatters/README.md
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/autoreply.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/misc/plugin/autoreply.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/marks.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/misc/plugin/marks.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/mru.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/misc/plugin/mru.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/oscyank.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/misc/plugin/oscyank.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/project.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/misc/plugin/project.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/sayonara.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/misc/plugin/sayonara.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/misc/plugin/unimpaired.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/misc/plugin/unimpaired.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/compiler/dune.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/polygot/compiler/dune.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/compiler/ninja.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/polygot/compiler/ninja.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/ftplugin/menhir.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/polygot/ftplugin/menhir.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/ftplugin/ocaml.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/polygot/ftplugin/ocaml.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/indent/ocaml.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/polygot/indent/ocaml.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/plugin/endwise.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/polygot/plugin/endwise.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/polygot/syntax/menhir.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/polygot/syntax/menhir.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/autoload/man.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-man/autoload/man.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/ftplugin/man.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-man/ftplugin/man.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/plugin/man.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-man/plugin/man.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-man/README.rst
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-man/README.rst
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/initex/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/after/ftplugin/initex/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/julia/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/after/ftplugin/julia/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/plaintex/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/after/ftplugin/plaintex/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/tex/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/after/ftplugin/tex/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/after/ftplugin/vim/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/after/ftplugin/vim/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/act.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/operator/sandwich/act.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/lib.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/operator/sandwich/lib.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/operator.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/operator/sandwich/operator.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich/stuff.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/operator/sandwich/stuff.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/operator/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/operator/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/filetype/tex.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/filetype/tex.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/f.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/f.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/i.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/i.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/t.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/magicchar/t.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/clock.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/clock.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/constants.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/constants.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/highlight.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/highlight.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/messenger.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/messenger.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/opt.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/opt.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich/util.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich/util.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/lib.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich/lib.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/recipes.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich/recipes.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich/textobj.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich/textobj.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/textobj/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/textobj/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/autoload/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/autoload/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/compound-sandwich
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/doc/compound-sandwich
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/operator-sandwich.jax
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/doc/operator-sandwich.jax
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/operator-sandwich.txt
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/doc/operator-sandwich.txt
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/sandwich.jax
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/doc/sandwich.jax
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/sandwich.txt
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/doc/sandwich.txt
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/textobj-sandwich.jax
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/doc/textobj-sandwich.jax
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/doc/textobj-sandwich.txt
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/doc/textobj-sandwich.txt
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/macros/sandwich/ftplugin/tex.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/macros/sandwich/ftplugin/tex.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/macros/sandwich/keymap/surround.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/macros/sandwich/keymap/surround.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/operator/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/plugin/operator/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/textobj/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/plugin/textobj/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/plugin/sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/plugin/sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.bat
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.bat
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.sh
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.sh
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/dot-repeat/test_dot.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/surround/test-surround.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/surround/test-surround.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/.themisrc
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/.themisrc
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-add.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/operator-add.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-delete.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/operator-delete.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/operator-replace.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/operator-replace.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/README
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/README
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-f.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/test-magicchar-f.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-t-emmet.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/test-magicchar-t-emmet.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/test-magicchar-t.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/test-magicchar-t.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/textobj-auto.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/textobj-auto.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/test/textobj-query.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/test/textobj-query.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/.gitignore
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/.gitignore
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/.travis.yml
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/.travis.yml
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-sandwich/README.md
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-sandwich/README.md
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-scratchpad/autoload/scratchpad.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-scratchpad/autoload/scratchpad.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/opt/vim-scratchpad/plugin/scratchpad.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/opt/vim-scratchpad/plugin/scratchpad.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/action.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/action.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/bookmark.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/bookmark.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/fmt.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/fmt.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/g.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/g.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/history.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/history.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/mark.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/mark.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/os.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/os.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/popup.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/popup.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir/sort.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir/sort.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/autoload/dir.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/autoload/dir.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/doc/tags
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/doc/tags
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/doc/vim-dir.txt
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/doc/vim-dir.txt
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/ftplugin/dir.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/ftplugin/dir.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/plugin/dir.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/plugin/dir.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/syntax/dir.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/syntax/dir.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/LICENSE
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/LICENSE
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-dir/README.rst
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-dir/README.rst
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/autoload/qf.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-quickfix/autoload/qf.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/ftplugin/qf.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-quickfix/ftplugin/qf.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/plugin/qf.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-quickfix/plugin/qf.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/vim-quickfix/syntax/qf.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/vim-quickfix/syntax/qf.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/autoload/yat.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/yat/autoload/yat.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/ftplugin/yat.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/yat/ftplugin/yat.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/plugin/yat.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/yat/plugin/yat.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack/local/start/yat/syntax/yat.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack/local/start/yat/syntax/yat.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/async.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/async.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/autocmd.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/autocmd.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/color.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/color.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/command.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/command.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/complete.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/complete.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/find.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/find.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/foldtext.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/foldtext.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/keymap.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/keymap.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/line.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/line.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/nolitter.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/nolitter.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/osc52.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/osc52.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/scratch.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/scratch.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/term.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/term.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/tmux.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/tmux.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/tui.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/tui.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/unix.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/unix.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/plugin/windows.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: plugin/windows.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/projectvimrc/cpp.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: projectvimrc/cpp.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/projectvimrc/sdl.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: projectvimrc/sdl.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/auto-pairs.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/auto-pairs.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/devdocs.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/devdocs.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/git-lens.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/git-lens.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/lsp.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/lsp.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/NrrwRgn.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/NrrwRgn.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-clrzr.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-clrzr.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-linediff.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-linediff.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-rainbow.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-rainbow.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-taglist.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-taglist.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-termdebug.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-termdebug.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-traces.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-traces.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-ultisnips.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-ultisnips.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-cycle.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-vim-cycle.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-exchange.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-vim-exchange.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-interestingwords.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-vim-interestingwords.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-vim-sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-sneak.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-vim-sneak.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vim-swap.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-vim-swap.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/pre-vista.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/pre-vista.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-abolish.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-abolish.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-alias.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-alias.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-c-cpp-modern.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-c-cpp-modern.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-cpp-enhanced-highlight.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-cpp-enhanced-highlight.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-dir.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-dir.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-easy-align.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-easy-align.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-fugitive.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-fugitive.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-highlight-yanked.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-highlight-yanked.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-lion.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-lion.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-movefast.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-movefast.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vim-sandwich.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vim-sandwich.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/rc/vista.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: rc/vista.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/all.snippets
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: UltiSnips/all.snippets
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/c.snippets
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: UltiSnips/c.snippets
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/cpp.snippets
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: UltiSnips/cpp.snippets
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/lua.snippets
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: UltiSnips/lua.snippets
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/markdown.snippets
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: UltiSnips/markdown.snippets
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/python.snippets
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: UltiSnips/python.snippets
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/sh.snippets
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: UltiSnips/sh.snippets
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/UltiSnips/tex.snippets
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: UltiSnips/tex.snippets
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/.gitignore
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: .gitignore
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/gvimrc
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: gvimrc
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/pack.vim
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: pack.vim
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/README.md
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: README.md
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/update.sh
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: update.sh
-    - url: >-
-        https://github.com/bennyyip/dot-vim/blob/ccdd4d7d89b207cdbed14bc203268a983edca651/vimrc
-      hash: ccdd4d7d89b207cdbed14bc203268a983edca651
-      name: vimrc
-  part: 後編
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/css.vim
+      hash: null
+      name: .vim/after/ftplugin/css.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/gitcommit.vim
+      hash: null
+      name: .vim/after/ftplugin/gitcommit.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/help.vim
+      hash: null
+      name: .vim/after/ftplugin/help.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/html.vim
+      hash: null
+      name: .vim/after/ftplugin/html.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/javascript.vim
+      hash: null
+      name: .vim/after/ftplugin/javascript.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/json.vim
+      hash: null
+      name: .vim/after/ftplugin/json.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/markdown.vim
+      hash: null
+      name: .vim/after/ftplugin/markdown.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/netrw.vim
+      hash: null
+      name: .vim/after/ftplugin/netrw.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/python.vim
+      hash: null
+      name: .vim/after/ftplugin/python.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/qf.vim
+      hash: null
+      name: .vim/after/ftplugin/qf.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/typescript.vim
+      hash: null
+      name: .vim/after/ftplugin/typescript.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/typescriptreact.vim
+      hash: null
+      name: .vim/after/ftplugin/typescriptreact.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/vim.vim
+      hash: null
+      name: .vim/after/ftplugin/vim.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/common.vim
+      hash: null
+      name: .vim/after/syntax/common.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/css.vim
+      hash: null
+      name: .vim/after/syntax/css.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/csv.vim
+      hash: null
+      name: .vim/after/syntax/csv.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/html.vim
+      hash: null
+      name: .vim/after/syntax/html.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/javascript.vim
+      hash: null
+      name: .vim/after/syntax/javascript.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/json.vim
+      hash: null
+      name: .vim/after/syntax/json.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/markdown.vim
+      hash: null
+      name: .vim/after/syntax/markdown.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/mediawiki.vim
+      hash: null
+      name: .vim/after/syntax/mediawiki.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/netrw.vim
+      hash: null
+      name: .vim/after/syntax/netrw.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/sh.vim
+      hash: null
+      name: .vim/after/syntax/sh.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/svg.vim
+      hash: null
+      name: .vim/after/syntax/svg.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/tmux.vim
+      hash: null
+      name: .vim/after/syntax/tmux.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/typescript.vim
+      hash: null
+      name: .vim/after/syntax/typescript.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/typescriptreact.vim
+      hash: null
+      name: .vim/after/syntax/typescriptreact.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/vim.statusline.vim
+      hash: null
+      name: .vim/after/syntax/vim.statusline.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/vim.vim
+      hash: null
+      name: .vim/after/syntax/vim.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/char.vim
+      hash: null
+      name: .vim/autoload/char.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/charinfo.vim
+      hash: null
+      name: .vim/autoload/charinfo.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/colcol.vim
+      hash: null
+      name: .vim/autoload/colcol.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/diag.vim
+      hash: null
+      name: .vim/autoload/diag.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/format.vim
+      hash: null
+      name: .vim/autoload/format.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/hi.vim
+      hash: null
+      name: .vim/autoload/hi.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/mayhem.vim
+      hash: null
+      name: .vim/autoload/mayhem.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/pop.vim
+      hash: null
+      name: .vim/autoload/pop.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/predicate.vim
+      hash: null
+      name: .vim/autoload/predicate.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/search.vim
+      hash: null
+      name: .vim/autoload/search.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/session.vim
+      hash: null
+      name: .vim/autoload/session.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/sfsymbols.vim
+      hash: null
+      name: .vim/autoload/sfsymbols.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/signs.vim
+      hash: null
+      name: .vim/autoload/signs.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/statusline.vim
+      hash: null
+      name: .vim/autoload/statusline.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/subcommand.vim
+      hash: null
+      name: .vim/autoload/subcommand.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/svg.vim
+      hash: null
+      name: .vim/autoload/svg.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/symbols.vim
+      hash: null
+      name: .vim/autoload/symbols.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/tabline.vim
+      hash: null
+      name: .vim/autoload/tabline.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/toggle.vim
+      hash: null
+      name: .vim/autoload/toggle.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/bitmaps/blank24.png
+      hash: null
+      name: .vim/bitmaps/blank24.png
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/colors/termayhem.vim
+      hash: null
+      name: .vim/colors/termayhem.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/colors/vividmayhem.vim
+      hash: null
+      name: .vim/colors/vividmayhem.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/colors/vividmayhem.vim.html
+      hash: null
+      name: .vim/colors/vividmayhem.vim.html
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/align-monospace-font-sizes.css
+      hash: null
+      name: .vim/demo/align-monospace-font-sizes.css
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/chars.demo
+      hash: null
+      name: .vim/demo/chars.demo
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/charsdemo.md
+      hash: null
+      name: .vim/demo/charsdemo.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/colors.test.css
+      hash: null
+      name: .vim/demo/colors.test.css
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/combining.tests
+      hash: null
+      name: .vim/demo/combining.tests
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/continuation.vim
+      hash: null
+      name: .vim/demo/continuation.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/css-regex-tests.css
+      hash: null
+      name: .vim/demo/css-regex-tests.css
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/error.ts
+      hash: null
+      name: .vim/demo/error.ts
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/fibonacci_tabs
+      hash: null
+      name: .vim/demo/fibonacci_tabs
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/folding.test.css
+      hash: null
+      name: .vim/demo/folding.test.css
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/font
+      hash: null
+      name: .vim/demo/font
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/font.md
+      hash: null
+      name: .vim/demo/font.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/html-syntax.html
+      hash: null
+      name: .vim/demo/html-syntax.html
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/markdown.md
+      hash: null
+      name: .vim/demo/markdown.md
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/pre.md
+      hash: null
+      name: .vim/demo/pre.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/regex-syntax.png
+      hash: null
+      name: .vim/demo/regex-syntax.png
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/signs
+      hash: null
+      name: .vim/demo/signs
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/syntax.test.mediawiki
+      hash: null
+      name: .vim/demo/syntax.test.mediawiki
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/syntax.test.reg
+      hash: null
+      name: .vim/demo/syntax.test.reg
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/tsserver.testcases.md
+      hash: null
+      name: .vim/demo/tsserver.testcases.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/unicode-whitespace
+      hash: null
+      name: .vim/demo/unicode-whitespace
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/ftplugin/lsp_tsserver.vim
+      hash: null
+      name: .vim/ftplugin/lsp_tsserver.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/ftplugin/mayhemwinfo.vim
+      hash: null
+      name: .vim/ftplugin/mayhemwinfo.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/ftplugin/reg.vim
+      hash: null
+      name: .vim/ftplugin/reg.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/ftplugin/vimmessages.vim
+      hash: null
+      name: .vim/ftplugin/vimmessages.vim
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/js/csso.js
+      hash: null
+      name: .vim/js/csso.js
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/js/pix-to-svg.js
+      hash: null
+      name: .vim/js/pix-to-svg.js
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/js/svgo.js
+      hash: null
+      name: .vim/js/svgo.js
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/js/test.css
+      hash: null
+      name: .vim/js/test.css
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/reference/ansi-escape.md
+      hash: null
+      name: .vim/notes/reference/ansi-escape.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/256colors.numbers
+      hash: null
+      name: .vim/notes/256colors.numbers
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/ale.vimrc.archive
+      hash: null
+      name: .vim/notes/ale.vimrc.archive
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/bolts
+      hash: null
+      name: .vim/notes/bolts
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/borders.vim
+      hash: null
+      name: .vim/notes/borders.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/cmdfuncmap.md
+      hash: null
+      name: .vim/notes/cmdfuncmap.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/coc.todo
+      hash: null
+      name: .vim/notes/coc.todo
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/columns.md
+      hash: null
+      name: .vim/notes/columns.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/css-mutate.md
+      hash: null
+      name: .vim/notes/css-mutate.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/css.concealing
+      hash: null
+      name: .vim/notes/css.concealing
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/css.vars
+      hash: null
+      name: .vim/notes/css.vars
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/cssfunctions
+      hash: null
+      name: .vim/notes/cssfunctions
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/ctrlw
+      hash: null
+      name: .vim/notes/ctrlw
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/demo.concealtest
+      hash: null
+      name: .vim/notes/demo.concealtest
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/diagram.md
+      hash: null
+      name: .vim/notes/diagram.md
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/fps.md
+      hash: null
+      name: .vim/notes/fps.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/gitconfig
+      hash: null
+      name: .vim/notes/gitconfig
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/iterablequerybuilder.md
+      hash: null
+      name: .vim/notes/iterablequerybuilder.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/key-symbols
+      hash: null
+      name: .vim/notes/key-symbols
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/keyboard.md
+      hash: null
+      name: .vim/notes/keyboard.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/kindlabels
+      hash: null
+      name: .vim/notes/kindlabels
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/layout
+      hash: null
+      name: .vim/notes/layout
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/layout.md
+      hash: null
+      name: .vim/notes/layout.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/lscolors
+      hash: null
+      name: .vim/notes/lscolors
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/math.md
+      hash: null
+      name: .vim/notes/math.md
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/modes
+      hash: null
+      name: .vim/notes/modes
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/option-arrows
+      hash: null
+      name: .vim/notes/option-arrows
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/popup-options
+      hash: null
+      name: .vim/notes/popup-options
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/popup2
+      hash: null
+      name: .vim/notes/popup2
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/regex.md
+      hash: null
+      name: .vim/notes/regex.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/replacements_surrounds.txt
+      hash: null
+      name: .vim/notes/replacements_surrounds.txt
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/research.md
+      hash: null
+      name: .vim/notes/research.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-circled
+      hash: null
+      name: .vim/notes/sf-circled
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols-7
+      hash: null
+      name: .vim/notes/sf-symbols-7
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.createlist.md
+      hash: null
+      name: .vim/notes/sf-symbols.createlist.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.grouped.old
+      hash: null
+      name: .vim/notes/sf-symbols.grouped.old
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.list
+      hash: null
+      name: .vim/notes/sf-symbols.list
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.list.columns
+      hash: null
+      name: .vim/notes/sf-symbols.list.columns
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.list.raw
+      hash: null
+      name: .vim/notes/sf-symbols.list.raw
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sfsymbols.json
+      hash: null
+      name: .vim/notes/sfsymbols.json
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/start-screen.proto
+      hash: null
+      name: .vim/notes/start-screen.proto
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/svg-syntax.md
+      hash: null
+      name: .vim/notes/svg-syntax.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/synfo-ui.md
+      hash: null
+      name: .vim/notes/synfo-ui.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/unicode-replace.md
+      hash: null
+      name: .vim/notes/unicode-replace.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/unicode.combiningtable
+      hash: null
+      name: .vim/notes/unicode.combiningtable
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/unicode.md
+      hash: null
+      name: .vim/notes/unicode.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/variety.md
+      hash: null
+      name: .vim/notes/variety.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/video-conversion.md
+      hash: null
+      name: .vim/notes/video-conversion.md
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/_test.vim
+      hash: null
+      name: .vim/plugin/_test.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/#mayhem.vim
+      hash: null
+      name: .vim/plugin/#mayhem.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/borders.vim
+      hash: null
+      name: .vim/plugin/borders.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/char.vim
+      hash: null
+      name: .vim/plugin/char.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/charinfo.vim
+      hash: null
+      name: .vim/plugin/charinfo.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/colcol.vim
+      hash: null
+      name: .vim/plugin/colcol.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/commands.coc.vim
+      hash: null
+      name: .vim/plugin/commands.coc.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/commands.typescript.vim
+      hash: null
+      name: .vim/plugin/commands.typescript.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/commands.vim
+      hash: null
+      name: .vim/plugin/commands.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/comments.vim
+      hash: null
+      name: .vim/plugin/comments.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/copy.vim
+      hash: null
+      name: .vim/plugin/copy.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/css.vim
+      hash: null
+      name: .vim/plugin/css.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/csso.vim
+      hash: null
+      name: .vim/plugin/csso.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/cursorhold.vim
+      hash: null
+      name: .vim/plugin/cursorhold.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/dataurl.vim
+      hash: null
+      name: .vim/plugin/dataurl.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/debug.cursor.vim
+      hash: null
+      name: .vim/plugin/debug.cursor.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/debug.vim
+      hash: null
+      name: .vim/plugin/debug.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/debug.winfo.vim
+      hash: null
+      name: .vim/plugin/debug.winfo.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/diag.vim
+      hash: null
+      name: .vim/plugin/diag.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/diff.vim
+      hash: null
+      name: .vim/plugin/diff.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/fold.vim
+      hash: null
+      name: .vim/plugin/fold.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/format.vim
+      hash: null
+      name: .vim/plugin/format.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/highlight.vim
+      hash: null
+      name: .vim/plugin/highlight.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/home.vim
+      hash: null
+      name: .vim/plugin/home.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/incversion.vim
+      hash: null
+      name: .vim/plugin/incversion.vim
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/jq.vim
+      hash: null
+      name: .vim/plugin/jq.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/jumps.vim
+      hash: null
+      name: .vim/plugin/jumps.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/listchars.vim
+      hash: null
+      name: .vim/plugin/listchars.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/menu.vim
+      hash: null
+      name: .vim/plugin/menu.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/messages.vim
+      hash: null
+      name: .vim/plugin/messages.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/mode.vim
+      hash: null
+      name: .vim/plugin/mode.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/modechanged.vim
+      hash: null
+      name: .vim/plugin/modechanged.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/mouse.vim
+      hash: null
+      name: .vim/plugin/mouse.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/projectRoot.vim
+      hash: null
+      name: .vim/plugin/projectRoot.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/quickfix.vim
+      hash: null
+      name: .vim/plugin/quickfix.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/redir.vim
+      hash: null
+      name: .vim/plugin/redir.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/reload.vim
+      hash: null
+      name: .vim/plugin/reload.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/resize.vim
+      hash: null
+      name: .vim/plugin/resize.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/search.vim
+      hash: null
+      name: .vim/plugin/search.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/session.vim
+      hash: null
+      name: .vim/plugin/session.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/sfsymbols.vim
+      hash: null
+      name: .vim/plugin/sfsymbols.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/shortcuts.vim
+      hash: null
+      name: .vim/plugin/shortcuts.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/signs.vim
+      hash: null
+      name: .vim/plugin/signs.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/statusline.vim
+      hash: null
+      name: .vim/plugin/statusline.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/svgo.vim
+      hash: null
+      name: .vim/plugin/svgo.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/symbols.vim
+      hash: null
+      name: .vim/plugin/symbols.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/synfo.vim
+      hash: null
+      name: .vim/plugin/synfo.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/tabline.vim
+      hash: null
+      name: .vim/plugin/tabline.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/templates.vim
+      hash: null
+      name: .vim/plugin/templates.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/tinyscroll.vim
+      hash: null
+      name: .vim/plugin/tinyscroll.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/titlestring.vim
+      hash: null
+      name: .vim/plugin/titlestring.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/toggle.vim
+      hash: null
+      name: .vim/plugin/toggle.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/toolbar.vim
+      hash: null
+      name: .vim/plugin/toolbar.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/unicode.vim
+      hash: null
+      name: .vim/plugin/unicode.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/visual.vim
+      hash: null
+      name: .vim/plugin/visual.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/visualclick.vim
+      hash: null
+      name: .vim/plugin/visualclick.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/winbar.vim
+      hash: null
+      name: .vim/plugin/winbar.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/wincolor.vim
+      hash: null
+      name: .vim/plugin/wincolor.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/ansi.vim
+      hash: null
+      name: .vim/syntax/ansi.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/concealtest.vim
+      hash: null
+      name: .vim/syntax/concealtest.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/css.vim
+      hash: null
+      name: .vim/syntax/css.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/lsp_tsserver.vim
+      hash: null
+      name: .vim/syntax/lsp_tsserver.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/markdown.vim
+      hash: null
+      name: .vim/syntax/markdown.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/png.vim
+      hash: null
+      name: .vim/syntax/png.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/pre.vim
+      hash: null
+      name: .vim/syntax/pre.vim
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/qf.vim
+      hash: null
+      name: .vim/syntax/qf.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/reg.vim
+      hash: null
+      name: .vim/syntax/reg.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/vimmessages.vim
+      hash: null
+      name: .vim/syntax/vimmessages.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/vsel.vim
+      hash: null
+      name: .vim/syntax/vsel.vim
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/after.ftplugin.vim.template
+      hash: null
+      name: .vim/templates/after.ftplugin.vim.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/after.syntax.vim.template
+      hash: null
+      name: .vim/templates/after.syntax.vim.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/autoload.vim.template
+      hash: null
+      name: .vim/templates/autoload.vim.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/bash.vim.template
+      hash: null
+      name: .vim/templates/bash.vim.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/ftplugin.vim.template
+      hash: null
+      name: .vim/templates/ftplugin.vim.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/html.template
+      hash: null
+      name: .vim/templates/html.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/md.template
+      hash: null
+      name: .vim/templates/md.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/syntax.vim.template
+      hash: null
+      name: .vim/templates/syntax.vim.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/test.template
+      hash: null
+      name: .vim/templates/test.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/tsx.template
+      hash: null
+      name: .vim/templates/tsx.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/vim.template
+      hash: null
+      name: .vim/templates/vim.template
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/vim9.template
+      hash: null
+      name: .vim/templates/vim9.template
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/.nvmrc
+      hash: null
+      name: .vim/.nvmrc
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/.prettierrc.json
+      hash: null
+      name: .vim/.prettierrc.json
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/coc-settings.json
+      hash: null
+      name: .vim/coc-settings.json
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/coc-settings.json.notes
+      hash: null
+      name: .vim/coc-settings.json.notes
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/gvimrc
+      hash: null
+      name: .vim/gvimrc
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/package-lock.json
+      hash: null
+      name: .vim/package-lock.json
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/package.json
+      hash: null
+      name: .vim/package.json
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/pnpm-lock.yaml
+      hash: null
+      name: .vim/pnpm-lock.yaml
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/readme.md
+      hash: null
+      name: .vim/readme.md
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/test.gvimrc
+      hash: null
+      name: .vim/test.gvimrc
+    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/vimrc
+      hash: null
+      name: .vim/vimrc
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/res/vimhtml/vividmayhem.vim.html
+      hash: null
+      name: res/vimhtml/vividmayhem.vim.html
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/res/vimhtml/vividmayhem.vim.html.new
+      hash: null
+      name: res/vimhtml/vividmayhem.vim.html.new
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/setup/macvim-write-defaults.sh
+      hash: null
+      name: scripts/setup/macvim-write-defaults.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-pack-opt.sh
+      hash: null
+      name: scripts/vim-pack-opt.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-package-modify.sh
+      hash: null
+      name: scripts/vim-package-modify.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-add.sh
+      hash: null
+      name: scripts/vim-packages-add.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-list.sh
+      hash: null
+      name: scripts/vim-packages-list.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-make-optional.sh
+      hash: null
+      name: scripts/vim-packages-make-optional.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-make-startup.sh
+      hash: null
+      name: scripts/vim-packages-make-startup.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-modify.sh
+      hash: null
+      name: scripts/vim-packages-modify.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-remove.sh
+      hash: null
+      name: scripts/vim-packages-remove.sh
+    - url: >-
+        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-update.sh
+      hash: null
+      name: scripts/vim-packages-update.sh
+  part: 前編
   other: null
