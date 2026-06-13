@@ -102928,3 +102928,947 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$hK3z2LmUHwZTI_TtWkkV7Qcit4WJ-UtsK9qMHnAz7LE
+- id: 726
+  date: 2026-06-06 23:00
+  author:
+    name: ashleybaldock
+    url: https://github.com/ashleybaldock
+  vimrcs:
+    - name: .vim/after/ftplugin/css.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/css.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/css.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/gitcommit.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/gitcommit.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/gitcommit.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/help.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/help.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/html.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/html.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/html.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/javascript.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/javascript.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/javascript.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/json.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/json.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/json.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/markdown.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/markdown.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/netrw.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/netrw.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/netrw.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/python.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/python.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/python.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/qf.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/qf.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/qf.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/typescript.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/typescript.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/typescript.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/typescriptreact.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/typescriptreact.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/typescriptreact.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/ftplugin/vim.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/ftplugin/vim.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/common.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/common.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/common.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/css.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/css.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/css.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/csv.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/csv.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/csv.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/html.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/html.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/html.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/javascript.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/javascript.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/javascript.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/json.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/json.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/json.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/markdown.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/markdown.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/markdown.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/mediawiki.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/mediawiki.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/mediawiki.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/netrw.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/netrw.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/netrw.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/sh.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/sh.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/sh.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/svg.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/svg.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/svg.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/tmux.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/tmux.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/tmux.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/typescript.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/typescript.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/typescript.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/typescriptreact.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/typescriptreact.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/typescriptreact.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/vim.statusline.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/vim.statusline.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/vim.statusline.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/after/syntax/vim.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/vim.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/after/syntax/vim.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/char.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/char.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/char.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/charinfo.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/charinfo.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/charinfo.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/colcol.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/colcol.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/colcol.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/diag.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/diag.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/diag.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/format.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/format.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/format.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/hi.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/hi.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/hi.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/mayhem.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/mayhem.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/mayhem.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/pop.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/pop.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/pop.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/predicate.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/predicate.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/predicate.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/search.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/search.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/search.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/session.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/session.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/session.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/sfsymbols.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/sfsymbols.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/sfsymbols.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/signs.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/signs.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/signs.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/statusline.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/statusline.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/statusline.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/subcommand.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/subcommand.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/subcommand.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/svg.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/svg.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/svg.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/symbols.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/symbols.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/symbols.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/tabline.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/tabline.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/tabline.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/autoload/toggle.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/toggle.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/autoload/toggle.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/bitmaps/blank24.png
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/bitmaps/blank24.png
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/bitmaps/blank24.png
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/colors/termayhem.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/colors/termayhem.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/colors/termayhem.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/colors/vividmayhem.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/colors/vividmayhem.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/colors/vividmayhem.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/colors/vividmayhem.vim.html
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/colors/vividmayhem.vim.html
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/colors/vividmayhem.vim.html
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/align-monospace-font-sizes.css
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/align-monospace-font-sizes.css
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/align-monospace-font-sizes.css
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/chars.demo
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/chars.demo
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/chars.demo
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/charsdemo.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/charsdemo.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/charsdemo.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/colors.test.css
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/colors.test.css
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/colors.test.css
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/combining.tests
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/combining.tests
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/combining.tests
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/continuation.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/continuation.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/continuation.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/css-regex-tests.css
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/css-regex-tests.css
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/css-regex-tests.css
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/error.ts
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/error.ts
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/error.ts
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/fibonacci_tabs
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/fibonacci_tabs
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/fibonacci_tabs
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/folding.test.css
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/folding.test.css
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/folding.test.css
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/font
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/font
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/font
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/font.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/font.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/font.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/html-syntax.html
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/html-syntax.html
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/html-syntax.html
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/markdown.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/markdown.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/markdown.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/pre.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/pre.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/pre.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/regex-syntax.png
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/regex-syntax.png
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/regex-syntax.png
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/signs
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/signs
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/signs
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/syntax.test.mediawiki
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/syntax.test.mediawiki
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/syntax.test.mediawiki
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/syntax.test.reg
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/syntax.test.reg
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/syntax.test.reg
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/tsserver.testcases.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/tsserver.testcases.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/tsserver.testcases.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/demo/unicode-whitespace
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/unicode-whitespace
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/demo/unicode-whitespace
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/ftplugin/lsp_tsserver.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/ftplugin/lsp_tsserver.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/ftplugin/lsp_tsserver.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/ftplugin/mayhemwinfo.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/ftplugin/mayhemwinfo.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/ftplugin/mayhemwinfo.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/ftplugin/reg.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/ftplugin/reg.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/ftplugin/reg.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/ftplugin/vimmessages.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/ftplugin/vimmessages.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/ftplugin/vimmessages.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/js/csso.js
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/js/csso.js
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/js/csso.js
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/js/pix-to-svg.js
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/js/pix-to-svg.js
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/js/pix-to-svg.js
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/js/svgo.js
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/js/svgo.js
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/js/svgo.js
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/js/test.css
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/js/test.css
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/js/test.css
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/reference/ansi-escape.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/reference/ansi-escape.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/reference/ansi-escape.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/256colors.numbers
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/256colors.numbers
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/256colors.numbers
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/ale.vimrc.archive
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/ale.vimrc.archive
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/ale.vimrc.archive
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/bolts
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/bolts
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/bolts
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/borders.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/borders.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/borders.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/cmdfuncmap.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/cmdfuncmap.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/cmdfuncmap.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/coc.todo
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/coc.todo
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/coc.todo
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/columns.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/columns.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/columns.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/css-mutate.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/css-mutate.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/css-mutate.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/css.concealing
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/css.concealing
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/css.concealing
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/css.vars
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/css.vars
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/css.vars
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/cssfunctions
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/cssfunctions
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/cssfunctions
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/ctrlw
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/ctrlw
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/ctrlw
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/demo.concealtest
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/demo.concealtest
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/demo.concealtest
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/diagram.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/diagram.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/diagram.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/fps.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/fps.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/fps.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/gitconfig
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/gitconfig
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/gitconfig
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/iterablequerybuilder.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/iterablequerybuilder.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/iterablequerybuilder.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/key-symbols
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/key-symbols
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/key-symbols
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/keyboard.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/keyboard.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/keyboard.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/kindlabels
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/kindlabels
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/kindlabels
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/layout
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/layout
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/layout
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/layout.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/layout.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/layout.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/lscolors
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/lscolors
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/lscolors
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/math.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/math.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/math.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/modes
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/modes
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/modes
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/option-arrows
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/option-arrows
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/option-arrows
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/popup-options
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/popup-options
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/popup-options
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/popup2
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/popup2
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/popup2
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/regex.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/regex.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/regex.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/replacements_surrounds.txt
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/replacements_surrounds.txt
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/replacements_surrounds.txt
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/research.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/research.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/research.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/sf-circled
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-circled
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-circled
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/sf-symbols-7
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols-7
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols-7
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/sf-symbols.createlist.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.createlist.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.createlist.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/sf-symbols.grouped.old
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.grouped.old
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.grouped.old
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/sf-symbols.list
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.list
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.list
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/sf-symbols.list.columns
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.list.columns
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.list.columns
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/sf-symbols.list.raw
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.list.raw
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sf-symbols.list.raw
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/sfsymbols.json
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sfsymbols.json
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/sfsymbols.json
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/start-screen.proto
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/start-screen.proto
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/start-screen.proto
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/svg-syntax.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/svg-syntax.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/svg-syntax.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/synfo-ui.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/synfo-ui.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/synfo-ui.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/unicode-replace.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/unicode-replace.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/unicode-replace.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/unicode.combiningtable
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/unicode.combiningtable
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/unicode.combiningtable
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/unicode.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/unicode.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/unicode.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/variety.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/variety.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/variety.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/notes/video-conversion.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/video-conversion.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/notes/video-conversion.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/_test.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/_test.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/_test.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/#mayhem.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/#mayhem.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/#mayhem.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/borders.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/borders.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/borders.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/char.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/char.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/char.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/charinfo.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/charinfo.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/charinfo.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/colcol.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/colcol.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/colcol.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/commands.coc.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/commands.coc.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/commands.coc.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/commands.typescript.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/commands.typescript.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/commands.typescript.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/commands.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/commands.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/commands.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/comments.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/comments.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/comments.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/copy.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/copy.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/copy.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/css.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/css.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/css.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/csso.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/csso.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/csso.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/cursorhold.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/cursorhold.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/cursorhold.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/dataurl.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/dataurl.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/dataurl.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/debug.cursor.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/debug.cursor.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/debug.cursor.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/debug.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/debug.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/debug.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/debug.winfo.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/debug.winfo.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/debug.winfo.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/diag.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/diag.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/diag.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/diff.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/diff.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/diff.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/fold.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/fold.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/fold.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/format.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/format.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/format.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/highlight.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/highlight.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/highlight.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/home.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/home.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/home.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/incversion.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/incversion.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/incversion.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/jq.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/jq.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/jq.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/jumps.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/jumps.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/jumps.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/listchars.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/listchars.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/listchars.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/menu.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/menu.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/menu.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/messages.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/messages.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/messages.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/mode.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/mode.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/mode.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/modechanged.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/modechanged.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/modechanged.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/mouse.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/mouse.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/mouse.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/projectRoot.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/projectRoot.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/projectRoot.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/quickfix.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/quickfix.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/quickfix.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/redir.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/redir.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/redir.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/reload.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/reload.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/reload.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/resize.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/resize.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/resize.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/search.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/search.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/search.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/session.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/session.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/session.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/sfsymbols.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/sfsymbols.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/sfsymbols.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/shortcuts.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/shortcuts.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/shortcuts.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/signs.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/signs.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/signs.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/statusline.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/statusline.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/statusline.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/svgo.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/svgo.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/svgo.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/symbols.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/symbols.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/symbols.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/synfo.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/synfo.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/synfo.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/tabline.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/tabline.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/tabline.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/templates.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/templates.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/templates.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/tinyscroll.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/tinyscroll.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/tinyscroll.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/titlestring.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/titlestring.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/titlestring.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/toggle.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/toggle.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/toggle.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/toolbar.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/toolbar.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/toolbar.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/unicode.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/unicode.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/unicode.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/visual.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/visual.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/visual.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/visualclick.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/visualclick.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/visualclick.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/winbar.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/winbar.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/winbar.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/plugin/wincolor.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/wincolor.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/plugin/wincolor.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/ansi.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/ansi.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/ansi.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/concealtest.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/concealtest.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/concealtest.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/css.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/css.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/css.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/lsp_tsserver.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/lsp_tsserver.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/lsp_tsserver.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/markdown.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/markdown.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/markdown.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/png.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/png.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/png.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/pre.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/pre.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/pre.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/qf.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/qf.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/qf.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/reg.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/reg.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/reg.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/vimmessages.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/vimmessages.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/vimmessages.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/syntax/vsel.vim
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/vsel.vim
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/syntax/vsel.vim
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/after.ftplugin.vim.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/after.ftplugin.vim.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/after.ftplugin.vim.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/after.syntax.vim.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/after.syntax.vim.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/after.syntax.vim.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/autoload.vim.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/autoload.vim.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/autoload.vim.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/bash.vim.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/bash.vim.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/bash.vim.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/ftplugin.vim.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/ftplugin.vim.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/ftplugin.vim.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/html.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/html.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/html.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/md.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/md.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/md.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/syntax.vim.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/syntax.vim.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/syntax.vim.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/test.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/test.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/test.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/tsx.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/tsx.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/tsx.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/vim.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/vim.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/vim.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/templates/vim9.template
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/vim9.template
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/templates/vim9.template
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/.nvmrc
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/.nvmrc
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/.nvmrc
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/.prettierrc.json
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/.prettierrc.json
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/.prettierrc.json
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/coc-settings.json
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/coc-settings.json
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/coc-settings.json.notes
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/coc-settings.json.notes
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/coc-settings.json.notes
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/gvimrc
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/gvimrc
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/gvimrc
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/package-lock.json
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/package-lock.json
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/package-lock.json
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/package.json
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/package.json
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/package.json
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/pnpm-lock.yaml
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/pnpm-lock.yaml
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/pnpm-lock.yaml
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/readme.md
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/readme.md
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/readme.md
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/test.gvimrc
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/test.gvimrc
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/test.gvimrc
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: .vim/vimrc
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/vimrc
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/.vim/vimrc
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: res/vimhtml/vividmayhem.vim.html
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/res/vimhtml/vividmayhem.vim.html
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/res/vimhtml/vividmayhem.vim.html
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: res/vimhtml/vividmayhem.vim.html.new
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/res/vimhtml/vividmayhem.vim.html.new
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/res/vimhtml/vividmayhem.vim.html.new
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/setup/macvim-write-defaults.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/setup/macvim-write-defaults.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/setup/macvim-write-defaults.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-pack-opt.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-pack-opt.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-pack-opt.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-package-modify.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-package-modify.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-package-modify.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-packages-add.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-add.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-add.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-packages-list.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-list.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-list.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-packages-make-optional.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-make-optional.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-make-optional.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-packages-make-startup.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-make-startup.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-make-startup.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-packages-modify.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-modify.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-modify.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-packages-remove.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-remove.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-remove.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+    - name: scripts/vim-packages-update.sh
+      url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-update.sh
+      raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-update.sh
+      hash: 447ff5548990df8e4e15f506b5c536df5453b37e
+  part: 前編
+  other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$q2c0WGm6Xnd4eKaO2xgY6CTGWHp_99TQCnDfBfon9hE
