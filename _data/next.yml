@@ -1,917 +1,1260 @@
-- id: 726
-  date: 2026-06-06 23:00
+- id: 727
+  date: 2026-06-13 23:00
   author:
-    name: ashleybaldock
-    url: https://github.com/ashleybaldock
+    name: Yamagi
+    url: https://github.com/Yamagi
   vimrcs:
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/css.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/lucius/colors/lucius.vim
       hash: null
-      name: .vim/after/ftplugin/css.vim
+      name: pack/colorschemes/start/lucius/colors/lucius.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/gitcommit.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/lucius/README.md
       hash: null
-      name: .vim/after/ftplugin/gitcommit.vim
+      name: pack/colorschemes/start/lucius/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/help.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/colors/PaperColor.vim
       hash: null
-      name: .vim/after/ftplugin/help.vim
+      name: pack/colorschemes/start/papercolor/colors/PaperColor.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/html.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/doc/PaperColor.txt
       hash: null
-      name: .vim/after/ftplugin/html.vim
+      name: pack/colorschemes/start/papercolor/doc/PaperColor.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/javascript.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/test/Dockerfile
       hash: null
-      name: .vim/after/ftplugin/javascript.vim
+      name: pack/colorschemes/start/papercolor/test/Dockerfile
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/json.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/test/test.sh
       hash: null
-      name: .vim/after/ftplugin/json.vim
+      name: pack/colorschemes/start/papercolor/test/test.sh
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/markdown.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/.gitignore
       hash: null
-      name: .vim/after/ftplugin/markdown.vim
+      name: pack/colorschemes/start/papercolor/.gitignore
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/netrw.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/.travis.yml
       hash: null
-      name: .vim/after/ftplugin/netrw.vim
+      name: pack/colorschemes/start/papercolor/.travis.yml
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/python.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/DESIGN.md
       hash: null
-      name: .vim/after/ftplugin/python.vim
+      name: pack/colorschemes/start/papercolor/DESIGN.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/qf.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/LICENSE
       hash: null
-      name: .vim/after/ftplugin/qf.vim
+      name: pack/colorschemes/start/papercolor/LICENSE
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/typescript.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/README.md
       hash: null
-      name: .vim/after/ftplugin/typescript.vim
+      name: pack/colorschemes/start/papercolor/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/typescriptreact.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/colorschemes/start/papercolor/ROADMAP.md
       hash: null
-      name: .vim/after/ftplugin/typescriptreact.vim
+      name: pack/colorschemes/start/papercolor/ROADMAP.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/ftplugin/vim.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/dictionaries/start/german/spell/de.utf-8.spl
       hash: null
-      name: .vim/after/ftplugin/vim.vim
+      name: pack/dictionaries/start/german/spell/de.utf-8.spl
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/common.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/dictionaries/start/german/spell/de.utf-8.sug
       hash: null
-      name: .vim/after/syntax/common.vim
+      name: pack/dictionaries/start/german/spell/de.utf-8.sug
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/css.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/dictionaries/start/thesaurus/thesaurus-de.txt
       hash: null
-      name: .vim/after/syntax/css.vim
+      name: pack/dictionaries/start/thesaurus/thesaurus-de.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/csv.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/dictionaries/start/thesaurus/thesaurus-en.txt
       hash: null
-      name: .vim/after/syntax/csv.vim
+      name: pack/dictionaries/start/thesaurus/thesaurus-en.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/html.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/ctrlp.vim
       hash: null
-      name: .vim/after/syntax/html.vim
+      name: pack/plugins/config/ctrlp.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/javascript.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/floaterm.vim
       hash: null
-      name: .vim/after/syntax/javascript.vim
+      name: pack/plugins/config/floaterm.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/json.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/fontzoom.vim
       hash: null
-      name: .vim/after/syntax/json.vim
+      name: pack/plugins/config/fontzoom.vim
+    - url: https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/goyo.vim
+      hash: null
+      name: pack/plugins/config/goyo.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/gutentags.vim
+      hash: null
+      name: pack/plugins/config/gutentags.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/limelight.vim
+      hash: null
+      name: pack/plugins/config/limelight.vim
+    - url: https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/lsp.vim
+      hash: null
+      name: pack/plugins/config/lsp.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/nerdtree.vim
+      hash: null
+      name: pack/plugins/config/nerdtree.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/pencil.vim
+      hash: null
+      name: pack/plugins/config/pencil.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/tagbar.vim
+      hash: null
+      name: pack/plugins/config/tagbar.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/undotree.vim
+      hash: null
+      name: pack/plugins/config/undotree.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/vim-tmux-navigator.vim
+      hash: null
+      name: pack/plugins/config/vim-tmux-navigator.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/config/wintabs.vim
+      hash: null
+      name: pack/plugins/config/wintabs.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/.github/FUNDING.yml
+      hash: null
+      name: pack/plugins/start/ctrlp/.github/FUNDING.yml
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/autoignore.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/autoignore.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/bookmarkdir.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/bookmarkdir.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/buffertag.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/buffertag.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/changes.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/changes.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/dir.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/dir.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/line.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/line.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/mixed.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/mixed.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/mrufiles.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/mrufiles.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/quickfix.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/quickfix.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/rtscript.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/rtscript.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/tag.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/tag.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/undo.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/undo.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp/utils.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp/utils.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/autoload/ctrlp.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/autoload/ctrlp.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/doc/ctrlp.cnx
+      hash: null
+      name: pack/plugins/start/ctrlp/doc/ctrlp.cnx
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/doc/ctrlp.txt
+      hash: null
+      name: pack/plugins/start/ctrlp/doc/ctrlp.txt
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/plugin/ctrlp.vim
+      hash: null
+      name: pack/plugins/start/ctrlp/plugin/ctrlp.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/.gitignore
+      hash: null
+      name: pack/plugins/start/ctrlp/.gitignore
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/LICENSE
+      hash: null
+      name: pack/plugins/start/ctrlp/LICENSE
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/ctrlp/readme.md
+      hash: null
+      name: pack/plugins/start/ctrlp/readme.md
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fastfold/doc/FastFold.txt
+      hash: null
+      name: pack/plugins/start/fastfold/doc/FastFold.txt
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fastfold/plugin/fastfold.vim
+      hash: null
+      name: pack/plugins/start/fastfold/plugin/fastfold.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fastfold/.gitignore
+      hash: null
+      name: pack/plugins/start/fastfold/.gitignore
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fastfold/README.md
+      hash: null
+      name: pack/plugins/start/fastfold/README.md
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/doc/fFtT.txt
+      hash: null
+      name: pack/plugins/start/fftt/doc/fFtT.txt
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/plugin/fFtT.vim
+      hash: null
+      name: pack/plugins/start/fftt/plugin/fFtT.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/test/highlight.vim
+      hash: null
+      name: pack/plugins/start/fftt/test/highlight.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/test/runtests.sh
+      hash: null
+      name: pack/plugins/start/fftt/test/runtests.sh
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/test/setup.vim
+      hash: null
+      name: pack/plugins/start/fftt/test/setup.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/test/visual.vim
+      hash: null
+      name: pack/plugins/start/fftt/test/visual.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/test/yank.vim
+      hash: null
+      name: pack/plugins/start/fftt/test/yank.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/.gitignore
+      hash: null
+      name: pack/plugins/start/fftt/.gitignore
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/LICENSE
+      hash: null
+      name: pack/plugins/start/fftt/LICENSE
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fftt/README.md
+      hash: null
+      name: pack/plugins/start/fftt/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/markdown.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/.github/ISSUE_TEMPLATE/issue-template.md
       hash: null
-      name: .vim/after/syntax/markdown.vim
+      name: pack/plugins/start/floaterm/.github/ISSUE_TEMPLATE/issue-template.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/mediawiki.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/.github/workflows/ci.yml
       hash: null
-      name: .vim/after/syntax/mediawiki.vim
+      name: pack/plugins/start/floaterm/.github/workflows/ci.yml
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/netrw.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/edita/neovim/client.vim
       hash: null
-      name: .vim/after/syntax/netrw.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/edita/neovim/client.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/sh.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/edita/neovim/editor.vim
       hash: null
-      name: .vim/after/syntax/sh.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/edita/neovim/editor.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/svg.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/edita/neovim/util.vim
       hash: null
-      name: .vim/after/syntax/svg.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/edita/neovim/util.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/tmux.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/edita/vim/client.vim
       hash: null
-      name: .vim/after/syntax/tmux.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/edita/vim/client.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/typescript.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/edita/vim/editor.vim
       hash: null
-      name: .vim/after/syntax/typescript.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/edita/vim/editor.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/typescriptreact.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/edita/setup.vim
       hash: null
-      name: .vim/after/syntax/typescriptreact.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/edita/setup.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/vim.statusline.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/broot.vim
       hash: null
-      name: .vim/after/syntax/vim.statusline.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/broot.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/after/syntax/vim.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/fff.vim
       hash: null
-      name: .vim/after/syntax/vim.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/fff.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/char.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/fzf.vim
       hash: null
-      name: .vim/autoload/char.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/fzf.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/charinfo.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/joshuto.vim
       hash: null
-      name: .vim/autoload/charinfo.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/joshuto.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/colcol.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/lf.vim
       hash: null
-      name: .vim/autoload/colcol.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/lf.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/diag.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/nnn.vim
       hash: null
-      name: .vim/autoload/diag.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/nnn.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/format.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/ranger.vim
       hash: null
-      name: .vim/autoload/format.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/ranger.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/hi.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/rg.vim
       hash: null
-      name: .vim/autoload/hi.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/rg.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/mayhem.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/vifm.vim
       hash: null
-      name: .vim/autoload/mayhem.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/vifm.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/pop.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/xplr.vim
       hash: null
-      name: .vim/autoload/pop.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/xplr.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/predicate.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/wrapper/yazi.vim
       hash: null
-      name: .vim/autoload/predicate.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/wrapper/yazi.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/search.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/buffer.vim
       hash: null
-      name: .vim/autoload/search.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/buffer.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/session.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/buflist.vim
       hash: null
-      name: .vim/autoload/session.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/buflist.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/sfsymbols.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/cmdline.vim
       hash: null
-      name: .vim/autoload/sfsymbols.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/cmdline.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/signs.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/config.vim
       hash: null
-      name: .vim/autoload/signs.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/config.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/statusline.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/path.vim
       hash: null
-      name: .vim/autoload/statusline.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/path.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/subcommand.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/terminal.vim
       hash: null
-      name: .vim/autoload/subcommand.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/terminal.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/svg.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/util.vim
       hash: null
-      name: .vim/autoload/svg.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/util.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/symbols.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm/window.vim
       hash: null
-      name: .vim/autoload/symbols.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm/window.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/tabline.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/health/floaterm.vim
       hash: null
-      name: .vim/autoload/tabline.vim
+      name: pack/plugins/start/floaterm/autoload/health/floaterm.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/autoload/toggle.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/autoload/floaterm.vim
       hash: null
-      name: .vim/autoload/toggle.vim
+      name: pack/plugins/start/floaterm/autoload/floaterm.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/bitmaps/blank24.png
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/bin/floaterm
       hash: null
-      name: .vim/bitmaps/blank24.png
+      name: pack/plugins/start/floaterm/bin/floaterm
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/colors/termayhem.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/bin/floaterm.cmd
       hash: null
-      name: .vim/colors/termayhem.vim
+      name: pack/plugins/start/floaterm/bin/floaterm.cmd
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/colors/vividmayhem.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/doc/floaterm.txt
       hash: null
-      name: .vim/colors/vividmayhem.vim
+      name: pack/plugins/start/floaterm/doc/floaterm.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/colors/vividmayhem.vim.html
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/lua/floaterm/health.lua
       hash: null
-      name: .vim/colors/vividmayhem.vim.html
+      name: pack/plugins/start/floaterm/lua/floaterm/health.lua
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/align-monospace-font-sizes.css
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/plugin/floaterm.vim
       hash: null
-      name: .vim/demo/align-monospace-font-sizes.css
+      name: pack/plugins/start/floaterm/plugin/floaterm.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/chars.demo
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_commands/test-FloatermFirst-FloatermLast.vader
       hash: null
-      name: .vim/demo/chars.demo
+      name: >-
+        pack/plugins/start/floaterm/test/test_commands/test-FloatermFirst-FloatermLast.vader
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/charsdemo.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_commands/test-FloatermKill.vader
       hash: null
-      name: .vim/demo/charsdemo.md
+      name: pack/plugins/start/floaterm/test/test_commands/test-FloatermKill.vader
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/colors.test.css
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_commands/test-FloatermNew.vader
       hash: null
-      name: .vim/demo/colors.test.css
+      name: pack/plugins/start/floaterm/test/test_commands/test-FloatermNew.vader
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/combining.tests
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_commands/test-FloatermPrev-FloatermNext.vader
       hash: null
-      name: .vim/demo/combining.tests
+      name: >-
+        pack/plugins/start/floaterm/test/test_commands/test-FloatermPrev-FloatermNext.vader
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/continuation.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_commands/test-FloatermSend.vader
       hash: null
-      name: .vim/demo/continuation.vim
+      name: pack/plugins/start/floaterm/test/test_commands/test-FloatermSend.vader
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/css-regex-tests.css
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_commands/test-FloatermShow-FloatermHide.vader
       hash: null
-      name: .vim/demo/css-regex-tests.css
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/error.ts
+      name: >-
+        pack/plugins/start/floaterm/test/test_commands/test-FloatermShow-FloatermHide.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_commands/test-FloatermToggle.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_commands/test-FloatermToggle.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_commands/test-FloatermUpdate.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_commands/test-FloatermUpdate.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_extensions/test_AsyncRun-floaterm-runner.vader
+      hash: null
+      name: >-
+        pack/plugins/start/floaterm/test/test_extensions/test_AsyncRun-floaterm-runner.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_extensions/test_Clap-floaterm.vader
+      hash: null
+      name: >-
+        pack/plugins/start/floaterm/test/test_extensions/test_Clap-floaterm.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_extensions/test_Fzf-floaterm.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_extensions/test_Fzf-floaterm.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_extensions/test_LeaderF-floaterm.vader
+      hash: null
+      name: >-
+        pack/plugins/start/floaterm/test/test_extensions/test_LeaderF-floaterm.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_functions/test-floaterm_cmdline.vader
+      hash: null
+      name: >-
+        pack/plugins/start/floaterm/test/test_functions/test-floaterm_cmdline.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_functions/test-floaterm_config_get_all.vader
+      hash: null
+      name: >-
+        pack/plugins/start/floaterm/test/test_functions/test-floaterm_config_get_all.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-autoclose.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-autoclose.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-autohide.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-autohide.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-autoinsert.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-autoinsert.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-cwd.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-cwd.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-disposable.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-disposable.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-opener.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-opener.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-silent.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-silent.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-title-position.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-title-position.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-title.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-title.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-width_height.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-width_height.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_options/test-wintype.vader
+      hash: null
+      name: pack/plugins/start/floaterm/test/test_options/test-wintype.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test_others/test-auto-close-border.vader
+      hash: null
+      name: >-
+        pack/plugins/start/floaterm/test/test_others/test-auto-close-border.vader
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/base_vader.vim
+      hash: null
+      name: pack/plugins/start/floaterm/test/base_vader.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/notes.txt
+      hash: null
+      name: pack/plugins/start/floaterm/test/notes.txt
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/test/test.sh
+      hash: null
+      name: pack/plugins/start/floaterm/test/test.sh
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/.gitignore
+      hash: null
+      name: pack/plugins/start/floaterm/.gitignore
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/LICENSE
+      hash: null
+      name: pack/plugins/start/floaterm/LICENSE
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/floaterm/README.md
+      hash: null
+      name: pack/plugins/start/floaterm/README.md
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fontzoom/doc/fontzoom.txt
+      hash: null
+      name: pack/plugins/start/fontzoom/doc/fontzoom.txt
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/fontzoom/plugin/fontzoom.vim
       hash: null
-      name: .vim/demo/error.ts
+      name: pack/plugins/start/fontzoom/plugin/fontzoom.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/fibonacci_tabs
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/goyo/autoload/goyo.vim
       hash: null
-      name: .vim/demo/fibonacci_tabs
+      name: pack/plugins/start/goyo/autoload/goyo.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/folding.test.css
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/goyo/doc/goyo.txt
       hash: null
-      name: .vim/demo/folding.test.css
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/font
+      name: pack/plugins/start/goyo/doc/goyo.txt
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/goyo/plugin/goyo.vim
+      hash: null
+      name: pack/plugins/start/goyo/plugin/goyo.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/goyo/.gitattributes
+      hash: null
+      name: pack/plugins/start/goyo/.gitattributes
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/goyo/.gitignore
       hash: null
-      name: .vim/demo/font
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/font.md
+      name: pack/plugins/start/goyo/.gitignore
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/goyo/LICENSE
+      hash: null
+      name: pack/plugins/start/goyo/LICENSE
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/goyo/README.md
       hash: null
-      name: .vim/demo/font.md
+      name: pack/plugins/start/goyo/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/html-syntax.html
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/.github/ISSUE_TEMPLATE/bug_report.md
       hash: null
-      name: .vim/demo/html-syntax.html
+      name: pack/plugins/start/gutentags/.github/ISSUE_TEMPLATE/bug_report.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/markdown.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/autoload/gutentags/cscope_maps.vim
       hash: null
-      name: .vim/demo/markdown.md
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/pre.md
+      name: pack/plugins/start/gutentags/autoload/gutentags/cscope_maps.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/autoload/gutentags/cscope.vim
+      hash: null
+      name: pack/plugins/start/gutentags/autoload/gutentags/cscope.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/autoload/gutentags/ctags.vim
       hash: null
-      name: .vim/demo/pre.md
+      name: pack/plugins/start/gutentags/autoload/gutentags/ctags.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/regex-syntax.png
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/autoload/gutentags/gtags_cscope.vim
       hash: null
-      name: .vim/demo/regex-syntax.png
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/signs
+      name: pack/plugins/start/gutentags/autoload/gutentags/gtags_cscope.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/autoload/gutentags/pycscope.vim
       hash: null
-      name: .vim/demo/signs
+      name: pack/plugins/start/gutentags/autoload/gutentags/pycscope.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/syntax.test.mediawiki
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/autoload/gutentags.vim
       hash: null
-      name: .vim/demo/syntax.test.mediawiki
+      name: pack/plugins/start/gutentags/autoload/gutentags.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/syntax.test.reg
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/doc/gutentags.txt
       hash: null
-      name: .vim/demo/syntax.test.reg
+      name: pack/plugins/start/gutentags/doc/gutentags.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/tsserver.testcases.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/plat/unix/update_gtags.sh
       hash: null
-      name: .vim/demo/tsserver.testcases.md
+      name: pack/plugins/start/gutentags/plat/unix/update_gtags.sh
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/demo/unicode-whitespace
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/plat/unix/update_pyscopedb.sh
       hash: null
-      name: .vim/demo/unicode-whitespace
+      name: pack/plugins/start/gutentags/plat/unix/update_pyscopedb.sh
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/ftplugin/lsp_tsserver.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/plat/unix/update_scopedb.sh
       hash: null
-      name: .vim/ftplugin/lsp_tsserver.vim
+      name: pack/plugins/start/gutentags/plat/unix/update_scopedb.sh
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/ftplugin/mayhemwinfo.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/plat/unix/update_tags.sh
       hash: null
-      name: .vim/ftplugin/mayhemwinfo.vim
+      name: pack/plugins/start/gutentags/plat/unix/update_tags.sh
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/ftplugin/reg.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/plat/win32/update_gtags.cmd
       hash: null
-      name: .vim/ftplugin/reg.vim
+      name: pack/plugins/start/gutentags/plat/win32/update_gtags.cmd
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/ftplugin/vimmessages.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/plat/win32/update_scopedb.cmd
       hash: null
-      name: .vim/ftplugin/vimmessages.vim
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/js/csso.js
+      name: pack/plugins/start/gutentags/plat/win32/update_scopedb.cmd
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/plat/win32/update_tags.cmd
       hash: null
-      name: .vim/js/csso.js
+      name: pack/plugins/start/gutentags/plat/win32/update_tags.cmd
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/js/pix-to-svg.js
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/plugin/gutentags.vim
       hash: null
-      name: .vim/js/pix-to-svg.js
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/js/svgo.js
+      name: pack/plugins/start/gutentags/plugin/gutentags.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/res/ctags_recursive.options
       hash: null
-      name: .vim/js/svgo.js
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/js/test.css
+      name: pack/plugins/start/gutentags/res/ctags_recursive.options
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/.gitignore
       hash: null
-      name: .vim/js/test.css
+      name: pack/plugins/start/gutentags/.gitignore
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/reference/ansi-escape.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/.hgignore
       hash: null
-      name: .vim/notes/reference/ansi-escape.md
+      name: pack/plugins/start/gutentags/.hgignore
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/256colors.numbers
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/.hgtags
       hash: null
-      name: .vim/notes/256colors.numbers
+      name: pack/plugins/start/gutentags/.hgtags
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/ale.vimrc.archive
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/CONTRIBUTING.md
       hash: null
-      name: .vim/notes/ale.vimrc.archive
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/bolts
+      name: pack/plugins/start/gutentags/CONTRIBUTING.md
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/LICENSE
       hash: null
-      name: .vim/notes/bolts
+      name: pack/plugins/start/gutentags/LICENSE
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/borders.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/gutentags/README.md
       hash: null
-      name: .vim/notes/borders.vim
+      name: pack/plugins/start/gutentags/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/cmdfuncmap.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/limelight/autoload/limelight.vim
       hash: null
-      name: .vim/notes/cmdfuncmap.md
+      name: pack/plugins/start/limelight/autoload/limelight.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/coc.todo
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/limelight/doc/limelight.txt
       hash: null
-      name: .vim/notes/coc.todo
+      name: pack/plugins/start/limelight/doc/limelight.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/columns.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/limelight/plugin/limelight.vim
       hash: null
-      name: .vim/notes/columns.md
+      name: pack/plugins/start/limelight/plugin/limelight.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/css-mutate.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/limelight/test/limelight.vader
       hash: null
-      name: .vim/notes/css-mutate.md
+      name: pack/plugins/start/limelight/test/limelight.vader
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/css.concealing
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/limelight/.travis.yml
       hash: null
-      name: .vim/notes/css.concealing
+      name: pack/plugins/start/limelight/.travis.yml
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/css.vars
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/limelight/LICENSE
       hash: null
-      name: .vim/notes/css.vars
+      name: pack/plugins/start/limelight/LICENSE
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/cssfunctions
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/limelight/README.md
       hash: null
-      name: .vim/notes/cssfunctions
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/ctrlw
+      name: pack/plugins/start/limelight/README.md
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/.github/workflows/unitests.yml
       hash: null
-      name: .vim/notes/ctrlw
+      name: pack/plugins/start/lsp/.github/workflows/unitests.yml
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/demo.concealtest
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/buffer.vim
       hash: null
-      name: .vim/notes/demo.concealtest
+      name: pack/plugins/start/lsp/autoload/lsp/buffer.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/diagram.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/callhierarchy.vim
       hash: null
-      name: .vim/notes/diagram.md
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/fps.md
+      name: pack/plugins/start/lsp/autoload/lsp/callhierarchy.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/capabilities.vim
       hash: null
-      name: .vim/notes/fps.md
+      name: pack/plugins/start/lsp/autoload/lsp/capabilities.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/gitconfig
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/codeaction.vim
       hash: null
-      name: .vim/notes/gitconfig
+      name: pack/plugins/start/lsp/autoload/lsp/codeaction.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/iterablequerybuilder.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/codelens.vim
       hash: null
-      name: .vim/notes/iterablequerybuilder.md
+      name: pack/plugins/start/lsp/autoload/lsp/codelens.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/key-symbols
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/completion.vim
       hash: null
-      name: .vim/notes/key-symbols
+      name: pack/plugins/start/lsp/autoload/lsp/completion.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/keyboard.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/diag.vim
       hash: null
-      name: .vim/notes/keyboard.md
+      name: pack/plugins/start/lsp/autoload/lsp/diag.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/kindlabels
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/handlers.vim
       hash: null
-      name: .vim/notes/kindlabels
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/layout
+      name: pack/plugins/start/lsp/autoload/lsp/handlers.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/hover.vim
       hash: null
-      name: .vim/notes/layout
+      name: pack/plugins/start/lsp/autoload/lsp/hover.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/layout.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/inlayhints.vim
       hash: null
-      name: .vim/notes/layout.md
+      name: pack/plugins/start/lsp/autoload/lsp/inlayhints.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/lscolors
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/lsp.vim
       hash: null
-      name: .vim/notes/lscolors
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/math.md
+      name: pack/plugins/start/lsp/autoload/lsp/lsp.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/lspserver.vim
       hash: null
-      name: .vim/notes/math.md
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/modes
+      name: pack/plugins/start/lsp/autoload/lsp/lspserver.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/markdown.vim
       hash: null
-      name: .vim/notes/modes
+      name: pack/plugins/start/lsp/autoload/lsp/markdown.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/option-arrows
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/offset.vim
       hash: null
-      name: .vim/notes/option-arrows
+      name: pack/plugins/start/lsp/autoload/lsp/offset.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/popup-options
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/options.vim
       hash: null
-      name: .vim/notes/popup-options
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/popup2
+      name: pack/plugins/start/lsp/autoload/lsp/options.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/outline.vim
       hash: null
-      name: .vim/notes/popup2
+      name: pack/plugins/start/lsp/autoload/lsp/outline.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/regex.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/selection.vim
       hash: null
-      name: .vim/notes/regex.md
+      name: pack/plugins/start/lsp/autoload/lsp/selection.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/replacements_surrounds.txt
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/semantichighlight.vim
       hash: null
-      name: .vim/notes/replacements_surrounds.txt
+      name: pack/plugins/start/lsp/autoload/lsp/semantichighlight.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/research.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/signature.vim
       hash: null
-      name: .vim/notes/research.md
+      name: pack/plugins/start/lsp/autoload/lsp/signature.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-circled
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/snippet.vim
       hash: null
-      name: .vim/notes/sf-circled
+      name: pack/plugins/start/lsp/autoload/lsp/snippet.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols-7
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/symbol.vim
       hash: null
-      name: .vim/notes/sf-symbols-7
+      name: pack/plugins/start/lsp/autoload/lsp/symbol.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.createlist.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/textedit.vim
       hash: null
-      name: .vim/notes/sf-symbols.createlist.md
+      name: pack/plugins/start/lsp/autoload/lsp/textedit.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.grouped.old
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/typehierarchy.vim
       hash: null
-      name: .vim/notes/sf-symbols.grouped.old
+      name: pack/plugins/start/lsp/autoload/lsp/typehierarchy.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.list
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/autoload/lsp/util.vim
       hash: null
-      name: .vim/notes/sf-symbols.list
+      name: pack/plugins/start/lsp/autoload/lsp/util.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.list.columns
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/doc/configs.md
       hash: null
-      name: .vim/notes/sf-symbols.list.columns
+      name: pack/plugins/start/lsp/doc/configs.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sf-symbols.list.raw
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/doc/lsp.txt
       hash: null
-      name: .vim/notes/sf-symbols.list.raw
+      name: pack/plugins/start/lsp/doc/lsp.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/sfsymbols.json
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/ftplugin/lspgfm.vim
       hash: null
-      name: .vim/notes/sfsymbols.json
+      name: pack/plugins/start/lsp/ftplugin/lspgfm.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/start-screen.proto
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/plugin/lsp.vim
       hash: null
-      name: .vim/notes/start-screen.proto
+      name: pack/plugins/start/lsp/plugin/lsp.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/svg-syntax.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/syntax/lspgfm.vim
       hash: null
-      name: .vim/notes/svg-syntax.md
+      name: pack/plugins/start/lsp/syntax/lspgfm.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/synfo-ui.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/dumps/Test_tsserver_completion_1.dump
       hash: null
-      name: .vim/notes/synfo-ui.md
+      name: pack/plugins/start/lsp/test/dumps/Test_tsserver_completion_1.dump
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/unicode-replace.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/dumps/Test_tsserver_completion_2.dump
       hash: null
-      name: .vim/notes/unicode-replace.md
+      name: pack/plugins/start/lsp/test/dumps/Test_tsserver_completion_2.dump
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/unicode.combiningtable
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/clangd_offsetencoding.vim
       hash: null
-      name: .vim/notes/unicode.combiningtable
+      name: pack/plugins/start/lsp/test/clangd_offsetencoding.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/unicode.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/clangd_tests.vim
       hash: null
-      name: .vim/notes/unicode.md
+      name: pack/plugins/start/lsp/test/clangd_tests.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/variety.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/common.vim
       hash: null
-      name: .vim/notes/variety.md
+      name: pack/plugins/start/lsp/test/common.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/notes/video-conversion.md
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/gopls_tests.vim
       hash: null
-      name: .vim/notes/video-conversion.md
+      name: pack/plugins/start/lsp/test/gopls_tests.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/_test.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/markdown_tests.vim
       hash: null
-      name: .vim/plugin/_test.vim
+      name: pack/plugins/start/lsp/test/markdown_tests.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/#mayhem.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/not_lspserver_related_tests.vim
       hash: null
-      name: .vim/plugin/#mayhem.vim
+      name: pack/plugins/start/lsp/test/not_lspserver_related_tests.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/borders.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/run_tests.cmd
       hash: null
-      name: .vim/plugin/borders.vim
+      name: pack/plugins/start/lsp/test/run_tests.cmd
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/char.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/run_tests.sh
       hash: null
-      name: .vim/plugin/char.vim
+      name: pack/plugins/start/lsp/test/run_tests.sh
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/charinfo.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/runner.vim
       hash: null
-      name: .vim/plugin/charinfo.vim
+      name: pack/plugins/start/lsp/test/runner.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/colcol.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/rust_tests.vim
       hash: null
-      name: .vim/plugin/colcol.vim
+      name: pack/plugins/start/lsp/test/rust_tests.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/commands.coc.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/screendump.vim
       hash: null
-      name: .vim/plugin/commands.coc.vim
+      name: pack/plugins/start/lsp/test/screendump.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/commands.typescript.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/start_tsserver.vim
       hash: null
-      name: .vim/plugin/commands.typescript.vim
+      name: pack/plugins/start/lsp/test/start_tsserver.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/commands.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/term_util.vim
       hash: null
-      name: .vim/plugin/commands.vim
+      name: pack/plugins/start/lsp/test/term_util.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/comments.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/test/tsserver_tests.vim
       hash: null
-      name: .vim/plugin/comments.vim
+      name: pack/plugins/start/lsp/test/tsserver_tests.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/copy.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/.gitignore
       hash: null
-      name: .vim/plugin/copy.vim
+      name: pack/plugins/start/lsp/.gitignore
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/css.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/LICENSE
       hash: null
-      name: .vim/plugin/css.vim
+      name: pack/plugins/start/lsp/LICENSE
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/csso.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/lsp/README.md
       hash: null
-      name: .vim/plugin/csso.vim
+      name: pack/plugins/start/lsp/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/cursorhold.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/markdown-navigator/ftplugin/markdown.vim
       hash: null
-      name: .vim/plugin/cursorhold.vim
+      name: pack/plugins/start/markdown-navigator/ftplugin/markdown.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/dataurl.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/autoload/nerdtree/ui_glue.vim
       hash: null
-      name: .vim/plugin/dataurl.vim
+      name: pack/plugins/start/nerdtree/autoload/nerdtree/ui_glue.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/debug.cursor.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/autoload/nerdtree.vim
       hash: null
-      name: .vim/plugin/debug.cursor.vim
+      name: pack/plugins/start/nerdtree/autoload/nerdtree.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/debug.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/doc/NERDTree.txt
       hash: null
-      name: .vim/plugin/debug.vim
+      name: pack/plugins/start/nerdtree/doc/NERDTree.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/debug.winfo.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/bookmark.vim
       hash: null
-      name: .vim/plugin/debug.winfo.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/bookmark.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/diag.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/creator.vim
       hash: null
-      name: .vim/plugin/diag.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/creator.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/diff.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/event.vim
       hash: null
-      name: .vim/plugin/diff.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/event.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/fold.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/flag_set.vim
       hash: null
-      name: .vim/plugin/fold.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/flag_set.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/format.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/key_map.vim
       hash: null
-      name: .vim/plugin/format.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/key_map.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/highlight.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/menu_controller.vim
       hash: null
-      name: .vim/plugin/highlight.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/menu_controller.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/home.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/menu_item.vim
       hash: null
-      name: .vim/plugin/home.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/menu_item.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/incversion.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/nerdtree.vim
       hash: null
-      name: .vim/plugin/incversion.vim
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/jq.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/nerdtree.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/notifier.vim
       hash: null
-      name: .vim/plugin/jq.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/notifier.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/jumps.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/opener.vim
       hash: null
-      name: .vim/plugin/jumps.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/opener.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/listchars.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/path.vim
       hash: null
-      name: .vim/plugin/listchars.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/path.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/menu.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/tree_dir_node.vim
       hash: null
-      name: .vim/plugin/menu.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/tree_dir_node.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/messages.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/tree_file_node.vim
       hash: null
-      name: .vim/plugin/messages.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/tree_file_node.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/mode.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/lib/nerdtree/ui.vim
       hash: null
-      name: .vim/plugin/mode.vim
+      name: pack/plugins/start/nerdtree/lib/nerdtree/ui.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/modechanged.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/nerdtree_plugin/exec_menuitem.vim
       hash: null
-      name: .vim/plugin/modechanged.vim
+      name: pack/plugins/start/nerdtree/nerdtree_plugin/exec_menuitem.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/mouse.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/nerdtree_plugin/fs_menu.vim
       hash: null
-      name: .vim/plugin/mouse.vim
+      name: pack/plugins/start/nerdtree/nerdtree_plugin/fs_menu.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/projectRoot.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/nerdtree_plugin/vcs.vim
       hash: null
-      name: .vim/plugin/projectRoot.vim
+      name: pack/plugins/start/nerdtree/nerdtree_plugin/vcs.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/quickfix.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/plugin/NERD_tree.vim
       hash: null
-      name: .vim/plugin/quickfix.vim
+      name: pack/plugins/start/nerdtree/plugin/NERD_tree.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/redir.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/syntax/nerdtree.vim
       hash: null
-      name: .vim/plugin/redir.vim
+      name: pack/plugins/start/nerdtree/syntax/nerdtree.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/reload.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/_config.yml
       hash: null
-      name: .vim/plugin/reload.vim
+      name: pack/plugins/start/nerdtree/_config.yml
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/resize.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/.gitignore
       hash: null
-      name: .vim/plugin/resize.vim
+      name: pack/plugins/start/nerdtree/.gitignore
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/search.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/CHANGELOG.md
       hash: null
-      name: .vim/plugin/search.vim
+      name: pack/plugins/start/nerdtree/CHANGELOG.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/session.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/LICENCE
       hash: null
-      name: .vim/plugin/session.vim
+      name: pack/plugins/start/nerdtree/LICENCE
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/sfsymbols.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/README.markdown
       hash: null
-      name: .vim/plugin/sfsymbols.vim
+      name: pack/plugins/start/nerdtree/README.markdown
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/shortcuts.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/nerdtree/screenshot.png
       hash: null
-      name: .vim/plugin/shortcuts.vim
+      name: pack/plugins/start/nerdtree/screenshot.png
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/signs.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/peekaboo/autoload/peekaboo.vim
       hash: null
-      name: .vim/plugin/signs.vim
+      name: pack/plugins/start/peekaboo/autoload/peekaboo.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/statusline.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/peekaboo/plugin/peekaboo.vim
       hash: null
-      name: .vim/plugin/statusline.vim
+      name: pack/plugins/start/peekaboo/plugin/peekaboo.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/svgo.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/peekaboo/syntax/peekaboo.vim
       hash: null
-      name: .vim/plugin/svgo.vim
+      name: pack/plugins/start/peekaboo/syntax/peekaboo.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/symbols.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/peekaboo/README.md
       hash: null
-      name: .vim/plugin/symbols.vim
+      name: pack/plugins/start/peekaboo/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/synfo.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/pencil/autoload/pencil.vim
       hash: null
-      name: .vim/plugin/synfo.vim
+      name: pack/plugins/start/pencil/autoload/pencil.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/tabline.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/pencil/doc/vim-pencil.txt
       hash: null
-      name: .vim/plugin/tabline.vim
+      name: pack/plugins/start/pencil/doc/vim-pencil.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/templates.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/pencil/plugin/pencil.vim
       hash: null
-      name: .vim/plugin/templates.vim
+      name: pack/plugins/start/pencil/plugin/pencil.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/tinyscroll.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/pencil/screenshots/demo.gif
       hash: null
-      name: .vim/plugin/tinyscroll.vim
+      name: pack/plugins/start/pencil/screenshots/demo.gif
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/titlestring.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/pencil/screenshots/demo.txt
       hash: null
-      name: .vim/plugin/titlestring.vim
+      name: pack/plugins/start/pencil/screenshots/demo.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/toggle.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/pencil/LICENSE
       hash: null
-      name: .vim/plugin/toggle.vim
+      name: pack/plugins/start/pencil/LICENSE
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/toolbar.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/pencil/README.markdown
       hash: null
-      name: .vim/plugin/toolbar.vim
+      name: pack/plugins/start/pencil/README.markdown
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/unicode.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/prototypes/basetag.vim
       hash: null
-      name: .vim/plugin/unicode.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/prototypes/basetag.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/visual.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/prototypes/fileinfo.vim
       hash: null
-      name: .vim/plugin/visual.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/prototypes/fileinfo.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/visualclick.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/prototypes/kindheadertag.vim
       hash: null
-      name: .vim/plugin/visualclick.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/prototypes/kindheadertag.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/winbar.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/prototypes/normaltag.vim
       hash: null
-      name: .vim/plugin/winbar.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/prototypes/normaltag.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/plugin/wincolor.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/prototypes/pseudotag.vim
       hash: null
-      name: .vim/plugin/wincolor.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/prototypes/pseudotag.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/ansi.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/prototypes/splittag.vim
       hash: null
-      name: .vim/syntax/ansi.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/prototypes/splittag.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/concealtest.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/prototypes/typeinfo.vim
       hash: null
-      name: .vim/syntax/concealtest.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/prototypes/typeinfo.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/css.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/types/ctags.vim
       hash: null
-      name: .vim/syntax/css.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/types/ctags.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/lsp_tsserver.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/types/uctags.vim
       hash: null
-      name: .vim/syntax/lsp_tsserver.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/types/uctags.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/markdown.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/debug.vim
       hash: null
-      name: .vim/syntax/markdown.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/debug.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/png.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/sorting.vim
       hash: null
-      name: .vim/syntax/png.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/sorting.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/pre.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar/state.vim
       hash: null
-      name: .vim/syntax/pre.vim
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/qf.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar/state.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/autoload/tagbar.vim
       hash: null
-      name: .vim/syntax/qf.vim
+      name: pack/plugins/start/tagbar/autoload/tagbar.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/reg.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/doc/tagbar.txt
       hash: null
-      name: .vim/syntax/reg.vim
+      name: pack/plugins/start/tagbar/doc/tagbar.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/vimmessages.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/plugin/tagbar.vim
       hash: null
-      name: .vim/syntax/vimmessages.vim
+      name: pack/plugins/start/tagbar/plugin/tagbar.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/syntax/vsel.vim
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/syntax/tagbar.vim
       hash: null
-      name: .vim/syntax/vsel.vim
+      name: pack/plugins/start/tagbar/syntax/tagbar.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/after.ftplugin.vim.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/.gitattributes
       hash: null
-      name: .vim/templates/after.ftplugin.vim.template
+      name: pack/plugins/start/tagbar/.gitattributes
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/after.syntax.vim.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/.gitignore
       hash: null
-      name: .vim/templates/after.syntax.vim.template
+      name: pack/plugins/start/tagbar/.gitignore
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/autoload.vim.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/.info
       hash: null
-      name: .vim/templates/autoload.vim.template
+      name: pack/plugins/start/tagbar/.info
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/bash.vim.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/LICENSE
       hash: null
-      name: .vim/templates/bash.vim.template
+      name: pack/plugins/start/tagbar/LICENSE
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/ftplugin.vim.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/tagbar/README.md
       hash: null
-      name: .vim/templates/ftplugin.vim.template
+      name: pack/plugins/start/tagbar/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/html.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/undotree/autoload/undotree.vim
       hash: null
-      name: .vim/templates/html.template
+      name: pack/plugins/start/undotree/autoload/undotree.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/md.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/undotree/doc/_static/undotree.png
       hash: null
-      name: .vim/templates/md.template
+      name: pack/plugins/start/undotree/doc/_static/undotree.png
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/syntax.vim.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/undotree/doc/undotree.txt
       hash: null
-      name: .vim/templates/syntax.vim.template
+      name: pack/plugins/start/undotree/doc/undotree.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/test.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/undotree/plugin/undotree.vim
       hash: null
-      name: .vim/templates/test.template
+      name: pack/plugins/start/undotree/plugin/undotree.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/tsx.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/undotree/syntax/undotree.vim
       hash: null
-      name: .vim/templates/tsx.template
+      name: pack/plugins/start/undotree/syntax/undotree.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/vim.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/undotree/.gitignore
       hash: null
-      name: .vim/templates/vim.template
+      name: pack/plugins/start/undotree/.gitignore
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/templates/vim9.template
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/undotree/LICENSE
       hash: null
-      name: .vim/templates/vim9.template
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/.nvmrc
+      name: pack/plugins/start/undotree/LICENSE
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/undotree/README.md
       hash: null
-      name: .vim/.nvmrc
+      name: pack/plugins/start/undotree/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/.prettierrc.json
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/vim-tmux-navigator/doc/tmux-navigator.txt
       hash: null
-      name: .vim/.prettierrc.json
+      name: pack/plugins/start/vim-tmux-navigator/doc/tmux-navigator.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/coc-settings.json
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/vim-tmux-navigator/plugin/tmux_navigator.vim
       hash: null
-      name: .vim/coc-settings.json
+      name: pack/plugins/start/vim-tmux-navigator/plugin/tmux_navigator.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/coc-settings.json.notes
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/vim-tmux-navigator/.gitignore
       hash: null
-      name: .vim/coc-settings.json.notes
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/gvimrc
+      name: pack/plugins/start/vim-tmux-navigator/.gitignore
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/vim-tmux-navigator/License.md
       hash: null
-      name: .vim/gvimrc
+      name: pack/plugins/start/vim-tmux-navigator/License.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/package-lock.json
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/vim-tmux-navigator/pattern-check
       hash: null
-      name: .vim/package-lock.json
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/package.json
+      name: pack/plugins/start/vim-tmux-navigator/pattern-check
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/vim-tmux-navigator/README.md
       hash: null
-      name: .vim/package.json
+      name: pack/plugins/start/vim-tmux-navigator/README.md
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/.vim/pnpm-lock.yaml
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/vim-tmux-navigator/vim-tmux-navigator.tmux
       hash: null
-      name: .vim/pnpm-lock.yaml
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/readme.md
+      name: pack/plugins/start/vim-tmux-navigator/vim-tmux-navigator.tmux
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/autoload/wintabs/element.vim
       hash: null
-      name: .vim/readme.md
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/test.gvimrc
+      name: pack/plugins/start/wintabs/autoload/wintabs/element.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/autoload/wintabs/memoize.vim
       hash: null
-      name: .vim/test.gvimrc
-    - url: https://github.com/ashleybaldock/dotfiles/blob/master/.vim/vimrc
+      name: pack/plugins/start/wintabs/autoload/wintabs/memoize.vim
+    - url: >-
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/autoload/wintabs/renderers.vim
       hash: null
-      name: .vim/vimrc
+      name: pack/plugins/start/wintabs/autoload/wintabs/renderers.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/res/vimhtml/vividmayhem.vim.html
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/autoload/wintabs/session.vim
       hash: null
-      name: res/vimhtml/vividmayhem.vim.html
+      name: pack/plugins/start/wintabs/autoload/wintabs/session.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/res/vimhtml/vividmayhem.vim.html.new
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/autoload/wintabs/ui.vim
       hash: null
-      name: res/vimhtml/vividmayhem.vim.html.new
+      name: pack/plugins/start/wintabs/autoload/wintabs/ui.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/setup/macvim-write-defaults.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/autoload/wintabs/undo.vim
       hash: null
-      name: scripts/setup/macvim-write-defaults.sh
+      name: pack/plugins/start/wintabs/autoload/wintabs/undo.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-pack-opt.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/autoload/wintabs.vim
       hash: null
-      name: scripts/vim-pack-opt.sh
+      name: pack/plugins/start/wintabs/autoload/wintabs.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-package-modify.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/doc/wintabs.txt
       hash: null
-      name: scripts/vim-package-modify.sh
+      name: pack/plugins/start/wintabs/doc/wintabs.txt
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-add.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/plugin/wintabs.vim
       hash: null
-      name: scripts/vim-packages-add.sh
+      name: pack/plugins/start/wintabs/plugin/wintabs.vim
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-list.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/screenshots/screenshot1.gif
       hash: null
-      name: scripts/vim-packages-list.sh
+      name: pack/plugins/start/wintabs/screenshots/screenshot1.gif
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-make-optional.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/screenshots/screenshot2.gif
       hash: null
-      name: scripts/vim-packages-make-optional.sh
+      name: pack/plugins/start/wintabs/screenshots/screenshot2.gif
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-make-startup.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/screenshots/screenshot3.png
       hash: null
-      name: scripts/vim-packages-make-startup.sh
+      name: pack/plugins/start/wintabs/screenshots/screenshot3.png
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-modify.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/.gitignore
       hash: null
-      name: scripts/vim-packages-modify.sh
+      name: pack/plugins/start/wintabs/.gitignore
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-remove.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/LICENSE
       hash: null
-      name: scripts/vim-packages-remove.sh
+      name: pack/plugins/start/wintabs/LICENSE
     - url: >-
-        https://github.com/ashleybaldock/dotfiles/blob/master/scripts/vim-packages-update.sh
+        https://github.com/Yamagi/vimrc/blob/master/pack/plugins/start/wintabs/README.md
+      hash: null
+      name: pack/plugins/start/wintabs/README.md
+    - url: https://github.com/Yamagi/vimrc/blob/master/vimrc
+      hash: null
+      name: vimrc
+    - url: https://github.com/Yamagi/vimrc/blob/master/vimrc-full
+      hash: null
+      name: vimrc-full
+    - url: https://github.com/Yamagi/vimrc/blob/master/vimrc-project
       hash: null
-      name: scripts/vim-packages-update.sh
+      name: vimrc-project
   part: 前編
   other: null
