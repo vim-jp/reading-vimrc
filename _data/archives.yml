@@ -103898,3 +103898,27 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$qhaQwcY5rZ_9aVh-5q9-Y86l_09h-qnYCsTVzOpFbIQ
+- id: 728
+  date: 2026-06-20 23:00
+  author:
+    name: Yamagi
+    url: https://github.com/Yamagi
+  vimrcs:
+    - name: vimrc
+      url: https://github.com/Yamagi/vimrc/blob/fe651efcc6ac296236bfb0acc502b87dadff941e/vimrc
+      raw_url: https://raw.githubusercontent.com/Yamagi/vimrc/fe651efcc6ac296236bfb0acc502b87dadff941e/vimrc
+      hash: fe651efcc6ac296236bfb0acc502b87dadff941e
+    - name: vimrc-full
+      url: https://github.com/Yamagi/vimrc/blob/fe651efcc6ac296236bfb0acc502b87dadff941e/vimrc-full
+      raw_url: https://raw.githubusercontent.com/Yamagi/vimrc/fe651efcc6ac296236bfb0acc502b87dadff941e/vimrc-full
+      hash: fe651efcc6ac296236bfb0acc502b87dadff941e
+    - name: vimrc-project
+      url: https://github.com/Yamagi/vimrc/blob/fe651efcc6ac296236bfb0acc502b87dadff941e/vimrc-project
+      raw_url: https://raw.githubusercontent.com/Yamagi/vimrc/fe651efcc6ac296236bfb0acc502b87dadff941e/vimrc-project
+      hash: fe651efcc6ac296236bfb0acc502b87dadff941e
+  part: 前編
+  other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$ucvYC3BQp-xzcAAIJBA0BuoT9i7TKCYtLfrhHGkzhEI
