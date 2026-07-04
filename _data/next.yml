@@ -1,17 +1,157 @@
-- id: 728
-  date: 2026-06-20 23:00
+- id: 729
+  date: 2026-06-27 23:00
   author:
-    name: Yamagi
-    url: https://github.com/Yamagi
+    name: senioria
+    url: https://github.com/senioria
   vimrcs:
-    - url: https://github.com/Yamagi/vimrc/blob/master/vimrc
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/autoload/packager/manager.vim
+      hash: null
+      name: autoload/packager/manager.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/autoload/repl.vim
+      hash: null
+      name: autoload/repl.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/doc/packager-old.txt
+      hash: null
+      name: doc/packager-old.txt
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/c.vim
+      hash: null
+      name: ftplugin/c.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/fsharp.vim
+      hash: null
+      name: ftplugin/fsharp.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/fugitive.vim
+      hash: null
+      name: ftplugin/fugitive.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/haskell.vim
+      hash: null
+      name: ftplugin/haskell.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/help.vim
+      hash: null
+      name: ftplugin/help.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/html.vim
+      hash: null
+      name: ftplugin/html.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/idris2.vim
+      hash: null
+      name: ftplugin/idris2.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/lean.vim
+      hash: null
+      name: ftplugin/lean.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/lua.vim
+      hash: null
+      name: ftplugin/lua.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/mail.vim
+      hash: null
+      name: ftplugin/mail.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/markdown.vim
+      hash: null
+      name: ftplugin/markdown.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/nix.vim
+      hash: null
+      name: ftplugin/nix.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/python.vim
+      hash: null
+      name: ftplugin/python.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/racket.vim
+      hash: null
+      name: ftplugin/racket.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/rust.vim
+      hash: null
+      name: ftplugin/rust.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/scheme.vim
+      hash: null
+      name: ftplugin/scheme.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/tex.vim
+      hash: null
+      name: ftplugin/tex.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/text.vim
+      hash: null
+      name: ftplugin/text.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/typst.vim
+      hash: null
+      name: ftplugin/typst.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/ftplugin/vim.vim
+      hash: null
+      name: ftplugin/vim.vim
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/import/packager/info.vim
+      hash: null
+      name: import/packager/info.vim
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/import/packager/manager.vim
+      hash: null
+      name: import/packager/manager.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/import/ftext.vim
+      hash: null
+      name: import/ftext.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/import/plgext.vim
+      hash: null
+      name: import/plgext.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/plugin/autoaction.vim
+      hash: null
+      name: plugin/autoaction.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/plugin/commands.vim
+      hash: null
+      name: plugin/commands.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/plugin/options.vim
+      hash: null
+      name: plugin/options.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/plugin/statusline.vim
+      hash: null
+      name: plugin/statusline.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/syntax/lean.vim
+      hash: null
+      name: syntax/lean.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/syntax/mail.vim
+      hash: null
+      name: syntax/mail.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/syntax/markdown.vim
+      hash: null
+      name: syntax/markdown.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/syntax/racket.vim
+      hash: null
+      name: syntax/racket.vim
+    - url: https://github.com/senioria/dotfile/blob/main/vim/syntax/scheme.vim
+      hash: null
+      name: syntax/scheme.vim
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/tests/packager/info.vim
+      hash: null
+      name: tests/packager/info.vim
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/tests/packager/manager.vim
+      hash: null
+      name: tests/packager/manager.vim
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/vimfiles/UltiSnips/mail.snippets
+      hash: null
+      name: vimfiles/UltiSnips/mail.snippets
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/vimfiles/UltiSnips/markdown.snippets
+      hash: null
+      name: vimfiles/UltiSnips/markdown.snippets
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/vimfiles/UltiSnips/plaintex.snippets
+      hash: null
+      name: vimfiles/UltiSnips/plaintex.snippets
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/vimfiles/UltiSnips/snippets.snippets
+      hash: null
+      name: vimfiles/UltiSnips/snippets.snippets
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/vimfiles/UltiSnips/tex.snippets
+      hash: null
+      name: vimfiles/UltiSnips/tex.snippets
+    - url: >-
+        https://github.com/senioria/dotfile/blob/main/vim/vimfiles/vimspector/template.json
+      hash: null
+      name: vimfiles/vimspector/template.json
+    - url: https://github.com/senioria/dotfile/blob/main/vim/README.md
+      hash: null
+      name: README.md
+    - url: https://github.com/senioria/dotfile/blob/main/vim/vimrc
       hash: null
       name: vimrc
-    - url: https://github.com/Yamagi/vimrc/blob/master/vimrc-full
-      hash: null
-      name: vimrc-full
-    - url: https://github.com/Yamagi/vimrc/blob/master/vimrc-project
-      hash: null
-      name: vimrc-project
-  part: 前編
+  part: null
   other: null
