@@ -21735,8 +21735,8 @@
     - tsuyoshicho
     - yuys13
   log: https://gitter.im/vim-jp/reading-vimrc?at=63b97ae30dba35742364f37d
-- id: 549
-  date: 2023-01-07 23:00
+- id: 550
+  date: 2023-01-14 23:00
   author:
     name: nullchilly
     url: https://github.com/nullchilly
@@ -21801,7 +21801,7 @@
     - tsuyoshicho
     - yuys13
   log: https://gitter.im/vim-jp/reading-vimrc?at=63c2b567ccd5355fcfdb7d9d
-- id: 550
+- id: 551
   date: 2023-01-21 23:00
   author:
     name: nullchilly
@@ -21866,7 +21866,7 @@
     - tsuyoshicho
     - yuys13
   log: https://gitter.im/vim-jp/reading-vimrc?at=63cbefea7740c84e49278d2f
-- id: 551
+- id: 552
   date: 2023-01-28 23:00
   author:
     name: yuki-yano
@@ -21986,7 +21986,7 @@
     - thinca
     - yuki-yano
   log: https://gitter.im/vim-jp/reading-vimrc?at=63d52a80b5e8a462768b0dc9
-- id: 552
+- id: 553
   date: 2023-02-04 23:00
   author:
     name: yuki-yano
@@ -22107,7 +22107,7 @@
     - yuki-yano
     - yuys13
   log: https://gitter.im/vim-jp/reading-vimrc?at=63de6513f0c41678f3ac8663
-- id: 553
+- id: 554
   date: 2023-02-11 23:00
   author:
     name: yuki-yano
@@ -22225,7 +22225,7 @@
     - kuuote
     - thinca
   log: https://gitter.im/vim-jp/reading-vimrc?at=63e79f62cd508f5c5ffb1409
-- id: 554
+- id: 555
   date: 2023-02-18 23:00
   author:
     name: Liquid-system
@@ -22365,7 +22365,7 @@
     - yuys13
     - ほげぴよ
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$1pxbWEZU4wtu3XNzzgBpy9GGAVOUkLjAafkBEzGizwU
-- id: 555
+- id: 556
   date: 2023-02-25 23:00
   author:
     name: glepnir
@@ -22458,7 +22458,7 @@
     - syui
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$fj0NJned-_dHVQ71ibeQpOr455RQMsF8pnOdY1CF49A
-- id: 556
+- id: 557
   date: 2023-03-04 23:00
   author:
     name: glepnir
@@ -22551,7 +22551,7 @@
     - thinca
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$WccPlymw9QIWVnVu0W6pL642ZwDrwST2xtIzwGeCTCs
-- id: 557
+- id: 558
   date: 2023-03-11 23:00
   author:
     name: ompugao
@@ -22578,7 +22578,7 @@
     - uga-rosa
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$TcqAvykUE58JlhaT_Ey5Osiqv7pb11xWqkLFYOS0sdc
-- id: 558
+- id: 559
   date: 2023-03-18 23:00
   author:
     name: ompugao
@@ -22600,7 +22600,7 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$pTNj3OD9KIHW7nwptnPVFrfzz-dGnh5AMSLdphDBPMQ
-- id: 559
+- id: 560
   date: 2023-03-25 23:00
   author:
     name: ukiuki-engineer
@@ -22656,7 +22656,7 @@
     - thinca
     - ukiuki-engineer
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$eOCYCmnlWpkHioSoWdp3eEvkynN-bBB9EvlzuG8JDJM
-- id: 560
+- id: 561
   date: 2023-04-01 23:00
   author:
     name: yasunori-kirin0418
@@ -22757,7 +22757,7 @@
     - yasunori-kirin0418
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$FXZoYeWHobKWN2s9o_j5YBguodW4SDOksiM3m-7CFjI
-- id: 561
+- id: 562
   date: 2023-04-08 23:00
   author:
     name: yasunori-kirin0418
@@ -22857,7 +22857,7 @@
     - uga-rosa
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$yyUFp8j_p3ZwSq2aDhkAegSviwjKhN3ZYDZpiaeBCAo
-- id: 562
+- id: 563
   date: 2023-04-15 23:00
   author:
     name: yasunori-kirin0418
@@ -22962,7 +22962,7 @@
     - ukiuki-engineer
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$dVHyPKErQ_dAQ2XI5poB6IDYA6P90HyWt-Oa-MkESeA
-- id: 563
+- id: 564
   date: 2023-04-22 23:00
   author:
     name: 4513ECHO
@@ -23125,7 +23125,7 @@
     - thinca
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$BIWFNpA_z-69aEPifcnAfdNVnZEsuVsmKoT_9J5adtQ
-- id: 564
+- id: 565
   date: 2023-04-29 23:00
   author:
     name: 4513ECHO
@@ -23292,7 +23292,7 @@
     - uga-rosa
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$0KD2VEmjrzyb9lBKcOsIdETcg5Yhan8W7f5mFCkFxFc
-- id: 565
+- id: 566
   date: 2023-05-06 23:00
   author:
     name: 4513ECHO
@@ -23456,7 +23456,7 @@
     - thinca
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$JxHEJFWbtjGjWhvN48igiovB-NhicXONSEEZ0Y9R8es
-- id: 566
+- id: 567
   date: 2023-05-13 23:00
   author:
     name: supermomonga
@@ -23481,7 +23481,7 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$LOVIi-vW7gVMibkRFv21675PCxIkuAynI5wF1msouBY
-- id: 567
+- id: 568
   date: 2023-05-20 23:00
   author:
     name: hakehash
@@ -23504,7 +23504,7 @@
     - thinca
     - yasunori-kirin0418
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$4xFrmiZptiDXEVVE79CDp1ATj--VGqy6CypihjW60JU
-- id: 568
+- id: 569
   date: 2023-05-27 23:00
   author:
     name: KentoOgata
@@ -23989,7 +23989,7 @@
     - mityu
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$lqFehUjJdRT2cODyYNliIAALdSDhostcGjC8kbkalLQ
-- id: 569
+- id: 570
   date: 2023-06-03 23:00
   author:
     name: KentoOgata
@@ -24471,7 +24471,7 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$w4svBO89cmtRiT4RcTm3SctM0eCp4YqkwasKCp2JoHE
-- id: 570
+- id: 571
   date: 2023-06-10 23:00
   author:
     name: KentoOgata
@@ -24953,7 +24953,7 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$fLzZSE_TdqXDWZzlyAqSYXZOm5bmAa8uKAzvtg2Yqrg
-- id: 571
+- id: 572
   date: 2023-06-17 23:00
   author:
     name: sevenc-nanashi
@@ -25010,7 +25010,7 @@
     - thinca
     - ukiuki-engineer
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$GrmHzJxHlYHYC3mZ33PsaxWfONoR9DNo5kCSmnoID78
-- id: 572
+- id: 573
   date: 2023-06-24 23:00
   author:
     name: sevenc-nanashi
@@ -25067,7 +25067,7 @@
     - sevenc-nanashi (Nanashi.)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$GiuPsIt6484x3RoqbY1H-6zmNRRiBZHPAhcyHKT4Xbc
-- id: 573
+- id: 574
   date: 2023-07-01 23:00
   author:
     name: kyoh86
@@ -25519,7 +25519,7 @@
     - uga-rosa
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$N_crDmirbS5-hcFCwcdcV3a4rlomgtj_56feHQe3h3M
-- id: 574
+- id: 575
   date: 2023-07-08 23:00
   author:
     name: kyoh86
@@ -25971,7 +25971,7 @@
     - thinca
     - yuys13
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$lsh_9YLK5ak51Jlgt0sPSKLzwkAtOyP-dSiuwWq6vYc
-- id: 575
+- id: 576
   date: 2023-07-15 23:00
   author:
     name: kyoh86
@@ -26422,7 +26422,7 @@
     - kyoh86 (kyoh86)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$PKPEpdHXPCGrvEP_tqanfqMR-3En0zWzWLdD-URvpVc
-- id: 576
+- id: 577
   date: 2023-07-22 23:00
   author:
     name: matsui54
@@ -26610,7 +26610,7 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$qyywW70TzTJ7fFGVSzrretKUS3a0FeX1KDVU9d5ZWSY
-- id: 577
+- id: 578
   date: 2023-07-29 23:00
   author:
     name: matsui54
@@ -26800,7 +26800,7 @@
     - thinca
     - yasunori
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$DqsY1zt9E1J2siBledceWwWPzYO44hPuuHgISwbDf9g
-- id: 578
+- id: 579
   date: 2023-08-05 23:00
   author:
     name: peacock0803sz
@@ -27045,7 +27045,7 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$wyt9jBkGd-G0PKZjxrtc_tbxFAZdlS-5cg9mJ_-C3u0
-- id: 579
+- id: 580
   date: 2023-08-12 23:00
   author:
     name: peacock0803sz
@@ -27288,7 +27288,7 @@
     - peacock0803sz (Peacock)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$9l3n1OhedG3BUEw5HuWq-ImDj5gsHfbzW6Nj2_5Cd_o
-- id: 580
+- id: 581
   date: 2023-08-19 23:00
   author:
     name: peacock0803sz
@@ -27529,7 +27529,7 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$B5dLa2VKo-SG1GDjedon8Jz7npqmkRp5qYW-H-iB6CU
-- id: 581
+- id: 582
   date: 2023-08-26 23:00
   author:
     name: Comamoca
@@ -27709,7 +27709,7 @@
     - syui
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$PO--C0UfXYa9fSV32QVkYUGwJXR8h-TCV_DJQdXUaPM
-- id: 582
+- id: 583
   date: 2023-09-02 23:00
   author:
     name: Comamoca
@@ -27887,7 +27887,7 @@
     - kuuote (@kuuote:matrix.org)
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$x5Qpc6_tiGe9N22DsNgjXF_oUkko49auGySOBc3GolQ
-- id: 583
+- id: 584
   date: 2023-09-09 23:00
   author:
     name: serna37
@@ -36213,8 +36213,8 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$v06GKALsB73dLIZhCmk6Kj6Ryu87Xj1U7D-9KKGkhD4
-- id: 613
-  date: 2024-04-06 23:00
+- id: 612
+  date: 2024-03-30 23:00
   author:
     name: 9yokuro
     url: https://github.com/9yokuro
@@ -67998,8 +67998,8 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$x4nqLP3SCOvjuqYbB0SVuiZ0Cthm3L-yRxXApcaRdWQ
-- id: 683
-  date: 2025-08-09 23:00
+- id: 684
+  date: 2025-08-16 23:00
   author:
     name: Omochice
     url: https://github.com/Omochice
@@ -102928,8 +102928,8 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$hK3z2LmUHwZTI_TtWkkV7Qcit4WJ-UtsK9qMHnAz7LE
-- id: 726
-  date: 2026-06-06 23:00
+- id: 727
+  date: 2026-06-13 23:00
   author:
     name: ashleybaldock
     url: https://github.com/ashleybaldock
@@ -103866,7 +103866,7 @@
       url: https://github.com/ashleybaldock/dotfiles/blob/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-update.sh
       raw_url: https://raw.githubusercontent.com/ashleybaldock/dotfiles/447ff5548990df8e4e15f506b5c536df5453b37e/scripts/vim-packages-update.sh
       hash: 447ff5548990df8e4e15f506b5c536df5453b37e
-  part: 前編
+  part: 後編
   other: null
   members:
     - Omochice
@@ -103898,8 +103898,8 @@
     - kuuote
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$qhaQwcY5rZ_9aVh-5q9-Y86l_09h-qnYCsTVzOpFbIQ
-- id: 728
-  date: 2026-06-20 23:00
+- id: 729
+  date: 2026-06-27 23:00
   author:
     name: Yamagi
     url: https://github.com/Yamagi
@@ -103916,14 +103916,14 @@
       url: https://github.com/Yamagi/vimrc/blob/fe651efcc6ac296236bfb0acc502b87dadff941e/vimrc-project
       raw_url: https://raw.githubusercontent.com/Yamagi/vimrc/fe651efcc6ac296236bfb0acc502b87dadff941e/vimrc-project
       hash: fe651efcc6ac296236bfb0acc502b87dadff941e
-  part: 前編
+  part: 後編
   other: null
   members:
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$ucvYC3BQp-xzcAAIJBA0BuoT9i7TKCYtLfrhHGkzhEI
-- id: 729
-  date: 2026-06-27 23:00
+- id: 730
+  date: 2026-07-04 23:00
   author:
     name: senioria
     url: https://github.com/senioria
