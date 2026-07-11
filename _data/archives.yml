@@ -104119,3 +104119,199 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$wrfBTp5ZQOJRNBBlA1lC78Q4TDUD1_k2ESNArGClRfM
+- id: 730
+  date: 2026-07-04 23:00
+  author:
+    name: senioria
+    url: https://github.com/senioria
+  vimrcs:
+    - name: autoload/packager/manager.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/autoload/packager/manager.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/autoload/packager/manager.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: autoload/repl.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/autoload/repl.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/autoload/repl.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: doc/packager-old.txt
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/doc/packager-old.txt
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/doc/packager-old.txt
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/c.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/c.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/c.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/fsharp.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/fsharp.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/fsharp.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/fugitive.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/fugitive.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/fugitive.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/haskell.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/haskell.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/haskell.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/help.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/help.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/help.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/html.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/html.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/html.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/idris2.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/idris2.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/idris2.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/lean.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/lean.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/lean.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/lua.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/lua.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/lua.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/mail.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/mail.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/mail.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/markdown.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/markdown.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/nix.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/nix.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/nix.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/python.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/python.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/python.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/racket.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/racket.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/racket.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/rust.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/rust.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/rust.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/scheme.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/scheme.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/scheme.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/tex.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/tex.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/tex.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/text.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/text.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/text.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/typst.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/typst.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/typst.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: ftplugin/vim.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/vim.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: import/packager/info.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/import/packager/info.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/import/packager/info.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: import/packager/manager.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/import/packager/manager.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/import/packager/manager.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: import/ftext.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/import/ftext.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/import/ftext.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: import/plgext.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/import/plgext.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/import/plgext.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: plugin/autoaction.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/autoaction.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/autoaction.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: plugin/commands.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/commands.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/commands.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: plugin/options.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/options.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/options.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: plugin/statusline.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/statusline.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/statusline.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: syntax/lean.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/lean.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/lean.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: syntax/mail.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/mail.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/mail.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: syntax/markdown.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/markdown.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/markdown.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: syntax/racket.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/racket.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/racket.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: syntax/scheme.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/scheme.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/scheme.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: tests/packager/info.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/tests/packager/info.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/tests/packager/info.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: tests/packager/manager.vim
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/tests/packager/manager.vim
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/tests/packager/manager.vim
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: vimfiles/UltiSnips/mail.snippets
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/mail.snippets
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/mail.snippets
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: vimfiles/UltiSnips/markdown.snippets
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/markdown.snippets
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/markdown.snippets
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: vimfiles/UltiSnips/plaintex.snippets
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/plaintex.snippets
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/plaintex.snippets
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: vimfiles/UltiSnips/snippets.snippets
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/snippets.snippets
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/snippets.snippets
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: vimfiles/UltiSnips/tex.snippets
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/tex.snippets
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/tex.snippets
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: vimfiles/vimspector/template.json
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/vimspector/template.json
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/vimspector/template.json
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: README.md
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/README.md
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/README.md
+      hash: caaf62932bb923abe558512c89c02b426185178e
+    - name: vimrc
+      url: https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimrc
+      raw_url: https://raw.githubusercontent.com/senioria/dotfile/caaf62932bb923abe558512c89c02b426185178e/vim/vimrc
+      hash: caaf62932bb923abe558512c89c02b426185178e
+  part: 後編
+  other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$N3VvCcGECXJhSDmeDN7JQzwYSg7-u6YSBveKRGNcliU
