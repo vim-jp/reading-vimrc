@@ -104315,3 +104315,303 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$N3VvCcGECXJhSDmeDN7JQzwYSg7-u6YSBveKRGNcliU
+- id: 732
+  date: 2026-07-18 23:00
+  author:
+    name: jclsn
+    url: https://github.com/jclsn
+  vimrcs:
+    - name: autoload/plug.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/autoload/plug.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/autoload/plug.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/bitbake.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/bitbake.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/bitbake.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/cmake.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/cmake.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/cmake.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/cpp.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/cpp.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/cpp.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/go.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/go.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/go.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/html.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/html.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/html.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/javascript.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/javascript.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/javascript.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/markdown.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/markdown.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/markdown.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/pkl.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/pkl.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/pkl.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/sh.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/sh.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/sh.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/vhdl.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/vhdl.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/vhdl.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: ftplugin/vim.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/vim.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/ftplugin/vim.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/bashls.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/bashls.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/bashls.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/bitbake.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/bitbake.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/bitbake.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/clangd.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/clangd.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/clangd.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/cmake.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/cmake.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/cmake.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/cspell.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/cspell.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/cspell.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/docker.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/docker.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/docker.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/dts.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/dts.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/dts.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/efm.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/efm.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/efm.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/gopls.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/gopls.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/gopls.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/html.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/html.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/html.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/json.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/json.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/json.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/julia.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/julia.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/julia.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/makefile.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/makefile.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/makefile.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/marksman.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/marksman.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/marksman.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/perl.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/perl.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/perl.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/pkl.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/pkl.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/pkl.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/pyright.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/pyright.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/pyright.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/rustanalyzer.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/rustanalyzer.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/rustanalyzer.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/sonarlint.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/sonarlint.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/sonarlint.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/systemd.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/systemd.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/systemd.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/toml.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/toml.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/toml.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/typescript.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/typescript.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/typescript.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/vhdl_ls.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/vhdl_ls.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/vhdl_ls.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/vimls.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/vimls.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/vimls.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp/yaml.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/yaml.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp/yaml.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: .gitignore
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/.gitignore
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/.gitignore
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: airlinerc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/airlinerc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/airlinerc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: autocommands.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/autocommands.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/autocommands.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: cmakerc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/cmakerc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/cmakerc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: coc-settings.json
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/coc-settings.json
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/coc-settings.json
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: cocrc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/cocrc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/cocrc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: codebook.toml
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/codebook.toml
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/codebook.toml
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: commands.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/commands.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/commands.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: conflictmotions.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/conflictmotions.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/conflictmotions.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: cpp-maps.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/cpp-maps.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/cpp-maps.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: cSpell.json
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/cSpell.json
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/cSpell.json
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: dogerc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/dogerc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/dogerc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: fernrc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/fernrc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/fernrc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: folds.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/folds.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/folds.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: fugitiverc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/fugitiverc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/fugitiverc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: git-lens.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/git-lens.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/git-lens.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: gitgutterrc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/gitgutterrc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/gitgutterrc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: kitty_scrollback_vim9script.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/kitty_scrollback_vim9script.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/kitty_scrollback_vim9script.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: kitty_scrollback.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/kitty_scrollback.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/kitty_scrollback.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: leximarc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/leximarc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/leximarc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: lsp.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/lsp.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: miscellaneous.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/miscellaneous.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/miscellaneous.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: pastes.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/pastes.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/pastes.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: pluginlist.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/pluginlist.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/pluginlist.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: qt.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/qt.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/qt.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: rainbowrc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/rainbowrc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/rainbowrc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: remaps.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/remaps.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/remaps.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: slimerc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/slimerc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/slimerc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: themeconfig.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/themeconfig.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/themeconfig.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: vim9functions.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/vim9functions.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/vim9functions.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: vimrc
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/vimrc
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/vimrc
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: vimspectorrc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/vimspectorrc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/vimspectorrc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: vimtexrc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/vimtexrc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/vimtexrc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: vsniprc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/vsniprc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/vsniprc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+    - name: zeavimrc.vim
+      url: https://github.com/jclsn/vimconfig/blob/e3a6579b675bdec785e3358ade920ead8a0bc197/zeavimrc.vim
+      raw_url: https://raw.githubusercontent.com/jclsn/vimconfig/e3a6579b675bdec785e3358ade920ead8a0bc197/zeavimrc.vim
+      hash: e3a6579b675bdec785e3358ade920ead8a0bc197
+  part: 前編
+  other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$kUY3W_TxHk-SNM6mKXH_u6SaJzkhkPbPqmDFMLEU5Fk
