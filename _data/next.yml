@@ -1,192 +1,225 @@
-- id: 731
-  date: 2026-07-11 23:00
+- id: 732
+  date: 2026-07-18 23:00
   author:
-    name: senioria
-    url: https://github.com/senioria
+    name: jclsn
+    url: https://github.com/jclsn
   vimrcs:
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/autoload/packager/manager.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: autoload/packager/manager.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/autoload/repl.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: autoload/repl.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/doc/packager-old.txt
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: doc/packager-old.txt
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/c.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/c.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/fsharp.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/fsharp.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/fugitive.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/fugitive.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/haskell.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/haskell.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/help.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/help.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/html.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
+    - url: https://github.com/jclsn/vimconfig/blob/master/autoload/plug.vim
+      hash: null
+      name: autoload/plug.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/bitbake.vim
+      hash: null
+      name: ftplugin/bitbake.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/cmake.vim
+      hash: null
+      name: ftplugin/cmake.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/cpp.vim
+      hash: null
+      name: ftplugin/cpp.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/go.vim
+      hash: null
+      name: ftplugin/go.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/html.vim
+      hash: null
       name: ftplugin/html.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/idris2.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/idris2.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/lean.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/lean.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/lua.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/lua.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/mail.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/mail.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/markdown.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/javascript.vim
+      hash: null
+      name: ftplugin/javascript.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/markdown.vim
+      hash: null
       name: ftplugin/markdown.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/nix.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/nix.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/python.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/python.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/racket.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/racket.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/rust.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/rust.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/scheme.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/scheme.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/tex.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/tex.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/text.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/text.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/typst.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: ftplugin/typst.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/ftplugin/vim.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/pkl.vim
+      hash: null
+      name: ftplugin/pkl.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/sh.vim
+      hash: null
+      name: ftplugin/sh.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/vhdl.vim
+      hash: null
+      name: ftplugin/vhdl.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/ftplugin/vim.vim
+      hash: null
       name: ftplugin/vim.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/bashls.vim
+      hash: null
+      name: lsp/bashls.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/bitbake.vim
+      hash: null
+      name: lsp/bitbake.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/clangd.vim
+      hash: null
+      name: lsp/clangd.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/cmake.vim
+      hash: null
+      name: lsp/cmake.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/cspell.vim
+      hash: null
+      name: lsp/cspell.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/docker.vim
+      hash: null
+      name: lsp/docker.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/dts.vim
+      hash: null
+      name: lsp/dts.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/efm.vim
+      hash: null
+      name: lsp/efm.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/gopls.vim
+      hash: null
+      name: lsp/gopls.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/html.vim
+      hash: null
+      name: lsp/html.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/json.vim
+      hash: null
+      name: lsp/json.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/julia.vim
+      hash: null
+      name: lsp/julia.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/makefile.vim
+      hash: null
+      name: lsp/makefile.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/marksman.vim
+      hash: null
+      name: lsp/marksman.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/perl.vim
+      hash: null
+      name: lsp/perl.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/pkl.vim
+      hash: null
+      name: lsp/pkl.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/pyright.vim
+      hash: null
+      name: lsp/pyright.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/rustanalyzer.vim
+      hash: null
+      name: lsp/rustanalyzer.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/sonarlint.vim
+      hash: null
+      name: lsp/sonarlint.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/systemd.vim
+      hash: null
+      name: lsp/systemd.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/toml.vim
+      hash: null
+      name: lsp/toml.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/typescript.vim
+      hash: null
+      name: lsp/typescript.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/vhdl_ls.vim
+      hash: null
+      name: lsp/vhdl_ls.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/vimls.vim
+      hash: null
+      name: lsp/vimls.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp/yaml.vim
+      hash: null
+      name: lsp/yaml.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/.gitignore
+      hash: null
+      name: .gitignore
+    - url: https://github.com/jclsn/vimconfig/blob/master/airlinerc.vim
+      hash: null
+      name: airlinerc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/autocommands.vim
+      hash: null
+      name: autocommands.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/cmakerc.vim
+      hash: null
+      name: cmakerc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/coc-settings.json
+      hash: null
+      name: coc-settings.json
+    - url: https://github.com/jclsn/vimconfig/blob/master/cocrc.vim
+      hash: null
+      name: cocrc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/codebook.toml
+      hash: null
+      name: codebook.toml
+    - url: https://github.com/jclsn/vimconfig/blob/master/commands.vim
+      hash: null
+      name: commands.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/conflictmotions.vim
+      hash: null
+      name: conflictmotions.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/cpp-maps.vim
+      hash: null
+      name: cpp-maps.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/cSpell.json
+      hash: null
+      name: cSpell.json
+    - url: https://github.com/jclsn/vimconfig/blob/master/dogerc.vim
+      hash: null
+      name: dogerc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/fernrc.vim
+      hash: null
+      name: fernrc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/folds.vim
+      hash: null
+      name: folds.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/fugitiverc.vim
+      hash: null
+      name: fugitiverc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/git-lens.vim
+      hash: null
+      name: git-lens.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/gitgutterrc.vim
+      hash: null
+      name: gitgutterrc.vim
     - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/import/packager/info.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: import/packager/info.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/import/packager/manager.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: import/packager/manager.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/import/ftext.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: import/ftext.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/import/plgext.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: import/plgext.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/autoaction.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: plugin/autoaction.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/commands.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: plugin/commands.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/options.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: plugin/options.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/plugin/statusline.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: plugin/statusline.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/lean.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: syntax/lean.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/mail.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: syntax/mail.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/markdown.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: syntax/markdown.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/racket.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: syntax/racket.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/syntax/scheme.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: syntax/scheme.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/tests/packager/info.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: tests/packager/info.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/tests/packager/manager.vim
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: tests/packager/manager.vim
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/mail.snippets
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: vimfiles/UltiSnips/mail.snippets
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/markdown.snippets
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: vimfiles/UltiSnips/markdown.snippets
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/plaintex.snippets
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: vimfiles/UltiSnips/plaintex.snippets
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/snippets.snippets
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: vimfiles/UltiSnips/snippets.snippets
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/UltiSnips/tex.snippets
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: vimfiles/UltiSnips/tex.snippets
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimfiles/vimspector/template.json
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: vimfiles/vimspector/template.json
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/README.md
-      hash: caaf62932bb923abe558512c89c02b426185178e
-      name: README.md
-    - url: >-
-        https://github.com/senioria/dotfile/blob/caaf62932bb923abe558512c89c02b426185178e/vim/vimrc
-      hash: caaf62932bb923abe558512c89c02b426185178e
+        https://github.com/jclsn/vimconfig/blob/master/kitty_scrollback_vim9script.vim
+      hash: null
+      name: kitty_scrollback_vim9script.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/kitty_scrollback.vim
+      hash: null
+      name: kitty_scrollback.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/leximarc.vim
+      hash: null
+      name: leximarc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/lsp.vim
+      hash: null
+      name: lsp.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/miscellaneous.vim
+      hash: null
+      name: miscellaneous.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/pastes.vim
+      hash: null
+      name: pastes.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/pluginlist.vim
+      hash: null
+      name: pluginlist.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/qt.vim
+      hash: null
+      name: qt.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/rainbowrc.vim
+      hash: null
+      name: rainbowrc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/remaps.vim
+      hash: null
+      name: remaps.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/slimerc.vim
+      hash: null
+      name: slimerc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/themeconfig.vim
+      hash: null
+      name: themeconfig.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/vim9functions.vim
+      hash: null
+      name: vim9functions.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/vimrc
+      hash: null
       name: vimrc
-  part: 後編
+    - url: https://github.com/jclsn/vimconfig/blob/master/vimspectorrc.vim
+      hash: null
+      name: vimspectorrc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/vimtexrc.vim
+      hash: null
+      name: vimtexrc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/vsniprc.vim
+      hash: null
+      name: vsniprc.vim
+    - url: https://github.com/jclsn/vimconfig/blob/master/zeavimrc.vim
+      hash: null
+      name: zeavimrc.vim
+  part: 前編
   other: null
