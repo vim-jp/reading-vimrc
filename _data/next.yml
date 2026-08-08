@@ -1,196 +1,204 @@
-- id: 734
-  date: 2026-08-01 23:00
+- id: 735
+  date: 2026-08-08 23:00
   author:
     name: hypatia-tile
     url: https://github.com/hypatia-tile
   vimrcs:
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/ftplugin/c.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/ftplugin/c.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/ftplugin/c.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/ftplugin/cpp.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/ftplugin/cpp.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/ftplugin/cpp.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/ftplugin/haskell.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/ftplugin/haskell.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/ftplugin/haskell.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/ftplugin/lua.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/ftplugin/lua.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/ftplugin/lua.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/ftplugin/nix.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/ftplugin/nix.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/ftplugin/nix.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/lsp/copilot.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/lsp/copilot.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/lsp/copilot.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/lsp/gh_actions_ls.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/lsp/gh_actions_ls.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/lsp/gh_actions_ls.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/lsp/lua_ls.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/lsp/lua_ls.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/lsp/lua_ls.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/after/lsp/nil_ls.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/after/lsp/nil_ls.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: after/lsp/nil_ls.lua
-    - url: https://github.com/hypatia-tile/nvim-config/blob/main/bin/check
-      hash: null
+    - url: >-
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/bin/check
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: bin/check
-    - url: https://github.com/hypatia-tile/nvim-config/blob/main/bin/nvim-dev
-      hash: null
+    - url: >-
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/bin/nvim-dev
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: bin/nvim-dev
-    - url: https://github.com/hypatia-tile/nvim-config/blob/main/ftplugin/java.lua
-      hash: null
+    - url: >-
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/ftplugin/java.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: ftplugin/java.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/ftplugin/markdown.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/ftplugin/markdown.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: ftplugin/markdown.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/config/lazy.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/config/lazy.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/config/lazy.lua
-    - url: https://github.com/hypatia-tile/nvim-config/blob/main/lua/lsp/init.lua
-      hash: null
+    - url: >-
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/lsp/init.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/lsp/init.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/lsp/keymaps.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/lsp/keymaps.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/lsp/keymaps.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/autopairs.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/autopairs.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/autopairs.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/catppuccin.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/catppuccin.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/catppuccin.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/completion.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/completion.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/completion.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/conform.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/conform.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/conform.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/denops.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/denops.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/denops.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/floating-note.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/floating-note.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/floating-note.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/haskell-tools.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/haskell-tools.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/haskell-tools.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/jdtls.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/jdtls.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/jdtls.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/lazydev.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/lazydev.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/lazydev.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/lean.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/lean.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/lean.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/lsp-config.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/lsp-config.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/lsp-config.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/lualine.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/lualine.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/lualine.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/luasnip.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/luasnip.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/luasnip.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/mini-diff.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/mini-diff.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/mini-diff.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/oil.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/oil.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/oil.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/skkeleton.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/skkeleton.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/skkeleton.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/telescope.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/telescope.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/telescope.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/tmux-nav.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/tmux-nav.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/tmux-nav.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/tokyonight.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/tokyonight.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/tokyonight.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/vimtex.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/vimtex.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/vimtex.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/plugins/which-key.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/plugins/which-key.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/plugins/which-key.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/shino/commands.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/shino/commands.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/shino/commands.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/shino/keymap.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/shino/keymap.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/shino/keymap.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/shino/README.md
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/shino/README.md
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/shino/README.md
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/snippets/all.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/snippets/all.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/snippets/all.lua
-    - url: https://github.com/hypatia-tile/nvim-config/blob/main/lua/snippets/c.lua
-      hash: null
+    - url: >-
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/snippets/c.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/snippets/c.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/snippets/lean.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/snippets/lean.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/snippets/lean.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/snippets/lua.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/snippets/lua.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/snippets/lua.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/snippets/nix.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/snippets/nix.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/snippets/nix.lua
-    - url: https://github.com/hypatia-tile/nvim-config/blob/main/lua/autocmds.lua
-      hash: null
+    - url: >-
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/autocmds.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/autocmds.lua
     - url: >-
-        https://github.com/hypatia-tile/nvim-config/blob/main/lua/vim-options.lua
-      hash: null
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lua/vim-options.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lua/vim-options.lua
-    - url: https://github.com/hypatia-tile/nvim-config/blob/main/init.lua
-      hash: null
+    - url: >-
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/init.lua
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: init.lua
-    - url: https://github.com/hypatia-tile/nvim-config/blob/main/lazyvim.json
-      hash: null
+    - url: >-
+        https://github.com/hypatia-tile/nvim-config/blob/81d3e13c1a786ded8c02ce42049c8f64a0bab295/lazyvim.json
+      hash: 81d3e13c1a786ded8c02ce42049c8f64a0bab295
       name: lazyvim.json
-  part: 前編
+  part: 後編
   other: null
