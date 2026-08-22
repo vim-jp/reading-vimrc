@@ -1,5 +1,5 @@
-- id: 737
-  date: 2026-08-22 23:00
+- id: 738
+  date: 2026-08-29 23:00
   author:
     name: happy663
     url: https://github.com/happy663
@@ -725,5 +725,5 @@
         https://github.com/happy663/dotfiles/blob/6af32dbea90236d621c52e7b6e67c10968fa8aaf/.stylua.toml
       hash: 6af32dbea90236d621c52e7b6e67c10968fa8aaf
       name: .stylua.toml
-  part: 中編
+  part: 後編
   other: null
