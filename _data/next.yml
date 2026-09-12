@@ -1,364 +1,258 @@
-- id: 740
-  date: 2026-09-12 23:00
+- id: 741
+  date: 2026-09-19 23:00
   author:
-    name: takeshiD
-    url: https://github.com/takeshiD
+    name: utubo
+    url: https://github.com/utubo
   vimrcs:
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/ftplugin/nix.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/ftplugin/nix.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/ftplugin/typescript.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/ftplugin/typescript.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/ftplugin/typescriptreact.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/ftplugin/typescriptreact.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/ftplugin/yaml.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/ftplugin/yaml.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/bacon_ls.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/bacon_ls.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/biome.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/biome.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/html.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/html.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/jsonls.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/jsonls.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/lua_ls.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/lua_ls.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/markdown_oxide.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/markdown_oxide.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/moonbit_lsp.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/moonbit_lsp.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/neocmake.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/neocmake.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/nixd.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/nixd.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/pylsp.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/pylsp.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/rust_analyzer.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/rust_analyzer.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/ts_ls.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/ts_ls.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/tsgo.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/tsgo.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/after/lsp/typua.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: after/lsp/typua.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/colors/bomb.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: colors/bomb.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/core/autocmd.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/core/autocmd.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/core/command.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/core/command.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/core/filetypes.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/core/filetypes.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/core/keymap.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/core/keymap.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/core/lazy.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/core/lazy.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/core/options.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/core/options.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/functions/color.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/functions/color.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/lsp/init.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/lsp/init.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/actions-preview.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/actions-preview.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/aerial.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/aerial.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/bimove.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/bimove.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/blink-cmp.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/blink-cmp.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/bufferline.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/bufferline.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/colorschemes.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/colorschemes.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/comment.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/comment.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/conform-nvim.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/conform-nvim.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/crates-nvim.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/crates-nvim.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/csvview.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/csvview.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/dial.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/dial.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/diffview.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/diffview.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/dropbar.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/dropbar.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/edgemotion.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/edgemotion.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/git-blame.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/git-blame.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/git-conflict.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/git-conflict.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/gitsigns.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/gitsigns.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/glance.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/glance.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/grub-far.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/grub-far.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/hapoon.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/hapoon.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/hover.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/hover.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/image-nvim.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/image-nvim.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/img-clip.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/img-clip.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/inc-rename.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/inc-rename.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/lazygit.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/lazygit.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/lualine.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/lualine.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/markdown-togglecheck.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/markdown-togglecheck.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/moonbit.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/moonbit.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/neo-tree.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/neo-tree.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/neogit.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/neogit.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/none-ls.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/none-ls.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-autopairs.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-autopairs.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-colorizer.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-colorizer.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-lspconfig.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-lspconfig.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-surround.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-surround.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-treesitter-context.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-treesitter-context.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-treesitter-playground.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-treesitter-playground.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-treesitter.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-treesitter.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-ts-autotag.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-ts-autotag.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-ufo.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-ufo.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/nvim-web-devicons.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/nvim-web-devicons.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/obsidian.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/obsidian.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/oct-nvim.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/oct-nvim.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/oil-nvim.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/oil-nvim.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/pomo.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/pomo.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/rainbow-delimiter.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/rainbow-delimiter.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/render-markdown.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/render-markdown.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/rustaceanvim.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/rustaceanvim.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/smart-open.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/smart-open.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/snacks.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/snacks.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/telescope.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/telescope.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/tiny-line-diagnostic.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/tiny-line-diagnostic.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/toggleterm.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/toggleterm.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/treewalker.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/treewalker.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/trouble.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/trouble.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/vim-table-mode.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/vim-table-mode.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/whick-key.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/whick-key.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/whyis.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/whyis.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/windows-nvim.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/windows-nvim.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/plugins/zk-nvim.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/plugins/zk-nvim.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/lua/pseudo-plugins/colorscheme-loader.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: lua/pseudo-plugins/colorscheme-loader.lua
-    - url: >-
-        https://github.com/takeshiD/dotfiles/blob/ea6e35b79fcb0cba198dbf51a292c8b663f009b4/config/nvim/init.lua
-      hash: ea6e35b79fcb0cba198dbf51a292c8b663f009b4
-      name: init.lua
-  part: 後編
+    - url: https://github.com/utubo/dotfiles/blob/master/.github/workflows/ci.yml
+      hash: null
+      name: .github/workflows/ci.yml
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/after/ftplugin/calendar.vim
+      hash: null
+      name: .vim/after/ftplugin/calendar.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/after/ftplugin/markdown.vim
+      hash: null
+      name: .vim/after/ftplugin/markdown.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/.vim/after/ftplugin/qf.vim
+      hash: null
+      name: .vim/after/ftplugin/qf.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/after/ftplugin/vim.vim
+      hash: null
+      name: .vim/after/ftplugin/vim.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/cmdmode.vim
+      hash: null
+      name: .vim/autoload/vimrc/cmdmode.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/diffinfo.vim
+      hash: null
+      name: .vim/autoload/vimrc/diffinfo.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/easymotion.vim
+      hash: null
+      name: .vim/autoload/vimrc/easymotion.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/ezpack.vim
+      hash: null
+      name: .vim/autoload/vimrc/ezpack.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/fern.vim
+      hash: null
+      name: .vim/autoload/vimrc/fern.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/gh.vim
+      hash: null
+      name: .vim/autoload/vimrc/gh.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/git.vim
+      hash: null
+      name: .vim/autoload/vimrc/git.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/lazyload.vim
+      hash: null
+      name: .vim/autoload/vimrc/lazyload.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/lexima.vim
+      hash: null
+      name: .vim/autoload/vimrc/lexima.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/lsp.vim
+      hash: null
+      name: .vim/autoload/vimrc/lsp.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/myutil.vim
+      hash: null
+      name: .vim/autoload/vimrc/myutil.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/recentlytabs.vim
+      hash: null
+      name: .vim/autoload/vimrc/recentlytabs.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/ruler.vim
+      hash: null
+      name: .vim/autoload/vimrc/ruler.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/sandwich.vim
+      hash: null
+      name: .vim/autoload/vimrc/sandwich.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/tabpanel.vim
+      hash: null
+      name: .vim/autoload/vimrc/tabpanel.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/terminal.vim
+      hash: null
+      name: .vim/autoload/vimrc/terminal.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/textobj.vim
+      hash: null
+      name: .vim/autoload/vimrc/textobj.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/vim9skk.vim
+      hash: null
+      name: .vim/autoload/vimrc/vim9skk.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/vim9skkp.vim
+      hash: null
+      name: .vim/autoload/vimrc/vim9skkp.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/.vim/autoload/vimrc/weather.vim
+      hash: null
+      name: .vim/autoload/vimrc/weather.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/.vim/scripts.vim
+      hash: null
+      name: .vim/scripts.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/.vsnip/html.json
+      hash: null
+      name: .vsnip/html.json
+    - url: https://github.com/utubo/dotfiles/blob/master/.vsnip/javascript.json
+      hash: null
+      name: .vsnip/javascript.json
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/after/ftplugin/calendar.src.vim
+      hash: null
+      name: src/.vim/after/ftplugin/calendar.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/after/ftplugin/markdown.src.vim
+      hash: null
+      name: src/.vim/after/ftplugin/markdown.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/after/ftplugin/qf.src.vim
+      hash: null
+      name: src/.vim/after/ftplugin/qf.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/after/ftplugin/vim.src.vim
+      hash: null
+      name: src/.vim/after/ftplugin/vim.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/bufline.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/bufline.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/ctrlp.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/ctrlp.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/echobuflist.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/echobuflist.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/echoyanktext.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/echoyanktext.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/fern.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/fern.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/mru.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/mru.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/recentlytabs.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/recentlytabs.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/tabline.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/tabline.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/disabled/vim9skk.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/disabled/vim9skk.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/cmdmode.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/cmdmode.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/diffinfo.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/diffinfo.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/easymotion.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/easymotion.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/ezpack.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/ezpack.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/gh.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/gh.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/git.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/git.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/lazyload.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/lazyload.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/lexima.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/lexima.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/lsp.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/lsp.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/myutil.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/myutil.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/ruler.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/ruler.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/sandwich.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/sandwich.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/tabpanel.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/tabpanel.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/terminal.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/terminal.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/textobj.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/textobj.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/vim9skkp.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/vim9skkp.src.vim
+    - url: >-
+        https://github.com/utubo/dotfiles/blob/master/src/.vim/autoload/vimrc/weather.src.vim
+      hash: null
+      name: src/.vim/autoload/vimrc/weather.src.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/src/.vim/scripts.src.vim
+      hash: null
+      name: src/.vim/scripts.src.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/src/.gvimrc.src.vim
+      hash: null
+      name: src/.gvimrc.src.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/src/.vimrc.disabled.vim
+      hash: null
+      name: src/.vimrc.disabled.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/src/.vimrc.src.vim
+      hash: null
+      name: src/.vimrc.src.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/test/vimrc.test.vim
+      hash: null
+      name: test/vimrc.test.vim
+    - url: https://github.com/utubo/dotfiles/blob/master/.gvimrc
+      hash: null
+      name: .gvimrc
+    - url: https://github.com/utubo/dotfiles/blob/master/.vimrc
+      hash: null
+      name: .vimrc
+    - url: https://github.com/utubo/dotfiles/blob/master/Dockerfile
+      hash: null
+      name: Dockerfile
+  part: 前編
   other: null
