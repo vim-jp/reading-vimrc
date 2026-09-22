@@ -10,9 +10,12 @@ exclude:
 encoding: utf-8
 
 ### Plugins
-gems:
+plugins:
   - jemoji
   - jekyll-seo-tag
+
+### Serving
+baseurl: /reading-vimrc
 
 ### Outputting
 # デフォルトと同じだが、万が一デフォルトが変わってしまうと記事のURLが変わってし
@@ -22,3 +25,8 @@ permalink: date
 ### Markdown Processors
 kramdown:
   input: GFM
+
+### Site metadata
+title: reading-vimrc
+description: vimrc読書会まとめ
+url: https://vim-jp.org
