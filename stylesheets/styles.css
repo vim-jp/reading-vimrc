@@ -576,6 +576,7 @@ a {
   color: #ffcc00;
   font-weight: 400;
   text-decoration: none;
+  overflow-wrap: anywhere;
 }
 a:hover {
   color: #ffeb9b;
