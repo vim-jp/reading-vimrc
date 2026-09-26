@@ -1,5 +1,5 @@
-- id: 742
-  date: 2026-09-26 23:00
+- id: 743
+  date: 2026-10-03 23:00
   author:
     name: utubo
     url: https://github.com/utubo
@@ -268,5 +268,5 @@
         https://github.com/utubo/dotfiles/blob/d8b2cd739ff4500f9bf7b82a133eb6fa88e4009a/Dockerfile
       hash: d8b2cd739ff4500f9bf7b82a133eb6fa88e4009a
       name: Dockerfile
-  part: 中編
+  part: 後編
   other: null
