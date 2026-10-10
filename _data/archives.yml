@@ -109096,3 +109096,407 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$2h-pkJK3yxceN6ecs0E5vR7JFpPha1qNStNpSPcQMmk
+- id: 745
+  date: 2026-10-17 23:00
+  author:
+    name: mao-yining
+    url: https://codeberg.org/mao-yining
+  vimrcs:
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/autoload/clangd.vim
+      hash: null
+      name: after/autoload/clangd.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/autoload/markdown.vim
+      hash: null
+      name: after/autoload/markdown.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/autoload/mdindent.vim
+      hash: null
+      name: after/autoload/mdindent.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/autoload/mdtable.vim
+      hash: null
+      name: after/autoload/mdtable.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/compiler/md2html.vim
+      hash: null
+      name: after/compiler/md2html.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/compiler/md2pdf.vim
+      hash: null
+      name: after/compiler/md2pdf.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/c.vim
+      hash: null
+      name: after/ftplugin/c.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/colortemplate.vim
+      hash: null
+      name: after/ftplugin/colortemplate.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/dbout.vim
+      hash: null
+      name: after/ftplugin/dbout.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/dir.vim
+      hash: null
+      name: after/ftplugin/dir.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/git.vim
+      hash: null
+      name: after/ftplugin/git.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/gitcommit.vim
+      hash: null
+      name: after/ftplugin/gitcommit.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/help.vim
+      hash: null
+      name: after/ftplugin/help.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/json.vim
+      hash: null
+      name: after/ftplugin/json.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/ledger.vim
+      hash: null
+      name: after/ftplugin/ledger.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/lilypond.vim
+      hash: null
+      name: after/ftplugin/lilypond.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/lua.vim
+      hash: null
+      name: after/ftplugin/lua.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/man.vim
+      hash: null
+      name: after/ftplugin/man.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/markdown.vim
+      hash: null
+      name: after/ftplugin/markdown.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/mmix.vim
+      hash: null
+      name: after/ftplugin/mmix.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/nroff.vim
+      hash: null
+      name: after/ftplugin/nroff.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/ps1.vim
+      hash: null
+      name: after/ftplugin/ps1.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/python.vim
+      hash: null
+      name: after/ftplugin/python.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/rust.vim
+      hash: null
+      name: after/ftplugin/rust.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/sql.vim
+      hash: null
+      name: after/ftplugin/sql.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/tex.vim
+      hash: null
+      name: after/ftplugin/tex.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/text.vim
+      hash: null
+      name: after/ftplugin/text.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/typst.vim
+      hash: null
+      name: after/ftplugin/typst.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/vim.vim
+      hash: null
+      name: after/ftplugin/vim.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/vim9asm.vim
+      hash: null
+      name: after/ftplugin/vim9asm.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/ftplugin/yaml.vim
+      hash: null
+      name: after/ftplugin/yaml.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/import/tex.vim
+      hash: null
+      name: after/import/tex.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/import/vim.vim
+      hash: null
+      name: after/import/vim.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/indent/lilypond.vim
+      hash: null
+      name: after/indent/lilypond.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/indent/markdown.vim
+      hash: null
+      name: after/indent/markdown.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/after/syntax/markdown.vim
+      hash: null
+      name: after/syntax/markdown.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/abbrev.vim
+      hash: null
+      name: autoload/abbrev.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/calendar.vim
+      hash: null
+      name: autoload/calendar.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/complete.vim
+      hash: null
+      name: autoload/complete.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/docs.vim
+      hash: null
+      name: autoload/docs.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/git.vim
+      hash: null
+      name: autoload/git.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/inline_colors.vim
+      hash: null
+      name: autoload/inline_colors.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/objdump.vim
+      hash: null
+      name: autoload/objdump.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/os.vim
+      hash: null
+      name: autoload/os.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/pack.vim
+      hash: null
+      name: autoload/pack.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/popup.vim
+      hash: null
+      name: autoload/popup.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/qc.vim
+      hash: null
+      name: autoload/qc.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/share.vim
+      hash: null
+      name: autoload/share.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/template.vim
+      hash: null
+      name: autoload/template.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/text.vim
+      hash: null
+      name: autoload/text.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/unicode.vim
+      hash: null
+      name: autoload/unicode.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/autoload/window.vim
+      hash: null
+      name: autoload/window.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/filetype.vim
+      hash: null
+      name: filetype.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/gvimrc
+      hash: null
+      name: gvimrc
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/import/surround.vim
+      hash: null
+      name: import/surround.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/opt/man/autoload/man.vim
+      hash: null
+      name: pack/local/opt/man/autoload/man.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/opt/man/ftplugin/man.vim
+      hash: null
+      name: pack/local/opt/man/ftplugin/man.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/opt/man/plugin/man.vim
+      hash: null
+      name: pack/local/opt/man/plugin/man.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/opt/man/syntax/man.vim
+      hash: null
+      name: pack/local/opt/man/syntax/man.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/bullet/autoload/bullet.vim
+      hash: null
+      name: pack/local/start/bullet/autoload/bullet.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/bullet/plugin/bullet.vim
+      hash: null
+      name: pack/local/start/bullet/plugin/bullet.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/curl/README.md
+      hash: null
+      name: pack/local/start/curl/README.md
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/curl/autoload/curl.vim
+      hash: null
+      name: pack/local/start/curl/autoload/curl.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/curl/ftdetect/curl.vim
+      hash: null
+      name: pack/local/start/curl/ftdetect/curl.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/curl/ftplugin/curl.vim
+      hash: null
+      name: pack/local/start/curl/ftplugin/curl.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/curl/plugin/curl.vim
+      hash: null
+      name: pack/local/start/curl/plugin/curl.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/curl/syntax/curl.vim
+      hash: null
+      name: pack/local/start/curl/syntax/curl.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/guifont-size/autoload/guifont_size.vim
+      hash: null
+      name: pack/local/start/guifont-size/autoload/guifont_size.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/guifont-size/plugin/guifont_size.vim
+      hash: null
+      name: pack/local/start/guifont-size/plugin/guifont_size.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/autoload/ledger.vim
+      hash: null
+      name: pack/local/start/ledger/autoload/ledger.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/autoload/ledger/align.vim
+      hash: null
+      name: pack/local/start/ledger/autoload/ledger/align.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/autoload/ledger/completion.vim
+      hash: null
+      name: pack/local/start/ledger/autoload/ledger/completion.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/autoload/ledger/fold.vim
+      hash: null
+      name: pack/local/start/ledger/autoload/ledger/fold.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/autoload/ledger/report.vim
+      hash: null
+      name: pack/local/start/ledger/autoload/ledger/report.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/autoload/ledger/transaction.vim
+      hash: null
+      name: pack/local/start/ledger/autoload/ledger/transaction.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/compiler/ledger.vim
+      hash: null
+      name: pack/local/start/ledger/compiler/ledger.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/ftplugin/ledger.vim
+      hash: null
+      name: pack/local/start/ledger/ftplugin/ledger.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/indent/ledger.vim
+      hash: null
+      name: pack/local/start/ledger/indent/ledger.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/ledger/syntax/ledger.vim
+      hash: null
+      name: pack/local/start/ledger/syntax/ledger.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/quickfix/autoload/qf.vim
+      hash: null
+      name: pack/local/start/quickfix/autoload/qf.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/quickfix/ftplugin/qf.vim
+      hash: null
+      name: pack/local/start/quickfix/ftplugin/qf.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/quickfix/plugin/qf.vim
+      hash: null
+      name: pack/local/start/quickfix/plugin/qf.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/local/start/quickfix/syntax/qf.vim
+      hash: null
+      name: pack/local/start/quickfix/syntax/qf.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/pack/packs
+      hash: null
+      name: pack/packs
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/abbreviations.vim
+      hash: null
+      name: plugin/abbreviations.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/cellwidths.vim
+      hash: null
+      name: plugin/cellwidths.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/clip.vim
+      hash: null
+      name: plugin/clip.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/cmdcomplete.vim
+      hash: null
+      name: plugin/cmdcomplete.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/colors.vim
+      hash: null
+      name: plugin/colors.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/commands.vim
+      hash: null
+      name: plugin/commands.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/debug.vim
+      hash: null
+      name: plugin/debug.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/fileops.vim
+      hash: null
+      name: plugin/fileops.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/find.vim
+      hash: null
+      name: plugin/find.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/grep.vim
+      hash: null
+      name: plugin/grep.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/hardcopy.vim
+      hash: null
+      name: plugin/hardcopy.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/ime.vim
+      hash: null
+      name: plugin/ime.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/largefile.vim
+      hash: null
+      name: plugin/largefile.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/lsp.vim
+      hash: null
+      name: plugin/lsp.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/mappings.vim
+      hash: null
+      name: plugin/mappings.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/marks.vim
+      hash: null
+      name: plugin/marks.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/math-preview.vim
+      hash: null
+      name: plugin/math-preview.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/opts.vim
+      hash: null
+      name: plugin/opts.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/prjroot.vim
+      hash: null
+      name: plugin/prjroot.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/recent.vim
+      hash: null
+      name: plugin/recent.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/sleuth.vim
+      hash: null
+      name: plugin/sleuth.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/status.vim
+      hash: null
+      name: plugin/status.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/terminal.vim
+      hash: null
+      name: plugin/terminal.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/tmux.vim
+      hash: null
+      name: plugin/tmux.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/plugin/ui.vim
+      hash: null
+      name: plugin/ui.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/spell/en.utf-8.add
+      hash: null
+      name: spell/en.utf-8.add
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/syntax/c.vim
+      hash: null
+      name: syntax/c.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/syntax/lilypond-words
+      hash: null
+      name: syntax/lilypond-words
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/syntax/lilypond-words.vim
+      hash: null
+      name: syntax/lilypond-words.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/syntax/lilypond.vim
+      hash: null
+      name: syntax/lilypond.vim
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/c/hello-world
+      hash: null
+      name: templates/c/hello-world
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/editorconfig/base
+      hash: null
+      name: templates/editorconfig/base
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/gitcommit/type
+      hash: null
+      name: templates/gitcommit/type
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/markdown/frontmatter
+      hash: null
+      name: templates/markdown/frontmatter
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/markdown/journal
+      hash: null
+      name: templates/markdown/journal
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/python/if-main
+      hash: null
+      name: templates/python/if-main
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/tex/code
+      hash: null
+      name: templates/tex/code
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/tex/ctexart
+      hash: null
+      name: templates/tex/ctexart
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/tex/table
+      hash: null
+      name: templates/tex/table
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/text
+      hash: null
+      name: templates/text
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/text-cn
+      hash: null
+      name: templates/text-cn
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/vim/augroup
+      hash: null
+      name: templates/vim/augroup
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/vim/didftplugin
+      hash: null
+      name: templates/vim/didftplugin
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/vim/didplugin
+      hash: null
+      name: templates/vim/didplugin
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/vim/header
+      hash: null
+      name: templates/vim/header
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/vim/undoftplugin
+      hash: null
+      name: templates/vim/undoftplugin
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/templates/vim/undoindent
+      hash: null
+      name: templates/vim/undoindent
+    - url: https://codeberg.org/mao-yining/dotfile_vim/raw/branch/main/vimrc
+      hash: null
+      name: vimrc
+  part: 前編
+  other: null
