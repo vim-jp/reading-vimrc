@@ -109904,3 +109904,543 @@
       name: vimrc
   part: 中編
   other: null
+- id: 746
+  date: 2026-10-24 23:00
+  author:
+    name: mao-yining
+    url: https://codeberg.org/mao-yining
+  vimrcs:
+    - name: after/autoload/clangd.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/autoload/clangd.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/autoload/clangd.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/autoload/markdown.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/autoload/markdown.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/autoload/markdown.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/autoload/mdindent.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/autoload/mdindent.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/autoload/mdindent.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/autoload/mdtable.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/autoload/mdtable.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/autoload/mdtable.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/compiler/md2html.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/compiler/md2html.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/compiler/md2html.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/compiler/md2pdf.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/compiler/md2pdf.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/compiler/md2pdf.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/c.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/c.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/c.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/colortemplate.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/colortemplate.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/colortemplate.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/dbout.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/dbout.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/dbout.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/dir.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/dir.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/dir.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/git.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/git.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/git.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/gitcommit.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/gitcommit.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/gitcommit.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/help.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/help.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/help.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/json.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/json.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/json.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/ledger.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/ledger.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/ledger.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/lilypond.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/lilypond.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/lilypond.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/lua.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/lua.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/lua.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/man.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/man.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/man.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/markdown.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/markdown.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/markdown.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/mmix.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/mmix.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/mmix.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/nroff.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/nroff.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/nroff.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/ps1.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/ps1.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/ps1.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/python.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/python.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/python.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/rust.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/rust.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/rust.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/sql.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/sql.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/sql.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/tex.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/tex.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/tex.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/text.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/text.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/text.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/typst.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/typst.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/typst.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/vim.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/vim.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/vim.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/vim9asm.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/vim9asm.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/vim9asm.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/ftplugin/yaml.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/yaml.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/ftplugin/yaml.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/import/tex.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/import/tex.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/import/tex.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/import/vim.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/import/vim.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/import/vim.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/indent/lilypond.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/indent/lilypond.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/indent/lilypond.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/indent/markdown.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/indent/markdown.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/indent/markdown.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: after/syntax/markdown.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/syntax/markdown.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/after/syntax/markdown.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/abbrev.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/abbrev.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/abbrev.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/calendar.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/calendar.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/calendar.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/complete.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/complete.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/complete.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/docs.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/docs.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/docs.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/git.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/git.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/git.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/inline_colors.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/inline_colors.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/inline_colors.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/objdump.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/objdump.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/objdump.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/os.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/os.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/os.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/pack.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/pack.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/pack.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/popup.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/popup.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/popup.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/qc.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/qc.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/qc.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/share.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/share.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/share.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/template.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/template.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/template.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/text.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/text.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/text.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/unicode.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/unicode.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/unicode.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: autoload/window.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/window.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/autoload/window.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: filetype.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/filetype.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/filetype.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: gvimrc
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/gvimrc
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/gvimrc
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: import/surround.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/import/surround.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/import/surround.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/opt/man/autoload/man.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/opt/man/autoload/man.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/opt/man/autoload/man.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/opt/man/ftplugin/man.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/opt/man/ftplugin/man.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/opt/man/ftplugin/man.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/opt/man/plugin/man.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/opt/man/plugin/man.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/opt/man/plugin/man.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/opt/man/syntax/man.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/opt/man/syntax/man.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/opt/man/syntax/man.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/bullet/autoload/bullet.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/bullet/autoload/bullet.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/bullet/autoload/bullet.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/bullet/plugin/bullet.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/bullet/plugin/bullet.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/bullet/plugin/bullet.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/curl/README.md
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/README.md
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/README.md
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/curl/autoload/curl.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/autoload/curl.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/autoload/curl.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/curl/ftdetect/curl.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/ftdetect/curl.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/ftdetect/curl.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/curl/ftplugin/curl.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/ftplugin/curl.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/ftplugin/curl.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/curl/plugin/curl.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/plugin/curl.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/plugin/curl.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/curl/syntax/curl.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/syntax/curl.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/curl/syntax/curl.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/guifont-size/autoload/guifont_size.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/guifont-size/autoload/guifont_size.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/guifont-size/autoload/guifont_size.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/guifont-size/plugin/guifont_size.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/guifont-size/plugin/guifont_size.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/guifont-size/plugin/guifont_size.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/autoload/ledger.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/autoload/ledger/align.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/align.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/align.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/autoload/ledger/completion.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/completion.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/completion.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/autoload/ledger/fold.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/fold.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/fold.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/autoload/ledger/report.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/report.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/report.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/autoload/ledger/transaction.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/transaction.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/autoload/ledger/transaction.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/compiler/ledger.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/compiler/ledger.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/compiler/ledger.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/ftplugin/ledger.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/ftplugin/ledger.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/ftplugin/ledger.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/indent/ledger.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/indent/ledger.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/indent/ledger.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/ledger/syntax/ledger.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/syntax/ledger.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/ledger/syntax/ledger.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/quickfix/autoload/qf.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/quickfix/autoload/qf.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/quickfix/autoload/qf.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/quickfix/ftplugin/qf.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/quickfix/ftplugin/qf.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/quickfix/ftplugin/qf.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/quickfix/plugin/qf.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/quickfix/plugin/qf.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/quickfix/plugin/qf.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/local/start/quickfix/syntax/qf.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/quickfix/syntax/qf.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/local/start/quickfix/syntax/qf.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: pack/packs
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/packs
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/pack/packs
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/abbreviations.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/abbreviations.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/abbreviations.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/cellwidths.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/cellwidths.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/cellwidths.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/clip.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/clip.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/clip.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/cmdcomplete.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/cmdcomplete.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/cmdcomplete.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/colors.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/colors.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/colors.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/commands.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/commands.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/commands.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/debug.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/debug.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/debug.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/fileops.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/fileops.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/fileops.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/find.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/find.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/find.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/grep.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/grep.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/grep.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/hardcopy.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/hardcopy.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/hardcopy.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/ime.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/ime.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/ime.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/largefile.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/largefile.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/largefile.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/lsp.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/lsp.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/lsp.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/mappings.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/mappings.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/mappings.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/marks.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/marks.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/marks.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/math-preview.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/math-preview.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/math-preview.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/opts.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/opts.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/opts.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/prjroot.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/prjroot.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/prjroot.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/recent.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/recent.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/recent.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/sleuth.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/sleuth.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/sleuth.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/status.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/status.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/status.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/terminal.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/terminal.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/terminal.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/tmux.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/tmux.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/tmux.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: plugin/ui.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/ui.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/plugin/ui.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: spell/en.utf-8.add
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/spell/en.utf-8.add
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/spell/en.utf-8.add
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: syntax/c.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/syntax/c.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/syntax/c.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: syntax/lilypond-words
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/syntax/lilypond-words
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/syntax/lilypond-words
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: syntax/lilypond-words.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/syntax/lilypond-words.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/syntax/lilypond-words.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: syntax/lilypond.vim
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/syntax/lilypond.vim
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/syntax/lilypond.vim
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/c/hello-world
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/c/hello-world
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/c/hello-world
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/editorconfig/base
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/editorconfig/base
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/editorconfig/base
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/gitcommit/type
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/gitcommit/type
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/gitcommit/type
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/markdown/frontmatter
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/markdown/frontmatter
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/markdown/frontmatter
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/markdown/journal
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/markdown/journal
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/markdown/journal
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/python/if-main
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/python/if-main
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/python/if-main
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/tex/code
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/tex/code
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/tex/code
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/tex/ctexart
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/tex/ctexart
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/tex/ctexart
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/tex/table
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/tex/table
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/tex/table
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/text
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/text
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/text
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/text-cn
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/text-cn
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/text-cn
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/vim/augroup
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/augroup
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/augroup
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/vim/didftplugin
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/didftplugin
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/didftplugin
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/vim/didplugin
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/didplugin
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/didplugin
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/vim/header
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/header
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/header
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/vim/undoftplugin
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/undoftplugin
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/undoftplugin
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: templates/vim/undoindent
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/undoindent
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/templates/vim/undoindent
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+    - name: vimrc
+      url: https://codeberg.org/mao-yining/dotfile_vim/src/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/vimrc
+      raw_url: https://codeberg.org/mao-yining/dotfile_vim/raw/commit/16b1415b3978631075f70d4cebf0f5dc61271aa9/vimrc
+      hash: 16b1415b3978631075f70d4cebf0f5dc61271aa9
+  part: 後編
+  other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$2ICnLd9lPknDTSr2fY3srGwtlNvtyTt4Gt4EvzGkKfo
