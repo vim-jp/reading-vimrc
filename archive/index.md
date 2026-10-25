@@ -40,7 +40,8 @@ title: 過去の開催 - vimrc読書会
     </td>
     <td>
     {% assign vimrc = archive.vimrcs[0] %}
-    <a href="{{ vimrc.url }}">{{ archive.author.name }}</a> さん
+    {% include vimrc_urls.html url=vimrc.url %}
+    <a href="{{ vimrc_page_url }}">{{ archive.author.name }}</a> さん
       {% if archive.part %} ({{ archive.part }}) {% endif %}
     <br>
     </td>
