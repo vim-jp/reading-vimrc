@@ -30,7 +30,8 @@ title: vimrc読書会
     </li>
       <ul>
         {% for vimrc in next.vimrcs %}
-           <li><a href="{{ vimrc.url }}">{{ vimrc.name }}</a></li>
+           {% include vimrc_urls.html url=vimrc.url %}
+           <li><a href="{{ vimrc_page_url }}">{{ vimrc.name }}</a></li>
         {% endfor %}
       </ul>
   </ul>
