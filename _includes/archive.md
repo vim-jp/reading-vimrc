@@ -29,9 +29,10 @@
 
 <ul>
 {% for vimrc in archive.vimrcs %}
-  <li><a href="{{ vimrc.url }}">{{ vimrc.name }}</a>
-      {% if vimrc.url contains 'github' %}
-      (<a href="{{ vimrc.url | remove_first:'blob/' | replace:'https://github.com','https://raw.github.com' }}">ダウンロード
+  {% include vimrc_urls.html url=vimrc.url %}
+  <li><a href="{{ vimrc_page_url }}">{{ vimrc.name }}</a>
+      {% if vimrc_download_url %}
+      (<a href="{{ vimrc_download_url }}">ダウンロード
       </a>)
       {% endif %}
   </li>
