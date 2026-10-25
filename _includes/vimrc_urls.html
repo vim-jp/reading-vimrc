@@ -2,7 +2,7 @@
 {%- assign vimrc_download_url = nil -%}
 {%- assign vimrc_url_parts = include.url | split: '/' -%}
 {%- assign vimrc_url_host = vimrc_url_parts[2] -%}
-{%- if vimrc_url_host == 'github.com' or vimrc_url_host == 'gist.github.com' -%}
+{%- if vimrc_url_host == 'github.com' -%}
   {%- assign vimrc_download_url = include.url | remove_first: 'blob/' | replace: 'https://github.com', 'https://raw.github.com' -%}
 {%- elsif vimrc_url_host == 'codeberg.org' -%}
   {%- if vimrc_url_parts[5] == 'raw' -%}
