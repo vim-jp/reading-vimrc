@@ -110444,3 +110444,31 @@
     - Omochice
     - thinca
   log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$2ICnLd9lPknDTSr2fY3srGwtlNvtyTt4Gt4EvzGkKfo
+- id: 747
+  date: 2026-10-31 23:00
+  author:
+    name: rbtnn
+    url: https://github.com/rbtnn
+  vimrcs:
+    - name: .vim/bk/autoload/vimdev.vim
+      url: https://github.com/rbtnn/vimrc/blob/d3ddfb573505ae7b571de4d0229328bb669891c3/.vim/bk/autoload/vimdev.vim
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/d3ddfb573505ae7b571de4d0229328bb669891c3/.vim/bk/autoload/vimdev.vim
+      hash: d3ddfb573505ae7b571de4d0229328bb669891c3
+    - name: .vim/bk/plugin/vimdev.vim
+      url: https://github.com/rbtnn/vimrc/blob/d3ddfb573505ae7b571de4d0229328bb669891c3/.vim/bk/plugin/vimdev.vim
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/d3ddfb573505ae7b571de4d0229328bb669891c3/.vim/bk/plugin/vimdev.vim
+      hash: d3ddfb573505ae7b571de4d0229328bb669891c3
+    - name: .vim/bk/vimrc.bk
+      url: https://github.com/rbtnn/vimrc/blob/d3ddfb573505ae7b571de4d0229328bb669891c3/.vim/bk/vimrc.bk
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/d3ddfb573505ae7b571de4d0229328bb669891c3/.vim/bk/vimrc.bk
+      hash: d3ddfb573505ae7b571de4d0229328bb669891c3
+    - name: .vimrc
+      url: https://github.com/rbtnn/vimrc/blob/d3ddfb573505ae7b571de4d0229328bb669891c3/.vimrc
+      raw_url: https://raw.githubusercontent.com/rbtnn/vimrc/d3ddfb573505ae7b571de4d0229328bb669891c3/.vimrc
+      hash: d3ddfb573505ae7b571de4d0229328bb669891c3
+  part: null
+  other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$RnheXpiLRLnOZq0fI6LZegplLv0CFBFF7BJrIpOcc1k
