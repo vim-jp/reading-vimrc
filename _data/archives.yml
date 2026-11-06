@@ -109500,6 +109500,10 @@
       name: vimrc
   part: 前編
   other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$WGeU_1DhYYvYyEdyQpWq11VIjtByNe8NLV5QlMKhQoc
 - id: 745
   date: 2026-10-17 23:00
   author:
@@ -109904,6 +109908,10 @@
       name: vimrc
   part: 中編
   other: null
+  members:
+    - Omochice
+    - thinca
+  log: https://matrix.to/#/#vim-jp_reading-vimrc:gitter.im/$vmOCy_p1ZMDZunfQwttXzfKL5FNN0BB9nNlfCPmF8XQ
 - id: 746
   date: 2026-10-24 23:00
   author:
