@@ -1,628 +1,636 @@
-- id: 748
-  date: 2026-11-07 23:00
+- id: 749
+  date: 2026-11-14 23:00
   author:
     name: kawarimidoll
     url: https://github.com/kawarimidoll
   vimrcs:
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/ftplugin/gitcommit.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/ftplugin/gitcommit.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/ftplugin/gitcommit.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/ftplugin/lua.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/ftplugin/lua.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/ftplugin/lua.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/actions_ls.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/actions_ls.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/actions_ls.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/copilot.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/copilot.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/copilot.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/denols.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/denols.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/denols.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/emmylua_ls.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/emmylua_ls.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/emmylua_ls.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/glsl_analyzer.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/glsl_analyzer.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/glsl_analyzer.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/lua_ls.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/lua_ls.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/lua_ls.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/oxlint.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/oxlint.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/oxlint.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/tsgo.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/tsgo.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/tsgo.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/typos_lsp.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/typos_lsp.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/typos_lsp.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/lsp/vtsls.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/lsp/vtsls.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/lsp/vtsls.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/queries/markdown/highlights.scm
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/queries/markdown/highlights.scm
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/queries/markdown/highlights.scm
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/after/queries/markdown/injections.scm
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/after/queries/markdown/injections.scm
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/after/queries/markdown/injections.scm
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/denops/kwrm/main.ts
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/denops/kwrm/main.ts
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/denops/kwrm/main.ts
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/denops/deno.jsonc
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/denops/deno.jsonc
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/denops/deno.jsonc
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/denops/deps.ts
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/denops/deps.ts
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/denops/deps.ts
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/async_terminal.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/async_terminal.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/async_terminal.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/base16_palettes.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/base16_palettes.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/base16_palettes.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/chowcho.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/chowcho.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/chowcho.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/cmp.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/cmp.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/cmp.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/coc-settings.json
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/coc-settings.json
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/coc-settings.json
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/commands.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/commands.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/commands.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/ddc.json
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/ddc.json
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/ddc.json
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/ddc.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/ddc.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/ddc.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/dein.toml
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/dein.toml
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/dein.toml
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/effort-init.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/effort-init.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/effort-init.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/fidget.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/fidget.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/fidget.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/fzf_lua.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/fzf_lua.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/fzf_lua.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/fzf_preview.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/fzf_preview.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/fzf_preview.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/gitsigns.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/gitsigns.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/gitsigns.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/hlslens.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/hlslens.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/hlslens.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/init.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/init.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/init.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/insx.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/insx.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/insx.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/jam.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/jam.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/jam.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/jetpack-prac.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/jetpack-prac.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/jetpack-prac.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/lazygit.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/lazygit.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/lazygit.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/lsp-cmp.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/lsp-cmp.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/lsp-cmp.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/lsp-coc.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/lsp-coc.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/lsp-coc.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/lsp-ddc.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/lsp-ddc.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/lsp-ddc.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/lsp.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/lsp.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/lsp.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/min-edit.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/min-edit.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/min-edit.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/min-lsp.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/min-lsp.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/min-lsp.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/min-skk-dein.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/min-skk-dein.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/min-skk-dein.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/min-skk.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/min-skk.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/min-skk.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/mini.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/mini.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/mini.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/minideps.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/minideps.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/minideps.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/mru_cache.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/mru_cache.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/mru_cache.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/neoterm.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/neoterm.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/neoterm.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/noice.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/noice.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/noice.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/none_ls.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/none_ls.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/none_ls.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/notify.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/notify.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/notify.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/null_ls_comps.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/null_ls_comps.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/null_ls_comps.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/override_neovim_completion.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/override_neovim_completion.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/override_neovim_completion.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/path.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/path.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/path.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/plugs.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/plugs.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/plugs.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/pounce.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/pounce.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/pounce.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/qfutils.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/qfutils.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/qfutils.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/reacher.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/reacher.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/reacher.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/scrollbar.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/scrollbar.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/scrollbar.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/searchx.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/searchx.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/searchx.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/silicon.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/silicon.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/silicon.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/skk_ddc_alt.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/skk_ddc_alt.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/skk_ddc_alt.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/skkeleton.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/skkeleton.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/skkeleton.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/telescope.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/telescope.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/telescope.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/termal.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/termal.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/termal.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/tint.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/tint.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/tint.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/treesitter.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/treesitter.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/treesitter.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/trouble.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/trouble.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/trouble.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/ui_input.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/ui_input.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/ui_input.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/utils.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/utils.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/utils.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/vsnip.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/vsnip.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/vsnip.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/deprecated/which-key.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/deprecated/which-key.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/deprecated/which-key.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/commands.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/commands.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/commands.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/eager_cabbrev.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/eager_cabbrev.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/eager_cabbrev.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/keymaps.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/keymaps.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/keymaps.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/lsp.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/lsp.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/lsp.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/one_last_key.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/one_last_key.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/one_last_key.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/operator_join.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/operator_join.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/operator_join.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/prefix_q.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/prefix_q.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/prefix_q.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/ui_input.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/ui_input.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/ui_input.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/mi/utils.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/mi/utils.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/mi/utils.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/lua/plugins/dial.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/lua/plugins/dial.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/lua/plugins/dial.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/node_servers/.gitignore
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/node_servers/.gitignore
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/node_servers/.gitignore
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/node_servers/package.json
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/node_servers/package.json
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/node_servers/package.json
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/.emmyrc.json
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/.emmyrc.json
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/.emmyrc.json
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.config/nvim/init.lua
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.config/nvim/init.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .config/nvim/init.lua
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/c.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/c.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/c.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/erlang.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/erlang.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/erlang.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/gitcommit.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/gitcommit.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/gitcommit.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/gleam.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/gleam.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/gleam.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/go.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/go.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/go.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/help.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/help.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/help.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/lua.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/lua.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/lua.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/man.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/man.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/man.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/markdown.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/markdown.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/markdown.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/qf.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/qf.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/qf.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/rust.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/rust.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/rust.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/tsv.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/tsv.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/tsv.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/after/ftplugin/vim.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/after/ftplugin/vim.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/after/ftplugin/vim.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/async.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/async.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/async.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/blank.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/blank.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/blank.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/budoux.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/budoux.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/budoux.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/buf.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/buf.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/buf.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/capture.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/capture.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/capture.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/chord.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/chord.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/chord.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/cmdline.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/cmdline.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/cmdline.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/cmp.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/cmp.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/cmp.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/comment.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/comment.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/comment.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/common.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/common.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/common.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/conflict.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/conflict.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/conflict.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/const.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/const.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/const.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/dial.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/dial.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/dial.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/fmt.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/fmt.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/fmt.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/ft.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/ft.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/ft.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/fuzzy_jump.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/fuzzy_jump.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/fuzzy_jump.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/fuzzy_search.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/fuzzy_search.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/fuzzy_search.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/fzf.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/fzf.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/fzf.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/gaming.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/gaming.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/gaming.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/git.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/git.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/git.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/highlight.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/highlight.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/highlight.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/hjkl.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/hjkl.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/hjkl.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/job.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/job.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/job.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/kensaku.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/kensaku.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/kensaku.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/magic.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/magic.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/magic.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/mark.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/mark.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/mark.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/mergetool.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/mergetool.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/mergetool.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/mru.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/mru.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/mru.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/neighbor.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/neighbor.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/neighbor.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/notify.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/notify.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/notify.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/open.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/open.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/open.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/operator.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/operator.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/operator.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/pair.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/pair.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/pair.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/path.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/path.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/path.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/qed.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/qed.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/qed.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/qf.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/qf.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/qf.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/register.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/register.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/register.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/searchprop.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/searchprop.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/searchprop.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/statusline.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/statusline.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/statusline.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/subs.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/subs.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/subs.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/substitutor.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/substitutor.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/substitutor.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/surround.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/surround.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/surround.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/textobject.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/textobject.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/textobject.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/tiny_segmenter.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/tiny_segmenter.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/tiny_segmenter.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/utils.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/utils.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/utils.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/virt_mark.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/virt_mark.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/virt_mark.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/autoload/mi/window.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/autoload/mi/window.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/autoload/mi/window.vim
-    - url: https://github.com/kawarimidoll/dotfiles/blob/master/.vim/modes/ic.vim
-      hash: null
+    - url: >-
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/modes/ic.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/modes/ic.vim
-    - url: https://github.com/kawarimidoll/dotfiles/blob/master/.vim/modes/ov.vim
-      hash: null
+    - url: >-
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/modes/ov.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/modes/ov.vim
-    - url: https://github.com/kawarimidoll/dotfiles/blob/master/.vim/modes/t.vim
-      hash: null
+    - url: >-
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/modes/t.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/modes/t.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/plugin/dummy.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/plugin/dummy.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/plugin/dummy.vim
     - url: >-
-        https://github.com/kawarimidoll/dotfiles/blob/master/.vim/syntax/gleam.vim
-      hash: null
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/syntax/gleam.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/syntax/gleam.vim
-    - url: https://github.com/kawarimidoll/dotfiles/blob/master/.vim/cheatsheet.md
-      hash: null
+    - url: >-
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/cheatsheet.md
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/cheatsheet.md
-    - url: https://github.com/kawarimidoll/dotfiles/blob/master/.vim/ready.vim
-      hash: null
+    - url: >-
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/ready.vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/ready.vim
-    - url: https://github.com/kawarimidoll/dotfiles/blob/master/.vim/utils.lua
-      hash: null
+    - url: >-
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/utils.lua
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/utils.lua
-    - url: https://github.com/kawarimidoll/dotfiles/blob/master/.vim/vimrc
-      hash: null
+    - url: >-
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/.vim/vimrc
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: .vim/vimrc
-    - url: https://github.com/kawarimidoll/dotfiles/blob/master/bin/vim
-      hash: null
+    - url: >-
+        https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/bin/vim
+      hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: bin/vim
-  part: 前編
+  part: 中編
   other: null
