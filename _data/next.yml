@@ -1,5 +1,5 @@
-- id: 749
-  date: 2026-11-14 23:00
+- id: 750
+  date: 2026-11-21 23:00
   author:
     name: kawarimidoll
     url: https://github.com/kawarimidoll
@@ -632,5 +632,5 @@
         https://github.com/kawarimidoll/dotfiles/blob/2717d76e8cb77886b8e97ae0a874b4efff3dade7/bin/vim
       hash: 2717d76e8cb77886b8e97ae0a874b4efff3dade7
       name: bin/vim
-  part: 中編
+  part: 後編
   other: null
